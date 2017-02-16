@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+    <uri resource="file:/Users/rca2t/Dropbox/Courses/SPAN/POPULVUH/GITREPO/layers/testing/doc3.xml" uri="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng"/>
+    <uri resource="file:/Users/rca2t/Dropbox/Courses/SPAN/POPULVUH/GITREPO/layers/testing/doc2.xml" uri="file:/Users/rca2t/Dropbox/Courses/SPAN/POPULVUH/GITREPO/tei/tei_lite.xsd"/>
+    <uri resource="file:/Users/rca2t/Dropbox/Courses/SPAN/POPULVUH/GITREPO/layers/testing/doc1.xml" typeId="RNG" uri="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng"/>
+    <include rules="file:/Users/rca2t/Library/jEdit/plugins/xml.XmlPlugin/schemas.xml" />
+    <include rules="jeditresource:/XML.jar!/xml/dtds/schemas.xml" />
+    <include rules="jeditresource:/XML.jar!/xml/dtds/schemas.xml" />
+</locatingRules>
