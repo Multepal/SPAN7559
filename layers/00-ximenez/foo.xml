@@ -1,4 +1,3 @@
-xom-folio-16-side-1.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
@@ -7,7 +6,7 @@ xom-folio-16-side-1.xml
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Test File</title>
             </titleStmt>
             <publicationStmt>
                 <p>Publication information</p>
@@ -19,11 +18,11 @@ xom-folio-16-side-1.xml
     </teiHeader>
     <text>
         <body>
-            <div type="folio" n="">
-                <div type="side" n="">
+            <div type="folio" n="100">
+                <div type="side" n="1">
                     <div type="col" n="1" xml:lang="quc">
                     </div>
-                    <div type="col" n="2" xml:lang="spn">
+                    <div type="col" n="2" xml:lang="spa">
                     </div>
                 </div>
             </div>

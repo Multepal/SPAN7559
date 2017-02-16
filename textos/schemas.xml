@@ -1,0 +1,3 @@
+<?xml version="1.0" ?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+<uri resource="file:/C:/Users/Rachel%20Gardella/Documents/GitHub/SPAN7559/textos/osu-transcription-flat.txt" typeId="RNG"/><include rules="file:/C:/Users/Rachel%20Gardella/AppData/Roaming/jEdit/plugins/xml.XmlPlugin/schemas.xml" /><include rules="jeditresource:/XML.jar!/xml/dtds/schemas.xml" /></locatingRules>

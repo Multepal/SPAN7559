@@ -18,8 +18,8 @@
     </teiHeader>
     <text>
         <body>
-            <div type="folio" n="">
-                <div type="side" n="">
+            <div type="folio" n="16">
+                <div type="side" n="1">
                     <div type="col" n="1" xml:lang="quc">
                     </div>
                     <div type="col" n="2" xml:lang="spa">
