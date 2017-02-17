@@ -1,50 +1,40 @@
-#! /usr/bin/env python3
+#! /users/rca2t/anaconda/bin/python3
 
 '''
-This file generates "stubs" of all the folio pages associated with the Ximenez manuscript. 
-It should only be run once in a directory, or it will blow away the files.
+This file generates "stubs" of all the pages of each of the editions associated
+with our project. Note that running it will overwrite the files, so it's best
+not to run this in a directory with files that have been edited.s
 '''
 
 from jinja2 import Template
 
-folios = range(1,57)
-sides = (1,2)
-template = '''<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Ximénez, Folio {{fn}}, Side {{sn}}</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>Publication information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="folio" n="{{fn}}">
-                <div type="side" n="{{sn}}">
-                    <div type="col" n="1" xml:lang="quc">
-                    </div>
-                    <div type="col" n="2" xml:lang="spa">
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
-</TEI>'''
+def generate_xom_pages():
+    folios = range(1,57)
+    sides = (1,2)
+    t = Template(open('templates/xom-page-template.xml','r').read())
+    xincludes = []
+    for f in folios:
+        if int(f) < 10: f = '0{}'.format(f)
+        for s in sides:
+            page_id = "xom-f{}-s{}".format(f,s)
+            fname = 'xom-folio-{}-side-{}.xml'.format(f,s)
+            xincludes.append('<xi:include href="{}" parse="xml" xpointer="{}" />'.format(fname,page_id))
+            out = open(fname,'w')
+            out.write(t.render(fn=f,sn=s,page_id=page_id))
+            out.close()
+    
+    t2 = Template(open('templates/xom-all-template.xml').read())
+    out = open('xom-all.xml','w')
+    xinclude_frag = '\n'.join(xincludes)
+    out.write(t2.render(xincludes=xinclude_frag))
+    out.close()
+        
+def generate_clp_pages():
+    pass
 
-t = Template(template)
+def generate_rst_pages():
+    pass
 
-for f in folios:
-    if int(f) < 10: f = '0{}'.format(f)
-    for s in sides:
-        fname = 'xom-folio-{}-page-{}.xml'.format(f,s)
-        out = open(fname,'w')
-        out.write(t.render(fn=f,sn=s))
-        out.close()
+if __name__ == '__main__':
+    generate_xom_pages()
+    print("DONE")
