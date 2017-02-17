@@ -1,5 +1,7 @@
 # Guidelines for Encoding the Popol Vuh
 
+> NOTE: This is a work in progress. 
+
 # Layers of Markup
 
 - Descriptive
@@ -20,10 +22,10 @@
 
 | Element | Tagname | Values | xml:id     | n          |
 |:--------|:--------|:-------|:-----------|:-----------|
-| MS      | `div0`  | xom    | xom        |            |
-| folio   | `div1`  | 01-56  | xom-fXX    | XX         |
-| side    | `div2`  | r, v   | xom-fXXS   | XX.f.S     |
-| col     | `div3`  | l,r    | xom-fXXSC  | XX.f.S.C   |
+| MS      | `div type='ms-vol'`   | xom    | xom        |            |
+| folio   | `div type='folio'`  | 01-56  | xom-fXX    | XX         |
+| side    | `div type='side'`  | r, v   | xom-fXXS   | XX.f.S     |
+| col     | `div type='col'`  | l,r    | xom-fXXSC  | XX.f.S.C   |
 | line    | `l`     | 1-n    | xom-fXXSCL | XX.f.S.C.L |
 
 ### Sources
