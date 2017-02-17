@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">14</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 14, Side 1. 
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>YOUR NAME GOES HERE</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="14.1" xml:id="xom-f14-s1">
+                <div type="col" n="14.1.1" xml:lang="quc">
+                <!-- K'ICHE' LINES GO HERE -->
+                </div>
+                <div type="col" n="14.1.2" xml:lang="spa">
+                <!-- SPANISH LINES GO HERE -->
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
