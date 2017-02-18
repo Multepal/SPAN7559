@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,11 +40,56 @@
         <body>
             <div type="page" n="05.2" xml:id="xom-f05-s2">
                 <div type="col" n="05.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                    <l n="1">querah oc pa hul xa chiyuch</l>
+                    <l n="2">hul chi qui vach; quehe cut</l>
+                    <l n="3">vcayohic vinac tzac vinac</l>
+                    <l n="4">bit, etzixel, e tzalatzoxel chi</l>
+                    <l n="5">vinac <num>820</num>xmayxic, xcutuxic</l>
+                    <l n="6">quichi qui vach conohel, xqha</l>
+                    <l n="7">cut are retal ri qoy qo pa</l>
+                    <l n="8">quechelah vacamic, are</l>
+                    <l n="9">xqohe vi retal rumal xache</l>
+                    <l n="10">quitiohil xcohic <num>830</num>rumal ah-</l>
+                    <l n="11">tzac ahbit, are curi qoy que-</l>
+                    <l n="12">heri vinac chivachinic retal</l>
+                    <l n="13">hule vinac tzac, vinac bit</l>
+                    <l n="14">xa poy, xa pu ahamche.</l>
+                    <l n="15" rend="indent">Are cut xa hubic zac na</l>
+                    <l n="16">tanoh vvachvleu mahabi</l>
+                    <l n="17">quih <num>840</num>hun cut cunimarizah</l>
+                    <l n="18">rib, vvcub caquix vbi, qo</l>
+                    <l n="19">nabe cah vleu, xa ca moy-</l>
+                    <l n="20">mot v vach quih ic caqha</l>
+                    <l n="21">curi: xaui xere vzaquetal</l>
+                    <l n="22">vinac rÿ, xbutic queheri</l>
+                    <l n="23">naual vinac vqoheic <num>850</num>in</l>
+                    <l n="24">nim quiqohe chic chuvi vi-</l>
+                    <l n="25">nac tzac vinac bit in vquih</l>
+                    <l n="26">in pu vzac in naipu riquil</l>
+                    <l n="27">ta chuxoc, nim nu zaquil in</l>
+                    <l n="28">binibal, <num>860</num>in pu chacabal ru-</l>
+                    <l n="29">mal vinac. rumal puvac</l>
+                    <l n="30">vbac nuvach xa catilto-</l>
+                    <l n="31">tic chi yamanic raxa cuval</l>
+                    <l n="32">naypu ve raxcauacoh chi</l>
+                    <l n="33">abah queheri v va cah are</l>
+                    <l n="34">curi nu tzam zachuluhuh chi-</l>
+                    <l n="35">nah queheri ic <num>870</num>puvac cut</l>
+                    <l n="36">nu calibal cazac paque v-</l>
+                    <l n="37">vach vleu ta quinel vloc</l>
+                    <l n="38">chuvach nu calibal quehe</l>
+                    <l n="39">cut in quih vi in pu ic ru-</l>
+                    <l n="40">mal zaquil al zaquil qahol</l>
+                    <l n="41">ta chuxoc rumal chinah <num>880</num>copon</l>
+                    <l n="42">vi nu vach: qhari vucub ca-</l>
+                    <l n="43">quix macu quitzih are ta quih,</l>
+                    <l n="44">ri, vcub caquix xere cunima-</l>
+                    <l n="45">rizah rib ri v xic v puvac</l>
+                    <l n="46">xere cut tocol vi v vach ri</l>
+                    <l n="47">chicube vi mana ronohel ta</l>
                 </div>
                 <div type="col" n="05.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+                <!-- SPANISH LINES GO HERE --></div>
             </div>
         </body>
     </text>

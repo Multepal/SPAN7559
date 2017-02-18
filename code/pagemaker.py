@@ -17,14 +17,14 @@ def generate_xom_pages():
         if int(f) < 10: f = '0{}'.format(f)
         for s in sides:
             page_id = "xom-f{}-s{}".format(f,s)
-            fname = 'xom-folio-{}-side-{}.xml'.format(f,s)
+            fname = 'tmp/xom-folio-{}-side-{}.xml'.format(f,s)
             xincludes.append('<xi:include href="{}" parse="xml" xpointer="{}" />'.format(fname,page_id))
             out = open(fname,'w')
             out.write(t.render(fn=f,sn=s,page_id=page_id))
             out.close()
     
     t2 = Template(open('templates/xom-all-template.xml').read())
-    out = open('xom-all.xml','w')
+    out = open('tmp/xom-all.xml','w')
     xinclude_frag = '\n'.join(xincludes)
     out.write(t2.render(xincludes=xinclude_frag))
     out.close()
