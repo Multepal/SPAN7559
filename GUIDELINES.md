@@ -31,6 +31,12 @@
 ### Sources
 
 ### Special Considerations
+- Use of special characters
+    - Latin Capital letter TZ Ꜩ
+    - Latin Capital Letter Open E Ɛ
+- Numbers in Christenson
+    - Where do the come from? 
+    - What do they mean?
 
 ## CLP
 
