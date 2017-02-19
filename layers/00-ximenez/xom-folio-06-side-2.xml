@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>R. C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,7 +40,7 @@
         <body>
             <div type="page" n="06.2" xml:id="xom-f06-s2">
                 <div type="col" n="06.2.1" xml:lang="quc">
-<l n="1">naquiric 960rumal ri zipacna</l>
+<l n="1">naquiric <num>960</num>rumal ri zipacna</l>
 <l n="2">are ri chicuri cabracan chi-</l>
 <l n="3">zilab huiub rumal chine-</l>
 <l n="4">bouic chuti huiub, nima</l>
@@ -48,7 +48,7 @@
 <l n="6">nimarizabal quib xquiba-</l>
 <l n="7">no vqahol vvcub caquix</l>
 <l n="8">ixva, in quih xqha vucub</l>
-<l n="9">caquix 970inva, in banol vleu</l>
+<l n="9">caquix <num>970</num>inva, in banol vleu</l>
 <l n="10">xqha ri zipacna, in chicut</l>
 <l n="11">quiyou cah chinvlih rono-</l>
 <l n="12">hel vleu xqhari cabracan</l>
@@ -56,7 +56,7 @@
 <l n="14">xaui chiri xquicam vi qui-</l>
 <l n="15">nimal chirih qui cahau are</l>
 <l n="16">cut itzel xquil vi qaholab,</l>
-<l n="17">980maha chibantahoc canabe</l>
+<l n="17"><num>980</num>maha chibantahoc canabe</l>
 <l n="18">chuch canabe cahau quehe</l>
 <l n="19">cut xnohix vi qui camic qui</l>
 <l n="20">zachic cumal qaholab.</l>
@@ -65,13 +65,13 @@
 <l n="23">xchicabÿh qui chacatahic</l>
 <l n="24">chi qui huhunal ri nimari-</l>
 <l n="25">zai rib are ri vvcub ca-</l>
-<l n="26">quix 990hun nima che ri ta-</l>
+<l n="26">quix <num>990</num>hun nima che ri ta-</l>
 <l n="27">pal are cu recha ri vvcub</l>
 <l n="28">caquix are chulo ri v vach</l>
 <l n="29">tapal chacan chui che huta-</l>
 <l n="30">quih xilo macut rechabal</l>
 <l n="31">cumal ri hun ahpu, xbalan</l>
-<l n="32">que, quicacalen chi cut 1000chu-</l>
+<l n="32">que, quicacalen chi cut <num>1000</num>chu-</l>
 <l n="33">xe che ri vvcub ca quix e</l>
 <l n="34">matzamoh vlo ri caib qaho-</l>
 <l n="35">lab pa xac che ta xopon</l>
@@ -80,13 +80,13 @@
 <l n="38">pal cate cut ta xubaxic</l>
 <l n="39">cumal ri hun hunahpu ta</l>
 <l n="40">cal vbac vub chucaεate</l>
-<l n="41">1010churacuh vchi ta xpe chui</l>
+<l n="41"><num>1010</num>churacuh vchi ta xpe chui</l>
 <l n="42">che tacal chvach vleu chi-</l>
 <l n="43">malmat cut ri hun hunah-</l>
 <l n="44">pu anim xbec quitzih vi x-</l>
 <l n="45">be vqhapa, cate cut ta x-</l>
 <l n="46">cupix vla vεab ri hun hu</l>
-<l n="47">nahpu rumal 1020ri vvcub ca</l>
+<l n="47">nahpu rumal <num>1020</num>ri vvcub ca</l>
 <note>1 Stricken passages refer to sections crossed out in the Ximénez manuscript.</note>
                 </div>
                 <div type="col" n="06.2.2" xml:lang="spa">
