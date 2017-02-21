@@ -34,6 +34,8 @@
     - `textos/osu-transcription-flat.txt`
 
 ### Special Considerations
+- Indented lines
+    - Set the `rend` attribute to `indent` in the `l` element 
 - Use of special characters
     - The original text uses characters that match these:
         - Latin Capital letter TZ: Ꜩ
