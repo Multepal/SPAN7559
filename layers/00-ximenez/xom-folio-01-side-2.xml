@@ -41,14 +41,13 @@
             <div type="page" n="01.2" xml:id="xom-f01-s2">
                 <div type="col" n="01.2.1" xml:lang="quc">
                 <l n="1">ato qol vi cah vleu cho palo</l>
-                <l n="2"></l> <!Blank lines are intended to diplomatically transcribe,
-                but will this be problematic for mapping correspondences between columns>
+                <l n="2"> <!-- BLANK LINE IS IN THE ORIGINAL --></l>
 				<l n="3" align="center">ARE V TZIHOXIC VAE</l> <!TZ>
 				<l n="4" align="center">Cacatzinin oc, caca chamam oc</l>
-				<l n="5" align="center">catzinonic cacazilanic, caca</l> <!tz character>
+				<l n="5" align="center">catzinonic cacazilanic, caca</l> <!-- TZ CHARACTER -->
 				<l n="6" align="center">lolinic, catolona puch v</l>
 				<l n="7" align="center">pa cah.</l>
-				<l n="8" rend="indent">Vae cute nabe tzih nabe vch-</l> <!tz>
+				<l n="8" rend="indent">Vae cute nabe tzih nabe vch-</l> <!-- TZ CHARACTER -->
 				<l n="9">an. mahabi oε hun vinac, hun</l>
 				<l n="10">chicop, tziquin, car, tap, che</l>
 				<l n="11">abah, hul, zivan, quim, qui-</l>
@@ -64,8 +63,8 @@
 				<l n="21">vtuquel remanic, xma qo vi na</l>
 				<l n="22">quilalo qolic; xa cachamanic</l>
 				<l n="23">catzininic chi queεum, chi aεab,</l>
-				<l n="24">xa vtuquel ri tzacol, bitol, te-</l> <!tz>
-				<l n="25">peu, qucumatz e alom, e qaho-</l> <!tz>
+				<l n="24">xa vtuquel ri tzacol, bitol, te-</l> <!-- TZ CHARACTER -->
+				<l n="25">peu, qucumatz e alom, e qaho-</l> <!-- TZ CHARACTER -->
 				<l n="26">lom qo pa ha zactetoh e qovi</l>
 				<l n="27">e mucutal pa cuc, pa raxon</l>
 				<l n="28">are vbinaam viri qucumatz</l>
@@ -81,7 +80,7 @@
 				<l n="38">qha cut, ta xenaohinic, ta xe</l>
 				<l n="39">bizonic, xerico quib, xquicuch</l>
 				<l n="40">qui tzih, qui naoh, ta xcalah</l>
-				<l n="41">ta xquiquxlaah quib xe vi zac ta</l> <!SUPERSCRIPT>
+				<l n="41">ta xquiquxlaah quib xe vi zac ta</l> <!-- SUPERSCRIPT -->
 				<l n="42">xcalah puch vinac, ta xqui-</l>
 				<l n="43">naohih v tzuquic v vinaqui-</l>
 				<l n="44">ric che, caam, v tzucuquic pu-</l>
@@ -105,15 +104,15 @@
                 <l n="13">solo estaba el mar represado, y todo lo de el</l>
                 <l n="14">cielo; aun no avía cosa alguna junta, ní</l>
                 <l n="15">sonaba nada, ní cosa alguna se meneaba, ní</l>
-                <l n="16">cosa q’hízíera, mal. í cosa q’hízíera, cotz. esto-</l> <!is mal underlined here>
+                <l n="16">cosa q’hízíera, mal. í cosa q’hízíera, cotz. esto-</l> <!-- IS MAL UNDERLINED HERE -->
                 <l n="17">es ruído, en el cielo. ní avía cosa q’ estuví-</l>
                 <l n="18">ese, ní q’estuviese parada empie; solo el</l>
                 <l n="19">agua represada, solo la mar sosegada, so</l>
                 <l n="20">lo ella represada, nícosa alguna avía q’es-</l>
                 <l n="21">tuviese; solo estaba en sílencio, y sosiego, en la</l>
                 <l n="22">obscuridad, y la noche; solo estaba el críador</l>
-                <l n="23">y formador, Sor. culebra fuerte, las madres, y</l> <!SUPERSCRIPT>
-                <l n="24">Pes. estan en el agua, en una claridad abierta</l> <!SUPERSCRIPT>
+                <l n="23">y formador, Sor. culebra fuerte, las madres, y</l> <!-- SUPERSCRIPT -->
+                <l n="24">Pes. estan en el agua, en una claridad abierta</l> <!-- SUPERSCRIPT -->
                 <l n="25">y estaban cubiertos en plumas verdes, por</l>
                 <l n="26">eso se llama qucumatz grandes sabíos, y</l>
                 <l n="27">de grandes entendimientos su ser. y así por-</l>
@@ -121,13 +120,13 @@
                 <l n="29">de el zielo, este es su nombre q’se le dize</l>
                 <l n="30">a aquel ídolo.</l>
                 <l n="31" rend="indent">Y entonzes vino aquí su palabra, víno</l>
-                <l n="32">con los Ses. tepeu, qucumatz aquí en obs-</l> <!SUPERSCRIPT>
+                <l n="32">con los Ses. tepeu, qucumatz aquí en obs-</l> <!-- SUPERSCRIPT -->
                 <l n="33">curidad, en la noche, y abló con tepeu</l>
-                <l n="34">qucumatz. y dixeron, qo consultaron, y</l><!SUPERSCRIPT>
-                <l n="35">qo pensaron, se juntaron, hízíeron con-</l><!SUPERSCRIPT>
-                <l n="36">sejo, qo se declararon, y pensaron vnos</l><!SUPERSCRIPT>
+                <l n="34">qucumatz. y dixeron, qo consultaron, y</l><!-- SUPERSCRIPT -->
+                <l n="35">qo pensaron, se juntaron, hízíeron con-</l><!-- SUPERSCRIPT -->
+                <l n="36">sejo, qo se declararon, y pensaron vnos</l><!-- SUPERSCRIPT -->
                 <l n="37">a otros. y en entonzes parezíeron las críatu-</l>
-                <l n="38">ras, qo consultaron la hechura, y crea</l><!SUPERSCRIPT>
+                <l n="38">ras, qo consultaron la hechura, y crea</l><!-- SUPERSCRIPT -->
                 <l n="39">zíon, de los palos, mecates, y la hechura</l>
                 <l n="40">de la vida, y de la creazíon, en la obscu</l>
                 <l n="41">ridad, y tinieblas, por el corazon de el</l>
@@ -137,7 +136,7 @@
                 <l n="45">prio q’dize: rayo de vna píerna.) el</l>
                 <l n="46">Segundo: chípa caculha. (nombre pro-</l>
                 <l n="47">prio q’dize el mas pequeño de los rayos)</l>
-                <!uneven number of lines: how to represent correspondences>
+                <!-- UNEVEN NUMBER OF LINES HOW TO REPRESENT CORRESPONDENCES -->
                 </div>
             </div>
         </body>
