@@ -41,114 +41,114 @@
             <div type="page" n="16.1" xml:id="xom-f16-s1">
                 <div type="col" n="16.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
-                    <l n="1" rend="indent">bac pucab xaretal mi xnuya cha - </l>
-                    <l n="2" rend="indent">ue ri nu chub nu caxah. are ri nu</l>
-                    <l n="3" rend="indent">holom mahabi cachocon chivi xa</l>
-                    <l n="4" rend="indent">bac mahabi chi v chac. xavi que - </l>
-                    <l n="5" rend="indent">he vholom ve qui nimahaU xa – </l>
-                    <l n="6" rend="indent">vtiohil vtz vi vvach. are cut ta</l>
-                    <l n="7" rend="indent">chicamic chuxibih chirib vinac</l>
-                    <l n="8" rend="indent">rumal vbaquil. quehe cut xa</l>
-                    <l n="9" rend="indent">vqahol quehe ri vchub vcaxah</l>
-                    <l n="10" rend="indent">vqoheic ve vqahol ahau ve puch</l>
-                    <l n="11" rend="indent">vqahol naol, ahuchan xma chi – </l>
-                    <l n="12" rend="indent">zach vi chibec chitzacatahic ma – </l>
-                    <l n="13" rend="indent">vi chupel mapu maixel vvach</l>
-                    <l n="14" rend="indent">ahau achih naol, ahvqhan xa</l>
-                    <l n="15" rend="indent">xichicanahic vmial vqahol</l>
-                    <l n="16" rend="indent">ta chuxoc. quehe mi xnuban</l>
-                    <l n="17" rend="indent">chave. catacan cut chila chu – </l>
-                    <l n="18" rend="indent">vach vleu mavi cacamic catoc</l>
-                    <l n="19" rend="indent">patzih ta chuxoc xqhari vho – </l>
-                    <l n="20" rend="indent">lom hun hunahpu vvcub hun</l>
-                    <l n="21" rend="indent">ahpu. xavi qui naoh taxquiba – </l>
-                    <l n="22" rend="indent">no are vtzih huracan chipica – </l>
-                    <l n="23" rend="indent">culha, raxa caculha chiquech.</l>
-                    <l n="24" rend="indent">quehe cu vtzalihic chic capoh</l>
-                    <l n="25" rend="indent">chi rochoch quia pixab xbÿx</l>
-                    <l n="26" rend="indent">chirech. huzu cu xvinaquir ral</l>
-                    <l n="27" rend="indent">chupam rumal ri xachub. are</l>
-                    <l n="28" rend="indent">cut quivinaquiric hun ahpu</l>
-                    <l n="29" rend="indent">xbalanque ta xopon cut chi ro – </l>
-                    <l n="30" rend="indent">choch ri capoh xzacat cut va – </l>
-                    <l n="31" rend="indent">caquib ic ta xnauachil rumal</l>
-                    <l n="32" rend="indent">vcahau ri cuchumaquic vbi v</l>
-                    <l n="33" rend="indent">cahau</l>
-                     <!-- Ask my group about this: how do we want to show additional indentations? -->
-                    <l n="34" rend="indent"><p>Cate puch vnatahic capoh ru – </p></l>
-                    <l n="35" rend="indent">mal vcahau ta xil ri ral cochic</l>
-                    <l n="36" rend="indent">ta xquicuch cut qui naoh cono – </l>
-                    <l n="37" rend="indent">hel ahauab hun came vvcub</l>
-                    <l n="38" rend="indent">came ruc ri cuchumaquic are</l>
-                    <l n="39" rend="indent">ri numeal qochi ral ixahauab</l>
-                    <l n="40" rend="indent">xa vhoxbal xqha curi cuchuma</l>
-                    <l n="41" rend="indent">quic ta xoponic cuq ahauab vtz – </l>
-                    <l n="42" rend="indent">bala chacoto vchi ri tama cubÿh</l>
-                    <l n="43" rend="indent">chipuz cut chinaht chibe puzu vi</l>
-                    <l n="44" rend="indent">vtzbala alac ahauab xqha cut. ca</l>
-                    <l n="45" rend="indent">te cut xutzonoh chirech vmeal a</l>
-                    <l n="46" rend="indent">pa ahchoce ri aval co chapam</l>
-                    <l n="47" rend="indent">at nu meal? xqha cut mahabi</l>
+                    <l n="1">bac pucab xaretal mi xnuya cha - </l>
+                    <l n="2">ue ri nu chub nu caxah. are ri nu</l>
+                    <l n="3">holom mahabi cachocon chivi xa</l>
+                    <l n="4">bac mahabi chi v chac. xavi que - </l>
+                    <l n="5">he vholom ve qui nimahaU xa – </l>
+                    <l n="6">vtiohil vtz vi vvach. are cut ta</l>
+                    <l n="7">chicamic chuxibih chirib vinac</l>
+                    <l n="8">rumal vbaquil. quehe cut xa</l>
+                    <l n="9">vqahol quehe ri vchub vcaxah</l>
+                    <l n="10">vqoheic ve vqahol ahau ve puch</l>
+                    <l n="11">vqahol naol, ahuchan xma chi – </l>
+                    <l n="12">zach vi chibec chitzacatahic ma – </l>
+                    <l n="13">vi chupel mapu maixel vvach</l>
+                    <l n="14">ahau achih naol, ahvqhan xa</l>
+                    <l n="15">xichicanahic vmial vqahol</l>
+                    <l n="16">ta chuxoc. quehe mi xnuban</l>
+                    <l n="17">chave. catacan cut chila chu – </l>
+                    <l n="18">vach vleu mavi cacamic catoc</l>
+                    <l n="19">patzih ta chuxoc xqhari vho – </l>
+                    <l n="20">lom hun hunahpu vvcub hun</l>
+                    <l n="21">ahpu. xavi qui naoh taxquiba – </l>
+                    <l n="22">no are vtzih huracan chipica – </l>
+                    <l n="23">culha, raxa caculha chiquech.</l>
+                    <l n="24">quehe cu vtzalihic chic capoh</l>
+                    <l n="25">chi rochoch quia pixab xbÿx</l>
+                    <l n="26">chirech. huzu cu xvinaquir ral</l>
+                    <l n="27">chupam rumal ri xachub. are</l>
+                    <l n="28">cut quivinaquiric hun ahpu</l>
+                    <l n="29">xbalanque ta xopon cut chi ro – </l>
+                    <l n="30">choch ri capoh xzacat cut va – </l>
+                    <l n="31">caquib ic ta xnauachil rumal</l>
+                    <l n="32">vcahau ri cuchumaquic vbi v</l>
+                    <l n="33">cahau</l>
+                    <l n="34" rend="indent">Cate puch vnatahic capoh ru – </l>
+                    <l n="35">mal vcahau ta xil ri ral cochic</l>
+                    <l n="36">ta xquicuch cut qui naoh cono – </l>
+                    <l n="37">hel ahauab hun came vvcub</l>
+                    <l n="38">came ruc ri cuchumaquic are</l>
+                    <l n="39">ri numeal qochi ral ixahauab</l>
+                    <l n="40">xa vhoxbal xqha curi cuchuma</l>
+                    <l n="41">quic ta xoponic cuq ahauab vtz – </l>
+                    <l n="42">bala chacoto vchi ri tama cubÿh</l>
+                    <l n="43">chipuz cut chinaht chibe puzu vi</l>
+                    <l n="44">vtzbala alac ahauab xqha cut. ca</l>
+                    <l n="45">te cut xutzonoh chirech vmeal a</l>
+                    <l n="46">pa ahchoce ri aval co chapam</l>
+                    <l n="47">at nu meal? xqha cut mahabi</l>
+                    </div>
                   
                 <div type="col" n="16.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
-                    <l n="1" rend="indent">saliba de la calabera en su mano. te he dado</l>
-                    <l n="2" rend="indent">dixo la calabera señal en mí salíba, y mí</l>
-                    <l n="3" rend="indent">baba. esta mi cabeza ya no respondera</l>
-                    <l n="4" rend="indent">porq’ solo es gueso, y no tíene carne y</l>
+                    <l n="1">saliba de la calabera en su mano. te he dado</l>
+                    <l n="2">dixo la calabera señal en mí salíba, y mí</l>
+                    <l n="3">baba. esta mi cabeza ya no respondera</l>
+                    <l n="4">porq’ solo es gueso, y no tíene carne y</l>
                     <!-- How to represent superscript? "Sor" -->
-                    <l n="5" rend="indent">así mesmo es la cabeza de cualquíer Sor.</l>
-                    <l n="6" rend="indent">y solo por la carne se adorna. y en moví – </l>
-                    <l n="7" rend="indent">endo se asombran los hombres por la</l>
-                    <l n="8" rend="indent">calabera. y así sus hijos son como lasalí – </l>
+                    <l n="5">así mesmo es la cabeza de cualquíer Sor.</l>
+                    <l n="6">y solo por la carne se adorna. y en moví – </l>
+                    <l n="7">endo se asombran los hombres por la</l>
+                    <l n="8">calabera. y así sus hijos son como lasalí – </l>
                     <!-- How to represent superscript? "Ses" -->
-                    <l n="9" rend="indent">ba, y su baba, sí son hijos de Ses. de sabío</l>
-                    <l n="10" rend="indent">y entendido, nose píerde ní se apaga</l>
+                    <l n="9">ba, y su baba, sí son hijos de Ses. de sabío</l>
+                    <l n="10">y entendido, nose píerde ní se apaga</l>
                     <!-- How to represent superscript? "Ses" -->
-                    <l n="11" rend="indent">el ser de Ses. entendido, o sabio, síno q’</l>
-                    <l n="12" rend="indent">se hereda en sus hijo, y en sus híjas</l>
-                    <l n="13" rend="indent">qo. les engendra. y así ho he hecho con – </l>
+                    <l n="11">el ser de Ses. entendido, o sabio, síno q’</l>
+                    <l n="12">se hereda en sus hijo, y en sus híjas</l>
+                    <l n="13">qo. les engendra. y así ho he hecho con – </l>
                     <!-- How to represent lineas tachadas or strikethrough? "lo" -->
-                    <l n="14" rend="indent">tigo. y así subid alla a lo la tíerra, q’ no</l>
-                    <l n="15" rend="indent">moríras. concurríd ala palabra qo.sea</l>
-                    <l n="16" rend="indent">hecha esto dixo la cabeza de hun – </l>
-                    <l n="17" rend="indent">chave. catacan cut chila chu – </l>
-                    <l n="18" rend="indent">hun ahpu, y de vvcub hun ahpu. y</l>
-                    <l n="19" rend="indent">esto fue pura sabíduría, y mandato</l>
-                    <l n="20" rend="indent">de huracan, de chípícaculha, y raxa – </l>
-                    <l n="21" rend="indent">caculha y por su mandato lo hízíe – </l>
-                    <l n="22" rend="indent">ron. y así se bolbío la doncella asu</l>
-                    <l n="23" rend="indent">casa auíendole dícho muchas cosas</l>
-                    <l n="24" rend="indent">y mandates. y luego conzívío y fueron</l>
-                    <l n="25" rend="indent">conzebídos híjos en su víentre por – </l>
-                    <l n="26" rend="indent">aquella q’solo era salíba. losq’ fue – </l>
-                    <l n="27" rend="indent">ron engendrados fueron hun ahpu</l>
-                    <l n="28" rend="indent">y xbalanque. y auíendose buelto</l>
+                    <l n="14">tigo. y así subid alla a lo la tíerra, q’ no</l>
+                    <l n="15">moríras. concurríd ala palabra qo.sea</l>
+                    <l n="16">hecha esto dixo la cabeza de hun – </l>
+                    <l n="17">chave. catacan cut chila chu – </l>
+                    <l n="18">hun ahpu, y de vvcub hun ahpu. y</l>
+                    <l n="19">esto fue pura sabíduría, y mandato</l>
+                    <l n="20">de huracan, de chípícaculha, y raxa – </l>
+                    <l n="21">caculha y por su mandato lo hízíe – </l>
+                    <l n="22">ron. y así se bolbío la doncella asu</l>
+                    <l n="23">casa auíendole dícho muchas cosas</l>
+                    <l n="24">y mandates. y luego conzívío y fueron</l>
+                    <l n="25">conzebídos híjos en su víentre por – </l>
+                    <l n="26">aquella q’solo era salíba. losq’ fue – </l>
+                    <l n="27">ron engendrados fueron hun ahpu</l>
+                    <l n="28">y xbalanque. y auíendose buelto</l>
                     <!-- Check final dash in pdf of ms: auiendo a -->
-                    <l n="29" rend="indent">asu casa la donzella. y auíendo a — </l>
-                    <l n="30" rend="indent">justado los seis meses fue reparado</l>
+                    <l n="29">asu casa la donzella. y auíendo a — </l>
+                    <l n="30">justado los seis meses fue reparado</l>
                     <!-- superscript: Pe -->
-                    <l n="31" rend="indent">por su Pe. cuchumaquíc.</l>
-                    <l n="32" rend="indent"><p>Y luego q’ fue sentido el preñez por</p></l>
+                    <l n="31">por su Pe. cuchumaquíc.</l>
+                    <l n="32" rend="indent">Y luego q’ fue sentido el preñez por</l>
                     <!-- superscript: Pe -->
-                    <l n="33" rend="indent">su Pe. de la donzella y q’ tenía híjo.</l>
+                    <l n="33">su Pe. de la donzella y q’ tenía híjo.</l>
                     <!-- superscript: SSes -->
-                    <l n="34" rend="indent">se juntaron acabildo los SSes. hun</l>
-                    <l n="35" rend="indent">came, y vvcubcame, con cuchuma – </l>
-                    <l n="36" rend="indent">quíc, y dixo esta mi híja esta pre – </l>
+                    <l n="34">se juntaron acabildo los SSes. hun</l>
+                    <l n="35">came, y vvcubcame, con cuchuma – </l>
+                    <l n="36">quíc, y dixo esta mi híja esta pre – </l>
                     <!-- superscript: SSes -->
-                    <l n="37" rend="indent">ñada SSes. y esto ha prozedido de su</l>
-                    <l n="38" rend="indent">deshonestidad, y fornízío. esto dixo</l>
-                    <l n="39" rend="indent">cuchumaquíc q’ compareçío ante</l>
+                    <l n="37">ñada SSes. y esto ha prozedido de su</l>
+                    <l n="38">deshonestidad, y fornízío. esto dixo</l>
+                    <l n="39">cuchumaquíc q’ compareçío ante</l>
                     <!-- superscript: SSes -->
-                    <l n="40" rend="indent">los SSes. estabíen díxeron. oprímílda</l>
-                    <l n="41" rend="indent">y q’declare, y se vera lo q’ dize, y la</l>
-                    <l n="42" rend="indent">llevaron lexos a matarla. estabíen</l>
+                    <l n="40">los SSes. estabíen díxeron. oprímílda</l>
+                    <l n="41">y q’declare, y se vera lo q’ dize, y la</l>
+                    <l n="42">llevaron lexos a matarla. estabíen</l>
                     <!-- superscript: SSes -->
-                    <l n="43" rend="indent">SSes. díxo el y luego le pregunto a su hí –</l>
-                    <l n="44" rend="indent">ja dequíen es ese híjo q’tienes en la</l>
+                    <l n="43">SSes. díxo el y luego le pregunto a su hí –</l>
+                    <l n="44">ja dequíen es ese híjo q’tienes en la</l>
                     <!-- superscript: Sor -->
-                    <l n="45" rend="indent">barríga. y díxo ella no tengo hijo Sor</l>
+                    <l n="45">barríga. y díxo ella no tengo hijo Sor</l>
                 </div>
             </div>
         </body>
