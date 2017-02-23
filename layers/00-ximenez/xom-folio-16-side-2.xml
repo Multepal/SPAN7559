@@ -61,8 +61,7 @@
                     <l n="18">v quexel ri iqux mi xbÿx vloc ru– </l>
                     <l n="19">mal acahau chicam vloc ri vqux</l>
                     <l n="20">xchiquitzololeh ahauab, xchiqui</l>
-                    <!-- How to represent strikethrough? "x-c-hi" -->
-                    <l n="21">tzaquixtah xchi quihunam va –</l>
+                    <l n="21">tzaquixtah x<del resp="#LB">c</del>hi quihunam va –</l>
                     <l n="22">chih v tzaquic chanim chicama</l>
                     <l n="23">vloc pazel chicoloba cahoc vqux</l>
                     <l n="24">chupan zel mapa mi xohvqhax</l>
@@ -78,7 +77,6 @@
                     <l n="34">ta chuxoc are chicut chuvach.</l>
                     <l n="35">maui are ri qux chicat chuvach</l>
                     <l n="36">ta chuxoc. chicoho ri vvach che</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
                     <l n="37">qhacut ri capoh ƐaƐ cut v vaal</l>
                     <l n="38">ri che xelic xcul pazel cate puch</l>
                     <l n="39">xuvon rib coloquic xuxic vque</l>
@@ -86,12 +84,9 @@
                     <l n="41">cac che queheri quic v vaal che</l>
                     <l n="42">xelic vquexel v quiquel taxu</l>
                     <l n="43">colo chila ri quic chupan ri v va</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
                     <l n="44">al ƐaƐche quehe curi quic rih</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
                     <l n="45">xuxic ƐaƐ luhluh chic colom chi</l>
                     <l n="46">pazel ta xcop cut ri che rumal</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
                     <l n="47">capoh. chuh ƐaƐche chuqhaxic.</l>
                     </div>
 
@@ -99,15 +94,13 @@
                 <!-- SPANISH LINES GO HERE -->
                     <l n="1">Pe aun no he conozídovaron. estabíen</l>
                     <l n="2">dixo el cíertamente tu eres forníca – </l>
-                    <!-- How to represent superscript? "Ses" -->
-                    <l n="3">ría. ea andad vosotros SSes. principa –</l>
+                    <l n="3">ría. ea andad vosotros SS<hi rend="sup()">es.</hi> principa –</l>
                     <l n="4">ples andad y sacríficalda, y traed</l>
                     <l n="5">su carazon en vna hícara. esto se</l>
                     <l n="6">les mando alos tecolotes, q’eran cuatro.</l>
                     <l n="7">y luego fueron y tomaron vna hícara</l>
                     <l n="8">y se fueron llevandola cargada, y tam</l>
-                    <!-- How to represent superscript? "pa" -->
-                    <l n="9">bíen llebaban vna cuchilla aguda pa</l>
+                    <l n="9">bíen llebaban vna cuchilla aguda p<hi rend="sup()">a</hi></l>
                     <l n="10">revanarla. y entonzes ella les díxo no</l>
                     <l n="11">me mateís mensageros porq’ no soy for – </l>
                     <l n="12">nícaría. sino q’solamente se engendro</l>
@@ -118,8 +111,7 @@
                     <l n="17">mensageros. y respondíeron ellos pu – </l>
                     <l n="18">esq’ hemos de lleuar en lugar de tu</l>
                     <l n="19">corazon en la hícara? no nos manda – </l>
-                    <!-- How to represent superscript? "Ses" -->
-                    <l n="20">ron los SSes.q’ en esta hícara les lle – </l>
+                    <l n="20">ron los SS<hi rend="sup()">es.</hi>q’ en esta hícara les lle – </l>
                     <l n="21">uaremos tu corazon, así no nos man – </l>
                     <l n="22">daron? bíen quísíeramos nosotros</l>
                     <l n="23">librarte. esta bien dixo ella. no es de</l>
