@@ -30,7 +30,7 @@
                 <language ident="quc">K'iche'</language>
                 <language ident="spa">Spanish</language>
             </langUsage>
-            <creation>
+            <creation>  
                 <date>Spring 2017</date>
                 <name>YOUR NAME GOES HERE</name>
             </creation>
@@ -38,9 +38,13 @@
     </teiHeader>
     <text>
         <body>
+        Ꜩ
             <div type="page" n="07.1" xml:id="xom-f07-s1">
                 <div type="col" n="07.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                    <l n="1">quix, huzuc xtzac vloc, xme –</l>
+                    <l n="2">ho vloc, tzam vteleb ta xutzo –</l>               
+                    <l n="3">copih chi cut hunhunahpu</l>
+                    <l n="4">ri vvcub caquix xavi vtz x – </l>
                 </div>
                 <div type="col" n="07.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
