@@ -38,12 +38,21 @@
     </teiHeader>
     <text>
         <body>
+<<<<<<< HEAD:layers/00-ximenez/xom-folio-52-side-1/xom-folio-52-side-1.xml
+            <div type="folio" n="52">
+                <div type="side" n="1">
+                    <div type="col" n="1" xml:lang="quc">
+                    </div>
+                    <div type="col" n="2" xml:lang="spa">
+                    </div>
+=======
             <div type="page" n="52.1" xml:id="xom-f52-s1">
                 <div type="col" n="52.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 </div>
                 <div type="col" n="52.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+>>>>>>> origin/master:layers/00-ximenez/xom-folio-52-side-1.xml
                 </div>
             </div>
         </body>

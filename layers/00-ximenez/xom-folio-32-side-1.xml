@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rachel Gardella</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,10 +40,117 @@
         <body>
             <div type="page" n="32.1" xml:id="xom-f32-s1">
                 <div type="col" n="32.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                    <l n="1">chinel chimac chilabal; enaipu </l>
+                    <l n="2">ah muculic qux, e quecail za –</l>
+                    <l n="3">quiilah moxvach, ahlatzab que</l>
+                    <l n="4">vqhaxic. chixeon quivach que</l>
+                    <l n="5">culutahic; quehe cut vzachic</l>
+                    <l n="6">qui nimal cacal, maui nim</l>
+                    <l n="7">chi cahavarem xuxic. are</l>
+                    <l n="8">xebanou ri xhun ahpu, xba</l>
+                    <l n="9">lan que . are cut coquic cazi –</l>
+                    <l n="10">quin ri catit chuvach ri ahau</l>
+                    <l n="11">ri xquitic canoc xpevtux ri</l>
+                    <l n="12">ah cate xchaquih chic are</l>
+                    <l n="13">cut taxecat pachoh taxpe</l>
+                    <l n="14">chicut vtux ri ah catecut</l>
+                    <l n="15">xcaton ricatit xucat ri pom</l>
+                    <l n="16">chuvach riah vnatabal quech</l>
+                    <l n="17">rÿ. are xquicot vi vqux catit</l>
+                    <l n="18">ri chu camul xpe vtux ri ah</l>
+                    <l n="19">ta xcabauilax rumal catit ta</l>
+                    <l n="20">xubinatizah cut nicah ha, ni</l>
+                    <l n="21">cah bi choc. cazamah chatam</l>
+                    <l n="22">vleu vbi xuxic are cut xu –</l>
+                    <l n="23">binaah vi nicah ha, nicah bichoc</l>
+                    <l n="24">rumal xa chunicahal vpa co-</l>
+                    <l n="25">choch xquitic ah. are chi cu</l>
+                    <l n="26">xubinaah vi chatam vleu</l>
+                    <l n="27">cazam ah chuvi chata vleu</l>
+                    <l n="328">quitic vi ah. are nai pu xubi –</l>
+                    <l n="29">naah vi cazam ah rumal xpe</l>
+                    <l n="30">vtux ah ta xcoh vbi rumal x –</l>
+                    <l n="31">mucane xquitic can oc hun –</l>
+                    <l n="32">ahpu xbalanque xanatabal</l>
+                    <l n="33">que rumal atit. are curi nabe</l>
+                    <l n="34">quicahau xoheroc quecamoc ri</l>
+                    <l n="35">hun hunahpu vvcub hun ahpu</l>
+                    <l n="36">xquil chicut vvachri qui cahau</l>
+                    <l n="37">chila chi xibalba. xqhau chic qui</l>
+                    <l n="38">cahau chiquetax xquichac xi –</l>
+                    <l n="39">Vacute vviquic chic qui ca –</l>
+                    <l n="40">hau cumal are xquivic ri vvcub</l>
+                    <l n="41">hunahpu chila xbe quivica vi chi</l>
+                    <l n="42">pucbal chah xavi xere vvach x –</l>
+                    <l n="43">rah vxic xtzonox cut chire vbi</l>
+                    <l n="44">ronohel vchi vtzam vbac vvach</l>
+                    <l n="45">xuric nabe vbi xacu zcaquin</l>
+                    <l n="46">chic xchatahvi xere maui xu –  </l>
                 </div>
                 <div type="col" n="32.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                    <l n="1">res de las culpas, y pecados y eran tam –</l>
+                    <l n="2">bíen de doblado corazon, y traídores, ím-</l>
+                    <l n="3">bídíosos, y los oprímídores, eran díchos,</l>
+                    <l n="5">y carleaban sus caras; y guerreaban. y</l>
+                    <l n="6">así fueron perdídos, y cajo su grandeza</l>
+                    <l n="7">y ya no fue grande su ímperío. y esto es</l>
+                    <l n="8">lo q’híçíeron xhun ahpu, y xbalanque.</l>
+                    <l n="9">y esto es lo q’ lloran</l>
+                    <l n="10">n y lamentan</l>
+                    <l n="11">n aquella</l>
+                    <l n="12">nuestra abuela delante de aquellas ca –</l>
+                    <l n="13">ñas q’dexaron sembradas, q’retoño, y</l>
+                    <l n="14">luego seseco quando fueron quema –</l>
+                    <l n="15">dos en la hoguera, y quando otra vez</l>
+                    <l n="16">retoñaron las cañas, entonçes quemo</l>
+                    <l n="18">copal aquella su abuela delante de</l>
+                    <l n="19">las cañas, en memoría desus níetos.</l>
+                    <l n="20">y por esto se allegro mucho su abuela</l>
+                    <l n="21">quando segunda vez retoñaron las</l>
+                    <l n="22">cañas. y entonçes empezo la ydola –</l>
+                    <l n="23">tría por su abuela, y entonçes fue lla –</l>
+                    <l n="24">mada la mítad de la casa. y la mítad</l>
+                    <l n="25">de el çentro. o remolino. y llamase</l>
+                    <l n="26">chatam vleu. tíerra hecha cama. y así</l>
+                    <l n="27">sellamo el medío de la casa, y del re</l>
+                    <l n="29">molino por ellos, porq’ en el medío de</l>
+                    <l n="30">la casa fueron sembradas las cañas. y</l>
+                    <l n="31">así fue dícha tíerra hecha cama porq’ fu –</l>
+                    <l n="32">eron puestas las cañas sobre esta tíerra</l>
+                    <l n="33">hecha tapesco donde se síembran las ca –</l>
+                    <l n="34">ñas. y tambíen por esto sellamo cazam</l>
+                    <l n="35">ah, cañas puestas porq’retoñeçíeron y</l>
+                    <l n="36">entonçes le fue puesto el nombre por e –</l>
+                    <l n="37">lla la xmucane, porq’ dexaron sem</l>
+                    <l n="38">bradas las cañas xhun ahpu, y xba –</l>
+                    <l n="39">lanque, para memoría dellos pa</l>
+                    <l n="40">. su a –</l>
+                    <l n="41">buela. y estos fueron nuestros prime –</l>
+                    <l n="42">ros Pes</l>
+                    <l n="43">.antíguamente hunhun</l>
+                    <l n="44">ahpu, y x</l>
+                    <l n="45">xb</l>
+                    <l n="46">ba</l>
+                    <l n="47">a –</l>
+                    <l n="48">–</l>
+                    <l n="49">l</l>
+                    <l n="50">la</l>
+                    <l n="51">an</l>
+                    <l n="52">nq</l>
+                    <l n="53">q’</l>
+                    <l n="54">’ y vucub hun ahpu q’ víeron las ca –</l>
+                    <l n="55">ras de los de el ínfíerno. y hablaronotra</l>
+                    <l n="56">vez asus Pes</l>
+                    <l n="57">. sus híjos, q’vençíeron a los de</l>
+                    <l n="58">el ínfíerno.</l>
+                    <l n="59">y esta fue su adjuntadura con sus Pes</l>
+                    <l n="60">.</l>
+                    <l n="61">por ellos. y hallaronlos el hunahpu alla</l>
+                    <l n="62">en el zenízero, alla lo fue a halllar, adon</l>
+                    <l n="63">de se arrojaba la zeníza, y asemesmo su</l>
+                    <l n="64">cara, quíso alar, y se le fue preguntado su</l>
+                    <l n="65">nombre, y su voca, y narizes, los ojos, y ha</l>
+                    <l n="66">llo primero su nombre, y poco fue lo q’ hablo.</l>
                 </div>
             </div>
         </body>
