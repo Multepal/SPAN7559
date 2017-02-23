@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">05</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 05, Side 1. 
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>YOUR NAME GOES HERE</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="05.1" xml:id="xom-f05-s1">
+                <div type="col" n="05.1.1" xml:lang="quc">
+                    <l n="1">qui xot, qui lac, qui boh, <num>740</num>qui tzi</l>
+                    <l n="2">qui εaa, haruh pa la ronohel</l>
+                    <l n="3">xcutu qui vach cax xiban</l>
+                    <l n="4">chique, xohitio ixchi cut x-</l>
+                    <l n="5">quixcati chic xqha ri qui tzi</l>
+                    <l n="6">cac chiquech. <num>750</num>re cu ri εaa</l>
+                    <l n="7">xohcoconic iuumal hu ta</l>
+                    <l n="8">quih, hu ta quih, xquec zaqui-</l>
+                    <l n="9">ric amaquel holi, holi, hu-</l>
+                    <l n="10">qui, <num>760</num>huqui ca vach ivumal</l>
+                    <l n="11">are ta nabe capatan chiva-</l>
+                    <l n="12">ch, ixtana vinac vaca-</l>
+                    <l n="13">mic cut xchitih ca chucab</l>
+                    <l n="14">xchicaqueeh, xchicahoc</l>
+                    <l n="15">puch i tiohil xqhari qui</l>
+                    <l n="16">εaa chique. <num>770</num>are curi qui</l>
+                    <l n="17">tzi xqha chic ta xqhauic, na</l>
+                    <l n="18">qui pa rumal maui chi-</l>
+                    <l n="19">ya cava, xa cohmucunic</l>
+                    <l n="20">xa pu cohicuxih vloc, coh</l>
+                    <l n="21">izac pu vloc yacal vbi ca</l>
+                    <l n="22">cheel ivumal ta quixva-</l>
+                    <l n="23">ic xere cohivuchaah vi</l>
+                    <l n="24">maui cohqhauic <num>780</num>mata cu</l>
+                    <l n="25">mi xohcamic chiue hu pa</l>
+                    <l n="26">cha maui mi xixnauic</l>
+                    <l n="27">xixnau ta cut chiuih ta cut</l>
+                    <l n="28">xohzach vi, vacamic cut x-</l>
+                    <l n="29">chitih cabac qo pa ca chi x-</l>
+                    <l n="30">quixcatio xeqha ri tzi chi-</l>
+                    <l n="31">que ta xcut qui vach. <num>790</num>are</l>
+                    <l n="32">chicuri qui xot, qui boh x-</l>
+                    <l n="33">chau chic chique: cax, va xi</l>
+                    <l n="34">ban chique xac ca chi, xac-</l>
+                    <l n="35">ca vach; amaquel oh tzacal</l>
+                    <l n="36">chuuicac cohicato maui cax</l>
+                    <l n="37">xcanao, xchitih cut xquix</l>
+                    <l n="38">caporoh xcha ri qui boh <num>800</num>ro</l>
+                    <l n="39">nohel xcutu qui vach. are ri</l>
+                    <l n="40">abah ri quixcub chitaninic</l>
+                    <l n="41">chipe pa εaε taεal chi qui-</l>
+                    <l n="42">holom, cax xban chique.</l>
+                    <l n="43">anilabic que mal malihab</l>
+                    <l n="44">chic <num>810</num>querah acanic chuvi</l>
+                    <l n="45">ha xa chiu vlih ha quetzac</l>
+                    <l n="46">vloc, querah acan chuvi che</l>
+                    <l n="47">queqhaquix vloc ruma che</l>
+                </div>
+                <div type="col" n="05.1.2" xml:lang="spa">
+                <!-- SPANISH LINES GO HERE --></div>
+            </div>
+        </body>
+    </text>
+</TEI>

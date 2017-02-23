@@ -1,0 +1,113 @@
+# FROM: https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007
+
+Notes on the Popol Wuj Manuscript Transcription 
+
+The present copy is the verbatim typed transcription of the manuscript that
+begins with the cover page Empiezan las Historias del Origen de los Indios de Esta
+Provincia de Gvatemala by Fray Franzisco Ximenez, circa 1701-3, currently archived
+at the Newberry Library, Chicago, Illinois, as part of the Ayer MS 1515.
+
+The purpose of this typed transcription is to assist readers of this facsimile
+with a tool for their scholarly work. The idea is to make the reading of the 18th
+century handwritten calligraphy easier and more precise. In addition, keeping in
+mind the needs of future translators, this transcription calls attention to certain
+lexical, grammatical and written issues which present special characteristics. As a
+general trait, we can say that when comparing the present transcription with the
+previous ones, many differences are evident.
+
+The main criterion for this transcription has been to reproduce Father
+Ximénez’s orthography with the maximum fidelity possible. For this reason, in both
+columns ― K’ichee and Spanish ― we have conserved words or phrases that we know
+do not follow the rules of standard writing, even some that do not make sense in the
+way in which they are written. However, since this is the way that Father Ximénez
+composed the transcription and translation of the K’ichee text, we have preserved
+them as they are in the manuscript.
+
+In the K’ichee column (left) the calligraphic, linguistic, and phonetic
+peculiarities related to Father Ximénez’s own transcription are particularly significant.
+The copious deviations and inconsistencies observed in the manuscript could be the
+result of the friar’s reading and understanding of K’ichee words, or perhaps the result
+of a very personal way of transcribing them. Most likely, the way in which Ximénez
+merged or divided words was the unintended consequence of his limited knowledge
+and command of the native language at the time. It could also have been the result of
+haste or incidental decisions made by the priest at different moments of his work. We
+must keep in mind that K’ichee sounds are very different than Spanish ones, thus, we
+must consider that several additional different kinds of difficulties overlapped within
+the text.
+
+To transcribe a text of such complexity always implies some degree of
+arbitrariness. In some cases it is unavoidable to make a decision based on some kind
+of interpretation. Basically, these issues have been the main concern and difficulty
+faced by previous transcribers of the Popol Wuj. Now, in the present online edition,
+each reader has the chance to compare vis-à-vis the typed transcription with the
+facsimile, thus, each can make their own final decision.
+
+For all the above-mentioned reasons, in the present transcription of the
+manuscript we have been meticulous in copying the following exactly:
+
+* Different words that appear together as one, or when one word appears split
+(there are examples in both languages). Some times it is very difficult to
+judge if the space between letters means that there is a single word or there are two, 
+or more. Whether this was because Ximénez at that time did not
+know sufficient K’ichee grammar or vocabulary, or simply because this was
+his perception of the linguistic sequence or syntax, is something that we
+cannot determine.
+
+* Occasional transpositions of letters or morphemes in Ximenez's own hand.
+Particularly in the K’ichee column there are cases that we assume to
+be transpositions but we are not sure what Ximénez’s intention or
+interpretation might have been. We must remember that at the beginning of
+the 18th century, Spanish orthography was not standardized, thus, we must
+assume that the K’ichee phonetization implied numerous additional
+problems and linguistic issues that were far from being resolved at that
+time. An example of this lack of consistency in Ximénez’s writing can be
+seen in the following four different spellings for the Spanish word cerro (hill):
+cero, çero, çerro, cerro. In K’ichee the problems multiply.
+
+* Corrections, side-notes, or added words between lines. Only crossed-out
+words and comments that were added in the margins by Father Ximénez
+himself have been considered valid for transcription. Marks made with a
+black ink, perhaps during the 19th century, have been omitted (see: f. 7r,
+24r, 26r, 28r, 32r, 36v ―in this folio only the side note which has been
+controversial was added in a footnote– 51v, 52r, 53r, and 54r).
+
+* In folio 54r lines six and seven appear repeated and we have kept the
+repetition.
+
+Father Ximénez only numbered the folios until the number 12, and only in the
+recto side of the leaf; after this folio the numbers appear written with pencil in a
+modern calligraphy. This difference has been indicated in the transcription by use of
+a different font. In folio 26r the number 31 appears at the top center. This number
+does not match the sequence, thus, it is probably a folio that Ximénez was readying
+for use in another document.
+
+Finally, in the present transcription two features have been added. One of them
+is the numeration of the lines of the manuscript. These numbers ―referring to folio
+and line― allow for easy and unquestionable identification of specific points in the
+manuscript. In this way, references based on non-standardized verses or in particular
+editions are avoided.
+
+The second innovation is that in some specific cases footnotes comparing
+discrepancies or agreements between some of the previous transcriptions have been
+added. Obviously, there are many more discrepancies than those that we have
+specified, but we want to emphasize that the purpose of these footnotes is only to help
+identify some particular variant and not to scrutinize the whole text. The criterion has
+been to locate critical points in the manuscript, such as crossed-out words, additions
+between lines, or similar elements and compare different readings or versions. The
+closest transcriptions to the manuscript are the ones done by Leonhard Schultze
+Jena, Adrián Inés Chávez, and Allen Christenson. For the present transcription we
+also consulted other copies that are mentioned below. For future translators we
+strongly recommend looking at all of these other transcriptions. 
+
+Following is the chart with the abbreviations for the references used in the
+footnotes, the names and the years of publication:
+
+B.B.: Charles Brasseur de Bourbourg (1861)
+S.J.: Leonhard Schulze Jena (1944)
+B.-X.: Dora Burgess and Patricio Xec (1955)
+A.V.: Antonio Villacorta (1962)
+A.I.CH.: Adrián Inés Chávez (1979)
+L.-L.: Carlos Rolando de León Valdés and Francisco López Perén (1985)
+A. Ch.: Allen Christenson (2004)
+
+Summer 2007 Carlos M. López 

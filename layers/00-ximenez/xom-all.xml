@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://ontoligent.com/multepal/multepal_tei.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio , Side . 
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <!-- encodingDesc: Describes the relationship between an electronic text and the source or sources 
+            from which it was derived. It allows for detailed description of whether (or how) the text was n
+            ormalized during transcription, how the encoder resolved ambiguities in the source, what levels of 
+            encoding or analysis were applied, and similar matters. The TEI elements used to encode 
+            the encoding description are described in section 2.3 The Encoding Description below. -->
+            <projectDesc>
+                <!-- projectDesc: Describes in detail the aim or purpose for which an electronic file was encoded, 
+                together with any other relevant information concerning the process by which it was assembled or 
+                collected. -->
+                <p></p>
+            </projectDesc>
+            <editorialDecl>
+                <!-- editorialDecl: Provides details of the editorial practices applied during the encoding of 
+                a text. -->
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <!-- Contains information about the creation of a text, e.g. phrases describing 
+                the origin of the text, e.g. the date and place of its composition. -->
+                <date>Spring 2017</date>
+                <rs type="">
+                    <!-- Contains a general purpose name or referring string; a phrase which 
+                    refers to some person, place, object, etc. --></rs>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="MS1515v2" n="1515.2">
+        <body>
+            <xi:include href="xom-folio-01-side-1.xml" parse="xml" xpointer="xom-f01-s1" />
+            <xi:include href="xom-folio-01-side-2.xml" parse="xml" xpointer="xom-f01-s2" />
+            <xi:include href="xom-folio-02-side-1.xml" parse="xml" xpointer="xom-f02-s1" />
+            <xi:include href="xom-folio-02-side-2.xml" parse="xml" xpointer="xom-f02-s2" />
+            <xi:include href="xom-folio-03-side-1.xml" parse="xml" xpointer="xom-f03-s1" />
+            <xi:include href="xom-folio-03-side-2.xml" parse="xml" xpointer="xom-f03-s2" />
+            <xi:include href="xom-folio-04-side-1.xml" parse="xml" xpointer="xom-f04-s1" />
+            <xi:include href="xom-folio-04-side-2.xml" parse="xml" xpointer="xom-f04-s2" />
+            <xi:include href="xom-folio-05-side-1.xml" parse="xml" xpointer="xom-f05-s1" />
+            <xi:include href="xom-folio-05-side-2.xml" parse="xml" xpointer="xom-f05-s2" />
+            <xi:include href="xom-folio-06-side-1.xml" parse="xml" xpointer="xom-f06-s1" />
+            <xi:include href="xom-folio-06-side-2.xml" parse="xml" xpointer="xom-f06-s2" />
+            <xi:include href="xom-folio-07-side-1.xml" parse="xml" xpointer="xom-f07-s1" />
+            <xi:include href="xom-folio-07-side-2.xml" parse="xml" xpointer="xom-f07-s2" />
+            <xi:include href="xom-folio-08-side-1.xml" parse="xml" xpointer="xom-f08-s1" />
+            <xi:include href="xom-folio-08-side-2.xml" parse="xml" xpointer="xom-f08-s2" />
+            <xi:include href="xom-folio-09-side-1.xml" parse="xml" xpointer="xom-f09-s1" />
+            <xi:include href="xom-folio-09-side-2.xml" parse="xml" xpointer="xom-f09-s2" />
+            <xi:include href="xom-folio-10-side-1.xml" parse="xml" xpointer="xom-f10-s1" />
+            <xi:include href="xom-folio-10-side-2.xml" parse="xml" xpointer="xom-f10-s2" />
+            <xi:include href="xom-folio-11-side-1.xml" parse="xml" xpointer="xom-f11-s1" />
+            <xi:include href="xom-folio-11-side-2.xml" parse="xml" xpointer="xom-f11-s2" />
+            <xi:include href="xom-folio-12-side-1.xml" parse="xml" xpointer="xom-f12-s1" />
+            <xi:include href="xom-folio-12-side-2.xml" parse="xml" xpointer="xom-f12-s2" />
+            <xi:include href="xom-folio-13-side-1.xml" parse="xml" xpointer="xom-f13-s1" />
+            <xi:include href="xom-folio-13-side-2.xml" parse="xml" xpointer="xom-f13-s2" />
+            <xi:include href="xom-folio-14-side-1.xml" parse="xml" xpointer="xom-f14-s1" />
+            <xi:include href="xom-folio-14-side-2.xml" parse="xml" xpointer="xom-f14-s2" />
+            <xi:include href="xom-folio-15-side-1.xml" parse="xml" xpointer="xom-f15-s1" />
+            <xi:include href="xom-folio-15-side-2.xml" parse="xml" xpointer="xom-f15-s2" />
+            <xi:include href="xom-folio-16-side-1.xml" parse="xml" xpointer="xom-f16-s1" />
+            <xi:include href="xom-folio-16-side-2.xml" parse="xml" xpointer="xom-f16-s2" />
+            <xi:include href="xom-folio-17-side-1.xml" parse="xml" xpointer="xom-f17-s1" />
+            <xi:include href="xom-folio-17-side-2.xml" parse="xml" xpointer="xom-f17-s2" />
+            <xi:include href="xom-folio-18-side-1.xml" parse="xml" xpointer="xom-f18-s1" />
+            <xi:include href="xom-folio-18-side-2.xml" parse="xml" xpointer="xom-f18-s2" />
+            <xi:include href="xom-folio-19-side-1.xml" parse="xml" xpointer="xom-f19-s1" />
+            <xi:include href="xom-folio-19-side-2.xml" parse="xml" xpointer="xom-f19-s2" />
+            <xi:include href="xom-folio-20-side-1.xml" parse="xml" xpointer="xom-f20-s1" />
+            <xi:include href="xom-folio-20-side-2.xml" parse="xml" xpointer="xom-f20-s2" />
+            <xi:include href="xom-folio-21-side-1.xml" parse="xml" xpointer="xom-f21-s1" />
+            <xi:include href="xom-folio-21-side-2.xml" parse="xml" xpointer="xom-f21-s2" />
+            <xi:include href="xom-folio-22-side-1.xml" parse="xml" xpointer="xom-f22-s1" />
+            <xi:include href="xom-folio-22-side-2.xml" parse="xml" xpointer="xom-f22-s2" />
+            <xi:include href="xom-folio-23-side-1.xml" parse="xml" xpointer="xom-f23-s1" />
+            <xi:include href="xom-folio-23-side-2.xml" parse="xml" xpointer="xom-f23-s2" />
+            <xi:include href="xom-folio-24-side-1.xml" parse="xml" xpointer="xom-f24-s1" />
+            <xi:include href="xom-folio-24-side-2.xml" parse="xml" xpointer="xom-f24-s2" />
+            <xi:include href="xom-folio-25-side-1.xml" parse="xml" xpointer="xom-f25-s1" />
+            <xi:include href="xom-folio-25-side-2.xml" parse="xml" xpointer="xom-f25-s2" />
+            <xi:include href="xom-folio-26-side-1.xml" parse="xml" xpointer="xom-f26-s1" />
+            <xi:include href="xom-folio-26-side-2.xml" parse="xml" xpointer="xom-f26-s2" />
+            <xi:include href="xom-folio-27-side-1.xml" parse="xml" xpointer="xom-f27-s1" />
+            <xi:include href="xom-folio-27-side-2.xml" parse="xml" xpointer="xom-f27-s2" />
+            <xi:include href="xom-folio-28-side-1.xml" parse="xml" xpointer="xom-f28-s1" />
+            <xi:include href="xom-folio-28-side-2.xml" parse="xml" xpointer="xom-f28-s2" />
+            <xi:include href="xom-folio-29-side-1.xml" parse="xml" xpointer="xom-f29-s1" />
+            <xi:include href="xom-folio-29-side-2.xml" parse="xml" xpointer="xom-f29-s2" />
+            <xi:include href="xom-folio-30-side-1.xml" parse="xml" xpointer="xom-f30-s1" />
+            <xi:include href="xom-folio-30-side-2.xml" parse="xml" xpointer="xom-f30-s2" />
+            <xi:include href="xom-folio-31-side-1.xml" parse="xml" xpointer="xom-f31-s1" />
+            <xi:include href="xom-folio-31-side-2.xml" parse="xml" xpointer="xom-f31-s2" />
+            <xi:include href="xom-folio-32-side-1.xml" parse="xml" xpointer="xom-f32-s1" />
+            <xi:include href="xom-folio-32-side-2.xml" parse="xml" xpointer="xom-f32-s2" />
+            <xi:include href="xom-folio-33-side-1.xml" parse="xml" xpointer="xom-f33-s1" />
+            <xi:include href="xom-folio-33-side-2.xml" parse="xml" xpointer="xom-f33-s2" />
+            <xi:include href="xom-folio-34-side-1.xml" parse="xml" xpointer="xom-f34-s1" />
+            <xi:include href="xom-folio-34-side-2.xml" parse="xml" xpointer="xom-f34-s2" />
+            <xi:include href="xom-folio-35-side-1.xml" parse="xml" xpointer="xom-f35-s1" />
+            <xi:include href="xom-folio-35-side-2.xml" parse="xml" xpointer="xom-f35-s2" />
+            <xi:include href="xom-folio-36-side-1.xml" parse="xml" xpointer="xom-f36-s1" />
+            <xi:include href="xom-folio-36-side-2.xml" parse="xml" xpointer="xom-f36-s2" />
+            <xi:include href="xom-folio-37-side-1.xml" parse="xml" xpointer="xom-f37-s1" />
+            <xi:include href="xom-folio-37-side-2.xml" parse="xml" xpointer="xom-f37-s2" />
+            <xi:include href="xom-folio-38-side-1.xml" parse="xml" xpointer="xom-f38-s1" />
+            <xi:include href="xom-folio-38-side-2.xml" parse="xml" xpointer="xom-f38-s2" />
+            <xi:include href="xom-folio-39-side-1.xml" parse="xml" xpointer="xom-f39-s1" />
+            <xi:include href="xom-folio-39-side-2.xml" parse="xml" xpointer="xom-f39-s2" />
+            <xi:include href="xom-folio-40-side-1.xml" parse="xml" xpointer="xom-f40-s1" />
+            <xi:include href="xom-folio-40-side-2.xml" parse="xml" xpointer="xom-f40-s2" />
+            <xi:include href="xom-folio-41-side-1.xml" parse="xml" xpointer="xom-f41-s1" />
+            <xi:include href="xom-folio-41-side-2.xml" parse="xml" xpointer="xom-f41-s2" />
+            <xi:include href="xom-folio-42-side-1.xml" parse="xml" xpointer="xom-f42-s1" />
+            <xi:include href="xom-folio-42-side-2.xml" parse="xml" xpointer="xom-f42-s2" />
+            <xi:include href="xom-folio-43-side-1.xml" parse="xml" xpointer="xom-f43-s1" />
+            <xi:include href="xom-folio-43-side-2.xml" parse="xml" xpointer="xom-f43-s2" />
+            <xi:include href="xom-folio-44-side-1.xml" parse="xml" xpointer="xom-f44-s1" />
+            <xi:include href="xom-folio-44-side-2.xml" parse="xml" xpointer="xom-f44-s2" />
+            <xi:include href="xom-folio-45-side-1.xml" parse="xml" xpointer="xom-f45-s1" />
+            <xi:include href="xom-folio-45-side-2.xml" parse="xml" xpointer="xom-f45-s2" />
+            <xi:include href="xom-folio-46-side-1.xml" parse="xml" xpointer="xom-f46-s1" />
+            <xi:include href="xom-folio-46-side-2.xml" parse="xml" xpointer="xom-f46-s2" />
+            <xi:include href="xom-folio-47-side-1.xml" parse="xml" xpointer="xom-f47-s1" />
+            <xi:include href="xom-folio-47-side-2.xml" parse="xml" xpointer="xom-f47-s2" />
+            <xi:include href="xom-folio-48-side-1.xml" parse="xml" xpointer="xom-f48-s1" />
+            <xi:include href="xom-folio-48-side-2.xml" parse="xml" xpointer="xom-f48-s2" />
+            <xi:include href="xom-folio-49-side-1.xml" parse="xml" xpointer="xom-f49-s1" />
+            <xi:include href="xom-folio-49-side-2.xml" parse="xml" xpointer="xom-f49-s2" />
+            <xi:include href="xom-folio-50-side-1.xml" parse="xml" xpointer="xom-f50-s1" />
+            <xi:include href="xom-folio-50-side-2.xml" parse="xml" xpointer="xom-f50-s2" />
+            <xi:include href="xom-folio-51-side-1.xml" parse="xml" xpointer="xom-f51-s1" />
+            <xi:include href="xom-folio-51-side-2.xml" parse="xml" xpointer="xom-f51-s2" />
+            <xi:include href="xom-folio-52-side-1.xml" parse="xml" xpointer="xom-f52-s1" />
+            <xi:include href="xom-folio-52-side-2.xml" parse="xml" xpointer="xom-f52-s2" />
+            <xi:include href="xom-folio-53-side-1.xml" parse="xml" xpointer="xom-f53-s1" />
+            <xi:include href="xom-folio-53-side-2.xml" parse="xml" xpointer="xom-f53-s2" />
+            <xi:include href="xom-folio-54-side-1.xml" parse="xml" xpointer="xom-f54-s1" />
+            <xi:include href="xom-folio-54-side-2.xml" parse="xml" xpointer="xom-f54-s2" />
+            <xi:include href="xom-folio-55-side-1.xml" parse="xml" xpointer="xom-f55-s1" />
+            <xi:include href="xom-folio-55-side-2.xml" parse="xml" xpointer="xom-f55-s2" />
+            <xi:include href="xom-folio-56-side-1.xml" parse="xml" xpointer="xom-f56-s1" />
+            <xi:include href="xom-folio-56-side-2.xml" parse="xml" xpointer="xom-f56-s2" />
+        </body>
+    </text>
+</TEI>

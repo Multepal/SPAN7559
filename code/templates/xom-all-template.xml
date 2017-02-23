@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://ontoligent.com/multepal/multepal_tei.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio {{fn}}, Side {{sn}}. 
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <!-- encodingDesc: Describes the relationship between an electronic text and the source or sources 
+            from which it was derived. It allows for detailed description of whether (or how) the text was n
+            ormalized during transcription, how the encoder resolved ambiguities in the source, what levels of 
+            encoding or analysis were applied, and similar matters. The TEI elements used to encode 
+            the encoding description are described in section 2.3 The Encoding Description below. -->
+            <projectDesc>
+                <!-- projectDesc: Describes in detail the aim or purpose for which an electronic file was encoded, 
+                together with any other relevant information concerning the process by which it was assembled or 
+                collected. -->
+                <p></p>
+            </projectDesc>
+            <editorialDecl>
+                <!-- editorialDecl: Provides details of the editorial practices applied during the encoding of 
+                a text. -->
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <!-- Contains information about the creation of a text, e.g. phrases describing 
+                the origin of the text, e.g. the date and place of its composition. -->
+                <date>Spring 2017</date>
+                <rs type="">
+                    <!-- Contains a general purpose name or referring string; a phrase which 
+                    refers to some person, place, object, etc. --></rs>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="MS1515v2" n="1515.2">
+        <body>
+{{xincludes}}
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">06</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 06, Side 1. 
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>YOUR NAME GOES HERE</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="06.1" xml:id="xom-f06-s1" facs="file:///../../textos/facsimiles/MS1515v2_f06r.jpg">
+                <div type="col" n="06.1.1" xml:lang="quc">
+                    <l n="">v xe cah copon vi v vach. maha</l>
+                    <l n="">cut qui quiloc v vach quih, ic</l>
+                    <l n="">chumil <num>890</num>mahaoc cazaquiroc</l>
+                    <l n="">quehe cut cucobizah vi rib ri</l>
+                    <l n="">vucub caquix chi quihil, chi</l>
+                    <l n="">iquil xa maha chicatunoc chi-</l>
+                    <l n="">calahoboc vzaquil quih ic xa</l>
+                    <l n="">xuraih nimal <num>900</num>icouen are ta</l>
+                    <l n="">xbanic butic cumal poy aham</l>
+                    <l n="">che quehe cut xchicabÿh chic</l>
+                    <l n="">ta xcamic vucub caquix ta</l>
+                    <l n="">xchacatahic, ta xbanatahic vi-</l>
+                    <l n="">nac rumal ahtzac, ahbit.</l>
+                    <l n="" rend="indent">Vae vxe vchacatahic <num>910</num>v yi-</l>
+                    <l n="">coxic chi puch v quih vucub</l>
+                    <l n="">ca quix cumal e caib qaholab</l>
+                    <l n="">hun ahpu vbi hun, xbalan-</l>
+                    <l n="">que vbi vcab xavi e caba-</l>
+                    <l n="">uil rumal itzel xquilo ri ni-</l>
+                    <l n="">marizai rib xrah vban chu-</l>
+                    <l n="">vach vqux cah, xqha curi</l>
+                    <l n="">qaholab <num>920</num>mavi vtz ta chuxoc</l>
+                    <l n="">mavi chiqaze vinac varal</l>
+                    <l n="">chuvach vleu quehe cut</l>
+                    <l n="">chicatih, v vbaxic chuvi re-</l>
+                    <l n="">cha chica v vbah vi chiri</l>
+                    <l n="">chicacoh vi viab ta quizoc</l>
+                    <l n="">v quinomal, v xit, v puvac</l>
+                    <l n="">
+                        <num>930</num>v cual, v yamanic ri cuca-</l>
+                    <l n="">cabeh que he cut chubano</l>
+                    <l n="">ronohel vinac. maui are</l>
+                    <l n="">chivinaquir vi εaεal ri xa</l>
+                    <l n="">puvac ta chuxoc xeqha ri</l>
+                    <l n="">qaholab <num>940</num>huhun chi vb qui-</l>
+                    <l n="">telen qui cabichal are cu-</l>
+                    <l n="">ri vvcub caquix e caib v qa-</l>
+                    <l n="">hol are nabe al ri zipac-</l>
+                    <l n="">na, vcab al chicut ri cab-</l>
+                    <l n="">racan chimalmat cut vbi</l>
+                    <l n="">qui chuch rixoquil ri v-</l>
+                    <l n="">vcub caquix are curi zi-</l>
+                    <l n="">pacna are chirechaah <num>950</num>ri</l>
+                    <l n="">nimac huiub. ri chicac hun</l>
+                    <l n="">ahpu pe cul ya xcanul ma-</l>
+                    <l n="">camob huliznab chuchaxic</l>
+                    <l n="">vbi huiub xqolic ta chi za-</l>
+                    <l n="">quiric xa hun aεab chi vi-</l>
+                </div>
+                <div type="col" n="06.1.2" xml:lang="spa">
+                <!-- SPANISH LINES GO HERE --></div>
+            </div>
+        </body>
+    </text>
+</TEI>
