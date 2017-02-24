@@ -55,7 +55,7 @@
                     <l n="13">hule vinac tzac, vinac bit</l>
                     <l n="14">xapoy, xapu ahamche.</l>
                     <l rend="indent">
-                        <hi>A</hi>re cut xa hubic zac na</l>
+                        <hi rend="large">A</hi>re cut xa hubic zac na</l>
                     <l n="15">tanoh vvachvleu mahabi </l>
                     <l n="16">quih hun cut cunimarizah</l>
                     <l n="17">rib, vvcub caquix vbi, qo </l>
@@ -88,49 +88,48 @@
                     <l n="43">ri, vcub caquix xere cunima – </l>
                     <!-- Big C is actually and correctional overwrite -->
                     <l n="44">rizah rib rivxic vpuvaC</l>
-                    <l n="">xere cut tocol vi v vach ri </l>
-                    <l n="">chicube vi mana ronohelta</l>
+                    <l n="45">xere cut tocol vi v vach ri </l>
+                    <l n="46">chicube vi mana ronohelta</l>
                 </div>
                 <div type="col" n="05.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                    <l n="">y queriendo meterse en los hoyos, y se les</l>
-                    <l n="">zerraban. y así fueron destruídos, y aníquí – </l>
-                    <l n="">lados, y afrentados todos, y así fue dicho se –</l>
-                    <l n="">ñal de esta gente son los monos q’agora</l>
-                    <l n="">andan por los montes. y por eso quedaron</l>
-                    <l n="">por señal porq’ solo fueron de palo hechos</l>
-                    <l n="">por el críador. y el mono por eso separeze</l>
-                    <l n="">al <del rend="scribble">n</del>ombre porq’ es señal de otro genero</l>
-                    <l n="">de hombres hechos de palo.</l>
+                    <l n="1">y queriendo meterse en los hoyos, y se les</l>
+                    <l n="2">zerraban. y así fueron destruídos, y aníquí – </l>
+                    <l n="3">lados, y afrentados todos, y así fue dicho se –</l>
+                    <l n="4">ñal de esta gente son los monos q’agora</l>
+                    <l n="5">andan por los montes. y por eso quedaron</l>
+                    <l n="6">por señal porq’ solo fueron de palo hechos</l>
+                    <l n="7">por el críador. y el mono por eso separeze</l>
+                    <l n="8">al <del rend="scribble">n</del>ombre porq’ es señal de otro genero</l>
+                    <l n="9">de hombres hechos de palo.</l>
                     <lb />
                     <lb />
                     <lb />
                     <lb />
                     <lb />
                     <lb />
-                    <l n="">Y entonzes avía poca calrídad sobre</l>
-                    <l n="">la haz de la tíerra, y aun no auía sol. y en </l>
-                    <l n="">tonzes vno llamado vvcub caquix. (esto es </l>
-                    <l n="">siete guacamayas) se ensoberbzía. auía </l>
-                    <l n="">entonzes cielo y tierra, pero estaba turbía</l>
-                    <l n="">la luz de el sol, y la luna. y este vvcub caquíx, </l>
-                    <l n="">dezía: solo aquella poca gente q’ seanego fu – </l>
-                    <l n="">eron como brujos. yo agora sere grande</l>
-                    <l n="">70 sobre todas las críaturas, yo soy su sol, yo soy </l>
-                    <l n="">su blancura, yo sere su luna. es grande</l>
-                    <l n="">mí clarídad, y soy por quíen hande andar</l>
-                    <l n="">los hombres, y pararse. porq’mís ojos son</l>
-                    <l n="">de plata solo resplandeze con las piedras </l>
-                    <l n="">preziosas, y son piedras verdes como el zíe – </l>
-                    <l n="">lo. mís narízes resplandezen delexos co –</l>
-                    <l n="">mo la luna. y es de plata mi trono, y q<hi rend="superscript">o</hi> salgo</l>
-                    <l n="">se aclara la tierra; y así yo soy el sol, y soy luna</l>
-                    <l n="">por la clarídad de los vasallos q’ tender, por –</l>
-                    <l n="">q’ mí vista alcanza muy lexos: esto dixo</l>
-                    <l n="">el dicho vvcub caquíx pero no era sol el</l>
-                    <l n="">tal vvcub caquíx; sino q’le ensoberbecía </l>
-                    <l n="">sus ríquezas, y su plata; y solo alcanzaba</l>
-                    <l n="">su vista a aquel lugar donde estaba, y</l>
+                    <l n="10">Y entonzes avía poca calrídad sobre</l>
+                    <l n="11">la haz de la tíerra, y aun no auía sol. y en </l>
+                    <l n="12">tonzes vno llamado vvcub caquix. (esto es </l>
+                    <l n="13">siete guacamayas) se ensoberbzía. auía </l>
+                    <l n="14">entonzes cielo y tierra, pero estaba turbía</l>
+                    <l n="15">la luz de el sol, y la luna. y este vvcub caquíx, </l>
+                    <l n="16">dezía: solo aquella poca gente q’ seanego fu – </l>
+                    <l n="17">eron como brujos. yo agora sere grande</l>
+                    <l n="18">70 sobre todas las críaturas, yo soy su sol, yo soy </l>
+                    <l n="19">su blancura, yo sere su luna. es grande</l>
+                    <l n="20">mí clarídad, y soy por quíen hande andar</l>
+                    <l n="21">los hombres, y pararse. porq’mís ojos son</l>
+                    <l n="22">de plata solo resplandeze con las piedras </l>
+                    <l n="23">preziosas, y son piedras verdes como el zíe – </l>
+                    <l n="24">lo. mís narízes resplandezen delexos co –</l>
+                    <l n="25">mo la luna. y es de plata mi trono, y q<hi rend="superscript">o</hi> salgo</l>
+                    <l n="26">se aclara la tierra; y así yo soy el sol, y soy luna</l>
+                    <l n="27">por la clarídad de los vasallos q’ tender, por –</l>
+                    <l n="28">q’ mí vista alcanza muy lexos: esto dixo</l>
+                    <l n="29">el dicho vvcub caquíx pero no era sol el</l>
+                    <l n="30">tal vvcub caquíx; sino q’le ensoberbecía </l>
+                    <l n="31">sus ríquezas, y su plata; y solo alcanzaba</l>
+                    <l n="32">su vista a aquel lugar donde estaba, y</l>
                 </div>
 
             </div>
