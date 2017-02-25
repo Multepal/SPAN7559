@@ -30,14 +30,15 @@
                 <language ident="quc">K'iche'</language>
                 <language ident="spa">Spanish</language>
             </langUsage>
-            <creation>
+            <creation>  
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
+<<<<<<< HEAD
             <div type="page" n="07.1" xml:id="xom-f07-s1">
                 <div type="col" n="07.1.1" xml:lang="quc">
                     <l n="1">quix, huzuc xtzac vloc, xme –</l>
@@ -47,7 +48,36 @@
                 <div type="col" n="07.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
                 </div>
+=======
+          <div type="page" n="07.1" xml:id="xom-f07-s1">
+            <div type="col" n="07.1.1" xml:lang="quc">
+	      <!-- K'ICHE' GOES HERE -->
+                <l n="1">quix, huzuc xtzac vloc, xme –</l>
+                <l n="2">ho vloc, tzam vteleb ta xutzo –</l>
+                <l n-"3">copih chi cut hunhunahpu</l>
+                ri vvcub caquix xavi vtz x – quibano ma nabe quicha ca – tahic tah rumal vvcub ca – quix. vcaam chi cut veab ri  hunhunahpu rumal ri vu –
+                cub caquix ta xbe chi rochoch 10 xa chi cu vlotem veaeate xo –
+                ponic. naqui pa mi xcamou. chi – la xqha cu ri chimalmat ri
+                xoquil vvcub caquix. na
+                qui pa ri ri e caib qaxtoq mi – xiquivubah, mi xzilibatah
+                nu eaeate rumal xacachu – iu ahe ve cacoxou chic mi nabe mixnucam vloc chuvi eae cut chixeque vi chitza –
+                20 iaba chuvi eae ta cul qui ca ma chic quitzih chi e qaxtoq
+                xqha ri vvcub caquix, ta xu xequeba veab ri hunahpu. qui naohinic chic ri huhun ahpu, xbalanq’ ta xquibih cut chirech hun mama qui – tzih zac chic rizmal vi chi mama, hun cu atit quitzih quemel atit chic, xa quelu–
+                30 cuquila chic chirihitac vi – nac. zaqui nim ac vbi ma –
+                ma zaqui nima tziz cut vbi atit xeqha curi qaholab chique ri atit mama quix– cachbilahtah chibe ta cama caeab ruq vucub caquix
+                xa cohtere chivih, quiri ca mam ri cachbilan caminac qui chuch qui cahau quehe
+                40 cut que tere co tila vi chi – quih tala quecazipah vi ru
+                mal xa elezan vchicopil
+                eiah cacabano quixqha que – he curi oh acalab chirilo ri vvcub caquix, xavi oh qoh yavic inaoh, xeqha ri e ca – ib qaholab; vtz bala xeqha –
+                
+                
+                
+>>>>>>> master
             </div>
+            <div type="col" n="07.1.2" xml:lang="spa">
+              <!-- SPANISH LINES GO HERE -->
+            </div>
+          </div>
         </body>
     </text>
 </TEI>

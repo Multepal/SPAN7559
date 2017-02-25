@@ -80,7 +80,7 @@
 				<l n="38">qha cut, ta xenaohinic, ta xe</l>
 				<l n="39">bizonic, xerico quib, xquicuch</l>
 				<l n="40">qui tzih, qui naoh, ta xcalah</l>
-				<l n="41">ta xquiquxlaah quib <add>xe vi</add> zac ta</l> <!-- ADD REND TAG -->
+				<l n="41">ta xquiquxlaah quib <add>xe vi</add> zac ta</l> <!-- ADD REND TAG FOR SUPERSCRIPT -->
 				<l n="42">xcalah puch vinac, ta xqui -</l>
 				<l n="43">naohih v tzuquic v vinaqui -</l>
 				<l n="44">ric che, caam, v tzucuquic pu -</l>
@@ -111,7 +111,7 @@
                 <l n="20">lo ella represada, nícosa alguna avía q’es -</l>
                 <l n="21">tuviese; solo estaba en sílencio, y sosiego, en la</l>
                 <l n="22">obscuridad, y la noche; solo estaba el críador</l>
-                <l n="23">y formador, S<abbr type="superscription">or.</abbr> culebra fuerte, las madres, y</l>
+                <l n="23">y formador, S<abbr type="superscription">or.</abbr> culebra fuerte, las madres, y</l> <!-- HOLDER TAG FOR SUPERSCRIPT -->
                 <l n="24">P<abbr type="superscription">es.</abbr> estan en el agua, en una claridad abierta</l>
                 <l n="25">y estaban cubiertos en plumas verdes, por</l>
                 <l n="26">eso se llama qucumatz grandes sabíos, y</l>

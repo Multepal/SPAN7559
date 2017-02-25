@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,56 +40,95 @@
         <body>
             <div type="page" n="05.1" xml:id="xom-f05-s1">
                 <div type="col" n="05.1.1" xml:lang="quc">
-                    <l n="1">qui xot, qui lac, qui boh, <num>740</num>qui tzi</l>
-                    <l n="2">qui εaa, haruh pa la ronohel</l>
+                    <l n="1">quixot, qui lac, qui boh, qui tzi</l>
+                    <l n="2">quieaa, haruh pala ronohel</l>
                     <l n="3">xcutu qui vach cax xiban</l>
-                    <l n="4">chique, xohitio ixchi cut x-</l>
-                    <l n="5">quixcati chic xqha ri qui tzi</l>
-                    <l n="6">cac chiquech. <num>750</num>re cu ri εaa</l>
+                    <l n="4">chique, xohitio ixchi cut x–</l>
+                    <l n="5">quixcati chic xqhari qui tzi</l>
+                    <l n="6">cac chiquech. re cu ri eaa</l>
                     <l n="7">xohcoconic iuumal hu ta</l>
-                    <l n="8">quih, hu ta quih, xquec zaqui-</l>
-                    <l n="9">ric amaquel holi, holi, hu-</l>
-                    <l n="10">qui, <num>760</num>huqui ca vach ivumal</l>
-                    <l n="11">are ta nabe capatan chiva-</l>
-                    <l n="12">ch, ixtana vinac vaca-</l>
+                    <l n="8">quih, hu ta quih, xquec zaqui–</l>
+                    <l n="9">ric amaquel holi, holi, hu–</l>
+                    <l n="10">1qui, huqui ca vach ivumal</l>
+                    <l n="11">are ta nabe capatan chiva –</l>
+                    <l n="12">ch, ixtana vinac vaca –</l>
                     <l n="13">mic cut xchitih ca chucab</l>
                     <l n="14">xchicaqueeh, xchicahoc</l>
                     <l n="15">puch i tiohil xqhari qui</l>
-                    <l n="16">εaa chique. <num>770</num>are curi qui</l>
+                    <l n="16">eaa chique. are curi qui</l>
                     <l n="17">tzi xqha chic ta xqhauic, na</l>
-                    <l n="18">qui pa rumal maui chi-</l>
+                    <l n="18">qui pa rumal maui chi –</l>
                     <l n="19">ya cava, xa cohmucunic</l>
                     <l n="20">xa pu cohicuxih vloc, coh</l>
                     <l n="21">izac pu vloc yacal vbi ca</l>
-                    <l n="22">cheel ivumal ta quixva-</l>
+                    <l n="22">cheel ivumal ta quixva –</l>
                     <l n="23">ic xere cohivuchaah vi</l>
-                    <l n="24">maui cohqhauic <num>780</num>mata cu</l>
+                    <l n="24">maui cohqhauic mata cu</l>
                     <l n="25">mi xohcamic chiue hu pa</l>
                     <l n="26">cha maui mi xixnauic</l>
                     <l n="27">xixnau ta cut chiuih ta cut</l>
-                    <l n="28">xohzach vi, vacamic cut x-</l>
-                    <l n="29">chitih cabac qo pa ca chi x-</l>
-                    <l n="30">quixcatio xeqha ri tzi chi-</l>
-                    <l n="31">que ta xcut qui vach. <num>790</num>are</l>
-                    <l n="32">chicuri qui xot, qui boh x-</l>
+                    <l n="28">xohzach vi, vacamic cut x –</l>
+                    <l n="29">chitih cabac qo pa ca chi x –</l>
+                    <l n="30">quixcatio xeqha ri tzi chi–</l>
+                    <l n="31">que ta xcut qui vach. are</l>
+                    <l n="32">chicuri qui xot, qui boh x–</l>
                     <l n="33">chau chic chique: cax, va xi</l>
-                    <l n="34">ban chique xac ca chi, xac-</l>
+                    <l n="34">ban chique xac ca chi, xac – </l>
                     <l n="35">ca vach; amaquel oh tzacal</l>
                     <l n="36">chuuicac cohicato maui cax</l>
                     <l n="37">xcanao, xchitih cut xquix</l>
-                    <l n="38">caporoh xcha ri qui boh <num>800</num>ro</l>
-                    <l n="39">nohel xcutu qui vach. are ri</l>
+                    <l n="38">caporoh xcha ri qui boh ro–</l>
+                    <l n="39">nohel xcutu qui vach. areri</l>
                     <l n="40">abah ri quixcub chitaninic</l>
-                    <l n="41">chipe pa εaε taεal chi qui-</l>
+                    <l n="41">chipe paeae taeal chi qui –</l>
                     <l n="42">holom, cax xban chique.</l>
                     <l n="43">anilabic que mal malihab</l>
-                    <l n="44">chic <num>810</num>querah acanic chuvi</l>
+                    <l n="44">chic querah acanic chuvi</l>
                     <l n="45">ha xa chiu vlih ha quetzac</l>
-                    <l n="46">vloc, querah acan chuvi che</l>
-                    <l n="47">queqhaquix vloc ruma che</l>
+                    <l n="46">vloc, querah acan chuvi</l>
+                    <l n="47">che queqhaquix vloc ruma che</l>
                 </div>
                 <div type="col" n="05.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE --></div>
+                    <l n="1">caxetes, ollas, perros, y tínajas. todos quan –</l>
+                    <note place="margin"><num rend="large">5</num></note>
+                    <l n="2">tos ubo les afrentaron, y les dixeron, muy mal</l>
+                    <l n="3">nos tratastes, nos mordiste, y así os mordere</l>
+                    <l n="4">mos agora, dixeron los perros, y las gallínas.</l>
+                    <l n="5">y las piedras de moler dixeron. fuímos muy </l>
+                    <l n="6">atormentadas por vosotros todos, todos los días</l>
+                    <l n="7">ala tarde ala mañana; siempre hazíendo</l>
+                    <l n="8">holí, holí, huquí, huquí. (esto es el sonído de</l>
+                    <l n="9">la piedra, y el chíflido q’hazen almoler,) y</l>
+                    <l n="10">este fue nuestro trabaxo en vuestras caras, y</l>
+                    <l n="11">fueraís bíenquístos, y pues no lo fuistes, ago –</l>
+                    <l n="12">ra probareís nuestras fuerzas, moleremos</l>
+                    <l n="13">60 vuestras carnes, y haremos harína vuestros</l>
+                    <l n="14">cuerpos. esto les díxeron las píedras de mo –</l>
+                    <l n="15">ler. y los perros díxeron qo hablaron: porq’no –</l>
+                    <l n="16">nos dabaís nuestra comida, sino q’solo estaba –</l>
+                    <l n="17">mos mírandoos, y nos corríaís, y nos arrojabaís,</l>
+                    <l n="18">y siempre estaba prevenido un palo para dar –</l>
+                    <l n="19">nos qo comíaís, y así nos tratabaís porq’ no ha –</l>
+                    <l n="20">blabamos, quízas no ubíeraís muerto agora </l>
+                    <l n="21">porq’ no mírasteís por vosotros? así nos perdí –</l>
+                    <l n="22">mos, agora probareís nuestros dientes, q’es –</l>
+                    <l n="23">tan en nuestra voca, os comeremos. díxeron</l>
+                    <l n="24">los perros. q’ lesdieron en rostro. y los coma –</l>
+                    <l n="25">les, y las ollas los hablaron en esta forma:</l>
+                    <l n="26">dolor, y pena nos dísteís. nuestras vocas, y</l>
+                    <l n="27">nuestros rostros tíznados, siempre estaba –</l>
+                    <l n="28">mos cociendo sobre el fuego, nos quemas –</l>
+                    <l n="29">teís, y no sentimos el dolor, probareís ago –</l>
+                    <l n="30">ra, y os quemaremos dixeron las ollas</l>
+                    <l n="31">todas dandoles en rostro.y las piedras</l>
+                    <l n="32">q’eran tenamastes con furia venga el</l>
+                    <l n="33">80 fuego, nuestras cabezas puestas pa. la olla</l>
+                    <l n="34">nos hízísteís, y causasteís dolor. y anda– </l>
+                    <l n="35">ban corriendo, desatinados, y queriendo</l>
+                    <l n="36">subirse sobre las casas, y se les caía la ca –</l>
+                    <l n="37">sa, y venían abaxo. y querían subir so –</l>
+                    <l n="38">bre los palos, y los arroxaban los palos.</l>
+                </div>
             </div>
         </body>
     </text>
