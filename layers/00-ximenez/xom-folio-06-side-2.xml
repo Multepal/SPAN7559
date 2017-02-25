@@ -1,98 +1,146 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
-				<author>Ximénez, Francisco</author>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>The Newberry Library</publisher>
-				<pubPlace>Chicago, Illinois, USA</pubPlace>
-			</publicationStmt>
-			<notesStmt>
-				<note>
-					<att xml:id="folio-number">06</att>
-					<att xml:id="side-number">2</att>
-				</note>
-			</notesStmt>
-			<sourceDesc>
-				<p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 06, Side 2. 
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">06</att>
+                    <att xml:id="side-number">2</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 06, Side 2. 
                 Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
                 https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
                 https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="quc">K'iche'</language>
-				<language ident="spa">Spanish</language>
-			</langUsage>
-			<creation>
-				<date>Spring 2017</date>
-				<name>R. C. Alvarado</name>
-			</creation>
-		</profileDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<div type="page" n="06.2" xml:id="xom-f06-s2">
-				<div type="col" n="06.2.1" xml:lang="quc">
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>R. C. Alvarado</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="06.2" xml:id="xom-f06-s2">
+                <div type="col" n="06.2.1" xml:lang="quc">
 				    <!-- The number 6 in the margin is in a different hand and ink (pencil?) -->
-					<l n="1"><note rend="left-margin"><num rend="large">6</num></note>naquiric rumal ri zipacna</l>
-					<l n="2">are ri chicuri cabracan chi–</l>
-					<l n="3">zilab huiub rumal chi ne</l>
-					<l n="4">bouic chuti huiub, nima</l>
-					<l n="5">huyub rumal, xaui quehe</l>
-					<l n="6">nimarizabal quib xquiba –</l>
-					<l n="7">no vqahol vvcub caquix</l>
-					<l n="8">ixva, in quih xqha vucub</l>
-					<l n="9">caquix inva, in banol vleu</l>
-					<l n="10">xqha ri zipacna, in chicut</l>
-					<l n="11">quiyou cah chinvlih rono –</l>
-					<l n="12">hel vleu xqhari <corr>cabracan</corr></l>
-					<l n="13">xavi vqahol vvcub caquix</l>
-					<l n="14">xaui chiri xquicam vi qui –</l>
-					<l n="15">nimal chirih qui cahau are</l>
-					<l n="16">cut itzel xquil vi qaholab,</l>
-					<l n="17">maha chibantahoc canabe</l>
-					<l n="18">chuch canabe cahau quehe</l>
-					<l n="19">cut xnohix vi qui camic qui</l>
-					<l n="20">zachic cumal qaholab.</l>
-					<l n="21" rend="indent"><hi rend="large">V</hi>ae cute v vbaxic vvcub</l>
-					<l n="22">caquix cumal caib qaholab</l>
-					<l n="23">xch<del rend="scribble">i</del> cabÿh qui chacatahic</l>
-					<l n="24">chi qui huhunal ri nimari –</l>
-					<l n="25">zai rib are ri vvcub ca –</li>
-					<l n="26">quix hun nima che ri ta –</l>
-					<l n="27">pal are cu recha ri vvcub</l>
-					<l n="28">caquix are chulo ri v vach</l>
-					<l n="29">tapal chacan chui che huta –</l>
-					<l n="30">quih xilo macut rechabal</l>
-					<l n="31">cumal ri hun ahpu, xbalan</l>
-					<l n="32">que, quicacalen chicut chu –</l>
-					<l n="33">xe che ri vvcub ca quix e</l>
-					<l n="34">matzamoh vlo ri caib qaho –</l>
-					<l n="35">lab pa xac che ta xopon</l>
-					<l n="36">cut <del>caibqaholab</del> vcub ca –</l>
-					<l n="37">quix tacal chui recha ri ta –</l>
-					<l n="38">pal cate cut ta xubaxic</l>
-					<l n="39">cumal ri hun hunahpu ta</l>
-					<l n="40">cal vbac vub chu ca eate</l>
-					<l n="41">churacuh vchi ta xpe chui</l>
-					<l n="42">che tacal chvach vleu chi –</l>
-					<l n="43">malmat cut ri hun hunah –</l>
-					<l n="44">pu anim xbec quitzih vi x –</l>
-					<l n="45">be vqhapa, cate cut ta x –</l>
-					<l n="46">cupix vla veab rihun hu</l>
-					<l n="47">nahpu rumal ri vvcub ca</l>	      
-				</div>
-				<div type="col" n="06.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                    <l n="1">
+                        <note rend="left-margin">
+                            <num rend="large">6</num>
+                        </note>naquiric rumal ri zipacna</l>
+                    <l n="2">are ri chicuri cabracan chi–</l>
+                    <l n="3">zilab huiub rumal chi ne</l>
+                    <l n="4">bouic chuti huiub, nima</l>
+                    <l n="5">huyub rumal, xaui quehe</l>
+                    <l n="6">nimarizabal quib xquiba –</l>
+                    <l n="7">no vqahol vvcub caquix</l>
+                    <l n="8">ixva, in quih xqha vucub</l>
+                    <l n="9">caquix inva, in banol vleu</l>
+                    <l n="10">xqha ri zipacna, in chicut</l>
+                    <l n="11">quiyou cah chinvlih rono –</l>
+                    <l n="12">hel vleu xqhari <corr>cabracan</corr>
+                    </l>
+                    <l n="13">xavi vqahol vvcub caquix</l>
+                    <l n="14">xaui chiri xquicam vi qui –</l>
+                    <l n="15">nimal chirih qui cahau are</l>
+                    <l n="16">cut itzel xquil vi qaholab,</l>
+                    <l n="17">maha chibantahoc canabe</l>
+                    <l n="18">chuch canabe cahau quehe</l>
+                    <l n="19">cut xnohix vi qui camic qui</l>
+                    <l n="20">zachic cumal qaholab.</l>
+                    <milestone unit="paragraph" />
+                    <l n="21" rend="indent">
+                        <hi rend="large">V</hi>ae cute v vbaxic vvcub</l>
+                    <l n="22">caquix cumal caib qaholab</l>
+                    <l n="23">xch<del rend="scribble">i</del> cabÿh qui chacatahic</l>
+                    <l n="24">chi qui huhunal ri nimari –</l>
+                    <l n="25">zai rib are ri vvcub ca –</l>
+                    <l n="26">quix hun nima che ri ta –</l>
+                    <l n="27">pal are cu recha ri vvcub</l>
+                    <l n="28">caquix are chulo ri v vach</l>
+                    <l n="29">tapal chacan chui che huta –</l>
+                    <l n="30">quih xilo macut rechabal</l>
+                    <l n="31">cumal ri hun ahpu, xbalan</l>
+                    <l n="32">que, quicacalen chicut chu –</l>
+                    <l n="33">xe che ri vvcub ca quix e</l>
+                    <l n="34">matzamoh vlo ri caib qaho –</l>
+                    <l n="35">lab pa xac che ta xopon</l>
+                    <l n="36">cut <del>caibqaholab</del> vcub ca –</l>
+                    <l n="37">quix tacal chui recha ri ta –</l>
+                    <l n="38">pal cate cut ta xubaxic</l>
+                    <l n="39">cumal ri hun hunahpu ta</l>
+                    <l n="40">cal vbac vub chu ca eate</l>
+                    <l n="41">churacuh vchi ta xpe chui</l>
+                    <l n="42">che tacal chvach vleu chi –</l>
+                    <l n="43">malmat cut ri hun hunah –</l>
+                    <l n="44">pu anim xbec quitzih vi x –</l>
+                    <l n="45">be vqhapa, cate cut ta x –</l>
+                    <l n="46">cupix vla veab rihun hu</l>
+                    <l n="47">nahpu rumal ri vvcub ca</l>
                 </div>
-			</div>
-		</body>
-	</text>
-</TEI>
+                <div type="col" n="06.2.2" xml:lang="spa">
+                <!-- SPANISH LINES GO HERE -->
+                    <l n="1">monte, y su hermano cabrracan (esto es</l>
+                    <l n="2">de dos pies) meneaba, y hazía temblar, los</l>
+                    <l n="3">montes, grandes y chicos, y así tambíen se</l>
+                    <l n="4">ensoberbecíeron estos dos híjos de vvcub –</l>
+                    <l n="5">caquix. y así vvcubcaquix dixo aueísde</l>
+                    <l n="6">saber q’yo soy el sol; y soy el hazedor de</l>
+                    <l n="7">la tierra dixo zípacna; y yo soy díxo cab –</l>
+                    <l n="8">racan el <abbr>q’</abbr> muevo la tíerra, deríbare to –</l>
+                    <l n="9">da la toerra; y así mesmo los hijos de vvcub</l>
+                    <l n="10">caquíx así mesmo se ensoberbezieron, por</l>
+                    <l n="11">la soberbia de su <abbr>Pe.</abbr> yesto les parecío</l>
+                    <l n="12">muy mal alos dos muchachos, hunahpu</l>
+                    <l n="13">y xbalanque. y aun todauía no se auí –</l>
+                    <l n="14">an hecho nuestros prímeros <abbr>Pes</abbr> y Madres</l>
+                    <l n="15">yasí se consultó por los dos muchachos sus –</l>
+                    <l n="16">muertes, de vvcubcaquíx, de zípacna</l>
+                    <l n="17">y cabrracan.</l>
+                    <lb />
+                    <lb />
+                    <lb />
+                    <milestone unit="paragraph" />
+                    <l n="18">y aquí sesigue el dezir el vodocazo <abbr>q’</abbr> los</l>
+                    <l n="19">dos muchachos díeron a vvcub caquíx, y</l>
+                    <l n="20">como cada vno fue destruído por su sober</l>
+                    <l n="21">bía.</l>
+                    <milestone unit="paragraph" />
+                    <l n="22">Este vvcubcaquíx tená vn palo, o arbol</l>
+                    <l n="23">de nanses porq’ esta era slo sucomída</l>
+                    <l n="24">y todos los días se subía al arbol de nanses</l>
+                    <l n="25">a comer la fruta esto auían vísto hun</l>
+                    <l n="26">ahpu, y xbalanque q’era su comída, y</l>
+                    <l n="27">se pusieron en espía los dos muchachos de</l>
+                    <l n="28">baxo de el arbol escondidos entre las ho –</l>
+                    <l n="29">jas de la íerua, y entonzes llego vvcub</l>
+                    <l n="30">caquíc, y estando ya subido en el arbol</l>
+                    <l n="31">entonzes hun ahpu le tíro vn vodocazo</l>
+                    <l n="32"><abbr>q’</abbr> fue derecho y le dío en la quíxada, y dan –</l>
+                    <l n="33">do gritos cayo en el suelo y luego q’ hun</l>
+                    <l n="34">ahpu vío caído a vvcubcaquíx fue a to –</l>
+                    <l n="35">da prísa fue agachado a cogerlo, y en<corr> –</corr></l>
+                    <l n="36">tonzes vvcub caquíx le cogío el brazo</l>
+                    <l n="37"><del type="scribble">y</del> <del type="strike-through">avvcu</del> ahunahpu, y selo arranco, y se</l>
+                </div>
+                </div>
+            </body>
+        </text>
+    </TEI>
