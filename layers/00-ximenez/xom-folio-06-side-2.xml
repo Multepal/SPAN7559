@@ -40,9 +40,10 @@
 		<body>
 			<div type="page" n="06.2" xml:id="xom-f06-s2">
 				<div type="col" n="06.2.1" xml:lang="quc">
-					<l n="1">naquiric rumal ri zipacna</l>
+				    <!-- The number 6 in the margin is in a different hand and ink (pencil?) -->
+					<l n="1"><note rend="left-margin"><num rend="large">6</num></note>naquiric rumal ri zipacna</l>
 					<l n="2">are ri chicuri cabracan chi–</l>
-					<l n="3">zilab huiub rumal chine–</l>
+					<l n="3">zilab huiub rumal chi ne</l>
 					<l n="4">bouic chuti huiub, nima</l>
 					<l n="5">huyub rumal, xaui quehe</l>
 					<l n="6">nimarizabal quib xquiba –</l>
@@ -51,9 +52,9 @@
 					<l n="9">caquix inva, in banol vleu</l>
 					<l n="10">xqha ri zipacna, in chicut</l>
 					<l n="11">quiyou cah chinvlih rono –</l>
-					<l n="12">hel vleu xqhari cabracan</l>
+					<l n="12">hel vleu xqhari <corr>cabracan</corr></l>
 					<l n="13">xavi vqahol vvcub caquix</l>
-					<l n="14">1xaui chiri xquicam vi qui –</l>
+					<l n="14">xaui chiri xquicam vi qui –</l>
 					<l n="15">nimal chirih qui cahau are</l>
 					<l n="16">cut itzel xquil vi qaholab,</l>
 					<l n="17">maha chibantahoc canabe</l>
@@ -62,7 +63,7 @@
 					<l n="20">zachic cumal qaholab.</l>
 					<l n="21" rend="indent"><hi rend="large">V</hi>ae cute v vbaxic vvcub</l>
 					<l n="22">caquix cumal caib qaholab</l>
-					<l n="23">xch<del>i</del> cabÿh qui chacatahic</l>
+					<l n="23">xch<del rend="scribble">i</del> cabÿh qui chacatahic</l>
 					<l n="24">chi qui huhunal ri nimari –</l>
 					<l n="25">zai rib are ri vvcub ca –</li>
 					<l n="26">quix hun nima che ri ta –</l>
@@ -75,7 +76,7 @@
 					<l n="33">xe che ri vvcub ca quix e</l>
 					<l n="34">matzamoh vlo ri caib qaho –</l>
 					<l n="35">lab pa xac che ta xopon</l>
-					<l n="36">cut caibqaholab vcub ca –</l>
+					<l n="36">cut <del>caibqaholab</del> vcub ca –</l>
 					<l n="37">quix tacal chui recha ri ta –</l>
 					<l n="38">pal cate cut ta xubaxic</l>
 					<l n="39">cumal ri hun hunahpu ta</l>
@@ -89,7 +90,8 @@
 					<l n="47">nahpu rumal ri vvcub ca</l>	      
 				</div>
 				<div type="col" n="06.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE --></div>
+                <!-- SPANISH LINES GO HERE -->
+                </div>
 			</div>
 		</body>
 	</text>
