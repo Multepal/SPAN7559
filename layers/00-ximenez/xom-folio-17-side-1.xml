@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,107 @@
             <div type="page" n="17.1" xml:id="xom-f17-s1">
                 <div type="col" n="17.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                        <lb n="1" />are curi quic xubinaah rumal quic
+                        <lb n="2" />holomax chuchaxic. chila cut quix
+                        <lb n="3" />locox vi chuvach vleu qo ivech chu –
+                        <lb n="4" />xic xqha cut chique ri tucur vtzba –
+                        <lb n="5" />la at capoh. xcabeba cauaba a –
+                        <lb n="6" />canoc xa cabin apanoc oh nacaya
+                        <lb n="7" />ixtah v va vquexevachaqux chi –
+                        <lb n="8" />quivach ahauab xeqha cut ri za –
+                        <lb n="9" />mahel. ta xopon cut chiquivach
+                        <lb n="10" />ahauab quezeleuachin conohel.
+                        <lb n="11" />maui xutzinic xqha cut hun came.
+                        <lb n="12" />mi xutzinic ixahauab vana cu vqux
+                        <!-- Does this work to show that the "x" in "xe" is slightly left-aligned? -->
+                        <lb n="13" /><note place="margin"><num rend="large">x</num></note>e qo pazel. utzbala vila cut xqha
+                        <lb n="14" />curi hun came ta xuchuieh cu a
+                        <lb n="15" />can oc eaturur rih chicomah eae
+                        <lb n="16" />luhluh rih chiquic vtz chiluu v
+                        <lb n="17" />vach eae chiya chuvi eae xqha cut
+                        <lb n="18" />hun came. cate puch xquichaquih
+                        <lb n="19" />chuvi eae coc cut xquina xibalba
+                        <lb n="20" />xequiz yacatah vloc conohel xe
+                        <lb n="21" />chique chuvi quitzih chi quz xqui –
+                        <lb n="22" />nao ri vzibel quic are cut e chiqui –
+                        <lb n="23" />choh vi canoc ta xebe ri tucur e
+                        <lb n="24" />uabai rech capoh xuquia acanoc
+                        <lb n="25" />chihul chau vbi vleuh xzalih chi –
+                        <lb n="26" />cu cah oc ri vabanel. quehe cut xe
+                        <lb n="27" />chacatah vi rahaual xibalba
+                        <lb n="28" />ri rumal capoh xemoyvachixic
+                        <lb n="29" />conohel.
+                        <lb n="30" rend="indent" /><hi rend="large">A</hi>re cut e qo ri vchuch hun batz
+                        <lb n="31" />hun choven ta xul ri ixoc xquic v
+                        <lb n="32" />bi. ta xul cut ri ixoc xquic ruq 
+                        <lb n="33" />ri vchuch hun batz hun choven
+                        <lb n="34" />xqoloc ral chupam. xa zcaquin 
+                        <lb n="35" />chic maui queyaqueic ri hun ah-
+                        <lb n="36" />pu xbalanque quibi. ta xul curi ixoc
+                        <lb n="37" />chire ri atit xqha curi ixoc chire
+                        <lb n="38" />ri atit. mi xinulic lal chichu in
+                        <lb n="39" />alibla in puch alcual la lal chichu
+                        <lb n="40" />xqha ta xoc vloc ruq ri atit. apa
+                        <lb n="41" />catpe vi vloc qo chi pa ri val ma
+                        <lb n="42" />pa xecamic chi xibalba. e cu caib
+                        <lb n="43" />canoc quetal qui tzihel puch hun
+                        <lb n="44" />batz hun chouen quibi ve avila
+                        <lb n="45" />catpe vi catel vbic xuqha x ri ca –
+                        <lb n="46" />poh rumal atit. xere la quitzih
+                        <lb n="47" />vi chi in alibla xqo nare inqovi
+                        </p>
                 </div>
                 <div type="col" n="17.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                        <lb n="1" />ello fue llamado sangre. alla en la tierra
+                        <lb n="2" />tendreís cosa vuestra, y series regalados, les
+                        <lb n="3" />dixo la donzella alos tecolotes. estabíen don
+                        <lb n="4" />zella díxeron ellos íremos allevar esto, y tu
+                        <lb n="5" />anda bete <choice><abbr>q’</abbr><expand>que</expand></choice>nosotros vamos a dar este su tru –
+                        <lb n="6" />eque de tu corazon alos <abbr type="superscription">SSes.</abbr>dixeron los te –
+                        <lb n="7" />coletes. y luego <choice><abbr>q’</abbr><expand>que</expand></choice> llegaron ala presençía
+                        <lb n="8" />de los <abbr type="superscription">SSes.</abbr> <choice><abbr>q’</abbr><expand>que</expand></choice>estaban aguardando todos.
+                        <lb n="9" />por ventura yase concluyo dixeron hun –
+                        <lb n="10" />came, y vvcub came. yaze concluyó <abbr type="superscription">SSes.</abbr>
+                        <lb n="11" />díxeron ellos. aquí esta sucorazon en el
+                        <lb n="12" />asíento de esta hícara. estabíen veamos
+                        <lb n="13" />dixeron huncame, y vvcubcame. y cogíen
+                        <lb n="14" />dolo con los tres dedos lo leuanto <choice><abbr>pa</abbr><expand>para</expand></choice> arrí –
+                        <lb n="15" />ba chorreaba lasangre, y estaba muy
+                        <lb n="16" />colorado de sangre. atízad muy bien el
+                        <lb n="17" />fuego díxo, y poneldo sobre el fuego, dixo
+                        <lb n="18" />huncame. y luego q’losecaron sobre el fuego
+                        <lb n="19" />síntíeron los de el infíerno la fragançía, y
+                        <lb n="20" />selevantaron todos y estuvíeron como em –
+                        <lb n="21" />belesados sobre el, de verdad era cosa muy
+                        <lb n="22" />suave lo <choice><abbr>q'</abbr><expand>que</expand></choice>síntíeron de el humo de la san –
+                        <lb n="23" />gre. y luego quando se fueron, admíra –
+                        <lb n="24" />dos, el tecolote, y los demas q’auían lleua –
+                        <lb n="25" />do ala donzella. y así fueron vençidos los
+                        <lb n="26" />señores de el ínfíerno, por la donçella.
+                        <lb n="27" />con aquella aparíencía fueron deslum –
+                        <lb n="28" />brados todos.
+                        <lb />
+                        <lb n="29" rend="indent" /><hi rend="large">Y</hi>estaba la madre de hun batz, y huncho –
+                        <lb n="31" />uen quando llego la mugger <choice><abbr>q'</abbr><expand>que</expand></choice>se llamaba
+                        <lb n="32" />xquíc. entonçes llego la mugger llamada
+                        <lb n="33" />xquic con la madre de hunbatz, y hun’ch –
+                        <lb n="34" />uoen y actualmente estaba preñada, y le 
+                        <lb n="35" />faltaban para nacer a hun ahpu, y a xba –
+                        <lb n="36" />lanque, <choice><abbr>q'</abbr><expand>que</expand></choice>así sellamaban. y llegando esta
+                        <lb n="37" />mugger ala vieja le díxo la mugger x –
+                        <lb n="38" />quíc: he venido <abbr type="superscription">Sa.</abbr><abbr type="superscription">Me.</abbr><choice><abbr>q'</abbr><expand>que</expand></choice>soy su nuera, ysu
+                        <lb n="39" />híja pequeña, esto díxo quando llego
+                        <lb n="40" />a laVíeja. deadonde vienes, por ventura
+                        <lb n="41" />víven mís híjos? no muríeron alla en el
+                        <lb n="42" /> ínfíerno? los <choice><abbr>q'</abbr><expand>que</expand></choice>eran desçendençía mía lla –
+                        <lb n="43" />mados hun batz, hun chouen, no estan aquí?
+                        <lb n="44" />de adonde víenes? sal deaquí. le fue dícho
+                        <lb n="45" />ala donçella por la víeja. solo esto es ver –
+                        <lb n="46" />dad, <choice><abbr>q'</abbr><expand>que</expand></choice>soy su nuera, y soy de hun hunahpu
+                        </p>
                 </div>
             </div>
         </body>
