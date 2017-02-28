@@ -27,12 +27,12 @@
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="quc">K'iche'</language>
-                <language ident="spa">Spanish</language>
-            </langUsage>
+                <language ident="quc">K'iche'anguage>
+                <language ident="spa">Spanishanguage>
+            angUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Will Norton</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,10 +40,107 @@
         <body>
             <div type="page" n="40.1" xml:id="xom-f40-s1">
                 <div type="col" n="40.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                <lb n="1" />chinic puch quih, ic, qhumil
+                <l n="2" rend="indent">Vae cute vzaquiric vvachi –
+                <lb n="3" />nic puch quih, ic, qhumil.
+                <l n="4" rend="indent"><hi rend="large">N</hi>im cut xe quicotic balam
+                <lb n="5" />quitze, balam acab, mahucutah,
+                <lb n="6" />iqui balam ta xril ri icoquih. na
+                <lb n="7" />be xel vloc chitiltotic vvach
+                <lb n="8" />ta xel vloc nabe cut chuvach
+                <lb n="9" />quih cate cut ta xqui quir qui
+                <lb n="10" />pom chila petenac vi relebal
+                <lb n="11" />quih cate vchac chiquiqux ta
+                <lb n="12" />xquiquiroc oxichal quicamo –
+                <lb n="13" />vabal chi qui qux. mi xtam
+                <lb n="14" />pom vbi pom rucaam balam
+                <lb n="15" />quiꜩe. cavizton pom chicv –
+                <lb n="16" />bi pom rucaam balam acab.
+                <lb n="17" />cabavil pom chuqhaxic chic
+                <lb n="18" />rucam mahucutah. e oxibqo
+                <lb n="19" />qui pom are cut xquicato
+                <lb n="20" />ta xe zacbizani aponoc chila
+                <lb n="21" />relebal quih quz queoquic
+                <lb n="22" />taxezacbizanic x quicat qui –
+                <lb n="23" />pom loꜫalah pom cate cut x –
+                <lb n="24" />coqueh ri maui xquilo ma –
+                <lb n="25" />pu xquivachih ralaxic quih
+                <lb n="26" />cate puch ta xel vlo quih xquicotic
+                <lb n="27" />chuti chicop nima chicop xquiz ya –
+                <lb n="28" />catah vloc pabeya pazivan xe>
+                <lb n="29" />qoheic tzam tachuyub, xahun xqui –
+                <lb n="30" />xevi qui vach chila xelvi vloc
+                <lb n="31" />quih, cate ta xeoquic coh balam
+                <lb n="32" />nabe cut xoc ri q,iquin quele
+                <lb n="33" />ꜩu vbi. quitzih chi xquicot rono –
+                <lb n="34" />hel chicop xquirip qui xic, cot
+                <lb n="35" />zaccuch chuti q,iquin nima q,iquin.
+                <lb n="36" />e cu xucuxuxinac ri ah quixb,
+                <lb n="37" />ah cahb nim quequicotic ruq rah
+                <lb n="38" />quixb, rahcahb tamub ilocab ruq
+                <lb n="39" />rabinaleb ꜫaꜫchequeleb, ahq,I –
+                <lb n="40" />quinaha ruq tuhalha vchaba –
+                <lb n="41" />ha, quibaha, ah batena ruqya –
+                <lb n="42" />qui tepeu harub pa chi a mac qo
+                <lb n="43" />vacamic maui ahilan chi vinac
+                <lb n="44" />xahun xzaquir vi ronohel a –
+                <lb n="45" />mac, cate puch xchquihic v
+                <lb n="46" />vach vleu rumal ri quih queheri
+                <lb n="47" />hun chivinac riquih taxucut
+                </p>
+                
                 </div>
                 <div type="col" n="40.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" />luna, y a las estrellas.
+                <lb n="2" />y este fue el esclarezer, y manífes –
+                <lb n="3" />tarse el sol, la luna, y las estrellas.
+                <lb n="4" />y grandemente se alegraron
+                <lb n="5" />balamquíꜩe, balam acab, mahu –
+                <lb n="6" />cutah, y íquíbalam. quando se uío
+                <lb n="7" />el luzero, <abbr>q’</abbr>salío prímero bríllando
+                <lb n="8" />y salío prímero ante el sol. y luego
+                <lb n="9" />desataron el copal, o ínçíenso <abbr>q’</abbr>auí –
+                <lb n="10" />an traído de alla de el oríente, des –
+                <lb n="11" />pues ha deseruír díxeron en su corazon
+                <lb n="12" />y entonçes desataron los tres dones, <abbr>q’</abbr>>
+                <lb n="13" />auían pensado en sus corazones. y el
+                <lb n="14" />ínçíenso <abbr>q’</abbr>traía balamquítze se lla –
+                <lb n="15" />maba míxtam pom. y el Segundo <abbr>q’</abbr>>
+                <lb n="16" />traía balam acab sellamaba: cauíz –
+                <lb n="17" />tan pom. y el <abbr>q’</abbr>traía mahucutah se
+                <lb n="18" />llamaba: cabauíl pom. y aquellos tres
+                <lb n="19" />tenían solo ínçíenso, y esto quema –
+                <lb n="20" />ron <abbr type="superscription">qo</abbr> se fueron baílando haçía el –
+                <lb n="21" />oríente. y de dulçura lloraban, y
+                <lb n="22" /><abbr type="superscription">qo</abbr>. baílaron quemaron su copal, el
+                <lb n="23" />amado, y preçioso ínçíenso. y luego
+                <lb n="24" />lloraron por<abbr>q’</abbr> no víeron, ní pareçío
+                <lb n="25" />el sol. y luego quando salío el sol
+                <lb n="26" />se alegraron todos los animals chí –
+                <lb n="27" />cos, y grandes y todos se salíeron de
+                <lb n="28" />los camínos de el agua, y de los bar –
+                <lb n="29" />rancos, y se pusíeron en las puntas
+                <lb n="30" />de los zerros, y todos se encararon ha –
+                <lb n="31" />çía do el sol naçía y luego todos can
+                <lb n="32" />taron, y grítaron el leon, y el tígre.
+                <lb n="33" />y el prímero <abbr>q’</abbr>canto fue el paxaro:
+                <lb n="34" /><abbr>q’</abbr>sellama queleꜩu. y de verdad se
+                <lb n="35" />alegraron todos los animals, y ten
+                <lb n="36" />díeron sus alas, el agíla, y el zope—
+                <lb n="37" />blanco. y todos los paxaros chícos, y
+                <lb n="38" />grandes. y estaban de rodíllas los
+                <lb n="39" />S<abbr type="superscription">Ses.</abbr> y sus vasallos los de tamub, e ílo –
+                <lb n="40" />cab, con los de rabínal, y ꜫaꜫchíque–
+                <lb n="41" />les, los de q,íquínaha, y tuhalha, vcha –
+                <lb n="42" />baha, quíbaha, ahbatena, y los de ya
+                <lb n="43" />quí tepeu, y quantos pueblos auía, y
+                <lb n="44" />ay agora <abbr>q'</abbr> noson constables, los hombes
+                <lb n="45" />y juntamente a todos les amaneçío.
+                <lb n="46" />y luego se seco la tíerra por el sol y era
+                <lb n="47" />así como vn hombre el sol quando
+                </p>
                 </div>
             </div>
         </body>
