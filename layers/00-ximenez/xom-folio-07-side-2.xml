@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,101 @@
             <div type="page" n="07.2" xml:id="xom-f07-s2">
                 <div type="col" n="07.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                    <p>
+                        <lb n="1" />cut. cate cut ta xebec tzamal
+                        <note rend="margin-left"><num rend="large">7</num></note>
+                        <lb n="2" />cubi ri vvcub caquix chuvach
+                        <lb n="3" />v calibal, ta xeicouic ri atit 
+                        <lb n="4" />mama queetzeyah curi eca – 
+                        <lb n="5" />ib qaholab chiquih ta xei – 
+                        <lb n="6" />cou chuxe rochoch ahau cu 
+                        <lb n="7" />racuh cu vchi ri vvcub ca – 
+                        <lb n="8" />quix rumal re. ta xril cut v 
+                        <lb n="9" />vcub caquix ri mama atit ca –
+                        <lb n="10" />chbilan quib apa quixpe vi 
+                        <lb n="11" />camam, xqha curi ahau xa
+                        <lb n="12" />oh tzucubei quib lal ahau 
+                        <lb n="13" />xeqha cut. naquipa itzucu – 
+                        <lb n="14" />bal maivalcval ri ivachbi –
+                        <lb n="15" />lan, mahabi lalahau eca ca
+                        <lb n="16" />mam ri, xere nare catocobah 
+                        <lb n="17" />qui vach ri yaaxel hupir cha 
+                        <lb n="18" />cap cacaya chiquech lal ahau 
+                        <lb n="19" />xeqha cut ri atit mama cutzin
+                        <lb n="20" />curi ahau rumal vcoxom re
+                        <lb n="21" />xa cunimac vachih chic <del>qu</del> ca 
+                        <lb n="22" />qhavic intabacanih chivech 
+                        <lb n="23" />chitocobah ta nuvach, na qui – 
+                        <lb n="24" />pa quichibano, naquion <del>chi –</del>
+                        <lb n="25" />qui chicunah, xqha cut ahau 
+                        <lb n="26" />xa vchicopil eiah chique 
+                        <lb n="27" />lezah, xacu vbac vvach chi – 
+                        <lb n="28" />cacunah xabac chicavico lal 
+                        <lb n="29" />ahau, xeqha cut. vtzbala chi –
+                        <lb n="30" />cunah ta ba ve quitzih caco – 
+                        <lb n="31" />xouic hutaquih maui choqui – 
+                        <lb n="32" />tahic, mahabi nu varam rum – 
+                        <lb n="33" />al ruq vbac nu vach xa xi – 
+                        <lb n="34" />quivbah e caib qaxtoq ta xti- 
+                        <lb n="35" />caric, maui quinechahic rumal 
+                        <lb n="36" />quehe ta cut chitocobah vi nu 
+                        <lb n="37" />vach, xa cachuiub vehe chic 
+                        <lb n="38" />rive, vtzbala lal ahau chicop 
+                        <lb n="39" />ba cacaxuuic xachoc v que –
+                        <lb n="40" />xel chel ri ela. maba vtzlo chel 
+                        <lb n="41" />ri ve rumal xere in ahau vi
+                        <lb n="42" />nu caubal ri ve. ruq vbac nu 
+                        <lb n="43" />vach. xchicacoh chic nacut v 
+                        <lb n="44" />quexel hocombac xchoc chic 
+                        <lb n="45" />are cut hocombac pri xa zaqui 
+                        <lb n="46" />ixim vtzbala chivelezah chi 
+                        <lb n="47" />too vloc xqha cut ta xel curi
+                    </p>                
                 </div>
                 <div type="col" n="07.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                    <!-- SPANISH LINES GO HERE -->
+                    <p>
+                        <lb n="1" />dixeron los viejos y entonzes se fueron ala
+                        <lb n="2" />esquina dela casa de vvcubcaquix, el
+                        <lb n="3" />qual estaba recostado en su trono, y enton –
+                        <lb n="4" />zes pasaron los dos víejos, y los dos mucha – 
+                        <lb n="5" />chos jugando detras de ellos, y pasaron
+                        <lb n="6" />por de baxo la casa de vvcubcaquix. y
+                        <lb n="7" />estaba gritando de el dolor de la muela
+                        <lb n="8" />y víendolos vvcubcaquíx alos dos víejos 
+                        <lb n="9" />y alos muchachos les pregunto, de adon 
+                        <lb n="10" />de venís abuelos? nosotros Sor. andamos 
+                        <lb n="11" />buscando nuestro remedío dixeron como 
+                        <lb n="12" />buscaís vuestro remedio? son hijos vues–
+                        <lb n="13" />tros esos q’os acompañan? no Sor. son nu – 
+                        <lb n="14" />estrosníetos; sino q’ les tenemos lastíma
+                        <lb n="15" />Sor de lo q’hallamos lesdamos vn pedazo 
+                        <lb n="16" />de tortilla. dixeron los víejos. y en esto 
+                        <lb n="17" />esta el Sor. muy malo de la muela, y q’a 
+                        <lb n="18" />pura fuerza hablaba. yos os suplíco q’ 
+                        <lb n="19" />me tengaís lastíma q’es lo q’hazeís? q’es 
+                        <lb n="20" />lo q’curaís? dixo el Sor. Sor lo q’ cura- 
+                        <lb n="21" />mos nosotros díxeron los víejos, es sa – 
+                        <lb n="22" />car elgusano de los díentes, y muelas
+                        <lb n="23" />y curamos los ojos, y tambíen curamos 
+                        <lb n="24" />quebraduras de huesos. estabíen, y sí –
+                        <lb n="25" />así es verdad curadme mis dientes, q’es – 
+                        <lb n="26" />toy sín sosíego y no duermo, y tambíen
+                        <lb n="27" />me duelen los ojos, porq’ esto tuvo prín – 
+                        <lb n="28" />cipío de q’ dos demoníos me dieron vn 
+                        <lb n="29" />bodocazo, y así no puedocomer; yasí 
+                        <lb n="30" />tenedme míserícordía. porq’ se me me – 
+                        <lb n="31" />nean todos los díentes todos. esta bíen
+                        <lb n="32" />Sor. gusano es el q’ lehaze daño sacare mos
+                        <lb n="33" />esos dientes, y le pondremos otros en su lu – 
+                        <lb n="34" />gar. o quízas no sera bueno eso porq’ de esa 
+                        <lb n="35" />suerte soy Sor. y con eso solo como con los dí – 
+                        <lb n="36" />entes. y con mís ojos. y dixeron ellos pondre – 
+                        <lb n="37" />mos otros en lugar de esos, pondremos gu –
+                        <lb n="38" />eso molído, pero este gueso molído era solo 
+                        <lb n="39" />maíz blanco. estabíen díxo el Sor. sacadlos 
+                        <lb n="40" />ayudadlos. y entonzes lesacaron los díen –
+                </p>
                 </div>
             </div>
         </body>

@@ -30,22 +30,110 @@
                 <language ident="quc">K'iche'</language>
                 <language ident="spa">Spanish</language>
             </langUsage>
-            <creation>
+            <creation>  
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="page" n="07.1" xml:id="xom-f07-s1">
-                <div type="col" n="07.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
-                <div type="col" n="07.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+          <div type="page" n="07.1" xml:id="xom-f07-s1">
+            <div type="col" n="07.1.1" xml:lang="quc">
+                <!-- K'ICHE' GOES HERE -->
+                <p>
+                    <lb n="1" />quix, huzuc xtzac vloc, xme –
+                    <lb n="2" />ho vloc, tzam vteleb ta xutzo –
+                    <lb n="3" />copih chi cut hunhunahpu
+                    <lb n="4" />ri vvcub caquix xavi vtz x – 
+                    <lb n="5" />quibano ma nabe quicha ca – 
+                    <lb n="6" />tahic tah rumal vvcub ca – 
+                    <lb n="7" />quix. vcaam chi cut veab ri  
+                    <lb n="8" />hunhunahpu rumal ri vu –
+                    <lb n="9" />cub caquix ta xbe chi rochoch
+                    <lb n="10" />xa chi cu vlotem veaeate xo –
+                    <lb n="11" />ponic. naqui pa mi xcamou. chi – 
+                    <lb n="12" />la xqha cu ri chimalmat ri
+                    <lb n="13" />xoquil vvcub caquix. na
+                    <lb n="14" />qui pa ri ri e caib qaxtoq mi – 
+                    <lb n="15" />xiquivubah, mi xzilibatah
+                    <lb n="16" />nu eaeate rumal xacachu – 
+                    <lb n="17" />iu ahe ve cacoxou chic mi – 
+                    <lb n="18" />nabe mixnucam vloc <hi rend="double-underline">chuvi</hi> 
+                    <lb n="19" /><hi rend="double-underline">eae</hi> cut chixeque vi chitza –
+                    <note rend="margin-left border-left border-right"><del rend="strikeout">u cab <unclear>pé</unclear> hun<lb/>hunahpu</del></note>
+                    <lb n="20" />iaba chuvi eae ta cul qui ca – 
+                    <lb n="21" />ma chic quitzih chi e qaxtoq
+                    <lb n="22" />xqha ri vvcub caquix, ta xu 
+                    <lb n="23" />xequeba veab ri hunahpu. 
+                    <lb n="24" />qui naohinic chic ri huhun 
+                    <lb n="25" />ahpu, xbalanq’ ta xquibih 
+                    <lb n="26" />cut chirech hun mama qui – 
+                    <lb n="27" />tzih zac chic rizmal vi chi
+                    <lb n="28" />mama, hun cu atit quitzih
+                    <lb n="29" />quemel atit chic, xa quelu–
+                    <lb n="30" />cuquila chic chirihitac vi – 
+                    <lb n="31" />nac. zaqui nim ac vbi ma –
+                    <lb n="32" />ma zaqui nima tziz cut vbi 
+                    <lb n="33" />atit xeqha curi qaholab 
+                    <lb n="34" />chique ri atit mama quix– 
+                    <lb n="35" />cachbilahtah chibe ta cama 
+                    <lb n="36" />caeab ruq vucub caquix
+                    <lb n="37" />xa cohtere chivih, quiri ca 
+                    <lb n="38" />mam ri cachbilan caminac 
+                    <lb n="39" />qui chuch qui cahau quehe
+                    <lb n="40" />cut que tere co tila vi chi – 
+                    <lb n="41" />quih tala quecazipah vi ru
+                    <lb n="42" />mal xa elezan vchicopil
+                    <lb n="43" />eiah cacabano quixqha que – 
+                    <lb n="44" />he curi oh acalab chirilo ri 
+                    <lb n="45" />vvcub caquix, xavi oh qoh 
+                    <lb n="46" />yavic inaoh, xeqha ri e ca – 
+                    <lb n="47" />ib qaholab; vtz bala xeqha –                
+                </p>
             </div>
+            <div type="col" n="07.1.2" xml:lang="spa">
+              <!-- SPANISH LINES GO HERE -->
+              <p>
+                <lb n="1" />learranco el brazo de la punta deel hombro
+                <note rend="margin-right"><num rend="large">7</num></note> 
+                <lb n="2" />y entonzes hun ahpu solto a vvcubcaquíx
+                <lb n="3" />y así quedaron bien los dos muchachos, por 
+                <lb n="4" />q’noquedaron venzidos por vvcub caquíx
+                <lb n="5" />y fuese a su casa llevando el brazo de hun 
+                <lb n="6" />ahpu, eíba teníendose las quixadas. q’te
+                <lb n="7" />a sucedido a vsted? dixo chimalmat asu 
+                <lb n="8" />marído vvcubcaquíx. q’hadeser q’dos 
+                <lb n="9" />demonios me tiraron conzerbatana, y me 
+                <lb n="10" />desquízíaron las quíxadas, todos los díen 
+                <lb n="11" />tes se me menean, y meduelen mucho; 
+                <lb n="12" />pero aquí traigo vnbrazo de vno de
+                <lb n="13" />ellos colgaldo al humo sobre el fuego
+                <lb n="14" />pa.q’ vengan por el los dos demoníos. dixo
+                <lb n="15" />el vvcubcaquix. y entonzes colgo el brazo 
+                <lb n="16" />dehun ahpu. y entonzes hun ahpu, y xba – 
+                <lb n="17" />lanque consultaron q’deuían hazer, y 
+                <lb n="18" />auíendolo consultado lo fueron a dezir a
+                <lb n="19" />vn Viejo q’ya estaba con la cabeza blanca
+                <lb n="20" />y auna víeja, q’deuerdad ya era muy
+                <lb n="21" />vieja, y tanta era la vegez de ambos q’
+                <lb n="22" />ya andaban corcobados. el Viejo se lla – 
+                <lb n="23" />maba: zaquínímac, y la víeja sellamaba 
+                <lb n="24" />zaquíníma zíz. vn grande pízote blanco.
+                <lb n="25" />y les dixeron los dos muchachos al Viejo
+                <lb n="26" />y ala víeja acompañadnos <abbr>pa.</abbr> ír a traer 
+                <lb n="27" />nuestro brazo acasa de de vvcub caquíx 
+                <lb n="28" />nosotros yremos de tras de de vosotros como 
+                <lb n="29" />q’somos vuestros níetos q’sehan muerto nu – 
+                <lb n="30" />estro Pe. y Me. y así en preguntándoos de
+                <lb n="31" />zíd q’ andamos tras de vosotros; y q’pasaís 
+                <lb n="32" />de sacar el gusano q’secome las muelas, y 
+                <lb n="33" />los díentes, y así como a muchachos nos vera 
+                <lb n="34" />vvcub caquíx, y nosotros te aconsejaremos 
+                <lb n="35" />esto dixeron los dos muchachos. estabíen
+              </p>
+            </div>
+          </div>
         </body>
     </text>
 </TEI>

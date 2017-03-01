@@ -40,113 +40,158 @@
         <body>
             <div type="page" n="16.2" xml:id="xom-f16-s2">
                 <div type="col" n="16.2.1" xml:lang="quc">
+                <p>
                 <!-- K'ICHE' LINES GO HERE -->
-                    <l n="1">val lalnu cahau, mahabi achih</l>
-                    <l n="2">vetaam vvach xqhacut utz bala</l>
-                    <l n="3">quitzih vi chi at hoxol chec chipu – </l>
-                    <l n="4">zu ix rahpop achih chicama vloc</l>
-                    <l n="5">ri vqux chupan zel chiquicololeh</l>
-                    <l n="6">ahauab vacamic xevqhax cuta</l>
-                    <l n="7">ri tucur, e cahib ta xebec quiti – </l>
-                    <l n="8">quem ri zel ta xebec quichelem</l>
-                    <l n="9">ri capoh cucaam ri zaquitoc puz – </l>
-                    <l n="10">bal re. maui chutzinic quinicami – </l>
-                    <l n="11">zah ix zamahel rumal maui</l>
-                    <l n="12">nu hoxbal ri qo chinupam xaqui</l>
-                    <l n="13">xvinaquiric xere xbenumaihah</l>
-                    <l n="14">ri vholom hun hunahpu qochi</l>
-                    <l n="15">pucbal chah quequeta cut maui</l>
-                    <l n="16">qui puz ix zamahel xqhari capoh</l>
-                    <l n="17">a xqhauic. naquipa xchicacoh</l>
-                    <l n="18">v quexel ri iqux mi xbÿx vloc ru– </l>
-                    <l n="19">mal acahau chicam vloc ri vqux</l>
-                    <l n="20">xchiquitzololeh ahauab, xchiqui</l>
-                    <!-- How to represent strikethrough? "x-c-hi" -->
-                    <l n="21">tzaquixtah xchi quihunam va –</l>
-                    <l n="22">chih v tzaquic chanim chicama</l>
-                    <l n="23">vloc pazel chicoloba cahoc vqux</l>
-                    <l n="24">chupan zel mapa mi xohvqhax</l>
-                    <l n="25">vloc naquila cut xchicaya pazel</l>
-                    <l n="26">cacahtanabec mata catcamic xe</l>
-                    <l n="27">qha curi zamahel. vtz bala ma – </l>
-                    <l n="28">ui quech ri qux ta chuxoc ruq</l>
-                    <l n="29">maui varal ivochoch chuxic</l>
-                    <l n="30">macu xachichih vinac chicamic ca – </l>
-                    <l n="31">te qui tzih ivech ri qui tzih hoxol</l>
-                    <l n="32">cate naipu rech hun came, vvcub</l>
-                    <l n="33">came, xa quic, xa holomax rech</l>
-                    <l n="34">ta chuxoc are chicut chuvach.</l>
-                    <l n="35">maui are ri qux chicat chuvach</l>
-                    <l n="36">ta chuxoc. chicoho ri vvach che</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
-                    <l n="37">qhacut ri capoh ƐaƐ cut v vaal</l>
-                    <l n="38">ri che xelic xcul pazel cate puch</l>
-                    <l n="39">xuvon rib coloquic xuxic vque</l>
-                    <l n="40">xel vqux ta iitz chicul vvaal.</l>
-                    <l n="41">cac che queheri quic v vaal che</l>
-                    <l n="42">xelic vquexel v quiquel taxu</l>
-                    <l n="43">colo chila ri quic chupan ri v va</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
-                    <l n="44">al ƐaƐche quehe curi quic rih</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
-                    <l n="45">xuxic ƐaƐ luhluh chic colom chi</l>
-                    <l n="46">pazel ta xcop cut ri che rumal</l>
-                    <!-- Raf's question: Ɛ https://github.com/Multepal/SPAN7559/blob/master/GUIDELINES.md-->
-                    <l n="47">capoh. chuh ƐaƐche chuqhaxic.</l>
+                    <lb n="1" />val lalnu cahau, mahabi achih
+                    <lb n="2" />vetaam vvach xqhacut utz bala
+                    <lb n="3" />quitzih vi chi at hoxol chec chipu –
+                    <lb n="4" />zu ix rahpop achih chicama vloc
+                    <lb n="5" />ri vqux chupan zel chiquicololeh
+                    <lb n="6" />ahauab vacamic xevqhax cuta
+                    <lb n="7" />ri tucur, e cahib ta xebec quiti –
+                    <lb n="8" />quem ri zel ta xebec quichelem
+                    <lb n="9" />ri capoh cucaam ri zaquitoc puz –
+                    <lb n="10" />bal re. maui chutzinic quinicami –
+                    <lb n="11" />zah ix zamahel rumal maui
+                    <lb n="12" />nu hoxbal ri qo chinupam xaqui
+                    <lb n="13" />xvinaquiric xere xbenumaihah
+                    <lb n="14" />ri vholom <rs ana="HUN_HUNAHPU">hun hunahpu</rs> qochi
+                    <lb n="15" />pucbal chah quequeta cut maui
+                    <lb n="16" />qui puz ix zamahel xqhari capoh
+                    <lb n="17" />a xqhauic. naquipa xchicacoh
+                    <lb n="18" />v quexel ri iqux mi xbÿx vloc ru–
+                    <lb n="19" />mal acahau chicam vloc ri vqux
+                    <lb n="20" />xchiquitzololeh ahauab, xchiqui
+                    <lb n="21" />tzaquixtah x<del resp="#LB">c</del>hi quihunam va –
+                    <lb n="22" />chih v tzaquic chanim chicama
+                    <lb n="23" />vloc pazel chicoloba cahoc vqux
+                    <lb n="24" />chupan zel mapa mi xohvqhax
+                    <lb n="25" />vloc naquila cut xchicaya pazel
+                    <lb n="26" />cacahtanabec mata catcamic xe
+                    <lb n="27" />qha curi zamahel. vtz bala ma –
+                    <lb n="28" />ui quech ri qux ta chuxoc ruq
+                    <lb n="29" />maui varal ivochoch chuxic
+                    <lb n="30" />macu xachichih vinac chicamic ca –
+                    <lb n="31" />te qui tzih ivech ri qui tzih hoxol
+                    <lb n="32" />cate naipu rech hun came, vvcub
+                    <lb n="33" />came, xa quic, xa holomax rech
+                    <lb n="34" />ta chuxoc are chicut chuvach.
+                    <lb n="35" />maui are ri qux chicat chuvach
+                    <lb n="36" />ta chuxoc. chicoho ri vvach che
+                    <lb n="37" />qhacut ri capoh ƐaƐ cut v vaal
+                    <lb n="38" />ri che xelic xcul pazel cate puch
+                    <lb n="39" />xuvon rib coloquic xuxic vque
+                    <lb n="40" />xel vqux ta iitz chicul vvaal.
+                    <lb n="41" />cac che queheri quic v vaal che
+                    <lb n="42" />xelic vquexel v quiquel taxu
+                    <lb n="43" />colo chila ri quic chupan ri v va
+                    <lb n="44" />al ƐaƐche quehe curi quic rih
+                    <lb n="45" />xuxic ƐaƐ luhluh chic colom chi
+                    <lb n="46" />pazel ta xcop cut ri che rumal
+                    <lb n="47" />capoh. chuh ƐaƐche chuqhaxic.
+                    </p>
                     </div>
 
                 <div type="col" n="16.2.2" xml:lang="spa">
+                <p>
                 <!-- SPANISH LINES GO HERE -->
-                    <l n="1">Pe aun no he conozídovaron. estabíen</l>
-                    <l n="2">dixo el cíertamente tu eres forníca – </l>
-                    <!-- How to represent superscript? "Ses" -->
-                    <l n="3">ría. ea andad vosotros SSes. principa –</l>
-                    <l n="4">ples andad y sacríficalda, y traed</l>
-                    <l n="5">su carazon en vna hícara. esto se</l>
-                    <l n="6">les mando alos tecolotes, q’eran cuatro.</l>
-                    <l n="7">y luego fueron y tomaron vna hícara</l>
-                    <l n="8">y se fueron llevandola cargada, y tam</l>
-                    <!-- How to represent superscript? "pa" -->
-                    <l n="9">bíen llebaban vna cuchilla aguda pa</l>
-                    <l n="10">revanarla. y entonzes ella les díxo no</l>
-                    <l n="11">me mateís mensageros porq’ no soy for – </l>
-                    <l n="12">nícaría. sino q’solamente se engendro</l>
-                    <l n="13">lo q’tengo en la barriga. loq’sucedío fue</l>
-                    <l n="14">q’fuí adívertirme, y uer aquel prodí – </l>
-                    <l n="15">gío de la cabeza de hun hun ahpu, q’</l>
-                    <l n="16">esta en el zenízero. y así no me mateís</l>
-                    <l n="17">mensageros. y respondíeron ellos pu – </l>
-                    <l n="18">esq’ hemos de lleuar en lugar de tu</l>
-                    <l n="19">corazon en la hícara? no nos manda – </l>
-                    <!-- How to represent superscript? "Ses" -->
-                    <l n="20">ron los SSes.q’ en esta hícara les lle – </l>
-                    <l n="21">uaremos tu corazon, así no nos man – </l>
-                    <l n="22">daron? bíen quísíeramos nosotros</l>
-                    <l n="23">librarte. esta bien dixo ella. no es de</l>
-                    <l n="24">ellos este corazon, y vuestra casa nose – </l>
-                    <l n="25">ra aquí, síno q’ hareís fuerza alos hom</l>
-                    <l n="26">bres q’mueran. y de verdad ese sera</l>
-                    <l n="27">vuestro ser ser engañadores. y lu – </l>
-                    <l n="28">ego sera mío hun came, y vvcubcame</l>
-                    <l n="29">y solo sera de ellos lasangre, y las</l>
-                    <l n="30">calberas esto sera solo de ellos en</l>
-                    <l n="31">su presenzía. este corazón nosera</l>
-                    <l n="32">quemado delante de ellos. poned</l>
-                    <l n="33">en la hícara el fruto de este arbol</l>
-                    <l n="34">dixo la donzella. y el humor de a – </l>
-                    <l n="35">quell arbol era Colorado, y salí – </l>
-                    <l n="36">endo el humor lo cogíeron en la</l>
-                    <l n="37">hícara y luego se congelo y se hizo</l>
-                    <l n="38">Redondo y puso en lugar de el cora</l>
-                    <l n="39">zon, y era como sangre su humor</l>
-                    <l n="40">q’puso en lugar de sangre. y enton – </l>
-                    <l n="41">zes sacaron aquella sangre de</l>
-                    <l n="42">el humor de el palo, y fue hecho co –</l>
-                    <l n="43">mo sangre, y muy Colorado estuvo</l>
-                    <l n="44">despues de sacado en la hícara, y en – </l>
-                    <l n="45">tonzes resplandezio aquel palo por la</l>
-                    <l n="46">donzella yeste palo se llama grana</l>
-                    <l n="47">palo Colorado, y se llamo sangre, y por – </l>
+                    <lb n="1" />Pe aun no he conozídovaron. estabíen
+                    <lb n="2" />dixo el cíertamente tu eres forníca –
+                    <lb n="3" />ría. ea andad vosotros <abbr type="superscription">SSes.</abbr> principa –
+                    <lb n="4" />ples andad y sacríficalda, y traed
+                    <lb n="5" />su carazon en vna hícara. esto se
+                    <lb n="6" />les mando alos tecolotes, 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>eran cuatro.
+                    <lb n="7" />y luego fueron y tomaron vna hícara
+                    <lb n="8" />y se fueron llevandola cargada, y tam
+                    <lb n="9" />bíen llebaban vna cuchilla aguda <abbr type="superscription">pa</abbr>
+                    <lb n="10" />revanarla. y entonzes <rs ana="IXQUIC">ella</rs> les díxo no
+                    <lb n="11" />me mateís mensageros por
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> no soy for –
+                    <lb n="12" />nícaría. sino 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>solamente se engendro
+                    <lb n="13" />lo 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>tengo en la barriga. lo
+                    		
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>sucedío fue
+                    <lb n="14" />
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>fuí adívertirme, y uer aquel prodí –
+                    <lb n="15" />gío de la cabeza de <rs ana="HUN_HUNAHPU">hun hun ahpu</rs>, 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>
+                    <lb n="16" />esta en el zenízero. y así no me mateís
+                    <lb n="17" />mensageros. y respondíeron ellos pu -
+                    <lb n="18" />es
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> hemos de lleuar en lugar de tu
+                    <lb n="19" />corazon en la hícara? no nos manda –
+                    <lb n="20" />ron los <abbr type="superscription">SSes.</abbr> 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> en esta hícara les lle –
+                    <lb n="21" />uaremos tu corazon, así no nos man –
+                    <lb n="22" />daron? bíen quísíeramos nosotros
+                    <lb n="23" />librarte. esta bien dixo ella. no es de
+                    <lb n="24" />ellos este corazon, y vuestra casa nose –
+                    <lb n="25" />ra aquí, síno 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> hareís fuerza alos hom
+                    <lb n="26" />bres 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>mueran. y de verdad ese sera
+                    <lb n="27" />vuestro ser ser engañadores. y lu –
+                    <lb n="28" />ego sera mío <rs ana="HUNCAME">hun came</rs>, y <rs ana="VUCUBCAME">vvcubcame</rs>
+                    <lb n="29" />y solo sera de ellos lasangre, y las
+                    <lb n="30" />calberas esto sera solo de ellos en
+                    <lb n="31" />su presenzía. este corazón nosera 
+                    <lb n="32" />quemado delante de ellos. poned
+                    <lb n="33" />en la hícara el fruto de este arbol
+                    <lb n="34" />dixo <rs ana="IXQUIC">la donzella</rs>. y el humor de a –
+                    <lb n="35" />quell arbol era Colorado, y salí –
+                    <lb n="36" />endo el humor lo cogíeron en la
+                    <lb n="37" />hícara y luego se congelo y se hizo
+                    <lb n="38" />Redondo y puso en lugar de el cora
+                    <lb n="39" />zon, y era como sangre su humor
+                    <lb n="40" />
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    			<expan>que</expan>
+                    			</choice>puso en lugar de sangre. y enton –
+                    <lb n="41" />zes sacaron aquella sangre de
+                    <lb n="42" />el humor de el palo, y fue hecho co -
+                    <lb n="43" />mo sangre, y muy Colorado estuvo
+                    <lb n="44" />despues de sacado en la hícara, y en –
+                    <lb n="45" />tonzes resplandezio aquel palo por la
+                    <lb n="46" />donzella yeste palo se llama grana
+                    <lb n="47" />palo Colorado, y se llamo sangre, y por –
+                    </p>
                 </div>
             </div>
         </body>
