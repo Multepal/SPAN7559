@@ -40,103 +40,160 @@
         <body>
             <div type="page" n="16.1" xml:id="xom-f16-s1">
                 <div type="col" n="16.1.1" xml:lang="quc">
+                <p>
                 <!-- K'ICHE' LINES GO HERE -->
-                    <l n="1">bac pucab xaretal mi xnuya cha -</l>
-                    <l n="2">ue ri nu chub nu caxah. are ri nu</l>
-                    <l n="3">holom mahabi cachocon chivi xa</l>
-                    <l n="4">bac mahabi chi v chac. xavi que -</l>
-                    <l n="5">he vholom ve qui nimahaU xa –</l>
-                    <l n="6">vtiohil vtz vi vvach. are cut ta</l>
-                    <l n="7">chicamic chuxibih chirib vinac</l>
-                    <l n="8">rumal vbaquil. quehe cut xa</l>
-                    <l n="9">vqahol quehe ri vchub vcaxah</l>
-                    <l n="10">vqoheic ve vqahol ahau ve puch</l>
-                    <l n="11">vqahol naol, ahuchan xma chi –</l>
-                    <l n="12">zach vi chibec chitzacatahic ma –</l>
-                    <l n="13">vi chupel mapu maixel vvach</l>
-                    <l n="14">ahau achih naol, ahvqhan xa</l>
-                    <l n="15">xichicanahic vmial vqahol</l>
-                    <l n="16">ta chuxoc. quehe mi xnuban</l>
-                    <l n="17">chave. catacan cut chila chu –</l>
-                    <l n="18">vach vleu mavi cacamic catoc</l>
-                    <l n="19">patzih ta chuxoc xqhari vho –</l>
-                    <l n="20">lom hun hunahpu vvcub hun</l>
-                    <l n="21">ahpu. xavi qui naoh taxquiba –</l>
-                    <l n="22">no are vtzih huracan chipica –</l>
-                    <l n="23">culha, raxa caculha chiquech.</l>
-                    <l n="24">quehe cu vtzalihic chic capoh</l>
-                    <l n="25">chi rochoch quia pixab xbÿx</l>
-                    <l n="26">chirech. huzu cu xvinaquir ral</l>
-                    <l n="27">chupam rumal ri xachub. are</l>
-                    <l n="28">cut quivinaquiric hun ahpu</l>
-                    <l n="29">xbalanque ta xopon cut chi ro –</l>
-                    <l n="30">choch ri capoh xzacat cut va –</l>
-                    <l n="31">caquib ic ta xnauachil rumal</l>
-                    <l n="32">vcahau ri cuchumaquic vbi v</l>
-                    <l n="33">cahau</l>
-                    <l n="34" rend="indent">Cate puch vnatahic capoh ru –</l>
-                    <l n="35">mal vcahau ta xil ri ral cochic</l>
-                    <l n="36">ta xquicuch cut qui naoh cono –</l>
-                    <l n="37">hel ahauab hun came vvcub</l>
-                    <l n="38">came ruc ri cuchumaquic are</l>
-                    <l n="39">ri numeal qochi ral ixahauab</l>
-                    <l n="40">xa vhoxbal xqha curi cuchuma</l>
-                    <l n="41">quic ta xoponic cuq ahauab vtz –</l>
-                    <l n="42">bala chacoto vchi ri tama cubÿh</l>
-                    <l n="43">chipuz cut chinaht chibe puzu vi</l>
-                    <l n="44">vtzbala alac ahauab xqha cut. ca</l>
-                    <l n="45">te cut xutzonoh chirech vmeal a</l>
-                    <l n="46">pa ahchoce ri aval co chapam</l>
-                    <l n="47">at nu meal? xqha cut mahabi</l>
+                    <lb n="1" />bac pucab xaretal mi xnuya cha -
+                    <lb n="2" />ue ri nu chub nu caxah. are ri nu
+                    <lb n="3" />holom mahabi cachocon chivi xa
+                    <lb n="4" />bac mahabi chi v chac. xavi que -
+                    <lb n="5" />he vholom ve qui nimahaU xa –
+                    <lb n="6" />vtiohil vtz vi vvach. are cut ta
+                    <lb n="7" />chicamic chuxibih chirib vinac
+                    <lb n="8" />rumal vbaquil. quehe cut xa
+                    <lb n="9" />vqahol quehe ri vchub vcaxah
+                    <lb n="10" />vqoheic ve vqahol ahau ve puch
+                    <lb n="11" />vqahol naol, ahuchan xma chi –
+                    <lb n="12" />zach vi chibec chitzacatahic ma –
+                    <lb n="13" />vi chupel mapu maixel vvach
+                    <lb n="14" />ahau achih naol, ahvqhan xa
+                    <lb n="15" />xichicanahic vmial vqahol
+                    <lb n="16" />ta chuxoc. quehe mi xnuban
+                    <lb n="17" />chave. catacan cut chila chu –
+                    <lb n="18" />vach vleu mavi cacamic catoc
+                    <lb n="19" />patzih ta chuxoc xqhari vho –
+                    <lb n="20" />lom <rs ana="HUN_HUNAHPU">hun hunahpu</rs> <rs ana="VUCUB_HUNAHPU">vvcub hun
+                    <lb n="21" />ahpu</rs>. xavi qui naoh taxquiba –
+                    <lb n="22" />no are vtzih <rs ana="HURACAN">huracan</rs> <rs ana="CHIPICACULHA">chipica –
+                    <lb n="23" />culha</rs>, <rs ana="RAXA_CACULHA">raxa caculha</rs> chiquech.
+                    <lb n="24" />quehe cu vtzalihic chic capoh
+                    <lb n="25" />chi rochoch quia pixab xbÿx
+                    <lb n="26" />chirech. huzu cu xvinaquir ral
+                    <lb n="27" />chupam rumal ri xachub. are
+                    <lb n="28" />cut quivinaquiric <rs ana="HUN_AHPU">hun ahpu</rs>
+                    <lb n="29" /><rs ana="XBALANKE">xbalanque</rs> ta xopon cut chi ro –
+                    <lb n="30" />choch ri capoh xzacat cut va –
+                    <lb n="31" />caquib ic ta xnauachil rumal
+                    <lb n="32" />vcahau ri <rs ana="CUCHUMAQUIC">cuchumaquic</rs> vbi v
+                    <lb n="33" />cahau
+                    <lb n="34" rend="indent" /><hi rend="large">C</hi>ate puch vnatahic capoh ru –
+                    <lb n="35" />mal vcahau ta xil ri ral cochic
+                    <lb n="36" />ta xquicuch cut qui naoh cono –
+                    <lb n="37" />hel ahauab <rs ana="HUN_CAME">hun came</rs> <rs ana="VUCUBKAME">vvcub
+                    <lb n="38" />came</rs> ruc ri cuchumaquic are
+                    <lb n="39" />ri numeal qochi ral ixahauab
+                    <lb n="40" />xa vhoxbal xqha curi cuchuma
+                    <lb n="41" />quic ta xoponic cuq ahauab vtz –
+                    <lb n="42" />bala chacoto vchi ri tama cubÿh
+                    <lb n="43" />chipuz cut chinaht chibe puzu vi
+                    <lb n="44" />vtzbala alac ahauab xqha cut. ca
+                    <lb n="45" />te cut xutzonoh chirech vmeal a
+                    <lb n="46" />pa ahchoce ri aval co chapam
+                    <lb n="47" />at nu meal? xqha cut mahabi
+                    </p>
                     </div>
                   
                 <div type="col" n="16.1.2" xml:lang="spa">
+                <p>
                 <!-- SPANISH LINES GO HERE -->
-                    <l n="1">saliba de la calabera en su mano. te he dado</l>
-                    <l n="2">dixo la calabera señal en mí salíba, y mí</l>
-                    <l n="3">baba. esta mi cabeza ya no respondera</l>
-                    <l n="4">porq’ solo es gueso, y no tíene carne y</l>
-                    <l n="5">así mesmo es la cabeza de cualquíer S<hi rend="sup()">or.</hi></l>
-                    <l n="6">y solo por la carne se adorna. y en moví –</l>
-                    <l n="7">endo se asombran los hombres por la</l>
-                    <l n="8">calabera. y así sus hijos son como lasalí –</l>
-                    <l n="9">ba, y su baba, sí son hijos de S<hi rend="sup()">es.</hi> de sabío</l>
-                    <l n="10">y entendido, nose píerde ní se apaga</l>
-                    <l n="11">el ser de S<hi rend="sup()">es.</hi> entendido, o sabio, síno q’</l>
-                    <l n="12">se hereda en sus hijo, y en sus híjas</l>
-                    <l n="13">qo. les engendra. y así ho he hecho con –</l>
-                    <l n="14">tigo. y así subid alla a <del resp="#LB">lo</del> la tíerra, q’ no</l>
-                    <l n="15">moríras. concurríd ala palabra qo.sea</l>
-                    <l n="16">hecha esto dixo la cabeza de hun –</l>
-                    <l n="17">chave. catacan cut chila chu –</l>
-                    <l n="18">hun ahpu, y de vvcub hun ahpu. y</l>
-                    <l n="19">esto fue pura sabíduría, y mandato</l>
-                    <l n="20">de huracan, de chípícaculha, y raxa –</l>
-                    <l n="21">caculha y por su mandato lo hízíe –</l>
-                    <l n="22">ron. y así se bolbío la doncella asu</l>
-                    <l n="23">casa auíendole dícho muchas cosas</l>
-                    <l n="24">y mandates. y luego conzívío y fueron</l>
-                    <l n="25">conzebídos híjos en su víentre por –</l>
-                    <l n="26">aquella q’solo era salíba. losq’ fue –</l>
-                    <l n="27">ron engendrados fueron hun ahpu</l>
-                    <l n="28">y xbalanque. y auíendose buelto</l>
-                    <l n="29">asu casa la donzella. y auíendo a —</l>
-                    <l n="30">justado los seis meses fue reparado</l>
-                    <l n="31">por su P<hi rend="sup()">e.</hi> cuchumaquíc.</l>
-                    <l n="32" rend="indent">Y luego q’ fue sentido el preñez por</l>
-                    <l n="33">su P<hi rend="sup()">e.</hi> de la donzella y q’ tenía híjo.</l>
-                    <l n="34">se juntaron acabildo los SS<hi rend="sup()">es.</hi> hun</l>
-                    <l n="35">came, y vvcubcame, con cuchuma –</l>
-                    <l n="36">quíc, y dixo esta mi híja esta pre –</l>
-                    <l n="37">ñada SS<hi rend="sup()">es.</hi> y esto ha prozedido de su</l>
-                    <l n="38">deshonestidad, y fornízío. esto dixo</l>
-                    <l n="39">cuchumaquíc q’ compareçío ante</l>
-                    <l n="40">los SS<hi rend="sup()">es.</hi> estabíen díxeron. oprímílda</l>
-                    <l n="41">y q’declare, y se vera lo q’ dize, y la</l>
-                    <l n="42">llevaron lexos a matarla. estabíen</l>
-                    <l n="43">SS<hi rend="sup()">es.</hi> díxo el y luego le pregunto a su hí –</l>
-                    <l n="44">ja dequíen es ese híjo q’tienes en la</l>
-                    <l n="45">barríga. y díxo ella no tengo hijo S<hi rend="sup()">or</hi></l>
+                    <lb n="1" />saliba de la calabera en su mano. te he dado
+                    <lb n="2" />dixo la calabera señal en mí salíba, y mí
+                    <lb n="3" />baba. esta mi cabeza ya no respondera
+                    <lb n="4" />
+                    	<choice>
+                    		<abbr>porq’</abbr>
+                    		<expan>porque</expan>
+                    		</choice> solo es gueso, y no tíene carne y
+                    <lb n="5" />así mesmo es la cabeza de cualquíer <abbr type="superscription">Sor.</abbr>
+                    <lb n="6" />y solo por la carne se adorna. y en moví –
+                    <lb n="7" />endo se asombran los hombres por la
+                    <lb n="8" />calabera. y así sus hijos son como lasalí –
+                    <lb n="9" />ba, y su baba, sí son hijos de <abbr type="superscription">Ses.</abbr>de sabío
+                    <lb n="10" />y entendido, nose píerde ní se apaga
+                    <lb n="11" />el ser de 
+                    <abbr type="superscription">Ses.</abbr> entendido, o sabio, síno 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>	
+                    <lb n="12" />se hereda en sus hijo, y en sus híjas
+                    <lb n="13" />
+                    	<choice>
+                    		<abbr>q.</abbr>
+                    		<expan>que</expan>
+                    		</choice> les engendra. y así ho he hecho con –
+                    <lb n="14" />tigo. y así subid alla a <del resp="#LB">lo</del> la tíerra, 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> no
+                    <lb n="15" />moríras. concurríd ala palabra 
+                    	<choice>
+                    	<abbr>q.</abbr>
+                    	<expan>que</expan>
+                    	</choice>sea
+                    <lb n="16" />hecha esto dixo la cabeza de <rs ana="HUN_HUNAHPU">hun –
+                    <lb n="17" />hun ahpu</rs>, y de <rs ana="VUCUB_HUNAHPU">vvcub hun ahpu</rs>. y
+                    <lb n="18" />esto fue pura sabíduría, y mandato
+                    <lb n="19" />de <rs ana="HURACAN">huracan</rs>, de <rs ana="CHIPICACULHA">chípícaculha</rs>, y <rs ana="RAXACACULHA">raxa –
+                    <lb n="20" />caculha</rs> y por su mandato lo hízíe –
+                    <lb n="21" />ron. y así se bolbío <rs ana="IXQUIC">la doncella</rs> asu
+                    <lb n="22" />casa auíendole dícho muchas cosas
+                    <lb n="23" />y mandates. y luego conzívío y fueron
+                    <lb n="24" />conzebídos híjos en su víentre por –
+                    <lb n="25" />aquella 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> solo era salíba. losq’ fue –
+                    <lb n="26" />ron engendrados fueron <rs ana="HUN_AHPU">hun ahpu</rs>
+                    <lb n="27" />y <rs ana="XBALANKE">xbalanque</rs>. y auíendose buelto
+                    <lb n="28" />asu casa <rs ana="IXQUIC">la donzella</rs>. y auíendo a —
+                    <lb n="29" />justado los seis meses fue reparado
+                    <lb n="30" />por su <abbr type="superscription">Pe.</abbr> <rs ana="CUCHUMAQUIC">cuchumaquíc</rs>.
+                    <lb />
+                    <lb />
+                    <lb />
+                    </p>
+                    <p>
+                    <lb n="31" rend="indent" /><hi rend="large">Y</hi> luego 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> fue sentido el preñez por
+                    <lb n="32" />su <abbr type="superscription">Pe.</abbr> de la <rs ana="IXQUIC">la donzella</rs> y 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> tenía híjo.
+                    <lb n="33" />se juntaron acabildo los <abbr type="superscription">SSes.</abbr> <rs ana="HUNCAME">hun
+                    <lb n="34" />came</rs>, y <rs ana="VUCUBCAME">vvcubcame</rs>, con <rs ana="CUCHUMAQUIC">cuchuma –
+                    <lb n="35" />quíc</rs>, y dixo esta <rs ana="IXQUIC">mi híja</rs> esta pre –
+                    <lb n="36" />ñada <abbr type="superscription">SSes.</abbr> y esto ha prozedido de su
+                    <lb n="37" />deshonestidad, y fornízío. esto dixo
+                    <lb n="38" /><rs ana="CUCHUMAQUIC">cuchumaquíc</rs> 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    			<expan>que</expan>
+                    			</choice> compareçío ante
+                    <lb n="39" />los <abbr type="superscription">SSes.</abbr> estabíen díxeron. oprímílda
+                    <lb n="40" />y 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>declare, y se vera lo 
+                    			<choice>
+                    				<abbr>q’</abbr>
+                    				<expan>que</expan>
+                    				</choice> dize, y la
+                    <lb n="41" />llevaron lexos a matarla. estabíen
+                    <lb n="42" /><abbr type="superscription">SSes.</abbr> díxo el y luego le pregunto a <rs ana="IXQUIC">su hi -
+                    <lb n="43" />ja</rs> dequíen es ese híjo 
+                    	<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>tienes en la
+                    <lb n="44" />barríga. y díxo <rs ana="IXQUIC">ella</rs> no tengo hijo <abbr type="superscription">Sor</abbr>
+                    </p>
                 </div>
             </div>
         </body>

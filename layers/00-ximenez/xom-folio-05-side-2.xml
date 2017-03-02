@@ -40,98 +40,103 @@
         <body>
             <div type="page" n="05.2" xml:id="xom-f05-s2">
                 <div type="col" n="05.2.1" xml:lang="quc">
-                    <l n="1">querah oc pahul xa chiyuch</l>
-                    <l n="2">hul chi qui vach; que he cut</l>
-                    <l n="3">vcayohic vinac tzac vinac</l>
-                    <l n="4">bit, etzixel, e tzalatzoxel chi</l>
-                    <l n="5">vinac xmayxic, xcutuxic</l>
-                    <l n="6">quichi qui vach conohel, xqha</l>
-                    <l n="7">cut are retal ri qoy qo pa</l>
-                    <l n="8">quechelah vacamic, are</l>
-                    <l n="9">xqohe vi retal rumal xache</l>
-                    <l n="10">quitiohil xcohic rumal ah –</l>
-                    <l n="11">tzac ahbit, arecuri qoy que–</l>
-                    <l n="12">heri vinac chivachinic retal</l>
-                    <l n="13">hule vinac tzac, vinac bit</l>
-                    <l n="14">xapoy, xapu ahamche.</l>
-                    <l rend="indent">
-                        <hi rend="large">A</hi>re cut xa hubic zac na</l>
-                    <l n="15">tanoh vvachvleu mahabi </l>
-                    <l n="16">quih hun cut cunimarizah</l>
-                    <l n="17">rib, vvcub caquix vbi, qo </l>
-                    <l n="18">nabe cah vleu, xa ca moy –</l>
-                    <l n="19">mot v vach quih ic caqha</l>
-                    <l n="20">curi: xaui xere vzaquetal</l>
-                    <l n="21">vinac rÿ, xbutic queheri</l>
-                    <l n="22">naual vinac vqoheic in</l>
-                    <l n="23">nim quiqohe chic chuvi vi–</l>
-                    <!-- Big C is actually and correctional overwrite -->
-                    <l n="24">nac tzaC vinac bit in vquih</l>
-                    <l n="25">in pu vzac in naipu riquil</l>
-                    <l n="26">ta chuxoc, nim nu zaquil in</l>
-                    <l n="27">binibal, in pu chacabal ru –</l>
-                    <l n="28">mal vinac. rumal puvac</l>
-                    <l n="29">vbac nuvach xa catilto–</l>
-                    <l n="30">tic chi yamanic raxa cuval </l>
-                    <l n="31">naypu ve raxcauacoh chi</l>
-                    <l n="32">abah queheri v va cah are</l>
-                    <l n="33">curi nu tzam zachuluhuh chi – </l>
-                    <l n="34">nah queheri ic puvac cut</l>
-                    <l n="35">nu calibal cazac paque v – </l>
-                    <l n="36">vach vleu ta quinel vloc </l>
-                    <l n="37">chuvach nu calibal quehe</l>
-                    <l n="38">cut in quih vi in pu ic ru – </l>
-                    <l n="39">mal zaquil al zaquil qahol</l>
-                    <l n="40">ta chuxoc rumal chinah copon </l>
-                    <l n="41">vi nu vach: qhari vucub ca – </l>
-                    <l n="42">quix macu quitzih are ta quih,</l>
-                    <l n="43">ri, vcub caquix xere cunima – </l>
-                    <!-- Big C is actually and correctional overwrite -->
-                    <l n="44">rizah rib rivxic vpuvaC</l>
-                    <l n="45">xere cut tocol vi v vach ri </l>
-                    <l n="46">chicube vi mana ronohelta</l>
+                    <p>
+                        <lb n="1" />querah oc pahul xa chiyuch
+                        <lb n="2" />hul chi qui vach; que he cut
+                        <lb n="3" />vcayohic vinac tzac vinac
+                        <lb n="4" />bit, etzixel, e tzalatzoxel chi
+                        <lb n="5" />vinac xmayxic, xcutuxic
+                        <lb n="6" />quichi qui vach conohel, xqha
+                        <lb n="7" />cut are retal ri qoy qo pa
+                        <lb n="8" />quechelah vacamic, are
+                        <lb n="9" />xqohe vi retal rumal xache
+                        <lb n="10" />quitiohil xcohic rumal ah –
+                        <lb n="11" />tzac ahbit, arecuri qoy que–
+                        <lb n="12" />heri vinac chivachinic retal
+                        <lb n="13" />hule vinac tzac, vinac bit
+                        <lb n="14" />xapoy, xapu ahamche.
+                        </p><p>
+                        <lb rend="indent"><hi rend="large">A</hi>re cut xa hubic zac na
+                        <lb n="15" />tanoh vvachvleu mahabi 
+                        <lb n="16" />quih hun cut cunimarizah
+                        <lb n="17" />rib, vvcub caquix vbi, qo 
+                        <lb n="18" />nabe cah vleu, xa ca moy –
+                        <lb n="19" />mot v vach quih ic caqha
+                        <lb n="20" />curi: xaui xere vzaquetal
+                        <lb n="21" />vinac rÿ, xbutic queheri
+                        <lb n="22" />naual vinac vqoheic in
+                        <lb n="23" />nim quiqohe chic chuvi vi–
+                        <!-- Big C is actually and correctional overwrite -->
+                        <lb n="24" />nac tzaC vinac bit in vquih
+                        <lb n="25" />in pu vzac in naipu riquil
+                        <lb n="26" />ta chuxoc, nim nu zaquil in
+                        <lb n="27" />binibal, in pu chacabal ru –
+                        <lb n="28" />mal vinac. rumal puvac
+                        <lb n="29" />vbac nuvach xa catilto–
+                        <lb n="30" />tic chi yamanic raxa cuval 
+                        <lb n="31" />naypu ve raxcauacoh chi
+                        <lb n="32" />abah queheri v va cah are
+                        <lb n="33" />curi nu tzam zachuluhuh chi – 
+                        <lb n="34" />nah queheri ic puvac cut
+                        <lb n="35" />nu calibal cazac paque v – 
+                        <lb n="36" />vach vleu ta quinel vloc 
+                        <lb n="37" />chuvach nu calibal quehe
+                        <lb n="38" />cut in quih vi in pu ic ru – 
+                        <lb n="39" />mal zaquil al zaquil qahol
+                        <lb n="40" />ta chuxoc rumal chinah copon 
+                        <lb n="41" />vi nu vach: qhari vucub ca – 
+                        <lb n="42" />quix macu quitzih are ta quih,
+                        <lb n="43" />ri, vcub caquix xere cunima – 
+                        <!-- Big C is actually and correctional overwrite -->
+                        <lb n="44" />rizah rib rivxic vpuvaC
+                        <lb n="45" />xere cut tocol vi v vach ri 
+                        <lb n="46" />chicube vi mana ronohelta
+                    </p>
                 </div>
                 <div type="col" n="05.2.2" xml:lang="spa">
-                    <l n="1">y queriendo meterse en los hoyos, y se les</l>
-                    <l n="2">zerraban. y así fueron destruídos, y aníquí – </l>
-                    <l n="3">lados, y afrentados todos, y así fue dicho se –</l>
-                    <l n="4">ñal de esta gente son los monos q’agora</l>
-                    <l n="5">andan por los montes. y por eso quedaron</l>
-                    <l n="6">por señal porq’ solo fueron de palo hechos</l>
-                    <l n="7">por el críador. y el mono por eso separeze</l>
-                    <l n="8">al <del rend="scribble">n</del>ombre porq’ es señal de otro genero</l>
-                    <l n="9">de hombres hechos de palo.</l>
-                    <lb />
-                    <lb />
-                    <lb />
-                    <lb />
-                    <lb />
-                    <lb />
-                    <l n="10" rend="indent">Y entonzes avía poca calrídad sobre</l>
-                    <l n="11">la haz de la tíerra, y aun no auía sol. y en </l>
-                    <l n="12">tonzes vno llamado vvcub caquix. (esto es </l>
-                    <l n="13">siete guacamayas) se ensoberbzía. auía </l>
-                    <l n="14">entonzes cielo y tierra, pero estaba turbía</l>
-                    <l n="15">la luz de el sol, y la luna. y este vvcub caquíx, </l>
-                    <l n="16">dezía: solo aquella poca gente q’ seanego fu – </l>
-                    <l n="17">eron como brujos. yo agora sere grande</l>
-                    <l n="18">70 sobre todas las críaturas, yo soy su sol, yo soy </l>
-                    <l n="19">su blancura, yo sere su luna. es grande</l>
-                    <l n="20">mí clarídad, y soy por quíen hande andar</l>
-                    <l n="21">los hombres, y pararse. porq’mís ojos son</l>
-                    <l n="22">de plata solo resplandeze con las piedras </l>
-                    <l n="23">preziosas, y son piedras verdes como el zíe – </l>
-                    <l n="24">lo. mís narízes resplandezen delexos co –</l>
-                    <l n="25">mo la luna. y es de plata mi trono, y q<hi rend="superscript">o</hi> salgo</l>
-                    <l n="26">se aclara la tierra; y así yo soy el sol, y soy luna</l>
-                    <l n="27">por la clarídad de los vasallos q’ tender, por –</l>
-                    <l n="28">q’ mí vista alcanza muy lexos: esto dixo</l>
-                    <l n="29">el dicho vvcub caquíx pero no era sol el</l>
-                    <l n="30">tal vvcub caquíx; sino q’le ensoberbecía </l>
-                    <l n="31">sus ríquezas, y su plata; y solo alcanzaba</l>
-                    <l n="32">su vista a aquel lugar donde estaba, y</l>
+                    <p>
+                        <lb n="1" />y queriendo meterse en los hoyos, y se les
+                        <lb n="2" />zerraban. y así fueron destruídos, y aníquí – 
+                        <lb n="3" />lados, y afrentados todos, y así fue dicho se –
+                        <lb n="4" />ñal de esta gente son los monos q’agora
+                        <lb n="5" />andan por los montes. y por eso quedaron
+                        <lb n="6" />por señal porq’ solo fueron de palo hechos
+                        <lb n="7" />por el críador. y el mono por eso separeze
+                        <lb n="8" />al <del rend="scribble">n</del>ombre porq’ es señal de otro genero
+                        <lb n="9" />de hombres hechos de palo.
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                      </p>
+                      <p>
+                        <lb n="10" rend="indent">Y entonzes avía poca calrídad sobre
+                        <lb n="11" />la haz de la tíerra, y aun no auía sol. y en 
+                        <lb n="12" />tonzes vno llamado vvcub caquix. (esto es 
+                        <lb n="13" />siete guacamayas) se ensoberbzía. auía 
+                        <lb n="14" />entonzes cielo y tierra, pero estaba turbía
+                        <lb n="15" />la luz de el sol, y la luna. y este vvcub caquíx, 
+                        <lb n="16" />dezía: solo aquella poca gente q’ seanego fu – 
+                        <lb n="17" />eron como brujos. yo agora sere grande
+                        <lb n="18" />sobre todas las críaturas, yo soy su sol, yo soy 
+                        <lb n="19" />su blancura, yo sere su luna. es grande
+                        <lb n="20" />mí clarídad, y soy por quíen hande andar
+                        <lb n="21" />los hombres, y pararse. porq’mís ojos son
+                        <lb n="22" />de plata solo resplandeze con las piedras 
+                        <lb n="23" />preziosas, y son piedras verdes como el zíe – 
+                        <lb n="24" />lo. mís narízes resplandezen delexos co –
+                        <lb n="25" />mo la luna. y es de plata mi trono, y <abbr>q<hi rend="superscript">o</hi></abbr> salgo
+                        <lb n="26" />se aclara la tierra; y así yo soy el sol, y soy luna
+                        <lb n="27" />por la clarídad de los vasallos q’ tender, por –
+                        <lb n="28" />q’ mí vista alcanza muy lexos: esto dixo
+                        <lb n="29" />el dicho vvcub caquíx pero no era sol el
+                        <lb n="30" />tal vvcub caquíx; sino q’le ensoberbecía 
+                        <lb n="31" />sus ríquezas, y su plata; y solo alcanzaba
+                        <lb n="32" />su vista a aquel lugar donde estaba, y
+                    </p>
                 </div>
-
             </div>
         </body>
     </text>
