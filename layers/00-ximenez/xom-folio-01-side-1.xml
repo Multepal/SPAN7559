@@ -32,19 +32,32 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Catherine L. Addington</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="page" n="01.1" xml:id="xom-f01-s1">
-                <div type="col" n="01.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
-                <div type="col" n="01.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+            <div type="col" n="01.1.1" xml:lang="quc">
+                <p>
+                <lb n="1" /><note place="margin">cap.</note>
+                <lb n="2" /><note place="margin">1.del serde</note><hi rend="large">ARE V XE OHER</hi>
+                <lb n="3" rend="indent"/><note place="margin">Díos</note>Ꜩih varal Quiche vbi.
+                <lb n="4" rend="indent"/><note place="margin">1.</note><hi rend="large">V</hi>aral xchicatzibah vi xchica –
+                <lb n="5" />tiquiba vi oher tzih, vticaribal,
+                <lb n="6" />vxenabal puch ronohel xban,
+                <lb n="7" />pa tinamit quiche, ramac qui – 
+                <lb n="8" />che vinac; arecut xchicacam
+                <lb n="9" />vi vcutunizaxic, vcalahobiza –
+                <lb n="10" />
+                </p>
+            </div>
+            <div type="col" n="01.1.2" xml:lang="spa">
+            	<p>
+                <lb n="1" /><!-- SPANISH LINES GO HERE -->
+                </p>
+            </div>
             </div>
         </body>
     </text>
