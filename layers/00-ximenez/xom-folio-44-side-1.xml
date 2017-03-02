@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Dave Prine</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,53 +40,53 @@
         <body>
             <div type="page" n="44.1" xml:id="xom-f44-s1">
                 <div type="col" n="44.1.1" xml:lang="quc">
-                	<l n="1" rend="indent">naquila chiquiya chive tazec chi-</l>
-                	<l n="2" rend="indent">qui raih ivach qui tzih chiya ivib</l>
-                	<l n="3" rend="indent">chi quech. vve cut ta maui chiya</l>
-                	<l n="4" rend="indent">ivib quixcacacmizah cut. 6680cate vtz</l>
-                	<l n="5" rend="indent">ca qux ta qo retal chicam vloc.</l>
-                	<l n="6" rend="indent">are cut retal chica qux taque</l>
-                	<l n="7" rend="indent">apon chivih xeqha curi ahauab</l>
-					<l n="8" rend="indent">ta xepixabax ri capohib e caib</l>
-					<l n="9" rend="indent">are qui bi va xtah vbi hun ca-</l>
-					<l n="10" rend="indent">poh. xpuch chicut vbi hun chic</l>
-					<l n="11" rend="indent">6690epu caib xtah xpuch qui bi</l>
-					<l n="12" rend="indent">xetac vbic chiya chi ratinibal</l>
-					<l n="13" rend="indent">tohil aulix hacavitz. are qui</l>
-					<l n="14" rend="indent">naoh ronohel amac rÿ.</l>
-					<l n="15" rend="indent">6700Cate puch xebec xecauuxic qui-</l>
-					<l n="16" rend="indent">tzih vi chihebelic chi vachinic ta xe-</l>
-					<l n="17" rend="indent">bec chila chatin vi tohil quicari-</l>
-					<l n="18" rend="indent">loon curi qui chahon ta xebec. que</l>
-					<l n="19" rend="indent">quicot chicuri ahauab cumal ri</l>
-					<l n="20" rend="indent">e caib qui mial xquitac vbic. ta</l>
-					<l n="21" rend="indent">xeopon cut chiya 6710cate xquiti-</l>
-					<l n="22" rend="indent">quiba chahonic xquitzonoba quib</l>
-					<l n="23" rend="indent">qui cabichal e chacachaxinac</l>
-					<l n="24" rend="indent">chuvach tac abah, ta xe culun</l>
-					<l n="25" rend="indent">curi tohil aulix hacavitz. xeopon</l>
-					<l n="26" rend="indent">chila chuchi ya, xa cu zcaquin</l>
-					<l n="27" rend="indent">xrocoibeh qui vach ri e caib ca-</l>
-					<l n="28" rend="indent">pohib quechahonic 6720are curi</l>
-					<l n="29" rend="indent">capohib xa huzu xequixbic</l>
-					<l n="30" rend="indent">ta xeopon ri tohil macuhabi</l>
-					<l n="31" rend="indent">xbe qui raibal ri tohil chirech</l>
-					<l n="32" rend="indent">ri e caib capohib ta xetzonox</l>
-					<l n="33" rend="indent">cut apa quixpe vi. xevqhaxic</l>
-					<l n="34" rend="indent">chirech, ri e caib capohib xev-</l>
-					<l n="35" rend="indent">qhaxic 6730naquipa quivah quixul</l>
-					<l n="36" rend="indent">varal chu chi vi ca a xevqhax</l>
-					<l n="37" rend="indent">cut ohba tacon vloc cumal</l>
-					<l n="38" rend="indent">ahauab ta xohpetic chibe ivila</l>
-					<l n="39" rend="indent">cuivach ri tohil quixqhau cuq</l>
-					<l n="40" rend="indent">xeqha ahauab chique quehe</l>
-					<l n="41" rend="indent">cut chipe vi retal 6740quitzih vve</l>
-					<l n="42" rend="indent">chivil qui vach xohohvqhaxic</l>
-					<l n="43" rend="indent">xeqha curi e caib capohib ta xqui-</l>
-					<l n="44" rend="indent">zucuba qui taquiquil areta cu</l>
-					<l n="45" rend="indent">xcah ri amac xehox ta ri capo-</l>
-					<l n="46" rend="indent">hib rumal qui naual tohil xe</l>
-					<l n="47" rend="indent">qha curi tohil 6750aulix hacavitz</l>
+                	<lb>naquila chiquiya chive tazec chi -</lb>
+                	<lb>qui raih ivach qui tzih chiya ivib</lb>
+                	<lb>chi quech. vve cut ta maui chiya</lb>
+                	<lb>ivib quixcacacmizah cut. 6680cate vtz</lb>
+                	<lb>ca qux ta qo retal chicam vloc.</lb>
+                	<lb>are cut retal chica qux taque</lb>
+                	<lb>apon chivih xeqha curi ahauab</lb>
+					<lb>ta xepixabax ri capohib e caib</lb>
+					<lb>are qui bi va xtah vbi hun ca -</lb>
+					<lb>poh. xpuch chicut vbi hun chic</lb>
+					<lb>6690epu caib xtah xpuch qui bi</lb>
+					<lb>xetac vbic chiya chi ratinibal</lb>
+					<lb>tohil aulix hacavitz. are qui</lb>
+					<lb>naoh ronohel amac rÿ.</lb>
+					<lb><num>6700</num>Cate puch xebec xecauuxic qui-</lb>
+					<lb>tzih vi chihebelic chi vachinic ta xe-</lb>
+					<lb>bec chila chatin vi tohil quicari-</lb>
+					<lb>loon curi qui chahon ta xebec. que</lb>
+					<lb>quicot chicuri ahauab cumal ri</lb>
+					<lb>e caib qui mial xquitac vbic. ta</lb>
+					<lb>xeopon cut chiya <num>6710</num>cate xquiti-</lb>
+					<lb>quiba chahonic xquitzonoba quib</lb>
+					<lb>qui cabichal e chacachaxinac</lb>
+					<lb>chuvach tac abah, ta xe culun</lb>
+					<lb>curi tohil aulix hacavitz. xeopon</lb>
+					<lb>chila chuchi ya, xa cu zcaquin</lb>
+					<lb>xrocoibeh qui vach ri e caib ca-</lb>
+					<lb>pohib quechahonic <num>6720</num>nare curi</lb>
+					<lb>capohib xa huzu xequixbic</lb>
+					<lb>ta xeopon ri tohil macuhabi</lb>
+					<lb>xbe qui raibal ri tohil chirech</lb>
+					<lb>ri e caib capohib ta xetzonox</lb>
+					<lb>cut apa quixpe vi. xevqhaxic</lb>
+					<lb>chirech, ri e caib capohib xev-</lb>
+					<lb>qhaxic <num>6730</num>naquipa quivah quixul</lb>
+					<lb>varal chu chi vi ca a xevqhax</lb>
+					<lb>cut ohba tacon vloc cumal</lb>
+					<lb>ahauab ta xohpetic chibe ivila</lb>
+					<lb>cuivach ri tohil quixqhau cuq</lb>
+					<lb>xeqha ahauab chique quehe</lb>
+					<lb>cut chipe vi retal <num>6740</num>quitzih vve</lb>
+					<lb>chivil qui vach xohohvqhaxic</lb>
+					<lb>xeqha curi e caib capohib ta xqui-</lb>
+					<lb>zucuba qui taquiquil areta cu</lb>
+					<lb>xcah ri amac xehox ta ri capo-</lb>
+					<lb>hib rumal qui naual tohil xe</lb>
+					<lb>qha curi tohil <num>6750</num>aulix hacavitz</lb>
 
                 </div>
                 <div type="col" n="44.1.2" xml:lang="spa">
