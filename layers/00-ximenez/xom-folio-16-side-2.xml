@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -43,15 +43,15 @@
                 <p>
                 <!-- K'ICHE' LINES GO HERE -->
                     <lb n="1" />val lalnu cahau, mahabi achih
-                    <lb n="2" />vetaam vvach xqhacut utz bala
-                    <lb n="3" />quitzih vi chi at hoxol chec chipu –
+                    <lb n="2" />vetaam vvach xqhacut uꜩ bala
+                    <lb n="3" />quiꜩih vi chi at hoxol chec chipu –
                     <lb n="4" />zu ix rahpop achih chicama vloc
                     <lb n="5" />ri vqux chupan zel chiquicololeh
                     <lb n="6" />ahauab vacamic xevqhax cuta
                     <lb n="7" />ri tucur, e cahib ta xebec quiti –
                     <lb n="8" />quem ri zel ta xebec quichelem
                     <lb n="9" />ri capoh cucaam ri zaquitoc puz –
-                    <lb n="10" />bal re. maui chutzinic quinicami –
+                    <lb n="10" />bal re. maui chuꜩinic quinicami –
                     <lb n="11" />zah ix zamahel rumal maui
                     <lb n="12" />nu hoxbal ri qo chinupam xaqui
                     <lb n="13" />xvinaquiric xere xbenumaihah
@@ -61,18 +61,18 @@
                     <lb n="17" />a xqhauic. naquipa xchicacoh
                     <lb n="18" />v quexel ri iqux mi xbÿx vloc ru–
                     <lb n="19" />mal acahau chicam vloc ri vqux
-                    <lb n="20" />xchiquitzololeh ahauab, xchiqui
-                    <lb n="21" />tzaquixtah x<del resp="#LB">c</del>hi quihunam va –
-                    <lb n="22" />chih v tzaquic chanim chicama
+                    <lb n="20" />xchiquiꜩololeh ahauab, xchiqui
+                    <lb n="21" />ꜩaquixtah x<del resp="#LB">c</del>hi quihunam va –
+                    <lb n="22" />chih v ꜩaquic chanim chicama
                     <lb n="23" />vloc pazel chicoloba cahoc vqux
                     <lb n="24" />chupan zel mapa mi xohvqhax
                     <lb n="25" />vloc naquila cut xchicaya pazel
                     <lb n="26" />cacahtanabec mata catcamic xe
-                    <lb n="27" />qha curi zamahel. vtz bala ma –
+                    <lb n="27" />qha curi zamahel. vꜩ bala ma –
                     <lb n="28" />ui quech ri qux ta chuxoc ruq
                     <lb n="29" />maui varal ivochoch chuxic
                     <lb n="30" />macu xachichih vinac chicamic ca –
-                    <lb n="31" />te qui tzih ivech ri qui tzih hoxol
+                    <lb n="31" />te qui ꜩih ivech ri qui ꜩih hoxol
                     <lb n="32" />cate naipu rech hun came, vvcub
                     <lb n="33" />came, xa quic, xa holomax rech
                     <lb n="34" />ta chuxoc are chicut chuvach.
@@ -81,7 +81,7 @@
                     <lb n="37" />qhacut ri capoh ƐaƐ cut v vaal
                     <lb n="38" />ri che xelic xcul pazel cate puch
                     <lb n="39" />xuvon rib coloquic xuxic vque
-                    <lb n="40" />xel vqux ta iitz chicul vvaal.
+                    <lb n="40" />xel vqux ta iiꜩ chicul vvaal.
                     <lb n="41" />cac che queheri quic v vaal che
                     <lb n="42" />xelic vquexel v quiquel taxu
                     <lb n="43" />colo chila ri quic chupan ri v va
@@ -107,7 +107,11 @@
                     		</choice>eran cuatro.
                     <lb n="7" />y luego fueron y tomaron vna hícara
                     <lb n="8" />y se fueron llevandola cargada, y tam
-                    <lb n="9" />bíen llebaban vna cuchilla aguda <abbr type="superscription">pa</abbr>
+                    <lb n="9" />bíen llebaban vna cuchilla aguda 
+                    	<choice>
+                    		<abbr>pa</abbr>
+                    		<expan>para</expan>
+                    		</choice>
                     <lb n="10" />revanarla. y entonzes <rs ana="IXQUIC">ella</rs> les díxo no
                     <lb n="11" />me mateís mensageros por
                     	<choice>
@@ -154,7 +158,7 @@
                     		</choice> en esta hícara les lle –
                     <lb n="21" />uaremos tu corazon, así no nos man –
                     <lb n="22" />daron? bíen quísíeramos nosotros
-                    <lb n="23" />librarte. esta bien dixo ella. no es de
+                    <lb n="23" />librarte. esta bien dixo <rs ana="IXQUIC">ella</rs>. no es de
                     <lb n="24" />ellos este corazon, y vuestra casa nose –
                     <lb n="25" />ra aquí, síno 
                     	<choice>
@@ -189,7 +193,7 @@
                     <lb n="43" />mo sangre, y muy Colorado estuvo
                     <lb n="44" />despues de sacado en la hícara, y en –
                     <lb n="45" />tonzes resplandezio aquel palo por la
-                    <lb n="46" />donzella yeste palo se llama grana
+                    <lb n="46" /><rs ana="IXQUIC">donzella</rs> yeste palo se llama grana
                     <lb n="47" />palo Colorado, y se llamo sangre, y por –
                     </p>
                 </div>
