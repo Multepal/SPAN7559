@@ -32,19 +32,115 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Catherine L. Addington</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="page" n="01.1" xml:id="xom-f01-s1">
-                <div type="col" n="01.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
-                <div type="col" n="01.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+            <div type="col" n="01.1.1" xml:lang="quc">
+                <p>
+                <lb n="1" /><note place="margin">cap.</note>
+                <lb n="2" /><note place="margin">1.del serde</note><hi rend="large">ARE V XE OHER</hi>
+                <lb n="3" rend="indent"/><note place="margin">Díos</note>Ꜩih varal Quiche vbi.
+                <lb n="4" rend="indent"/><note place="margin">1.</note><hi rend="large">V</hi>aral xchicaꜩibah vi xchica –
+                <lb n="5" />tiquiba vi oher ꜩih, vticaribal,
+                <lb n="6" />vxenabal puch ronohel xban,
+                <lb n="7" />pa tinamit quiche, ramac qui – 
+                <lb n="8" />che vinac; arecut xchicacam
+                <lb n="9" />vi vcutunizaxic, vcalahobiza –
+                <lb n="10" />xic, vꜩihoxic puch euaxibal
+                <lb n="11" />zaquiribal rumal ꜩacol bitol
+                <lb n="12" />alom, qaholom quibi hun ah –
+                <lb n="13" />pu vuch, hun ahpu vtiu, za –
+                <lb n="14" />quinimac ꜩÿz, tepeu, qucumaꜩ
+                <lb n="15" />vqux cho, vqux palo, ah ra –
+                <lb n="16" />xalae, ah raxaꜩel chu qha –
+                <lb n="17" />xic, rachbixic, rachꜩihoxic
+                <lb n="18" />rÿ iyom, mamom xpiyacoc,
+                <lb n="19" />xmucane vbi, maꜩanel chu –
+                <lb n="20" />quenel camul yiom, camul
+                <lb n="21" />mamom chuqhaxic pa quiche
+                <lb n="22" /><note place="margin">2</note>ꜩih. ta xquiꜩihoh ronohel
+                <lb n="23" />ruq xquiban chic chizaquil
+                <lb n="24" />qolem, zaquil ꜩih vae xchi –
+                <lb n="25" />caꜩibah chupan chic vqha –
+                <lb n="26" />bal Dios pa christianoil chic
+                <lb n="27" />xchiquelezah rumal maha –
+                <lb n="28" />bi chic ilbal re popo vvh. il –
+                <lb n="29" />bal zac petenac chaca palo.
+                <lb n="30" />vꜩihoxic camuhibal ilbal zac –
+                <lb n="31" />qazlem chuqhaxic. qo nabe
+                <lb n="32" />vuhil, oher ꜩibam puch xa
+                <lb n="33" />eval vvach ilol re, bizol re,
+                <lb n="34" />nim vpeoxic, vtzihoxic puch,
+                <lb n="35" /><note place="margin">3.</note>ta chiquiz ꜩuk ronohel cah
+                <lb n="36" /><note place="margin">prover.</note>vleu, vcah ꜩucuxic, vcah 
+                <lb n="37" /><note place="margin">Cap. 8.</note>xucutaxic retaxic, vcah
+                <lb n="38" />cheexic, vmeh camaxic, vyuc –
+                <lb n="39" />camaxic vpa cah, vpa vleu
+                <lb n="40" />cah ꜩuc, cah xu cut chuqha –
+                <lb n="41" />xic rumal ri ꜩacol bitol
+                <lb n="42" />vchuch, vcahau qazlem vi –
+                <lb n="43" />naquirem, abanel, quxla –
+                <lb n="44" />nel, alay rech, quxlaay
+                <lb n="45" />rech zaquil amaquil, za –
+                <lb n="46" />quil al, zaquil qahol, ah – 
+                <lb n="47" />biz, ahnaoh chirech ronohel
+                </p>
+            </div>
+            <div type="col" n="01.1.2" xml:lang="spa">
+            	<p>
+            	<lb n="1" rend="right">1
+                <lb n="2" /><hi rend="large">ESTE ES EL PRINCIPIO DE LAS</hi>
+                <lb n="3" rend="indent"/>antiguas historias aqui en el quiche.
+                <lb n="4" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
+                <lb n="5" />antiguas historias, su principio, y comien -
+                <lb n="6" />zo de todo lo <abbr>q'</abbr> fue hecho en el pueblo de
+                <lb n="7" />el quiche, su pueblo de los indios quichees;
+                <lb n="8" />y de aqui tomaremos su ser declarado, y
+                <lb n="9" />manifestado, y su ser relatado, la esconde
+                <lb n="10" />dura, y aclaradura, por el formador, y cri –
+                <lb n="11" />ador madre, y Padre <abbr>q’</abbr>así se llaman, hun
+                <lb n="12" />ahpu vuch. hun ahpu vtiu. Zaquinima ꜩÿz
+                <lb n="13" />tepeu. gucumaꜩ. vguxcho. vguxpalo. (nom –
+                <lb n="14" />bres , o atributos. <abbr>q’</abbr>significan; vn tirador tacu –
+                <lb n="15" />azín. vn tirador coyote. blanco pizote. <abbr>S<hi rend="superscript">or.</hi></abbr>
+                <lb n="16" />fuerte culebra. corazon de la laguna. co –
+                <lb n="17" />razon de el mar.) el de el verde cagete, el
+                <lb n="18" />de la verde hícara son llamados. y junta
+                <lb n="19" />mente es dicho, y hablado de aquella abu –
+                <lb n="20" />ela, y abuelo <abbr>q’</abbr>sellamaban: xpiyacoc, y
+                <lb n="21" />xmucane. nombres propios. amparado –
+                <lb n="22" />res, y cubridores dos vezes abuela, y dos
+                <lb n="23" />vezes abuelo son dichos en las historias qui –
+                <lb n="24" />chees. <abbr>q<hi rend="superscript">o</hi></abbr> comunicaron. todo con los <abbr>q’</abbr>hizi–
+                <lb n="25" />eron despues en el estado de la claridad
+                <lb n="26" />y en la palabra de clarídad. Esto escri –
+                <lb n="27" />uiremos ya en la ley de Díos, en la cris –
+                <lb n="28" />tiandad, lo sacaremos <abbr>porq’</abbr> ya no ay lí –
+                <lb n="29" />bro comun, original donde verlo. dela
+                <lb n="30" />otra parte de el mar es venido donde se a
+                <lb n="31" />visto; <abbr>q’</abbr>es dicho su ser enseñada nuestra
+                <lb n="32" />obscuridad con la míradura dela clara
+                <lb n="33" />vida. antigua mente avía libro original
+                <lb n="34" />q’se escrivío antigua mente; síno <abbr>q’</abbr>es –
+                <lb n="35" />ta escondido <abbr>alq’</abbr> lo míra, y <abbr>alq’</abbr> lo piensa.
+                <lb n="36" />grande es su venida, y su ser enseñado.
+                <lb n="37" /><abbr>q<hi rend="superscript">o</hi></abbr> seacabo de formar todo el cielo, y la
+                <lb n="38" />tierra, su ser cuadrado, su ser repartido
+                <lb n="39" />en cuatro partes, su ser señalado, su ser
+                <lb n="40" />amojonado con estacas, su ser medido a
+                <lb n="41" />mecates, o cuerdas, y su ser estirada la
+                <lb n="42" />cuerda en el zielo, y en la tierra; <abbr>q’</abbr>es di –
+                <lb n="43" />cho de cuatro esquinas, y cuatro lados
+                <lb n="44" />por el formador, y criador. su <abbr>M<hi rend="superscript">e.</hi></abbr> y su <abbr>P<hi rend="superscript">e.</hi></abbr>
+                <lb n="45" />de la vida. y de la creazíon. <abbr>q<hi rend="superscript">e</hi></abbr> da respira
+                <lb n="46" />zion, y resuello, paridos, y cuídados, de
+                <lb n="47" />la paz claridad de los híjos, pensador, y en –
+            </p>
+            </div>
             </div>
         </body>
     </text>
