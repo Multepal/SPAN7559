@@ -43,7 +43,7 @@
                     <p>
                         <lb n="1" />quixot, qui lac, qui boh, qui tzi
                         <lb n="2" />quieaa, haruh pala ronohel
-                        <note rend="margin-left">
+                        <note place="margin-left">
                             <del cert="high">
                                 <num rend="large">1</num>
                             </del>
@@ -97,7 +97,7 @@
                 </div>
                 <div type="col" n="05.1.2" xml:lang="spa">
                     <p>
-                            <lb n="1" />caxetes, ollas, perros, y tínajas. todos quan –
+                        <lb n="1" />caxetes, ollas, perros, y tínajas. todos quan –
                         <note place="margin-right"><del cert="low"><num rend="large">5</num></del></note>
                         <lb n="2" />tos <hi rend="underline">ubo</hi> les afrentaron, y les dixeron, muy mal
                         <note place="margin-middle"><num rend="large">4</num></note>

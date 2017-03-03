@@ -40,10 +40,9 @@
         <body>
             <div type="page" n="07.2" xml:id="xom-f07-s2">
                 <div type="col" n="07.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                     <p>
                         <lb n="1" />cut. cate cut ta xebec tzamal
-                        <note rend="margin-left"><num rend="large">7</num></note>
+                        <note place="margin-left"><num rend="large">7</num></note>
                         <lb n="2" />cubi ri vvcub caquix chuvach
                         <lb n="3" />v calibal, ta xeicouic ri atit 
                         <lb n="4" />mama queetzeyah curi eca – 
@@ -93,7 +92,6 @@
                     </p>                
                 </div>
                 <div type="col" n="07.2.2" xml:lang="spa">
-                    <!-- SPANISH LINES GO HERE -->
                     <p>
                         <lb n="1" />dixeron los viejos y entonzes se fueron ala
                         <lb n="2" />esquina dela casa de vvcubcaquix, el
@@ -135,7 +133,7 @@
                         <lb n="38" />eso molído, pero este gueso molído era solo 
                         <lb n="39" />maíz blanco. estabíen díxo el Sor. sacadlos 
                         <lb n="40" />ayudadlos. y entonzes lesacaron los díen –
-                </p>
+                    </p>
                 </div>
             </div>
         </body>
