@@ -41,28 +41,99 @@
             <div type="page" n="08.2" xml:id="xom-f08-s2">
                 <div type="col" n="08.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
-                <p>
-                    <lb n="1" />nima che v vapalil qui cabal ca – 
-                    <note rend="margin-left"><num rend="large">8</num></note>
-                    <lb />te cut xbe ri zipacna xopon
-                    <lb />cu chila cuq ri omuch qaholab 
-                    <lb />na qui pa quibano ixqaholab?
-                    <lb />xa che maui cacayaco chitele – ba xchinteleh apa copon vi na qui pa vchac chi iqux, xa v va – palil ca cabal vtz bala cha cut ta xuhuruh cut xuteleba cu
-10 acanoc, chuchi qui cabal omuch qaholab xata vi catqohe cuq
-at qahol qo pa achuch acahau mahabi xqha cut cacachaqui – mah tana bala chuvec chuva – baxic chic hun cache racan
-ca cabal vtz xqha chicut ca – tecut xcam quinaoh ri o much qaholab areri. ala hupacha chicaban chire chicacamizah
-20 tah rumal maui vtz ri cubano xa vtuquel mi xuyac ri che
-cacoto hun nima hul chiri ta cut chicatzac vi cahoc pahul hacama caha vleu pa hul coh – qhata chire chi are ta cut pa – chal p cahoc pa hul ta catarih cahoc ri nima che chiri ta cut chicam vi pa hul, xeqha cut omuch qaholab, ta xquicot cut
-30 hun nima hul naht xcahic ta xquitac cut ri zipacna, oh ca– nih chavech chibeta a coto chic vleuh maui cacaxico, xucha
-xic. vtzbala xqhacut cate cut xcah pa hul caziquin vloc ta cototahoc ri vleu nahta chi – cahic avmal xuqhaxic ve xqha cut ta xutiquiba vco – tic hul xacu vhul xucoto
-40 vcolbal rib, xretamah ri v camizaxic ta xucot cut hun vi chihul chu tzalanem vca
-hul, xucoto xcolotah vi caha – nican pala xuqhax cu cah
-oc cumal omuch qaholab. quinanucoto ve xquixnuzi – quih acanoc ta chutzinoc, v
-
-                </p>
+                    <p>
+                        <lb n="1" />nimache v vapalil qui cabal ca – 
+                        <note place="margin-left"><num rend="large">8</num></note>
+                        <lb n="2" />te cut xbe ri zipacna xopon
+                        <lb n="3" />cu chila cuq ri omuch qaholab 
+                        <lb n="4" />na qui pa quibano ixqaholab?
+                        <lb n="5" />xa che maui cacayaco chitele – 
+                        <lb n="6" />ba xchinteleh apa copon vi na 
+                        <lb n="7" />qui pa vchac chi iqux, xa v va – 
+                        <lb n="8" />palil ca cabal vtz bala chacut 
+                        <lb n="9" />ta xuhuruh cut xuteleba cu
+                        <lb n="10" />acanoc, chuchi qui cabal omuch 
+                        <lb n="11" />qaholab xata vi catqohe cuq
+                        <lb n="12" />at qahol qo pa achuch acahau 
+                        <lb n="13" />mahabi xqha cut cacachaqui – 
+                        <lb n="14" />mah tana bala chuvec chuva – 
+                        <lb n="15" />baxic chic hun cache racan
+                        <lb n="16" />ca cabal vtz xqha chicut ca
+                        <lb n="17" />tecut xcam quinaoh riomuch 
+                        <lb n="18" />qaholab areri. ala hupacha 
+                        <lb n="19" />chicaban chire chicacamizah
+                        <lb n="20" />tah rumal maui vtz ri cubano 
+                        <lb n="21" />xa vtuquel mi xuyac ri che
+                        <lb n="22" />cacoto hun nima hul chiri ta 
+                        <lb n="23" />cut chicatzac vi cahoc pahul 
+                        <lb n="24" />hacama caha vleu pa hul coh – 
+                        <lb n="25" />qhata chire chi are ta cut pa – 
+                        <lb n="26" />chal p cahoc pa hul ta catarih 
+                        <lb n="27" />cahoc ri nima che chiritacut 
+                        <lb n="28" />chicam vi pa hul, xeqha cut 
+                        <lb n="29" />omuch qaholab, ta xquicot cut
+                        <lb n="30" />hun nima hul naht xcahic ta 
+                        <lb n="31" />xquitac cut ri zipacna, oh ca– 
+                        <lb n="32" />nih chavech chibeta a coto chic 
+                        <lb n="33" />vleuh maui cacaxico, xucha
+                        <lb n="34" /><del type="scribble">x</del>ic. vtzbala xqhacut catecut 
+                        <lb n="35" />xcah pa hul caziquin vloc ta 
+                        <lb n="36" />cototahoc ri vleu nahta chi – 
+                        <lb n="37" />cahic avmal xuqhaxic ve 
+                        <lb n="38" />xqha cut ta xutiquiba vco – 
+                        <lb n="39" />tic hul xacu vhul xucoto
+                        <lb n="40" />vcolbal rib, xretamah ri v 
+                        <lb n="41" />camizaxic ta xucot cut hun 
+                        <lb n="42" />vi chihul chu tzalanem vca
+                        <lb n="43" />hul, xucoto xcolotah vi caha – 
+                        <lb n="44" />nican pala xuqhax cu cah
+                        <lb n="45" />oc cumal omuch qaholab. 
+                        <lb n="46" />quinanucoto ve xquixnuzi – 
+                        <lb n="47" />quih acanoc ta chutzinoc, v
+                    </p>
                 </div>
                 <div type="col" n="08.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                    <p>
+                        <lb n="1" />madre de su casa de paxa, y qo vío esto zipac –
+                        <lb n="2" />na fue donde estaba los cuatrozíentos mucha – 
+                        <lb n="3" />chos, y les pregunto. q’ es lo q’hazeís muchachos? 
+                        <lb n="4" />este palo respondieron q’no lo podemos le – 
+                        <lb n="5" />vantar, levantadlo díxo zípacna, lo lleva –
+                        <lb n="6" />re yo, adonde ha de ír? de q’ sírve, opara 
+                        <lb n="7" />q’lo aueís cortado? pa. madre de nuestra – 
+                        <lb n="8" />casa respondíeron ellos. estabien dixo zí – 
+                        <lb n="9" />pacna, y tírando de el, y lo cargo, y lo lle – 
+                        <lb n="10" />uo hasta lapuerta de la casa de los cua – 
+                        <lb n="11" />trozientos muchachos. y entonzes ellos le 
+                        <lb n="12" />díxeron quedate consotros tíenes Me. o
+                        <lb n="13" />Pe. no tengo, respondío zípacna. mañana 
+                        <lb n="14" />díxeron los quatrozíentos muchachos bol – 
+                        <lb n="15" />beremos atraer otropalo para pilar de 
+                        <lb n="16" />nuestra casa. enorabuena dígo zípacna.
+                        <lb n="17" />y entraron ellos enconsejo, los cuatroçíen<corr> – </corr> 
+                        <lb n="18" />tos muchachos, y dixeron, q’haremos con 
+                        <lb n="19" />estemuchacho, matemoslo, porq no es bu – 
+                        <lb n="20" />eno esto q’haze, el solo leuanto el palo.
+                        <lb n="21" />Lo que haremos sera: haremos vn gran hoyo 
+                        <lb n="22" />y allí lo arrojaremos abajos en el hoyo ledí – 
+                        <lb n="23" />remos anda asacar tierra de aquel hoyo, y
+                        <lb n="24" />qo el este ínclínado en el hoyo le echare – 
+                        <lb n="25" />mos vnpalo grande, y allí moríra en el ho – 
+                        <lb n="26" />yo. y luego hízíeron vn gran hoyo, muy 
+                        <lb n="27" />hondo, entonzes llamaron azípacna, y le dí – 
+                        <lb n="28" />geron: nosotros somos tus querídos, andad
+                        <lb n="29" />y cabad otropo en el hoyo porq’ no al can – 
+                        <lb n="30" />zamos. esta bíen dixo el, y baxo al hoyo, ca – 
+                        <lb n="31" />ba bíen le dígeron, hasta q’lo hagas muy 
+                        <lb n="32" />profundo, estabien dixo el. y entonzes 
+                        <lb n="33" />empezo acabar, pero el hoyo q’hizo fue
+                        <lb n="34" />para líbrarse, porq’supo. q’ lo querían 
+                        <lb n="35" />matar, ycabo vn hoyo de lado, vn brazo 
+                        <lb n="36" />hízo de hoyo, en donde se libro; ya esta 
+                        <lb n="37" />cabado, ya ahondado ledíxeron los 
+                        <lb n="38" />muchachos? aun estoy cabando, yo os
+                        <lb n="39" />auísare, y llamare qo ya este cabado, el
+                    </p>
                 </div>
             </div>
         </body>
