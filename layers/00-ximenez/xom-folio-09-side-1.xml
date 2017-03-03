@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,36 +40,92 @@
         <body>
             <div type="page" n="09.1" xml:id="xom-f09-s1">
                 <div type="col" n="09.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                cototahic xcha vloc zipacna
-chiri pahul, macu are cucot vxehul ri vmoquiquil xa vhul cucoto colbal rib cate cut ta xziquin vloc ri zipacna colon chuca chiri pa hul ta xziquin vloc, quixpetoc chul icama vleu rachac hul mi xcoto tahic. qui tzih nah mi xcah v
-10 vmal. mapa qui ta nu ziqui – bal lo, are curi iziquibal
-xa vbi caxohanic. queheri hun elebal caib elebal ixqo – vi canutao xqha vla ri zipac – na, pa vhul chiri cut ma – tzal chivi vloc caziquiiah chivla pahul. are cut cahu – ruxvloc ri qui nima che ru mal qaholab cate puch xqui –
-20 tarih cahoc ri che pahul ma qo ma qhauic chicata na ta churacuh vchi ta camoc xe
-cha chi quibil quib. xaque hazlahic xa pu chimatzalah qui vach chi qui huhunal, ta xquitarih cahoc ri che are
-cu xqha cut ta xuracuh v
-chi xahupah chic xziquinic ta xcah apanoc ri che oca mi
-30 xutzinic qui vtz mi xcabano chi – re mi xcamic atalabe chita
-quen chubano chuchacuh ta chuxoc vnabe la xucoh vla
-rib cuq chicaxol puch laoh omuch qaholab. xeqha cut que quicot chic qo ri vbanic caqui oxih q e|couic oxih puch chicucah lacabebal cacabal laoh omuch chi qaholab xe
-40 qha chuuec cut chiquilo ca bih puch chiquilo mapa chi – pe zanic pu vleu ta chuinoc ta queyoc cate cut cul chica qux ta cucah ri ca qui xe – qha cut. cuta cu vloc ri zi – pacna chiri pa hul, ta xqui – bih qaholab ri ca chucabi
+                <p>
+                        <lb n="1" />cototahic xcha vloc zipacna
+                        <lb n="2" />chiri pahul, macu are cucot 
+                        <lb n="3" />vxehul ri vmoquiquil xa vhul 
+                        <lb n="4" />cucoto colbal rib cate cut ta 
+                        <lb n="5" />xziquin vloc ri zipacna colon 
+                        <lb n="6" />chuca chiri pa hul ta xziquin 
+                        <lb n="7" />vloc, quixpetoc chul icama 
+                        <lb n="8" />vleu rachac hul mi xcoto 
+                        <lb n="9" />tahic. qui tzih nah mi xcah v
+                        <lb n="10" />vmal. mapa qui ta nu ziqui – 
+                        <lb n="11" />bal lo, are curi iziquibal
+                        <lb n="12" />xa vbi caxohanic. queheri 
+                        <lb n="13" />hun elebal caib elebal ixqo – 
+                        <lb n="14" />vi canutao xqha vla ri zipac – 
+                        <lb n="15" />na, pa vhul chiri cut ma – 
+                        <lb n="16" />tzal chivi vloc caziquiiah 
+                        <lb n="17" />chivla pahul. are cut cahu – 
+                        <lb n="18" />ruxvloc ri qui nima che ru 
+                        <lb n="19" />mal qaholab cate puch xqui –
+                        <lb n="20" />tarih cahoc ri che pahul ma 
+                        <lb n="21" />qo ma qhauic chicata na ta
+                        <note place="margin-left">-----</note>
+                        <lb n="22" />churacuh vchi ta camoc xe
+                        <lb n="23" />cha chi quibil quib. xaque 
+                        <lb n="24" />hazlahic xa pu chi matzalah 
+                        <lb n="25" />quivach chi qui huhunal, ta 
+                        <lb n="26" />xquitarih cahoc ri che are
+                        <lb n="27" />cu xqha cut ta xuracuh v
+                        <lb n="28" />chi xahupah chic xziquinic 
+                        <lb n="29" />ta xcah apanoc ri che oca mi
+                        <lb n="30" />xutzinic qui vtz mi xcabano chi – 
+                        <lb n="31" />re mi xcamic atalabe chita
+                        <lb n="32" />quen chubano chuchacuh ta 
+                        <lb n="33" />chuxoc vnabe la xucoh vla
+                        <lb n="34" />rib cuq chicaxol puch laoh 
+                        <lb n="35" />omuch qaholab. xeqha cut que 
+                        <lb n="36" />quicot chic qo ri vbanic caqui 
+                        <lb n="37" />oxih <del>q</del> e<del><unclear>|</unclear></del>ecouic oxih puch 
+                        <lb n="38" />chicucah lacabebal cacabal 
+                        <lb n="39" />laoh omuch chi qaholab xe
+                        <lb n="40" />qha chuuec cut chiquilo ca 
+                        <lb n="41" />bih puch chiquilo mapa chi – 
+                        <lb n="42" />pe zanic pu vleu ta chuin oc 
+                        <lb n="43" />ta queyoc cate cut cul chica 
+                        <lb n="44" />qux ta cucah ri ca qui xe – 
+                        <lb n="45" />qha cut. cuta cu vloc ri zi – 
+                        <lb n="46" />pacna chiri pa hul, ta xqui – 
+                        <lb n="47" />bih qaholab ri ca chucabi
+                    </p>
                 </div>
                 <div type="col" n="09.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                hoyo dixo alla abaxo zípacna, en el hoyo; em – 9
-pero no cababa el asíento de el hoyo, pa. su entierro; 50 síno vn hoyo en q’líbrarse. y despues llamo de
-alla abaxo zípacna; pero ya estaba escapado
-qo llamo. venid tomad la tíerra q’esta cabada enel asiento de el hoyo, porq’ ya deverdad he afondado mucho. no oys mí vos, y yo os oygo
-el eco, y oygo vuestra voz aunq’estoy en vn ho – yo de dos bueltas, dixo zípacna en su hoyo, y allí estaba agachado, y gritaba a menudo.
-y entonzes los muchachos arrastraron, el
-palo y lo arrojaron con estruendo abaxo 60 en el hoyo, y dixeron callen todos nadie
-hable síno oygamos qo grite, y ellos habla – ban en secreto, entresí. y entonzes arrojaron elpaloenelhoyoyqo diounavozcayoalpa– lo y entonzes se alegraron, y dixeron oquebueno q’esto q’hemos hecho. ya murío
-y sí vbíera vívído nos vbíera hecho mucho
-mal porq’ se auía ya metido entrenosotros
-los cuatroçientos muchachos. ydixeron alegrandose; agora lo q’ haremos sera en
-70 estos tres días hazer nuestra chichi, y alos tresdías beberemos nosotros los cuatrozien tos muchachos nuestra chichi. mañana veremos, y pasado mañana veremos, síví – enen acaso las hormigas en la tierra qo híeda, y se pudra, y entonzes sesentara nuestro corazon, y beberemos sín cuídado dixeron. y zípacna lo oya enhoyo qo
-lo hablaron los muchachos. y luego al –
-           
+                    <p>
+                        <lb n="1" />hoyo dixo alla abaxo zípacna, en el hoyo; em – 
+                        <note place="margin-right"><num>9</num></note>
+                        <lb n="2" />pero no cababa el asíento de el hoyo, pa. su entierro; 
+                        <lb n="3" />síno vn hoyo en q’líbrarse. y despues llamo de
+                        <lb n="4" />alla abaxo zípacna; pero ya estaba escapado
+                        <lb n="5" />qo llamo. venid tomad la tíerra q’esta cabada 
+                        <lb n="6" />enel asiento de el hoyo, porq’ ya deverdad he 
+                        <lb n="7" />afondado mucho. no oys mí vos, y yo os oygo
+                        <lb n="8" />el eco, y oygo vuestra voz aunq’estoy en vn ho – 
+                        <lb n="9" />yo de dos bueltas, dixo zípacna en su hoyo, y 
+                        <lb n="10" />allí estaba agachado, y gritaba a menudo.
+                        <lb n="11" />y entonzes los muchachos arrastraron, el
+                        <lb n="12" />palo y lo arrojaron con estruendo abaxo 
+                        <lb n="13" />en el hoyo, y dixeron callen todos nadie
+                        <lb n="14" />hable síno oygamos qo grite, y ellos habla – 
+                        <lb n="15" />ban en secreto, entresí. y entonzes arrojaron 
+                        <lb n="16" />elpalo enel hoyo ymqo diounavoz cayo alpa –  
+                        <lb n="17" />lo y entonzes se alegraron, y dixeron 
+                        <lb n="18" />oquebueno q’esto q’hemos hecho. ya murío
+                        <lb n="19" />y sí vbíera vívído nos vbíera hecho mucho
+                        <lb n="20" />mal porq’ se auía ya metido entrenosotros
+                        <lb n="21" />los cuatroçientos muchachos. ydixeron 
+                        <lb n="22" />alegrandose; agora lo q’ haremos sera en
+                        <lb n="23" />estos tres días hazer nuestra chichi, y alos 
+                        <lb n="24" />tresdías beberemos nosotros los cuatrozien<corr> – </corr> 
+                        <lb n="25" />tos muchachos nuestra chichi. mañana 
+                        <lb n="26" />veremos, y pasado mañana veremos, síví – 
+                        <lb n="27" />enen acaso las hormigas en la tierra qo 
+                        <lb n="28" />híeda, y se pudra, y entonzes sesentara 
+                        <lb n="29" />nuestro corazon, y beberemos sín cuídado 
+                        <lb n="30" />dixeron. y zípacna lo oya enhoyo qo
+                        <lb n="31" />lo hablaron los muchachos. y luego al –
+                    </p>
                 </div>
             </div>
         </body>
