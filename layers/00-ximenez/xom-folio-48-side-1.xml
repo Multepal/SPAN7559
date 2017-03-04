@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Matthew Richey</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,6 +41,7 @@
             <div type="page" n="48.1" xml:id="xom-f48-s1">
                 <div type="col" n="48.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
                 <l n="1"> mana xemuctah rumal quixoquil </l>
                 <l n="2"> calcual maui calah qui zachic taxe </l>
                 <l n="3"> zachic xere calah ri quipu xabic </l>
@@ -78,6 +79,8 @@
                 <l n="35"> relebalquih oher oc quevl </l>
                 <l n="36"> varal taxecamic erih chic e </l>
                 <l n="37"> ahquixb ahcahb quibinaam. </l>
+                </p> 
+                <p>
                 <l rend="indent(1)"> Cate puch taxquiquxlaah qui – </l>
                 <l n="39"> bÿc chila relebal quih are qui </l>
                 <l n="40"> quxlaan ri vpixab qui cahau </l>
@@ -88,15 +91,16 @@
                 <l n="45"> chila relebal quih. chila x epe – </l>
                 <l n="46"> vicacahau xeqha taxquicam </l>
                 <l n="47"> quibe eoxib chi qaholaxel co – </l>
+                </p>
                 
                 
+                         
                 
-                
-                
-                
+               
                 </div>
                 <div type="col" n="48.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
                 <l n="1"> de esta cosído, porq’ no lo uíeron quando se </l>
                 <l n="2"> embolbío, y así fue su despedida, y se per – </l>
                 <l n="3"> díeron de sobre el çerro de hacavítz y no </l>
@@ -136,6 +140,8 @@
                 <l n="37"> mente víníeron aquí, y muríeron ya </l>
                 <l n="38"> síendo muy víejos. y son llamados: los res </l>
                 <l n="39"> petados, y acatados. </l>
+                </p>
+                <p>
                 <l n="40"> yluego trataron de ír alla al oríente, tra – </l>
                 <l n="41"> tando de dar cumplímíento a los q’sus Pes </l>
                 <l n="42"> les mandaron, q’no lo auían oluídado. </l>
@@ -144,7 +150,7 @@
                 <l n="45"> tomaron mugeres tres, y díxeron qd se </l>
                 <l n="46"> fueron vamos al oréente de do víníeron </l>
                 <l n="47"> nuestros Pes ytomaron su camíno los tres híjos </l>
-                
+                </p>
                 </div>
             </div>
         </body>
