@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,30 +40,105 @@
         <body>
             <div type="page" n="11.1" xml:id="xom-f11-s1">
                 <div type="col" n="11.1.1" xml:lang="quc">
-rihuracan, chipi caculha, raxa caculha, ta xqhauic chiquech ri hun ahpu xbalanque v cab v qahol vvcub caquix hun chic hun chic chichacatahic, xavi nu tzih rumal mavi vtz qui banoh chuvach vleuh, caquicouizah quih chi nimal chi alal macu quehe chuxic chibochÿh cu vbic
-10 chila relebal quih xqha cut rihu – rracan chique ri e caib qaholab vtz bala lal ahau quevi na cut maui vtz vi caquilo, mapa lal qo – lic lal pu yacalic lal vqux cah xeqha cut ri qaholab taxqui – culuba vtzih huracan. are puch catahin ri cabrracan iohol hu– yub xa zcaquin chutinih racan chuvach vleuh huzu chi bulih ni–
-20 ma huiub, chuti huyub rumal
-ta xculutah cumal ri qaholab. apa cat be vi at qahol xeqha chi– rech ri cabracan mahabi quin
-be vi, xa in vlÿ huyub, in puch yohol rech chibe quih chibe zac xqha cut ta xqhauic. xqha chi cut ri cabrracan chique ri hun ahpu xbalanque hupacha xpetic ma – ui vetaam vvach, naquipa ibi
-30 xqha cabrracan mahabi cabi xa oh vbom, xapu oh tzarabom pa – tac huyub, xa oh meba mahabi naquila quech at qahol, xa
-chuti huyub, xanima huyub coh bec at qahol are curi hun ni – ma huyub xquilo xa coquil ca – quÿc quitzih naht cacanic xa– cacupupic quicouic chuvi hu– yub ronohel macuhabi hun
-40 caib q,iquin mi xcacam chu – vach at qahol ve cut quitzih
-cauulih ronohel huiub at qa – hol xeqha ri hun ahpu xbalan – que chire cabrracan. maqui – tzih xivilo ri huiub quibÿh a
-pa qovi xchivilna xchin vvlih cahoc apa xivil vi . chila ba qo –                </div>
+                    <p>
+                        <lb n="1" />rihuracan, chipi caculha, raxa 
+                        <lb n="2" />caculha, ta xqhauic chiquech ri 
+                        <lb n="3" />hun ahpu xbalanque v cab v 
+                        <lb n="4" />qahol vvcub caquix hunchic 
+                        <lb n="5" />hunchic chichacatahic, xavi nu 
+                        <lb n="6" />tzih rumal mavi vtz quibanoh 
+                        <lb n="7" />chuvach vleuh, caquicouizah 
+                        <lb n="8" />quih chi nimal chi alal macu 
+                        <lb n="9" />quehe chuxic chibochÿh <add place="above">cu</add> vbic
+                        <lb n="10" />chila relebal quih xqha cut rihu – 
+                        <lb n="11" />rracan chique ri e caib qaholab 
+                        <lb n="12" />vtz bala lal ahau quevi nacut 
+                        <lb n="13" />maui vtz vi caquilo, mapa lal qo – 
+                        <lb n="14" />lic lal pu yacalic lal vqux cah 
+                        <lb n="15" />xeqha cut ri qaholab taxqui – 
+                        <lb n="16" />culuba vtzih huracan. are puch 
+                        <lb n="17" />catahin ri cabrracan iohol hu – 
+                        <lb n="18" />yub xa zcaquin chutinih racan 
+                        <lb n="19" />chuvach vleuh huzu chi bulih ni–
+                        <lb n="20" />ma huiub, chuti huyub rumal
+                        <lb n="21" />ta xculutah cumal ri qaholab. 
+                        <lb n="22" />apa cat be vi at qahol xeqha chi– 
+                        <lb n="23" />rech ri cabracan mahabi quin
+                        <lb n="24" />be vi, xa in vlÿ huyub, in puch 
+                        <lb n="25" />yohol rech chibe quih chi bezac 
+                        <lb n="26" />xqhacut ta xqhauic. xqha chi cut 
+                        <lb n="27" />ri cabrracan chique ri hun ahpu 
+                        <lb n="28" />xbalanque hupacha xpetic ma – 
+                        <lb n="29" />ui vetaam vvach, naquipa ibi
+                        <lb n="30" />xqha cabrracan mahabi cabi xa 
+                        <lb n="31" />oh vbom, xapu oh tzarabom pa – 
+                        <lb n="32" />tac huyub, xa oh meba mahabi 
+                        <lb n="33" />naquila quech at qahol, xa
+                        <lb n="34" />chuti huyub, xanima huyub coh 
+                        <lb n="35" />bec at qahol are curi hun ni – 
+                        <lb n="36" />ma huyub xquilo xa coquil ca – 
+                        <lb n="37" />quÿc quitzih naht cacanic xa – 
+                        <lb n="38" />cacupupic quicouic chuvi hu – 
+                        <lb n="39" />yub ronohel macuhabi hun
+                        <lb n="40" />caib q,iquin mi xcacam chu – 
+                        <lb n="41" />vach at qahol ve cut quitzih
+                        <lb n="42" />cauulih ronohel huiub at qa – 
+                        <lb n="43" />hol xeqha ri hun ahpu xbalan – 
+                        <lb n="44" />que chire cabrracan. maqui – 
+                        <lb n="45" />tzih xivilo ri huiub quibÿh a
+                        <lb n="46" />pa qovi xchivilna xchin vvlih 
+                        <lb n="47" />cahoc apa xivil vi. chila ba qo –
+                    </p>
+                </div>
                 <div type="col" n="11.1.2" xml:lang="spa">
-huracan, chipicaculha, y raxa caculha di – 11
-xeron qo hablaron a hunahpu, y xbalanq’
-50 el Segundo hijo de vvcubcaquíx tambíen sea destruído esto mando, porq’ noesbíen loq’ha
-zen sobre la tierra. porq’ se pasan amucha grandeza y no deue ser así. halagaldo
-y llevaldo alla hazía do naze el sol esto dixo huracan alos dos muchachos. esta bien dixeron ellos noestabíen œ esto q’ vemos, por ventura no ventura no esprí – mero vuestra grandeza tu corazon de elzíelo no soí prímero? esto dixeron los
-60 muchachos qo respondieron alo q’ les dixo huracan y estando acltualmente cabrracan meneandolos montes, a penas los meneaba un poco dando gol – pes con los pies en la tíerra luego se des gajaban los pequeños y grandes mon – tes. y síendo entonçes encontrado por los dos muchachos le preguntaron a donde vas? muchacho? no voy a par – te alguna díxo el, aquíestoy solo
-70 derribando zerros y así para síempre estare derríbandolos. y entonzes el cabrracan le dixo a hun ahpu, y xba – lanque a que venís, no os conozco ní
-se a que es vuestra venída. como os llamaís? no tenemos nombre dixe –
-ron ellos, solosomos tiradores de zerua – tana, y cazadores de líga por los mon – tes somos pobres y no tenemos cosa al guna. andamos porlos montes gran –
-80 des y chicos alla enel nazímíento de el sol vímos vn grande zero y es muy fragante su dulzura y es tan alto q’ sesube sobre todos los zerros y así no hemos podido como es tan alto coger paxaro alguno, y sí así es verdad
-q’tu derríbas los zerros? dixo hun ah – pu y xbalanque agora nos ayuda –
-ras. es verdad eso? dixo cabrracan aveís visto ese zerro q’ dezís? adonde
-90 esta y lo vere y lo echare abaxo. a don de lo visteís? alla dixeron ellos                </div>
+                    <p>
+                        <lb n="1" />huracan, chipicaculha, y raxa caculha di – 
+                        <note place="margin-right"><num>11</num></note>
+                        <lb n="2" />xeron qo hablaron a hunahpu, y xbalanq’
+                        <lb n="3" />el Segundo hijo de vvcubcaquíx tambíen sea 
+                        <lb n="4" />destruído esto mando, porq’ noesbíen loq’ha
+                        <lb n="5" />zen sobre la tierra. porq’ se pasan amucha 
+                        <lb n="6" />grandeza y no deue ser así. halagaldo
+                        <lb n="7" />y llevaldo alla hazía do naze el sol esto 
+                        <lb n="8" />dixo huracan alos dos muchachos. esta 
+                        <lb n="9" />bien dixeron ellos noestabíen œ esto q’ 
+                        <lb n="10" />vemos, por ventura no ventura no esprí – 
+                        <lb n="11" />mero vuestra grandeza tu corazon de 
+                        <lb n="12" />el zíelo no soí prímero? esto dixeron los
+                        <lb n="13" />muchachos qo respondieron alo q’ les 
+                        <lb n="14" />dixo huracan y estando acltualmente 
+                        <lb n="15" />cabrracan meneandolos montes, a 
+                        <lb n="16" />penas los meneaba un poco dando gol – 
+                        <lb n="17" />pes con los pies en la tíerra luego se des 
+                        <lb n="18" />gajaban los pequeños y grandes mon<corr> –</corr> 
+                        <lb n="19" />tes. y síendo entonçes encontrado por 
+                        <lb n="20" />los dos muchachos le preguntaron a 
+                        <lb n="21" />donde vas? muchacho? no voy a par – 
+                        <lb n="22" />te alguna díxo el, aquíestoy solo
+                        <lb n="23" />derribando zerros y así para síempre 
+                        <lb n="24" />estare derríbandolos. y entonzes el 
+                        <lb n="25" />cabrracan le dixo a hun ahpu, y xba – 
+                        <lb n="26" />lanque a que venís, no os conozco ní
+                        <lb n="27" />se a que es vuestra venída. como os 
+                        <lb n="28" />llamaís? no tenemos nombre dixe –
+                        <lb n="29" />ron ellos, solosomos tiradores de zerua<corr> –</corr> 
+                        <lb n="30" />tana, y cazadores de líga por los mon<corr> –</corr>
+                        <lb n="31" />tes somos pobres y no tenemos cosa al 
+                        <lb n="32" />guna. andamos porlos montes gran –
+                        <lb n="33" />des y chicos alla enel nazímíento de 
+                        <lb n="34" />el sol vímos vn grande zero y es muy 
+                        <lb n="35" />fragante su dulzura y es tan alto q’ 
+                        <lb n="36" />sesube sobre todos los zerros y así no 
+                        <lb n="37" />hemos podido como es tan alto coger 
+                        <lb n="38" />paxaro alguno, y sí así es verdad
+                        <lb n="39" />q’tu derríbas los zerros? dixo hun ah – 
+                        <lb n="40" />pu y xbalanque agora nos ayuda –
+                        <lb n="41" />ras. es verdad eso? dixo cabrracan 
+                        <lb n="42" />aveís visto ese zerro q’ dezís? adonde
+                        <lb n="43" />esta y lo vere y lo echare abaxo. a 
+                        <lb n="44" />don de lo visteís? alla dixeron ellos
+                    </p>
+                </div>
             </div>
         </body>
     </text>
