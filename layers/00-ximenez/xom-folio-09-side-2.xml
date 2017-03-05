@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,36 +40,93 @@
         <body>
             <div type="page" n="09.2" xml:id="xom-f09-s2">
                 <div type="col" n="09.2.1" xml:lang="quc">
-9
-puch, ta xtubuquih zanic quebi – nouic, quebuchuvic ta xeculun xe che humah qui cayeloon
-iz, qui cayeloon puch rixcac zipacna ta xquil curi qaholab
-mi pa xutzin ri qaxtoq chivila na zanic mi xeculun vloc mi – xetubuquih vloc humah iz
-qui caien qo rixcac ri chila na mi xcabano ca xeqha chiqui– bil quib are curi zipacna xaui
-xa pu cuqux vloc rixcac chire cuya vla chiquech ri zanic que he curi xcamic xquinao omu – ch qaholab cate cut xticar q – ui qui chiroxih ta xecabar puch conohel qaholab e cu cabarinac chic conohel omu – ch qaholab mahabi caquina chic cate puch xulix ri ca – bal pa quivi rumal ri zi – pacna xequiz chayatahic co– nohel mahabi chic hun caib xcolotah chiquech ri omuch chiqaholab xecamizaxic ru mal zipacna vqahol ri vv
-cub caquix. quehe cut qui – camic omuch qaholab ri xqha chicut are ri xeoc chichu – milal ri motz vbi cumal, ve cut xa zacbal tzih lo are chi – cut chicabÿh vchacatahic chic zipacna rumal ri e caib qaholab hun ahpu, xbalan – que.
-Are chic vchacatahic, v camic zipacna, ta xchac chic cumal ri e caib qaholab hun ahpu, xbalanque, are chic
-v yoe qui qux caholab ri omu – ch chi qaholab xecamic ru – mal zipacna xa car, xa tap chutzucuh chi tac a, xere chirechaah hu ta quih pa
-quih chivacatic ta chutzu – cuh recha. chacab cut chi –                </div>
+                    <p>
+                        <note place="margin-left"><num>9</num></note>
+                        <lb n="1" />puch, ta xtubuquih zanic quebi – 
+                        <lb n="2" />nouic, quebuchuvic ta xeculun 
+                        <lb n="3" />xeche humah qui cayeloon
+                        <lb n="4" />iz, qui cayeloon puch rixcac 
+                        <lb n="5" />zipacna ta xquil curi qaholab
+                        <lb n="6" />mi pa xutzin ri qaxtoq chivila 
+                        <lb n="7" />na zanic mixeculun vloc mi – 
+                        <lb n="8" />xetubuquih vloc humah iz
+                        <lb n="9" />qui caien qo rixcac ri chila na 
+                        <lb n="10" />mi xcabano ca xeqha chiqui– 
+                        <lb n="11" />bil quib are curi zipacna xaui
+                        <lb n="12" />xa pu cuqux vloc rixcac chire 
+                        <lb n="13" />cuya vla chiquech ri zanic que 
+                        <lb n="14" />he curi xcamic xquinao omu – 
+                        <lb n="15" />ch qaholab cate cut xticar q – 
+                        <lb n="16" />ui qui chiroxih ta xecabar 
+                        <lb n="17" />puch conohel qaholab ecu 
+                        <lb n="18" />cabarinac chic conohel omu – 
+                        <lb n="19" />ch qaholab mahabi caquina 
+                        <lb n="20" />chic cate puch xulix ri ca – 
+                        <lb n="21" />bal pa quivi rumal ri zi – 
+                        <lb n="22" />pacna xequiz chayatahic co – 
+                        <lb n="23" />nohel mahabi chic hun caib 
+                        <lb n="24" />xcolotah chiquech ri omuch 
+                        <lb n="25" />chiqaholab xecamizaxic ru 
+                        <lb n="26" />mal zipacna vqahol ri vv –
+                        <lb n="27" />cub caquix. quehe cut qui – 
+                        <lb n="28" />camic omuch qaholab ri xqha 
+                        <lb n="29" />chicut are ri xeoc chichu – 
+                        <lb n="30" />milal ri motz vbi cumal, ve 
+                        <lb n="31" />cut xa zacbal tzih lo are chi – 
+                        <lb n="32" />cut chicabÿh vchacatahic 
+                        <lb n="33" />chic zipacna rumal ri e caib 
+                        <lb n="34" />qaholab hun ahpu, xbalan – 
+                        <lb n="35" />que.
+                    </p>
+                    <p>
+                        <lb n="36" rend="indent" /><hi rend="large">A</hi>re chic vchacatahic, v 
+                        <lb n="37" />camic zipacna, ta xchac chic 
+                        <lb n="38" />cumal ri e caib qaholab hun 
+                        <lb n="39" />ahpu, xbalanque, are chic
+                        <lb n="40" />v yoe qui qux caholab ri omu – 
+                        <lb n="41" />ch chi qaholab xecamic ru – 
+                        <lb n="42" />mal zipacna xa car, xa tap 
+                        <lb n="43" />chutzucuh chi tac a, xere 
+                        <lb n="44" />chirechaah hu ta quih pa
+                        <lb n="45" />quih chivacatic ta chutzu – 
+                        <lb n="46" />cuh recha. chacab cut chi –
+                    </p>
+                </div>       
                 <div type="col" n="09.2.2" xml:lang="spa">
-egundo día salieron de monton las hormi –
-gas, y andaban, y abundaban y llegaron de 50 baxo d el palo, y muy ap vnas traían pelos
-otras traíanvnas dezípacna, y qo lo vieron
-los muchachos, dixeron, y aparezío aquel demonio. Mirad las hormigas víníeron, y
-se juntaron ytraen todas pelos, y vñas mí –
-rad loq’ hemos hecho. y zípacna estaba
-vivo y el se Corto las vñas, y los cabellos de su cabeza, y con la voca se corto las vñas, y se las daba alas hormigas, y así pensaron
-q’auía muerto, los cuatrozientos mucha – 60 chos. y el terzero día empezo labebida
-y se emborracharon todos los muchachos. y estando todos borrachos los cuatroçien – tos muchachos, yano sentían. luego fue derribado el rancho sobre sus cabezas por zípacna, y todos fueron aporreados, y ní – vno, ni dos escaparon de los cuatrozientos muchachos, fueron muertos por el zípac – na ho de vvcubcaquix. y así fueron
-las muertes delos cuatrozíentos mucha – 70 chos y así se dijo q’estos entraron en lu –
-gar de las síete cabríllas en el zielo q’se llaman, motz. esto es monton, porq’ de mon ton fueron muertos. y estoquízas sera men tíra. agora diremos como fue venzído zípac – na, por a quellos dos muchachos hunahpu,
-y xbalanque.
-
-
-A quí sígue como fue venzído, y muerto zípacna, y qo otra vez fue venzido por los dos muchachos, hun ahpu, xbalanque. y esto les parezío desprezío en su corazon auer muer –
-to alos cuatrozientos muchachos q’ fueron muertos por zípacna. y este solo pescado, y cangregos buscaba aoríllas de los ríos, y es –
-to era lo q’comía todos los días. dedía se pase – aba qo buscaba su comida, y de noche carga –
-
-</div>
+                    <p>
+                        <lb n="1" />segundo día salieron de monton las hormi –
+                        <lb n="2" />gas, y andaban, y abundaban y llegaron de 
+                        <lb n="3" />baxo d el palo, y <del ren="strikeout">muy ap</del> vnas traían pelos
+                        <lb n="4" />otras traíanvnas dezípacna, y qo lo vieron
+                        <lb n="5" />los muchachos, dixeron, y aparezío aquel 
+                        <lb n="6" />demonio. Mirad las hormigas víníeron, y
+                        <lb n="7" />se juntaron ytraen todas pelos, y vñas mí –
+                        <lb n="8" />rad loq’ hemos hecho. y zípacna estaba
+                        <lb n="9" />vivo y el se Corto las vñas, y los cabellos de 
+                        <lb n="10" />su cabeza, y con la voca se corto las vñas, y se 
+                        <lb n="11" />las daba alas hormigas, y así pensaron
+                        <lb n="12" />q’auía muerto, los cuatrozientos mucha – 
+                        <lb n="13" />chos. y el terzero día empezo labebida
+                        <lb n="14" />y se emborracharon todos los muchachos. 
+                        <lb n="15" />y estando todos borrachos los cuatroçien – 
+                        <lb n="16" />tos muchachos, yano sentían. luego fue 
+                        <lb n="17" />derribado el rancho sobre sus cabezas por 
+                        <lb n="18" />zípacna, y todos fueron aporreados, y ní – 
+                        <lb n="19" />vno, ni dos escaparon de los cuatrozientos 
+                        <lb n="20" />muchachos, fueron muertos por el zípac – 
+                        <lb n="21" />na ho de vvcubcaquix. y así fueron
+                        <lb n="22" />las muertes delos cuatrozíentos mucha – 
+                        <lb n="23" />chos y así se dijo q’estos entraron en lu –
+                        <lb n="24" />gar de las síete cabríllas en el zielo q’se 
+                        <lb n="25" />llaman, motz. esto es monton, porq’ de mon ton fueron muertos. y estoquízas sera men tíra. agora diremos como fue venzído zípac – na, por a quellos dos muchachos hunahpu,
+                        <lb n="26" />y xbalanque.
+                    </p>
+                    <p>
+                        <lb n="27" />A quí sígue como fue venzído, y muerto zípacna, y qo otra vez fue venzido por los dos muchachos, hun ahpu, xbalanque. y esto les parezío desprezío en su corazon auer muer –
+                        <lb n="28" />to alos cuatrozientos muchachos q’ fueron muertos por zípacna. y este solo pescado, y cangregos buscaba aoríllas de los ríos, y es –
+                        <lb n="29" />to era lo q’comía todos los días. dedía se pase – aba qo buscaba su comida, y de noche carga –
+                    </p>
+                </div>
             </div>
         </body>
     </text>
