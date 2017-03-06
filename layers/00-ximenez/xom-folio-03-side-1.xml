@@ -50,7 +50,8 @@
             	<lb n="7" />quibeh chi qui huhunal. ta xqui
             	<lb n="8" />ta ri ꜩacol bitol maui mi xu –
             	<lb n="9" />ꜩinic, mi xeqhauic, xeqha chic
-            	<lb n="10" /><note place="margin-left">chi</note> qui bil quib maui mixuꜩin v
+            	<lb n="10" />qui bil quib maui mixuꜩin v
+            		<add place="margin-left">chi</add> 
             	<lb n="11" />bixic cabi rumal oh cah ꜩac
             	<lb n="12" />oh pu cah bit mavi vꜩ xqha
             	<lb n="13" />chic chiquibil quib ri alom qa –
@@ -64,7 +65,7 @@
             	<lb n="21" />vi xuꜩin caquihiloxic mavi
             	<lb n="22" />ix ziquÿ que ca qo couilo qui –
             	<lb n="23" />hilonel nimanel chi caban chic
-            	<lb n="24" />xa chicam i patan <note place="insertion">y</note> xa i tiohil
+            	<lb n="24" />xa chicam i patan <add>y</add> xa i tiohil
             	<lb n="25" />chica chic ta chuxoc. are cut
             	<lb n="26" />chipatanih, xevqhaxic ta xe
             	<lb n="27" />pixabaxic chuti chicop nima
@@ -92,7 +93,8 @@
             </div>
             <div type="col" n="03.1.2" xml:lang="spa">
                 <p>
-            	<lb n="1" />cadnos, saludadnos seles fue dicho. y no pu <note place="margin-right" type="pagination">3</note>
+            	<lb n="1" />cadnos, saludadnos seles fue dicho. y no pu
+            		<note place="margin-right" type="pagination"><num rend="large">3</num></note>
             	<lb n="2" />dieron hablar como los hombres; síno q’chí –
             	<lb n="3" />llaron, y cacaraquearon, y grítaron dizí –
             	<lb n="4" />endo voh, voh. no aparezío su habla, sino q’

@@ -41,9 +41,11 @@
             <div type="page" n="01.1" xml:id="xom-f01-s1">
             <div type="col" n="01.1.1" xml:lang="quc">
                 <p>
-                <lb n="1" /><note place="margin=left" type="chapter-heading">cap.<lb />1.del serde<lb />Díos</note><hi rend="large">ARE V XE OHER</hi>
+                <lb n="1"><hi rend="large">ARE V XE OHER</hi>
+                	<note place="margin-left" type="chapter-heading">cap.<lb />1.del serde<lb />Díos</note>
                 <lb n="2" rend="indent"/>Ꜩih varal Quiche vbi.
-                <lb n="3" rend="indent"/><note place="margin-left" type="annotation">1.</note><hi rend="large">V</hi>aral xchicaꜩibah vi xchica –
+                <lb n="3" rend="indent"/><hi rend="large">V</hi>aral xchicaꜩibah vi xchica –
+                	<note place="margin-left"><num rend="large">1.</num></note>
                 <lb n="4" />tiquiba vi oher ꜩih, vticaribal,
                 <lb n="5" />vxenabal puch ronohel xban,
                 <lb n="6" />pa tinamit quiche, ramac qui – 
@@ -61,7 +63,8 @@
                 <lb n="18" />xmucane vbi, maꜩanel chu –
                 <lb n="19" />quenel camul yiom, camul
                 <lb n="20" />mamom chuqhaxic pa quiche
-                <lb n="21" /><note place="margin-left" type="annotation">2</note>ꜩih. ta xquiꜩihoh ronohel
+                <lb n="21" />ꜩih. ta xquiꜩihoh ronohel
+                	<note place="margin-left"><num rend="large">2</num></note>
                 <lb n="22" />ruq xquiban chic chizaquil
                 <lb n="23" />qolem, zaquil ꜩih vae xchi –
                 <lb n="24" />caꜩibah chupan chic vqha –
@@ -74,8 +77,9 @@
                 <lb n="31" />vuhil, oher ꜩibam puch xa
                 <lb n="32" />eval vvach ilol re, bizol re,
                 <lb n="33" />nim vpeoxic, vtzihoxic puch,
-                <lb n="34" /><note place="margin-left" type="annotation">3.<lb />prover.<lb />Cap. 8.</note>ta chiquiz ꜩuk ronohel cah
-                <lb n="35" />vleu, vcah ꜩucuxic, vcah 
+                <lb n="34" />ta chiquiz ꜩuk ronohel cah
+                	<note place="margin-left"><num rend="large">3.</num><lb />prover.<lb />Cap. 8.</note>
+                <lb n="35" />vleu, vcah ꜩucuxic, vcah
                 <lb n="36" />xucutaxic retaxic, vcah
                 <lb n="37" />cheexic, vmeh camaxic, vyuc –
                 <lb n="38" />camaxic vpa cah, vpa vleu
@@ -91,7 +95,8 @@
             </div>
             <div type="col" n="01.1.2" xml:lang="spa">
             	<p>
-                <lb n="1" /><hi rend="large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination">1</note>
+                <lb n="1" /><hi rend="large">ESTE ES EL PRINCIPIO DE LAS</hi>
+                	<note place="margin-right" type="pagination"><num rend="large">1</num></note>
                 <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
                 <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
                 <lb n="4" />antiguas historias, su principio, y comien -

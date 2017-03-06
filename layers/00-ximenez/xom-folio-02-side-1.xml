@@ -92,7 +92,8 @@
             </div>
             <div type="col" n="02.1.2" xml:lang="spa">
                 <p>
-                <lb n="1" />y el tercero: raxa caculha. (nombre proprío <note place="margin-right">2</note>
+                <lb n="1" />y el tercero: raxa caculha. (nombre proprío
+                	<note place="margin-right" type="pagination"><num rend="large">2</num></note>
                 <lb n="2" /><abbr>q’</abbr>dize: verde rayo) con <abbr>q’</abbr>suertes aquel su co –
             	<lb n="3" />razon de el cielo, <abbr>q’</abbr>vinieron con tepeu, qu –
             	<lb n="4" />cumaꜩ, entonzes se consulto la vida, y la cre-

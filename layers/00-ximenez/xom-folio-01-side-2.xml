@@ -40,7 +40,7 @@
         <body>
             <div type="page" n="01.2" xml:id="xom-f01-s2">
             <div type="col" n="01.2.1" xml:lang="quc">
-                <p>
+                	<p>
 					<lb n="1" />ato qol vi cah vleu cho palo
 					<lb />
 					<lb n="2" rend="center" /><hi rend="large">ARE V ꜨIHOXIC VAE</hi>
@@ -81,7 +81,8 @@
 					<lb n="37" />qha cut, ta xenaohinic, ta xe
 					<lb n="38" />bizonic, xerico quib, xquicuch
 					<lb n="39" />qui ꜩih, qui naoh, ta xcalah
-					<lb n="40">ta xquiquxlaah quib .+<note place="insertion">xevi</note> zac ta
+					<lb n="40">ta xquiquxlaah quib .<unclear reason="illegible">+</unclear> zac ta
+						<add place="above">xevi</add>
 					<lb n="41" />xcalah puch vinac, ta xqui -
 					<lb n="42" />naohih v ꜩuquic v vinaqui -
 					<lb n="43" />ric che, caam, v ꜩucuquic pu -
