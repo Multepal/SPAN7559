@@ -41,10 +41,10 @@
             <div type="page" n="01.1" xml:id="xom-f01-s1">
             <div type="col" n="01.1.1" xml:lang="quc">
                 <p>
-                <lb n="1" /><note place="margin">cap.</note>
-                <lb n="2" /><note place="margin">1.del serde</note><hi rend="large">ARE V XE OHER</hi>
-                <lb n="3" rend="indent"/><note place="margin">Díos</note>Ꜩih varal Quiche vbi.
-                <lb n="4" rend="indent"/><note place="margin">1.</note><hi rend="large">V</hi>aral xchicaꜩibah vi xchica –
+                <lb n="1" /><note place="margin-left" type="chapter-heading">cap.<lb>1.del serde<lb>Díos</note>
+                <lb n="2" /><hi rend="large">ARE V XE OHER</hi>
+                <lb n="3" rend="indent"/>Ꜩih varal Quiche vbi.
+                <lb n="4" rend="indent"/><note place="margin-left">1.</note><hi rend="large">V</hi>aral xchicaꜩibah vi xchica –
                 <lb n="5" />tiquiba vi oher ꜩih, vticaribal,
                 <lb n="6" />vxenabal puch ronohel xban,
                 <lb n="7" />pa tinamit quiche, ramac qui – 
@@ -62,7 +62,7 @@
                 <lb n="19" />xmucane vbi, maꜩanel chu –
                 <lb n="20" />quenel camul yiom, camul
                 <lb n="21" />mamom chuqhaxic pa quiche
-                <lb n="22" /><note place="margin">2</note>ꜩih. ta xquiꜩihoh ronohel
+                <lb n="22" /><note place="margin-left">2</note>ꜩih. ta xquiꜩihoh ronohel
                 <lb n="23" />ruq xquiban chic chizaquil
                 <lb n="24" />qolem, zaquil ꜩih vae xchi –
                 <lb n="25" />caꜩibah chupan chic vqha –
@@ -75,9 +75,9 @@
                 <lb n="32" />vuhil, oher ꜩibam puch xa
                 <lb n="33" />eval vvach ilol re, bizol re,
                 <lb n="34" />nim vpeoxic, vtzihoxic puch,
-                <lb n="35" /><note place="margin">3.</note>ta chiquiz ꜩuk ronohel cah
-                <lb n="36" /><note place="margin">prover.</note>vleu, vcah ꜩucuxic, vcah 
-                <lb n="37" /><note place="margin">Cap. 8.</note>xucutaxic retaxic, vcah
+                <lb n="35" /><note place="margin-left" type="annotation">3. <lb> prover. <lb> Cap. 8.</note>ta chiquiz ꜩuk ronohel cah
+                <lb n="36" />vleu, vcah ꜩucuxic, vcah 
+                <lb n="37" />xucutaxic retaxic, vcah
                 <lb n="38" />cheexic, vmeh camaxic, vyuc –
                 <lb n="39" />camaxic vpa cah, vpa vleu
                 <lb n="40" />cah ꜩuc, cah xu cut chuqha –
