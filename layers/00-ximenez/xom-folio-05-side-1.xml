@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil,
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -19,8 +19,8 @@
                 </note>
             </notesStmt>
             <sourceDesc>
-                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 05, Side 1. 
-                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 05, Side 1.
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at
                 https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
                 https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
             </sourceDesc>
@@ -43,7 +43,7 @@
                     <p>
                         <lb n="1" />quixot, qui lac, qui boh, qui tzi
                         <lb n="2" />quieaa, haruh pala ronohel
-                        <note rend="margin-left">
+                        <note place="margin-left">
                             <del cert="high">
                                 <num rend="large">1</num>
                             </del>
@@ -79,7 +79,7 @@
                         <lb n="31" />que ta xcut qui vach. are
                         <lb n="32" />chicuri qui xot, qui boh x–
                         <lb n="33" />chau chic chique: cax, va xi
-                        <lb n="34" />ban chique xac ca chi, xac – 
+                        <lb n="34" />ban chique xac ca chi, xac –
                         <lb n="35" />ca vach; amaquel oh tzacal
                         <lb n="36" />chuuicac cohicato maui cax
                         <lb n="37" />xcanao, xchitih cut xquix
@@ -97,13 +97,13 @@
                 </div>
                 <div type="col" n="05.1.2" xml:lang="spa">
                     <p>
-                            <lb n="1" />caxetes, ollas, perros, y tínajas. todos quan –
+                        <lb n="1" />caxetes, ollas, perros, y tínajas. todos quan –
                         <note place="margin-right"><del cert="low"><num rend="large">5</num></del></note>
                         <lb n="2" />tos <hi rend="underline">ubo</hi> les afrentaron, y les dixeron, muy mal
                         <note place="margin-middle"><num rend="large">4</num></note>
                         <lb n="3" />nos tratastes, nos mordiste, y así os mordere
                         <lb n="4" />mos agora, dixeron los perros, y las gallínas.
-                        <lb n="5" />y las piedras de moler dixeron. fuímos muy 
+                        <lb n="5" />y las piedras de moler dixeron. fuímos muy
                         <lb n="6" />atormentadas por vosotros todos, todos los días
                         <lb n="7" />ala tarde ala mañana; siempre hazíendo
                         <lb n="8" />holí, holí, huquí, huquí. (esto es el sonído de
@@ -118,7 +118,7 @@
                         <lb n="17" />mos mírandoos, y nos corríaís, y nos arrojabaís,
                         <lb n="18" />y siempre estaba prevenido un palo para dar –
                         <lb n="19" />nos qo comíaís, y así nos tratabaís porq’ no ha –
-                        <lb n="20" />blabamos, quízas no ubíeraís muerto agora 
+                        <lb n="20" />blabamos, quízas no ubíeraís muerto agora
                         <lb n="21" />porq’ no mírasteís por vosotros? así nos perdí –
                         <lb n="22" />mos, agora probareís nuestros dientes, q’es –
                         <lb n="23" />tan en nuestra voca, os comeremos. díxeron
@@ -132,7 +132,7 @@
                         <lb n="31" />todas dandoles en rostro.y las piedras
                         <lb n="32" />q’eran tenamastes con furia venga el
                         <lb n="33" />fuego, nuestras cabezas puestas pa. la olla
-                        <lb n="34" />nos hízísteís, y causasteís dolor. y anda– 
+                        <lb n="34" />nos hízísteís, y causasteís dolor. y anda–
                         <lb n="35" />ban corriendo, desatinados, y queriendo
                         <lb n="36" />subirse sobre las casas, y se les caía la ca –
                         <lb n="37" />sa, y venían abaxo. y querían subir so –

@@ -32,19 +32,111 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Catherine L. Addington</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="page" n="04.2" xml:id="xom-f04-s2">
-                <div type="col" n="04.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
-                <div type="col" n="04.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+            <div type="col" n="04.2.1" xml:lang="quc">
+                <p>
+                <lb n="1" />canic maui xquinatah chic ri v –
+                <lb n="2" />qux cah quehe cut xepah chivi
+                <lb n="3" />xa vtihtobexic xa pu v va ba –
+                <lb n="4" />bexic chi vinac queqhau na –
+                <lb n="5" />bec, xa chaquih qui vach mana
+                <lb n="6" />zonol cacan, quieab mahabi
+                <lb n="7" />qui quiquel, qui comahil, ma
+                <lb n="8" />habi qui ticoual, qui cabchÿal
+                <lb n="9" />cha quih coꜩ qoh qui vach. ca
+                <lb n="10" />pichipoh cacan, quicab caie
+                <lb n="11" />ioh quitiohil quehe cut maui
+                <lb n="12" />xenau chivi chuvach ꜩacol bi –
+                <lb n="13" />tol alai quech, quxlaai quech
+                <lb n="14" />enabe ꜩaꜩ chivinac xevxic
+                <lb n="15" />varal chuvach vleu
+                <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
+                <lb n="17" />mayxic qui cutuxic puch xe
+                <lb n="18" />camizax chic poy aham che
+                <lb n="19" />ta xnohix quibutic rumal vqux
+                <lb n="20" />cah nima butic xbanic xpe
+                <lb n="21" />pa quivi ri e poy e aham che
+                <lb n="22" />q,ite vtiohil ri achih, ta xaha –
+                <lb n="23" />xic, rumal ꜩacol bitol, ixoc
+                <lb n="24" />zibac cut vtiohil ixoc. xrah
+                <lb n="25" />oquic rumal ꜩacol bitol maui
+                <lb n="26" />xenauic, ma pu xeqhauic chu
+                <lb n="27" />vach cah ꜩac, cah bit banol que
+                <lb n="28" />vinaquirizay quech quehe
+                <lb n="29" />cut qui ca mizaxic xebutic
+                <lb n="30" />xpe nima eol chila chicah.
+                <lb n="31" />xe cotcovach vbi, xcotin vloc
+                <lb n="32" />vbac qui vach, xepe camaloꜩ
+                <lb n="33" />xcupin vla quiholom, xpe
+                <lb n="34" />coꜩbalam. xtio quitiohil, xpe
+                <lb n="35" />tucumbalam xtucuuic xqui –
+                <lb n="36" />chouic quibaquil, quibochil
+                <lb n="37" />xcahixic, xmuchulixic qui ba –
+                <lb n="38" />quil, cahizabal qui vach; ru
+                <lb n="39" />mal maui quinauic chuvach
+                <lb n="40" />qui chuch, chuvach puch qui
+                <lb n="41" />cahau, ri vqux cah, huracan
+                <lb n="42" />vbi, cumal xquecumaric v
+                <lb n="43" />vach vleu, xticaric quecal hab
+                <lb n="44" />quihil hab, acabal hab xoc vla
+                <lb n="45" />chuti chicop nima chicop xcut
+                <lb n="46" />qui vach rumal che abah. x –
+                <lb n="47" />qhauic ronohel qui quebal –
+                </p>
+            </div>
+            <div type="col" n="04.2.2" xml:lang="spa">
+                <p>
+                <lb n="1" />ron más de el corazon de el zíelo, y así díeron
+                <lb n="2" />de hozicos, empero esto fue solo probar, aparar –
+                <lb n="3" />los, y hazerlos gente. hablaban, empero esta –
+                <lb n="4" />ba seca su cara, estaban abromados, y pesa
+                <lb n="5" />dos, en pies y manos. no tenían sangre, ní su –
+                <lb n="6" />dor, ní gordura, estavan secas, y palídas
+                <lb n="7" />sus maxillas. estaban sus pies amarillos, y
+                <lb n="8" />secos, y las manos, y amarilla su carne, y así
+                <lb n="9" />no se acordaron mas de su críador, y haze –
+                <lb n="10" />dor, el <abbr>q’</abbr>los avía crído; y estos eran ya mu –
+                <lb n="11" />chos, y se multíplícaron sobre la tíerra.
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb n="12" />y despues fueron acabados, y destruídos, y
+                <lb n="13" />muertos, todos estos hombres de palo.
+                <lb n="14" />fue embiado consultado por el corazon de
+                <lb n="15" />el cíelo, y se hizo vn gran díluuío <abbr>q’</abbr>víno so –
+                <lb n="16" />bre ellos; de palo de corcho era la carne de
+                <lb n="17" />los hombres, y de esa material fueron he –
+                <lb n="18" />chos, y labrados, por el criador y las muge –
+                <lb n="19" />res fueron hechas de corazon de espadaña
+                <lb n="20" />y esa fue la voluntad de el críador, hazerlos
+                <lb n="21" />de esa material, empero no hizieron memo –
+                <lb n="22" />ría, ni agradezieron al criador <abbr>q’</abbr>los crío
+                <lb n="23" />el averlos críado; y así fueron muertos y a
+                <lb n="24" />negados. vino gran resína, y pez de el
+                <lb n="25" />zielo. y un paxaro llamado: xecotcovach, ví –
+                <lb n="26" />no y les saco los ojos, y víno otro <abbr>q’</abbr>se llamaba
+                <lb n="27" />camaloꜩ y les corto las cabezas, y víno oto a –
+                <lb n="28" />nimal llamado coꜩbalam, y les comío sus car –
+                <lb n="29" />nes, y el <abbr>q’</abbr>se llama tucumbalam, <abbr>q’</abbr>les quebro
+                <lb n="30" />los huesos, y los nervíos, y los hízeron harína
+                <lb n="31" />y esto fue en castigo y escarmiento porq’no
+                <lb n="32" />hízíeron grazías delante de su <abbr>P<hi rend="superscript">e.</hi></abbr> y <abbr>M<hi rend="superscript">e</hi></abbr>, y
+                <lb n="33" /><abbr>S<hi rend="superscript">or</hi></abbr>. el corazon de el zíelo, <abbr>q’</abbr>se llama hura –
+                <lb n="34" />can, y por ellos se obscuresío la haz de
+                <lb n="35" />la tierra, y empezo vna llovízna de noche
+                <lb n="36" />y de día. y víno todo genero de animals chi –
+                <lb n="37" />cos y grandes, y los palos, y las píedras, y les –
+                <lb n="38" />dieron en rostro, y afrentaron, y todos habla –
+                <lb n="39" />ron, las píedras, comales, platos –
+                </p>
+            </div>
             </div>
         </body>
     </text>

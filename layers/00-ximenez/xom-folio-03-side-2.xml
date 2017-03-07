@@ -32,19 +32,114 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Catherine L. Addington</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="page" n="03.2" xml:id="xom-f03-s2">
-                <div type="col" n="03.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
-                <div type="col" n="03.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+            <div type="col" n="03.2.1" xml:lang="quc">
+            	<p>
+            	<lb n="1" />bit maui mi xuꜩinic ca quihilo – 
+            	<lb n="2" />xic, ca calaixic puch cumal, que –   
+            	<lb n="3" />he cut catiha vi vbanic ah nim
+            	<lb n="4" />ah xob ꜩucul, cool xeqha ta v –
+            	<lb n="5" />ꜩaquic cut vbanic puch, vle –
+            	<lb n="6" />v xocol vtiohil xquibano ma
+            	<lb n="7" />cu vꜩ xquilo, xa chiyohoma –
+            	<lb n="8" />nic, xa ꜩubulic, xa nebelic, xa
+            	<lb n="9" />lubanic, xa vulanic, xa pu chi –
+            	<lb n="10" />vmaric, maui chicolol vholó
+            	<lb n="11" />xa hum benac vi vvach, xacu –
+            	<lb n="12" />luvach maui chimucun chirih
+            	<lb n="13" />chichau nabec, mahabi vnaoh
+            	<lb n="14" />xa huzuc chiumar paha, maui
+            	<lb n="15" />qo, xeqha chicuri ah ꜩac ah bit.
+            	<lb n="16" />cauach labec ta chuxoc xa
+            	<lb n="17" />labe maui chibinic, ma pu chi –
+            	<lb n="18" />pocotahic ta chuxoc xavnaoh
+            	<lb n="19" />chiri xecha ta xquiyoh cut x –
+            	<lb n="20" />quiyoc chic riqui ꜩac quibit
+            	<lb n="21" />xeqha chicut hupacha qui –
+            	<lb n="22" /><del rend="scribble">qa</del> chicabano chuꜩin ta vi chi –
+            	<lb n="23" />nauachir ta vi quihiloy quech
+            	<lb n="24" />ziquÿ quech xecha ta xqui –
+            	<lb n="25" />naohih chic xa cabÿh chique
+            	<lb n="26" />xpiyacoc, xmucane, hun ah –
+            	<lb n="27" />pu vuch, hun ahpu vtiu. qui -
+            	<lb n="28" />tiha chic vquihixic vbitaxic
+            	<lb n="29" />xevqhan qui quib ah ꜩac
+            	<lb n="30" />ah bit. Ta xquibÿh cut chire
+            	<lb n="31" />xpiyacoc, xmucane ¶ cate cut
+            	<lb n="32" />vbixic ri chiquech ri enic vachi –
+            	<lb n="33" />nel, ratit quih ratit zac que
+            	<lb n="34" />vqhaxic cumal ri ꜩacol bitol
+            	<lb n="35" />are qui bi ri xpiyacoc, xmuca –
+            	<lb n="36" />ne
+            	<lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri huracan ruq te –
+            	<lb n="38" />peu qucumaꜩ ta xquibih chire –
+            	<lb n="39" />ch ahquih ah bit enic vachi – 
+            	<lb n="40" />nel xuculu, xa pu churico che –
+            	<lb n="41" />ta chic chi cauinac bitoh, chica
+            	<lb n="42" />vinac ꜩacoh ta chic ꜩucul cool coh
+            	<lb n="43" />ziquixtah, cohnabaxtah puch, ca –
+            	<lb n="44" />toc ta cut pa ꜩih iyom mamom
+            	<lb n="45" />catit camam xpiyacoc, xmuca
+            	<lb n="46" />ne chatah ta chavaxoc, ta zaqui–
+            	<lb n="47" />roc ca ziquixic, ca toquexic ca
+            	</p>
+            </div>
+            <div type="col" n="03.2.2" xml:lang="spa">
+                <p>
+            	<lb n="1" />no se pudo componer <abbr>q’</abbr>nos alabaran, y nos
+            	<lb n="2" />aclararan, y así probemos suser hecho vo
+            	<lb n="3" />bedezedor, sustentado nuestro dixeron
+            	<lb n="4" /><abbr>q<hi rend="superscript">o</hi></abbr> fue formado y hecho la tíerra lodo fue he
+            	<lb n="5" />cho su cuerpo, y no pareció bien, sino que q’se
+            	<lb n="6" />desbarataba, y estaba blando, y apelmaza –
+            	<lb n="7" />do, y desmadexado, y se desmoronaba,
+            	<lb n="8" />y se humedezía, no se movía su cabeza
+            	<lb n="9" />síno <abbr>q’</abbr> en vna parte se estaba su cara, era
+            	<lb n="10" />cíego, y no miraba <abbr>p<hi rend="superscript">a</hi></abbr> atras, <abbr>aunq’</abbr>habla –
+            	<lb n="11" />ba, no tenía entendímíento, síno q’se re
+            	<lb n="12" />benía en el agua, no era fuerte. y díxe –
+            	<lb n="13" />ronotra vez los hazedores, y formadores
+            	<lb n="14" />sera peor despues, y no andara, y no
+            	<lb n="15" />se multíplícara <abbr>q<hi rend="superscript">o</hi></abbr> fuere hecho, solo
+            	<lb n="16" />de su entendímíento lo dixeron, y en
+            	<lb n="17" />tonzes lo desbarataron, y lo bolbíeron
+            	<lb n="18" />a amasar su formadura, y fabríca, y di –
+            	<lb n="19" />geron como loharemos otra vez <abbr>q’</abbr>pueda
+            	<lb n="20" />alabarnos, e ínvocarnos, dixeron <abbr>q<hi rend="superscript">o</hi></abbr> con
+            	<lb n="21" />sultaron otravez lo diremos a la xpíya
+            	<lb n="22" />coc, y a xmucane, y a hun ahpu vuch
+            	<lb n="23" />y a hun ahpu vtíu. probemos otrávez nu –
+            	<lb n="24" />estrodía, su serformado, xdixeron vnos
+            	<lb n="25" />aotros los formadores, y fabrícadores. y
+            	<lb n="26" />entonzes lo dixeron ala xpíyacoc, y a
+            	<lb n="27" />xmucane. ¶ y despues su serdicho aque –
+            	<lb n="28" />llo alos adívínos, abuela de el día, o sol,
+            	<lb n="29" />y de la luna q’asíeran llamados por los
+            	<lb n="30" />hazedores, y fabrícadores, y estos eran
+            	<lb n="31" />los nombres de xpíyacoc, y xmucane.
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb n="32" />y díxeron aquel huracan, con tepeu
+            	<lb n="33" />y qucumaꜩ <abbr>q<hi rend="superscript">o</hi></abbr> ledixeron al de el sol, o
+            	<lb n="34" />adivino, al formador adívíno alcan –
+            	<lb n="35" />zo, y se vnío de ello otra vez se haga nu –
+            	<lb n="36" />estro hombre formado, y nuestro hom –
+            	<lb n="37" />bre edífícado ota vez sustentado, y
+            	<lb n="38" />alímentado, <abbr>q’</abbr>nos ínvoque, y <abbr>q’</abbr>se acu –
+            	<lb n="39" />erde de nosotros. entrad en la consul –
+            	<lb n="40" />ta abuela, y abuelo nuestro xpíya –
+            	<lb n="41" />coc, y xmucane, como se podra sem –
+            	<lb n="42" />brar y aclarar, nuestro ser ínvocado,
+            	</p>
+            </div>
             </div>
         </body>
     </text>

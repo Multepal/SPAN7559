@@ -43,7 +43,7 @@
                     <p>
                         <!-- The number 6 in the margin is in a different hand and ink (pencil?) -->
                         <lb n="1" />naquiric rumal ri zipacna
-                        <note rend="left-margin"><num rend="large">6</num></note>
+                        <note place="left-margin"><num rend="large">6</num></note>
                         <lb n="2" />are ri chicuri cabracan chi–
                         <lb n="3" />zilab huiub rumal chi ne
                         <lb n="4" />bouic chuti huiub, nima

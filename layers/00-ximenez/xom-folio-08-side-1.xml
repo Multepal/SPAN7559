@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,64 +40,109 @@
         <body>
             <div type="page" n="08.1" xml:id="xom-f08-s1">
                 <div type="col" n="08.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                <p>
-                <lb n="1" />re vvcub caquix. xa zaqui ixim
-                <lb n="2" />vquexel re xoquic, xa chi cu 
-                <lb n="3" />zac huluhuh chi vla ixim pu chi. huzu – 
-                <lb n="4" />cu xcah v vach maui ahau chic 
-                <lb n="5" />xvachinic xquiz elic ri re cuval 
-                <lb n="6" />raxcauacoh puchi ta xcunax chi
-                <lb n="7" />cut vbac vvach vvcub caquix ta 
-                <lb n="8" />xcholic vbac vvach xquiz elic
-                <lb n="9" />ri puvac mana cax tah xunao
-                <lb n="10" />xaui xere camucunic ta xquiz 
-                <lb n="11" />cu elic ri vnimarizabal rib xa – 
-                <lb n="12" />ui quinaoh ri hunahpu, xbalan – 
-                <lb n="13" />que ta xcam cut ri vvcub caquix 
-                <lb n="14" />ta xucam cut veab ri hun ahpu 
-                <lb n="15" />xcam naipuch chimalmat ri 
-                <lb n="16" />xoquil vvcub caquix, quehe
-                <lb n="17" />cut vzachic vquinomal vvcub 
-                <lb n="18" />caquix ri xa ahqun xcamo –
-                <lb n="19" />uic ri cuval yamanic xu pu –
-                <lb n="20" />nabeh varal chuvach vleu.
-                <lb n="21" /><del rend="strikethrough">hu pah chic xziquinic ta xcaha – 
-                <lb n="22" />panoc ri che ocu mi xutzinic
-                <lb n="23" />qui vtz mi xcabano chire mix- 
-                <lb n="24" />ca mic, atalabe chita quen chu 
-                <lb n="25" />bano, chuchacuh ta chuxoc v 
-                <lb n="26" />nabe la xucoh vla rib cuq chi – 
-                <lb n="27" />caxol puch la oh omuch chi 
-                <lb n="28" />qaholab xeqha cut que qui-
-                <lb n="29" />cot chic qo ri vbanic ca qui
-                <lb n="30" />oxih checevic oxih puch chicu – 
-                <lb n="31" />cah la cabobal</del> naual atit, na – 
-                <lb n="32" />ual mama xbanouic ta xqui – 
-                <lb n="33" />cam cut quieab xtiquitax v – 
-                <lb n="34" />coc vtzchic xuxic. xa rumal v
-                <lb n="35" />camic vvcub caquix xcah
-                <lb n="36" />quehe xquibano itzel xquilo 
-                <lb n="37" />nimarizabal ib cate cut xe
-                <lb n="38" />be chic e caib qaholab, xa vtzih 
-                <lb n="39" />ri vqux cah ta xquibano.
-                </p>
-                <p>
-                <lb n="40" />Vae chi cute vbanoh chic zi – 
-                <lb n="41" />pacna v nabe qahol vvcub – 
-                <lb n="42" />caquix, in banol huyub ca –
-                <lb n="43" />qha ri zipacna are curi zipac – 
-                <lb n="44" />na catinic chuchi ha ta xe 
-                <lb n="45" />icouic omuch qaholab e hurui 
-                <lb n="46" />che racan qui cabal, omuch 
-                <lb n="47" />chubinic, ta xquicat cut hun
-                </p>
+                    <p>
+                        <lb n="1" />re vvcub caquix. xa zaqui ixim
+                        <lb n="2" />vquexel re xoquic, xa chi cu 
+                        <lb n="3" />zac huluhuh chi vla ixim pu chi. huzu – 
+                        <lb n="4" />cu xcah v vach maui ahau chic 
+                        <lb n="5" />xvachinic xquiz elic ri re cuval 
+                        <lb n="6" />raxcauacoh puchi ta xcunax chi
+                        <lb n="7" />cut vbac vvach vvcub caquix ta 
+                        <lb n="8" />xcholic vbac vvach xquiz elic
+                        <lb n="9" />ri puvac mana cax tah xunao
+                        <lb n="10" />xaui xere camucunic ta xquiz 
+                        <lb n="11" />cu elic ri vnimarizabal rib xa – 
+                        <lb n="12" />ui quinaoh ri hunahpu, xbalan – 
+                        <lb n="13" />que ta xcam cut ri vvcub caquix 
+                        <lb n="14" />ta xucam cut veab ri hun ahpu 
+                        <lb n="15" />xcam naipuch chimalmat ri 
+                        <lb n="16" />xoquil vvcub caquix, quehe
+                        <lb n="17" />cut vzachic vquinomal vvcub 
+                        <lb n="18" />caquix ri xa ahqun xcamo –
+                        <lb n="19" />uic ri cuval yamanic xu pu –
+                        <lb n="20" />nabeh varal chuvach vleu.
+                        <lb n="21" /><del rend="strikethrough">hu pah chic xziquinic ta xcaha – 
+                        <lb n="22" />panoc ri che ocu mi xutzinic
+                        <lb n="23" />qui vtz mi xcabano chire mix- 
+                        <lb n="24" />ca mic, atalabe chita quen chu 
+                        <lb n="25" />bano, chuchacuh ta chuxoc v 
+                        <lb n="26" />nabe la xucoh vla rib cuq chi – 
+                        <lb n="27" />caxol puch la oh omuch chi 
+                        <lb n="28" />qaholab xeqha cut que qui –
+                        <lb n="29" />cot chic qo ri vbanic ca qui
+                        <lb n="30" />oxih checevic oxih puch chicu 
+                        <lb n="31" />cah la cabobal</del> naual atit, na – 
+                        <lb n="32" />ual mama xbanouic ta xqui – 
+                        <lb n="33" />cam cut quieab xtiquitax v – 
+                        <lb n="34" />coc vtzchic xuxic. xa rumal v
+                        <lb n="35" />camic vvcub caquix xcah
+                        <lb n="36" />quehe xquibano itzel xquilo 
+                        <lb n="37" />nimarizabal ib cate cut xe
+                        <lb n="38" />be chic e caib qaholab, xa vtzih 
+                        <lb n="39" />ri vqux cah ta xquibano.
+                    </p>
+                    <p>
+                        <lb n="40" />Vae chi cute vbanoh chic zi – 
+                        <lb n="41" />pacna v nabe qahol vvcub – 
+                        <lb n="42" />caquix, in banol huyub ca –
+                        <lb n="43" />qha ri zipacna are curi zipac – 
+                        <lb n="44" />na catinic chuchi ha ta xe 
+                        <lb n="45" />icouic omuch qaholab e hurui 
+                        <lb n="46" />che racan qui cabal, omuch 
+                        <lb n="47" />chubinic, ta xquicat cut hun
+                    </p>
                 </div>
                 <div type="col" n="08.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                <p>
-                    
-                </p>
+                    <p>
+                        <lb n="1" />tes a vvcub caquíx, y solo maís blanco fue lo q’ le 
+                        <note place="margin-right"><num rend="large">8</num></note>
+                        <lb n="2" />pusieron en lugar dedientes; y estaban relum – 
+                        <lb n="3" />brando los maíses en su voca, y luego se le cayo la 
+                        <lb n="4" />cara, y nunca mas parecío Sor y acabaron de sacar
+                        <lb n="5" />le todos sus dientes, y le quedo la voca moreteada 
+                        <lb n="6" />y qo lecuraron los ojos a vvcubcaquíx ledeso – 
+                        <lb n="7" />llaron las níñas delos ojos, y le quítaron toda 
+                        <lb n="8" />laplata, y no lo síntío, y sacada quedomírando 
+                        <lb n="9" />pero ya no era grande ní se ensoberbezía.
+                        <lb n="10" />y esto fue hecho por consejo de hunahpu, y de 
+                        <lb n="11" />xbalanque, y se murío vvcubcaquíx, y enton<corr> –</corr>
+                        <lb n="12" />ces tomo subrazo hunahpu. ytambíen mu – 
+                        <lb n="13" />río chimalmat, la mugger de vvcubcaquíx.
+                        <lb n="14" />y así seperdío su riqueza de vvcubcaquíx.
+                        <lb n="15" />y el medico tomo todas las píedras prezío – 
+                        <lb n="16" />sas q’ le ensoberbezíeron<del><unclear></unclear></del>  aquí en la tierra. 
+                        <lb n="17" />y el Viejo y la vieja q’lo hízíeron eran díoses 
+                        <lb n="18" />y qo tomaron su brazo lo pusieron en su lu – 
+                        <lb n="19" />gar y se revnío, y q’do bueno. y solo por la 
+                        <lb n="20" />muerte de vvcubcaquíx quisieron hazerlo
+                        <lb n="21" />así, porq’ les parecío mal su soberbía; y des – 
+                        <lb n="22" />pues se fueron otravez los dos muchachos. y 
+                        <lb n="23" />esto fue hecho así por mandado deel cora – 
+                        <lb n="24" />zon de el zíelo.
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                        <lb/>
+                    </p>
+                    <p>
+                        <lb n="25" />y aquívan las obras de zípacna, el primer
+                        <lb n="26" />hijo de vvcubcaquíx. yo soy el hazedor de
+                        <lb n="27" />los montes dize zípacna. y este zípacna
+                        <lb n="28" />se estaba bañando en vn río qo pasaron los 
+                        <lb n="29" />cuatrocientos muchachos q’ llevaban arrastran 
+                        <lb n="30" />do vn palo para pílar de su casa, cuatrozien 
+                        <lb n="31" />tos de montín, y cortaron, un gran palo pa
+                    </p>
                 </div>
             </div>
         </body>

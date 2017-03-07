@@ -32,19 +32,117 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Catherine L. Addington</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="page" n="03.1" xml:id="xom-f03-s1">
-                <div type="col" n="03.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
-                <div type="col" n="03.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+            <div type="col" n="03.1.1" xml:lang="quc">
+            	<p>
+            	<lb n="1" />quixqhaoc cohiziquih, cohiqui –
+            	<lb n="2" />hila, xevqhaxic. macu xuꜩinic
+            	<lb n="3" />xeqhauic, queheta ri vinac, xa
+            	<lb n="4" />quevachelahic, xa quecaralahic
+            	<lb n="5" />xa quevohonic; mavi xvachinic
+            	<lb n="6" />v vach qui qhabal, halahoh xco –
+            	<lb n="7" />quibeh chi qui huhunal. ta xqui
+            	<lb n="8" />ta ri ꜩacol bitol maui mi xu –
+            	<lb n="9" />ꜩinic, mi xeqhauic, xeqha chic
+            	<lb n="10" />qui bil quib maui mixuꜩin v
+            		<add place="margin-left">chi</add> 
+            	<lb n="11" />bixic cabi rumal oh cah ꜩac
+            	<lb n="12" />oh pu cah bit mavi vꜩ xqha
+            	<lb n="13" />chic chiquibil quib ri alom qa –
+            	<lb n="14" />holom, xevqhax cut xa
+            	<lb n="15" />quixhalatahic rumal maui
+            	<lb n="16" />mi xuꜩinic maui mi xixqha –
+            	<lb n="17" />vic, mi cu xcahal caꜩih iv –
+            	<lb n="18" />echa i cuxun, ivarabal i ia –
+            	<lb n="19" />calibal xivech vi mixeuxic
+            	<lb n="20" />zivan quechelah rumal ma -
+            	<lb n="21" />vi xuꜩin caquihiloxic mavi
+            	<lb n="22" />ix ziquÿ que ca qo couilo qui –
+            	<lb n="23" />hilonel nimanel chi caban chic
+            	<lb n="24" />xa chicam i patan <add>y</add> xa i tiohil
+            	<lb n="25" />chica chic ta chuxoc. are cut
+            	<lb n="26" />chipatanih, xevqhaxic ta xe
+            	<lb n="27" />pixabaxic chuti chicop nima
+            	<lb n="28" />chicop qo chuvach vleu. ta
+            	<lb n="29" />xrah cu quitih chic qui quih
+            	<lb n="30" />xrah quitihtobeh chic, xrah
+            	<lb n="31" />pu quinuc chic quihilabal
+            	<lb n="32" />xma xquita vi qui qhabal
+            	<lb n="33" />chiquibil quib. xma xnaua-
+            	<lb n="34" />chir vi cut, xma xbanatahvi
+            	<lb n="35" />puch, quehe cut xechacatah
+            	<lb n="36" />vi quitiohil, xquipatanih xe
+            	<lb n="37" />tÿc, xecamizaxic, ri chicop qo
+            	<lb n="38" />varal chuvach vleuh, que
+            	<lb n="39" />he cut v tihtobexic chic vinac
+            	<lb n="40" />ꜩac vinac bit cumal ꜩacol
+            	<lb n="41" />bitol alom, qaholom xa ca
+            	<lb n="42" />tiha chic, mi xyopih ravaxic
+            	<lb n="43" />v zaquiric cabana ꜩucul que
+            	<lb n="44" />cool que hupacha ta coh
+            	<lb n="45" />ziquixoc, ta cohnabax puch
+            	<lb n="46" />chuvach vleuh. mi xcatiho
+            	<lb n="47" />chirech rinabe ca ꜩac, ca
+            	</p>
+            </div>
+            <div type="col" n="03.1.2" xml:lang="spa">
+                <p>
+            	<lb n="1" />cadnos, saludadnos seles fue dicho. y no pu
+            		<note place="margin-right" type="pagination"><num rend="large">3</num></note>
+            	<lb n="2" />dieron hablar como los hombres; síno q’chí –
+            	<lb n="3" />llaron, y cacaraquearon, y grítaron dizí –
+            	<lb n="4" />endo voh, voh. no aparezío su habla, sino q’
+            	<lb n="5" />cadavno gríto, y chíllo diferentemente
+            	<lb n="6" />y cuando los formadores oyeron q’ no ha –
+            	<lb n="7" />blaron dixeron otra vez entresí, no se pudo
+            	<lb n="8" />acabar q’díxesen nuestro nombre, porq’
+            	<lb n="9" />somos nosotros sus formadores, y críadores
+            	<lb n="10" />no estabíen dixeron entresí aquellos for –
+            	<lb n="11" />madores. y seles fue dicho sereís troca -
+            	<lb n="12" />dos porq’ no œ pudísteís hablar, y así mu
+            	<lb n="13" />damos nuestra palabra, vuestra comída
+            	<lb n="14" />pasto, y vuestro dormitorío, y habitazíon
+            	<lb n="15" />seran las barrancas, ymontes, porq’ no a
+            	<lb n="16" />cabasteís de saludarnos, no nos ínvocas –
+            	<lb n="17" />teís, todavía ay quíen nos invoque, hare
+            	<lb n="18" />mos o travez quíen nos obedezca. tomad
+            	<lb n="19" />este o ffo. vuestra carne sera mascada
+            	<lb n="20" />y de eso servíreís. se les fue dicho qo se les
+            	<lb n="21" />notifíco a todos los animals chicos y gran
+            	<lb n="22" />des q’ay sobre la tíerra. y entonzes quí –
+            	<lb n="23" />síeron otra vez probar su día, y quísíe –
+            	<lb n="24" />ron reprobar otra vez, y œœ quisieron
+            	<lb n="25" />juntar otra vez, su salutazíon, y ya no
+            	<lb n="26" />se entendíeron su habla entresí mes –
+            	<lb n="27" />mos, de nínguna suerte se ajusto, ní se
+            	<lb n="28" />pudo hazer, y así fueron vltrajados
+            	<lb n="29" />y desechadas sus carnes, tributaron, fue –
+            	<lb n="30" />roncomídos todos y muertos todos los
+            	<lb n="31" />animales q’ay aquí sobre la tíerra
+            	<lb n="32" />yasí probaron otra vez otras críaturas
+            	<lb n="33" />por el críador, y pruebese otravez, ya
+            	<lb n="34" />se azerco la sembradura, y amanezímí
+            	<lb n="35" />ento, hagamos sustentador nuestro, y
+            	<lb n="36" />mantenedor nuestro. como seremos
+            	<lb n="37" />ínvocados, y q’se acuerden de nosotros
+            	<lb n="38" />sobre la tierra, ya pro bamos nues tras
+            	<lb n="39" />prímeras hechuras, y formaduras, y
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	</p>
+            </div>
             </div>
         </body>
     </text>

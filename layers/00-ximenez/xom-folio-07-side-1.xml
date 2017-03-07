@@ -52,6 +52,7 @@
           <div type="page" n="07.1" xml:id="xom-f07-s1">
             <div type="col" n="07.1.1" xml:lang="quc">
 <<<<<<< HEAD
+<<<<<<< HEAD
 	      <!-- K'ICHE' GOES HERE -->
                 <l n="1">quix, huzuc xtzac vloc, xme –</l>
                 <l n="2">ho vloc, tzam vteleb ta xutzo –</l>
@@ -76,6 +77,8 @@
 >>>>>>> master
 =======
                 <!-- K'ICHE' GOES HERE -->
+=======
+>>>>>>> master
                 <p>
                     <lb n="1" />quix, huzuc xtzac vloc, xme –
                     <lb n="2" />ho vloc, tzam vteleb ta xutzo –
@@ -96,7 +99,7 @@
                     <lb n="17" />iu ahe ve cacoxou chic mi – 
                     <lb n="18" />nabe mixnucam vloc <hi rend="double-underline">chuvi</hi> 
                     <lb n="19" /><hi rend="double-underline">eae</hi> cut chixeque vi chitza –
-                    <note rend="margin-left border-left border-right"><del rend="strikeout">u cab <unclear>pé</unclear> hun<lb/>hunahpu</del></note>
+                    <note place="margin-left border-left border-right"><del rend="strikeout">u cab <unclear>pé</unclear> hun<lb/>hunahpu</del></note>
                     <lb n="20" />iaba chuvi eae ta cul qui ca – 
                     <lb n="21" />ma chic quitzih chi e qaxtoq
                     <lb n="22" />xqha ri vvcub caquix, ta xu 
@@ -129,10 +132,9 @@
 >>>>>>> master
             </div>
             <div type="col" n="07.1.2" xml:lang="spa">
-              <!-- SPANISH LINES GO HERE -->
               <p>
                 <lb n="1" />learranco el brazo de la punta deel hombro
-                <note rend="margin-right"><num rend="large">7</num></note> 
+                <note place="margin-right"><num rend="large">7</num></note> 
                 <lb n="2" />y entonzes hun ahpu solto a vvcubcaquíx
                 <lb n="3" />y así quedaron bien los dos muchachos, por 
                 <lb n="4" />q’noquedaron venzidos por vvcub caquíx

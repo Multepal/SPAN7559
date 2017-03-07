@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
-                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil,
+                <lb n="" />v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
             <publicationStmt>
@@ -19,10 +19,10 @@
                 </note>
             </notesStmt>
             <sourceDesc>
-                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 10, Side 2. 
-                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
-                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
-                https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 10, Side 2.
+                <lb n="" />Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at
+                <lb n="" />https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                <lb n="" />https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,10 +40,108 @@
         <body>
             <div type="page" n="10.2" xml:id="xom-f10-s2">
                 <div type="col" n="10.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                    <p>
+                        <note place="margin-left"><num>10</num></note>
+                        <lb n="1" />quicu xchachaplo taxaque –
+                        <lb n="2" />he xcohtzalih avvmal ma
+                        <lb n="3" />xa maui xcatiho xa huzuc
+                        <lb n="4" />chitionic ri oh hupulic coh
+                        <lb n="5" />oc vbic cate cut cuxibih
+                        <lb n="6" />rib ri oh pacalic cohoc vbic
+                        <lb n="7" />xa cu zcaquin chic maui chi –
+                        <lb n="8" />carico cate cu vtz at pacalic
+                        <lb n="9" />catoc vbic xuchaxcut. vtz ba –
+                        <lb n="10" />la xqha curi zipacna ta xbe –
+                        <lb n="11" />cut achbilan chicut ri zipac –
+                        <lb n="12" />na xbec xeopon chuxe zivan
+                        <lb n="13" />zalam cula ri tap cacvaca –
+                        <lb n="14" />voh vla rih, xe zivan ri cu –
+                        <lb n="15" />te qui cumatzih vtz bala_
+                        <lb n="16" />chi quicot curi zipacna car –
+                        <lb n="17" />ahtah xcoc ta pu chi rumal
+                        <lb n="18" />quitzih cutzin chivaih xrah
+                        <lb n="19" />cutih ri xaxrah hupunic
+                        <lb n="20" />xrah oquic pacal curi tap xa
+                        <lb n="21" />canic cate cut xel chu vloc
+                        <lb n="22" />maui xarico xuqhax cut ma –
+                        <lb n="23" />habi xa pacalic cacanic xana –
+                        <lb n="24" />be zcaquin chic maui mi xnu –
+                        <lb n="25" />rico. cate vtz lo qui paqueic
+                        <lb n="26" />quinoc vbic xqha chi cut ca –
+                        <lb n="27" />te cut pacal chic ta xoc vbic
+                        <lb n="28" />xquiz cu oc vbic xa v vi vchec
+                        <lb n="29" />chic xcutun vloc xquiz bi –
+                        <lb n="30" />quitahic; xlilob cu cahoc ni –
+                        <lb n="31" />ma huiub chi vqux maui xzo –
+                        <lb n="32" />lcopih chic abah cut xuxic
+                        <lb n="33" />ri zipacna quehe vchacata –
+                        <lb n="34" />hic chic zipacna cumal qa –
+                        <lb n="35" />holab hun ahpu xbalanque
+                        <lb n="36" />ri banol huyub xqha v tziho –
+                        <lb n="37" />xic oher v nabe qahol vvc –
+                        <lb n="38" />ub caquix chuxe huyub me –
+                        <lb n="39" />auan vbi xchacatahvi xa na
+                        <lb n="40" />ual xchacatah vi. vcab nima –
+                        <lb n="41" />rizai rib. hun chi cut xchica –
+                        <lb n="42" />bÿh vbixic
+                    </p>
+                    <p>
+                        <lb rend="indent" n="43" /><hi rend="large">R</hi>ox chicut nimarizai rib v
+                        <lb n="44" />cab v qahol vvcub caquix cab –
+                        <lb n="45" />rracan vbi in yohol huiub xqha.
+                        <lb n="46" />xaui cu xere hun ahpu xbalan –
+                        <lb n="47" />que xchacou re cabrracan, xqha –
+                    </p>
                 </div>
                 <div type="col" n="10.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                    <p>
+                        <lb n="1" />coger? no nos hagas bolber de valde porq’ no –
+                        <lb n="2" />sotros loquisimos coger y no pudimos porq’ estan –
+                        <lb n="3" />do nosotros echados entrabamos para dentro nos –
+                        <lb n="4" />modía, y ya por vn trís no lo cogemos y así se
+                        <lb n="5" />ra bueno q’tu vayas en suseguimiento pa. arri –
+                        <lb n="6" />ba. esta bíen dixo zípacna, y entonzes le
+                        <lb n="7" />fueron acompañando, y llegaron debaxo de
+                        <lb n="8" />la barranca, y el cangrejo estaba echado de
+                        <lb n="9" />lado ymuy colorada la concha. yallí debaxo
+                        <lb n="10" />de la barranca estaba el secreto de los mucha –
+                        <lb n="11" />chos. estabíen díxo zípacna alegrandose
+                        <lb n="12" />y ya quísíera comerselo por q’ ya estaba mu –
+                        <lb n="13" />erto dehambre. y probo a entrar echado, y el
+                        <lb n="14" />cangrejo seíba subiendo. y salíose luego yle
+                        <lb n="15" />dixeron los muchachos no lo cogiste? no nolo
+                        <lb n="16" />he cogído poco me falto pa. cogerlo sino q’se
+                        <lb n="17" />subío para arríba. y así quízas sera bueno q’lu –
+                        <lb n="18" />ego entre pa. arríba. y luego entro para arrí –
+                        <lb n="19" />ba y acabo de entrar y no faltando le ya mas
+                        <lb n="20" />q’las rodillas q’entrar se desmorono el zerro
+                        <lb n="21" />y se cayo consosíego para abaxo sobre su pe –
+                        <lb n="22" />cho u nobolbío mas y sehizo píedra el zípacna.
+                        <lb n="23" />y así fue vencido el zípacna por los mucha –
+                        <lb n="24" />chos hunahpu y xbalanque. y este quentan
+                        <lb n="25" />q’antiguamente era el q’hazía los zerros
+                        <lb n="26" />este hijo mayor devvcubcaquíx. deba –
+                        <lb n="27" />xo de el zerro. q’se llama meauan fue
+                        <lb n="28" />venzído. y solo por milagro fue venzído
+                        <!-- Author's correction in the next line needs to be encoded -->
+                        <lb n="29" />y agora díremos de el otro <del rend="strikethrough">de</del> q’se enso –
+                        <lb n="30" />berbezío
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                        <lb />
+                    </p>
+                    <p>
+                        <lb n="31" />I el terzero q’ seensoberbezío q’era elsegundo
+                        <lb n="32" />hijo de vvcubcaquíx q’sellamaba cabra –
+                        <lb n="33" />can (esto es de dos píernas) dezía yosoy el
+                        <lb n="34" />q’destruigo los zerros. y así mesmo hunahpu, y
+                        <lb n="35" />xbalanque vensieron al cabrracan. y
+                    </p>
                 </div>
             </div>
         </body>

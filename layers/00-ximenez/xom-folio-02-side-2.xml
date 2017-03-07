@@ -32,19 +32,113 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Catherine L. Addington</name>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="page" n="02.2" xml:id="xom-f02-s2">
-                <div type="col" n="02.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
-                <div type="col" n="02.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+            <div type="col" n="02.2.1" xml:lang="quc">
+            	<p>
+            	<lb n="1" />tahic cumal.
+            	<lb n="2" rend="indent"/><hi rend="large">T</hi>a xquinohih chic vchicop–
+            	<lb n="3" />il huyub chahal re quichelah
+            	<lb n="4" />ronohel, vvinaquil huyub ri
+            	<lb n="5" />quieh, ꜩiquin, qoh, balam, cu –
+            	<lb n="6" />maꜩ, zochoh, canti chahal ca –
+            	<lb n="7" />am cacha ri alom, qaholom
+            	<lb n="8" />xa pa chilolinic, maxa on chi –
+            	<lb n="9" />ꜩininic vxeche, caam, cate vꜩ
+            	<lb n="10" />chiqohe chahal re xeqha cut
+            	<lb n="11" />ta xquinohih, xqhiꜩihoh puch
+            	<lb n="12" />huzu cu xvinaquir queh ꜩiquin
+            	<lb n="13" />ta zquizipah cut rochoch qu –
+            	<lb n="14" />eh ꜩiquin. at queh pa beyaa
+            	<lb n="15" />pa zivan catvar vi, varal cat
+            	<lb n="16" />qohe vi pa quim pa zacul, pa
+            	<lb n="17" />quechelah, quipoco vi ivib, ca –
+            	<lb n="18" />hcah ibinibal, ychacabal chu –
+            	<lb n="19" />xic xevqhaxic ta xquichic cut
+            	<lb n="20" />cochoch chuti ꜩiquin, nima
+            	<lb n="21" />ꜩiquin. ixix ꜩiquin chuvi
+            	<lb n="22" />che, chuvi caam quixochoch –
+            	<lb n="23" />in vi, quixhain vi, chiri quix –
+            	<lb n="24" />poc vi, quixquiritah vi chu e –
+            	<lb n="25" />ab che, chueab caam xevqh –
+            	<lb n="26" />axic quieh ꜩiquin taxquiba –
+            	<lb n="27" />no quibanoh ronohel xuca –
+            	<lb n="28" />mo v varabal, v yacalibal
+            	<lb n="29" />quehe cut cochoch vi chicop
+            	<lb n="30" />ri vleu xuyao alom, qaho –
+            	<lb n="31" />lom. xuꜩininaca chic ronohel
+            	<lb n="32" />ri queh ꜩiquin
+            	<lb n="33" rend ="indent"/><hi rend="large">T</hi>a xevqhax chicut rÿ queh
+            	<lb n="34" />ꜩiquin rumal ꜩacol bitol a –
+            	<lb n="35" />lom, qaholom: quixqhauoc ,
+            	<lb n="36" />quixziquinoc mi xyonoliqui –
+            	<lb n="37" />nic, mixziquinic, quixqha va he
+            	<lb n="38" />tah chi huhunal, chu hutac chobil 
+            	<lb n="39" />chi hutac molahil, xevqhaxic
+            	<lb n="40" />ri queh ꜩiquin qoh, balam
+            	<lb n="41" />cumaꜩ, chibÿhnacut ri ca bi
+            	<lb n="42" />cohicaharizah, oh ichuch, oh
+            	<lb n="43" />icahau quiqha va na cut, hu –
+            	<lb n="44" />racan, chipi caculha, raxa
+            	<lb n="45" />caculha, vqux cah, vquxvle –
+            	<lb n="46" />uh, ꜩacol, bitol, alom qaholõ
+            	</p>
+            </div>
+            <div type="col" n="02.2.2" xml:lang="spa">
+                <p>
+            	<lb />
+            	<lb n="1" /><hi rend="large">Y</hi> despues discurrieron los animales de el mon
+            	<lb n="2" />te guardianes suyos de los montes todos, sus crí –
+            	<lb n="3" />aturas de el monte, el venado, el paxaro, el
+            	<lb n="4" />leon, el tigre, la culebra, la vívora, el cantí
+            	<lb n="5" />guardas de los mecates. y dixo el criador sí
+            	<lb n="6" />solo hã de estar en silencio, o an de estar en
+            	<lb n="7" />suspension debaxo de los palos, y mecates<unclear reason="could be a superscripted 2">?</unclear> y so
+            	<lb n="8" />lo ha de estar bueno el <abbr>q’</abbr>aiga quien los guar –
+            	<lb n="9" />de; dixeron <abbr>q<hi rend="superscript">o</hi></abbr> lo consultaron, y parlaron
+            	<lb n="10" />y luego fueron produzidos venados, y paxa –
+            	<lb n="11" />ros, y entonzes les repartieron sus casas
+            	<lb n="12" />alos venados, y a los pajaros. tu venado en
+            	<lb n="13" />los caminos de el agua; y en las varrancas
+            	<lb n="14" />dormíreís. aqui estaras, en la paja, y en las
+            	<lb n="15" />yervas, en el monte de multíplícaras. en
+            	<lb n="16" />cuatro pies andaras, y en cuatro pies te pa –
+            	<lb n="17" />raras les fue dícho <abbr>q<hi rend="superscript">o</hi></abbr> seles afírmo su mora
+            	<lb n="18" />da. a los grandes, y pequeños paxaros. voso –
+            	<lb n="19" />tros, vosotros paxaros sobre los palos, y me
+            	<lb n="20" />cates hareís casas, y habitazíon, y allí mul –
+            	<lb n="21" />típlícareís, os sacudíreís sobre las ramas de
+            	<lb n="22" />los palos, y mecates les fue dicho alos ve –
+            	<lb n="23" />nados ypa xaros <abbr>q<hi rend="superscript">o</hi></abbr> hizieron sus obras. to –
+            	<lb n="24" />dos tomaron sus dormitorios, y sus habita
+            	<lb n="25" />ziones. y así seles dio la tierra por casa
+            	<lb n="26" />por el criador. y ya estando acabados
+            	<lb n="27" />todos los venados y paxaros
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb n ="28"/><hi rend="large">E</hi>ntonzes seles dixo otra vez por el criador
+            	<lb n="29" />y formador alos venados, y alas aves: ha
+            	<lb n="30" />blad, gritad, nohagaís íol, íol. no gríteís.
+            	<lb n="31" />hablad cadavno en su espeçie, en cada
+            	<lb n="32" />diferencia, seles fue dicho alos venados
+            	<lb n="33" />y pajaros, alos leones, tígres, y culebras
+            	<lb n="34" />dezíd nuestro nombre, alabadnos, dezid
+            	<lb n="35" /><abbr>q’</abbr>somos vuestras madres, y vuestros Padres.
+            	<lb n="36" />huracan, chípí caculha, raxa caculha
+            	<lb n="37" />vquxcah, vquxuleu, formadores, cría
+            	<lb n="38" />dores, madres, y Padres. hablad, ínvo –
+            	<lb />
+            	<lb />
+            	<lb />
+            	</p>
+            </div>
             </div>
         </body>
     </text>

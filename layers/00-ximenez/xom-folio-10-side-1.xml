@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
-                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil,
+                <lb n="" />v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
             <publicationStmt>
@@ -19,9 +19,9 @@
                 </note>
             </notesStmt>
             <sourceDesc>
-                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 10, Side 1. 
-                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
-                https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 10, Side 1.
+                <lb n="" />Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at
+                <lb n="" />https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
                 https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
             </sourceDesc>
         </fileDesc>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Rafael C. Alvarado</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,12 +40,96 @@
         <body>
             <div type="page" n="10.1" xml:id="xom-f10-s1">
                 <div type="col" n="10.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                    <p>
+                        <lb n="1" />recah huyub cate cut vhal –
+                        <lb n="2" />vachixic hun nima tap cumal
+                        <lb n="3" />hun ahpu xbalanque are
+                        <lb n="4" />cut xquicoh ri v vach ec. ri
+                        <lb n="5" />mac ec qo patac quechelah
+                        <lb n="6" />are v xul tap xuxic pa hac
+                        <lb n="7" />chicut v coc eab xquicoho
+                        <lb n="8" />zelabah curi v va rachac
+                        <lb n="9" />tap rihouohic cate cut ta
+                        <lb n="10" />xquicoh vcoc chuxe pec, chu –
+                        <lb n="11" />xe nima huyub; meauan
+                        <lb n="12" />vbi huyub xchacatah vi
+                        <lb n="13" />cate cut ta xeperi qaholab
+                        <lb n="14" />xquicu ri zipacna chiya, a –
+                        <lb n="15" />pa catbe vi at qahol xcha –
+                        <lb n="16" />x curi zipacna? mahabi qui –
+                        <lb n="17" />n be vi, xa vecha canutzucuh,
+                        <lb n="18" />ix qaholab qha curi zipac – na.
+                        <lb n="19" />naquipa au echa? xa
+                        <lb n="20" />car, xa tap, xma qo chivi ca –
+                        <lb n="21" />nu rico cabihir chincanah
+                        <lb n="22" />rechaxic, maui canuchih
+                        <lb n="23" />chic vaih xqha zipacna
+                        <lb n="24" />chiquech hun ahpu xbalan –
+                        <lb n="25" />que huna relatap qo vla
+                        <lb n="26" />xe zivan quitzih chi ni ma
+                        <lb n="27" />tap caquihtala cha vecha –
+                        <lb n="28" />ah lo. xa cohvtio mi xrah
+                        <lb n="29" />cachapo cacaxibih quib ru –
+                        <lb n="30" />mal machibeon cachapa xe
+                        <lb n="31" />qhari hun ahpu xbalanque
+                        <lb n="32" />qui tocaba nu vach quibe
+                        <lb n="33" />ta ivaba ixqaholab xqha
+                        <lb n="34" />ri zipacna, maba chicah,
+                        <lb n="35" />xata catbec ma zachibal
+                        <lb n="36" />tah xarecan ha catbec at
+                        <lb n="37" />cu taꜫal apon oc xenima
+                        <lb n="38" />huyub houol vla chuxe
+                        <lb n="39" />zivan, xa catel apanoc xe
+                        <lb n="40" />qha hun ahpu xbalanque
+                        <lb n="41" />laquiba tocob nuvach ma
+                        <lb n="42" />ba xuculu ixqaholab quix
+                        <lb n="43" />be na cu nu vaba, qo qui xo
+                        <lb n="44" />vi ri q,iquin chibetah iv vbah
+                        <lb n="45" />vetaam qo vi xqha chicut
+                        <lb n="46" />zipacna. xelahic xoc na
+                        <lb n="47" />chiquivach qaholab lama
+                    </p>
                 </div>
                 <div type="col" n="10.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                    <p>
+                        <lb n="1" />ba los zeros. entonzes hunahpu, y xbalanque
+                        <note place="margin-right"><num>10</num></note>
+                        <lb n="2" />hízíeron vna ímagen de cangrejo, y devna
+                        <lb n="3" />ojaq’ se cría en los arboles q’se llaman, ec. hízíeron
+                        <lb n="4" />las manos grandes de el cangrejo, y las peque –
+                        <lb n="5" />ñas de otras hojas mas pequeñas llamadas, pa –
+                        <lb n="6" />hac. ylaconcha, y manos hízíeron de laxa, y la pusíeron
+                        <lb n="7" />tumbada. y entonzes lo pusieron en vna cueua de
+                        <lb n="8" />baxodevn gran cerro, q’se llamaba meauan. en
+                        <lb n="9" />donde fue venzído. y entonzes víníeron los mu –
+                        <lb n="10" />chachos, yse hízíeron encontradízos con zípacna
+                        <lb n="11" />en el arroyo. y le preguntaron: donde vas mu –
+                        <lb n="12" />chacho? y dixo el zípacna: no voy aníngu –
+                        <lb n="13" />na parte; síno q’ ando buscando mí comída.
+                        <lb n="14" />y ellos le preguntaron q’es tu comída? solo
+                        <lb n="15" />pescado y cangrejos, yno he hallado níngu –
+                        <lb n="16" />no, y desde antíer nocomo, y ya no puedo
+                        <lb n="17" />sufrir la hambre. y entonzes le díxeron
+                        <lb n="18" />ellos: vn cangrejo esta alla debaxo de
+                        <lb n="19" />la barranca, y deverdad es muy grande
+                        <lb n="20" />y q’bíen q’ lo comíeras? quísímos cogerlo.
+                        <lb n="21" />y nos mordío, y nos atemorízamos por el. o
+                        <lb n="22" />si te pareze q’bamos a cogerlo. apíadaos
+                        <lb n="23" />de mí llevadme alla donde esta dixo zí –
+                        <lb n="24" />pacna. noqueremos dixeron ellos; sino an
+                        <lb n="25" />dad, no teperderas, andad río arríba
+                        <lb n="26" />eíras a dar derecho con el, debaxo de
+                        <lb n="27" />un grande zero esta sonando y hazíen
+                        <lb n="28" />do houol, eíras derecha alla díxeron hun –
+                        <lb n="29" />ahpu, y xbalanque. o pobre de mí, pues no
+                        <lb n="30" />lo encontrateís por ventura vosotros dixo
+                        <lb n="31" />zípacna, ea q’ yoíre a enseñaros donde ay mu<corr> –</corr>
+                        <lb n="32" />chos paxaros, do vayaís a tirar cib ka zerua –
+                        <lb n="33" />tana, yo solo se donde estan. yavísta de ellos
+                        <lb n="34" />entro debaxo la laxa. y deveras lopodras
+                    </p>
                 </div>
             </div>
         </body>
     </text>
-</TEI>
+    </TEI>
