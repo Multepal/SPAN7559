@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Will Norton</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,10 +40,108 @@
         <body>
             <div type="page" n="41.2" xml:id="xom-f41-s2">
                 <div type="col" n="41.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                 <p>
+                <lb n="1" />hichah <rs ana="BALAM_QUITZE">balam quiꜩe</rs>, <rs ana="BALAM_ACAB">balam acab</rs>,
+                <lb n="2" /><rs ana="MAHUCUTAH">mahucutah</rs>, <rs ana="IQUI_BALAM">iqui balam</rs> quibi c<del>[illegible]</del>
+                <add place="above">oc</add>
+                <lb n="3" />qui qux chire ri <rs ana="TOHIL">tohil</rs> <rs ana="AUILIX">aulix</rs><rs ana="HACAUITZ">ha –
+                <lb n="4" />caviꜩ</rs> areqochic pa ec pa ꜩi-
+                <lb n="5" />yac cumal.
+                <lb n="6" rend="indent"/>Vacute quicatonic vxe chipu –
+                <lb n="7" />ch cohbal rech <rs ana="TOHIL">tohil</rs> ta xebe
+                <lb n="8" />cut chu vach <rs ana="TOHIL">tohil</rs> <rs ana="AUILIX">aulix</rs> xbequila x –
+                <lb n="9" />be pu quiquihila xecamouan chic
+                <lb n="10" />chu vach chire vzaquiric ecu vono –
+                <lb n="11" />voh chic chiabahil chiripa queche –
+                <lb n="12" />lah xaqui naual vach chic xqhauic
+                <lb n="13" />taxeopon ri ahquixb ahcahb chu –
+                <lb n="14" />vach ri <rs ana="TOHIL">tohil</rs> macu nim ri cucaam
+                <lb n="15" />quicatoh puch xaꜫol xa rachac noh
+                <lb n="16" />ruq yia xquicato chuvach quica –
+                <lb n="17" />bauil ta xqhao cut ri <rs ana="TOHIL">tohil</rs> xa vna –
+                <lb n="18" />ual chic tax ya vloc quinaoh rieah –
+                <lb n="19" />quixb eah cahb. xeqha ta xeqhauic
+                <lb n="20" />xavi varal cahuyubal catacahal
+                <lb n="21" />chuxic oh ivech chic mixuxic ni –
+                <lb n="22" />m caquih nim pu calaxic rumal ro –
+                <lb n="23" />nohel vinac ivech ri ronohel a –
+                <lb n="24" />mac xavi cu oh ivachbil china
+                <lb n="25" />itinamit xavi chicaya inaoh moh
+                <lb n="26" />icut chuvach riamac tacoh <del>qui</del> –
+                <lb n="27" />ꜫaꜫanih rumal ri quiꜩih vi chi e
+                <lb n="28" />qui chi qui qoheic quehe cu maui
+                <lb n="29" />coh iralahobizah vi xere cut chi
+                <lb n="30" />ya chiquech riralquim ral torob
+                <lb n="31" />xere curi xnam queh xnam q,i –
+                <lb n="32" />quin chulta i ya zcaquin vquiquel
+                <lb n="33" />chiquech, tocob cavach chicanah
+                <lb n="34" />cut rizmal ri queh chichahih a
+                <lb n="35" />re e ri vmucu vach chimich canoc
+                <lb n="36" />are vqueh chuxic are naipuch ca
+                <lb n="37" />quexvach chicut chuvach a mac
+                <lb n="38" />apa qo vi <rs ana="TOHIL">tohil</rs> ta quixvqhaxic
+                <lb n="39" />are cut chi cut ri cuqueh chi –
+                <lb n="40" />quivach mi cut naipu ivib qo
+                <lb n="41" />chicut chiban chic nim iqoheic
+                <lb n="42" />chuxic chichac ri ronohel amac
+                <lb n="43" />chicucah vquiquel vcomahil chi
+                <lb n="44" />cavach chul vi coh, quicaluh e
+                <lb n="45" />quech chicxqha curi <rs ana="TOHIL">tohil</rs> <rs ana="AUILIX">aulix</rs>
+                <lb n="46" /><rs ana="HACAUITZ">hacaviꜩ</rs> caholal vach chiquiva –
+                <lb n="47" />chibeh ta queilic ta chopon puch
+                </p>
                 </div>
                 <div type="col" n="41.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                 <p>
+                <lb n="1" />quarto <rs ana="BALAM_QUITZE">balam quíꜩe</rs>, <rs ana="BALAM_ACAB">balam acab</rs>
+                <lb n="2" /><rs ana="MAHUCUTAH">mahucutah</rs>, y <rs ana="IQUI_BALAM">íquíbam</rs>. y lloraban
+                <lb n="3" />sus corazones sobre el <rs ana="TOHIL">tohíl</rs>, <rs ana="AUILIX">auílíx</rs>; <rs ana"HACAUITZ">ha
+                <lb n="4" />cauíꜩ</rs>, <abbr>q’</abbr>estaba en los eques o yeruas,
+                <lb n="5" />y en el paste por ellos.
+                <lb n="6" />y este fue el prínçípío, y determinaçíon
+                <lb n="7" />de auer puesto allí al <rs ana="TOHIL">tohíl</rs>. y enton
+                <lb n="8" />çes fueron ante el <rs ana="TOHIL">tohíl</rs> <rs ana="AUILIX">auílíx</rs>, <abbr>q’</abbr>le
+                <lb n="9" />íuan auer, y asaludar, y a darle tam
+                <lb n="10" />bíen gracias <abbr>porq’</abbr> los auía amaneçí –
+                <lb n="11" />do. y lo hallaron to horadada la píedra
+                <lb n="12" />en la montaña, y solo mílagrosamente
+                <lb n="13" />hablo. y llegando aquellos grandes
+                <lb n="14" />ante el <rs ana="TOHIL">tohíl</rs>, no lleuaban don de pro –
+                <lb n="15" />uecho; síno solo resína, y ra chac noh
+                <lb n="16" />(<abbr>q’</abbr>es tambíen resína) y perícon. y esto
+                <lb n="17" />quemaron ante el <rs ana="TOHIL">tohíl</rs>, su ídolo. y en
+                <lb n="18" />tonçes hablo el <rs ana="TOHIL">tohíl</rs>, y solo mílagrosa
+                <lb n="19" />mente hablo dandoles dírecçíon. y dí –
+                <lb n="20" />xeron: aquí sera nuestra patria, no –
+                <lb n="21" />sotros somos tuyos, y así es grande
+                <lb n="22" />nuestra dícha, y grandeza, por todos
+                <note place="margin-right"><hi rend="large">:</hi></note>
+                <lb n="23" />los pueblos, tuyos son todos los pueblos,
+                <lb n="24" />y nosotros vuestros compañeros en
+                <lb n="25" />el camino. cuídad de vuestro pueblo
+                <lb n="26" />y tambíen nosotros les enseñaremos, no –
+                <lb n="27" />nos afrentes ante el pueblo quando
+                <lb n="28" />nos encolerízaremos por aquellas sus
+                <lb n="29" />palabras, y de el estilo de sus vocas; y
+                <lb n="30" />así no permítas <abbr>q’</abbr>seamos cogídos en
+                <lb n="31" />redes, y solo dadnos la paja, y el za –
+                <lb n="32" />cate despreçíado. y solamente ven –
+                <lb n="33" />dran a darte el venado hembra, y las
+                <lb n="34" />hembras de los paxaros, y vn poco de
+                <lb n="35" />su sangre para nosotros pobres de no –
+                <lb n="36" />sotros <abbr>q’</abbr>sera dexada la lana del ve –
+                <lb n="37" />nado, guardad aquella vista de los o –
+                <lb n="38" />jos de los engaños <abbr>q’</abbr>les haran, y este
+                <lb n="39" />serã sus venados, y estos seran nuestros
+                <lb n="40" />substitutes ante el pueblo. y entonçes
+                <lb n="41" />os díran donde esta el <rs ana="TOHIL">tohíl</rs>? entonçes
+                <lb n="42" />mostraldes el venado, y no os manífes –
+                <lb n="43" />teís a vosotros mesmos, <abbr>q’</abbr>ay otra cosa <abbr>q’</abbr>
+                <lb n="44" />se haga, <abbr>porq’</abbr> es mucho vuestro ser, y <abbr>q’</abbr>
+                <lb n="45" />trauagen los pueblos todos. y traeran
+                <lb n="46" />su sangre, ante nosotros, y abrazadlo <abbr>q’</abbr>es
+                <lb n="46" />de ellos, díxo el <rs ana="TOHIL">tohíl</rs>, <rs ana="AUILIX">auílíx</rs>, <rs ana="HACAUITZ">hacauíꜩ</rs>.
+                </p>
                 </div>
             </div>
         </body>
