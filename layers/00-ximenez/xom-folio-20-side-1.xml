@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,171 @@
             <div type="page" n="20.1" xml:id="xom-f20-s1">
                 <div type="col" n="20.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                <lb n="1" />quevqhaxic xeqha ri <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xba –
+                <lb n="2" />lanque</rs> xeziquix cut rumal ri ahzu
+                <lb n="3" />ahbix, ri oher vinac are puch chu –
+                <lb n="4" />zi quih ri ahzib ahcot oher xechi –
+                <lb n="5" />copiric ecoy xevxic rumal xax
+                <lb n="6" />quinimarizah quib xquiyoc ri qui
+                <lb n="7" />chac quehevi calabil chiqui qux
+                <lb n="8" />quehecut qui maixic ri ta xezachic
+                <lb n="9" />ri <rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun choven</rs>. e chicop xe –
+                <lb n="10" />vxic are cut erama quelal coccho – 
+                <lb n="11" />ch chic xavi xere e ahzu e ahbix
+                <lb n="12" />nim chic xquibano ta xecoheic rug
+                <lb n="13" />ratit rug pu quichuch
+                <lb n="14" rend="indent" /><hi rend="large">T</hi>a x quitiquiba chicut quibanoh
+                <lb n="15" />qui cutbal quib chuvach catit chu –
+                <lb n="16" />vachpu qui chuch nabe xquibano
+                <lb n="17" />ri abix. xa cohabixic ixcatit ix
+                <lb n="18" />pu cachuch xeqha mi xbizonic oh
+                <lb n="19" />qolic oh ivÿ oh qui quexel caꜩ
+                <lb n="20" />xeqha curi <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs>.
+                <lb n="21" />ta xquicam cut quicah qui mixqui
+                <lb n="22" />na qui xoquem xebec ruq huhun
+                <lb n="23" />qui vvb xquiteleh xeel chi co cho –
+                <lb n="24" />ch ta xquipixab cu catit chire
+                <lb n="25" />vyaic qui va chiticoh na quih chi –
+                <lb n="26" />beya cava ixcatit xeqha vꜩba –
+                <lb n="27" />la ixvÿ xqha cut ri catit. cate cut
+                <lb n="28" />xeopon chiri que abix vi xa qui
+                <lb n="29" />xquichiquiba ri mi xquina puvleu
+                <lb n="30" />xacu quichitahin ri mi xquina pu
+                <lb n="31" />vleu macu qui chitahin ri mi xqui –
+                <lb n="32" />na chutuquel. are curi icah xa
+                <lb n="33" />vi chiquichiquiba chutoloc che
+                <lb n="34" />xaui chucab rib che chibec chi –
+                <lb n="35" />lahahic chibec ronohel che, ca
+                <!-- Does this work for showing the abbreviation -an? or should I just write: ã -->
+                <choice>
+                	<abbr type="superscription">a-</abbr>
+                	<expan>an</expan>
+                	</choice>
+                <lb n="36" />ꜫaꜫ chacachoh chic chicatohche
+                <lb n="37" />chuban ri xahuna icah are curi
+                <lb n="38" />mi xquina ꜩaꜩ chicupuh maui
+                <lb n="39" />ahilan tum quixic cuban rixa
+                <lb n="40" />hun chi mi xquina maui ahilan
+                <lb n="41" />cupuh xa chuti huyub nima hu –
+                <lb n="42" />yub cabec ta xquipixabah cut hun
+                <lb n="43" />chicop xmucur vbi xquituyuba
+                <lb n="44" />acanoc chuvi nima cutam xeqha
+                <lb n="45" />cut <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs> xa
+                <lb n="46" />chavil ri catit chipetic iaol ca va
+                <lb n="47" />huzu catoquic tapetoc catecut
+                </p>
                 </div>
                 <div type="col" n="20.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" />les fue dicho a<rs ana="XMUCANE">la víeja</rs>, y a su 
+                <choice>
+                	<abbr type="superscription"><rs ana="XBAQUIYALO">Me.</rs></abbr>
+                	<expan>Madre</expan>
+                	</choice>y díxeron el
+                <lb n="2" /><rs ana="HUNAHPU">hun ahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>. y fueron llamados por
+                <lb n="3" />los tocadores de flautas, y los cantores, y a estos in – 
+                <lb n="4" />uocaron los hombres antíguos los píntores, y enta –
+                <lb n="5" />lladores, se bolbíeron en brutos mícos por
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se
+                <lb n="6" />ensoberbeçíeron, y maltrataron a<rs ana="HERO_TWINS">sus hermanos</rs>
+                <lb n="7" />y les tuvíeron como a esclauos, y así fueron bor
+                <lb n="8" />rados, quando fueron perdídos el <rs ana="HUN_BATZ">hun baꜩ</rs>, y
+                <lb n="9" /><rs ana="HUN_CHOUEN">hun chouen</rs>. 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>fueron conuertidos en mícos, y
+                <lb n="10" /><del>por
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice></del>seestaban en sus casas síempre, y fueron 
+                <lb n="11" />tocadores de flautas, y cantores, e híçíeron
+                <lb n="12" />grandes cosas estos quando estuuíeron con
+                <lb n="13" />su 
+                <choice>
+                	<abbr type="superscription"><rs ana="XBAQUIYALO">Me.</rs></abbr>
+                	<expan>Madre</expan>
+                	</choice>y<rs ana="XMUCANE">abuela</rs>
+                <lb n="14" />y quando empezaron sus obras, y amanífestar
+                <lb n="15" />se ante <rs ana="XMUCANE">su abuela</rs>, y <rs ana="XBAQUIYALO">su madre</rs>, lo prímero tra-
+                <lb n="16" />taron de haçer mílpa. nosotros sembraremos
+                <lb n="17" />mílpa díxeron a<rs ana="XMUCANE">su abuela</rs>, y a<rs ana="XBAQUIYALO">su 
+                <choice>
+                	<abbr type="superscription">Me.</abbr>
+                	<expan>Madre</expan>
+                	</choice></rs> no os
+                <lb n="18" />aflíxaís aquí estamos <rs ana="HERO_TWINS">nosotros, tus níetos</rs>, no
+                <!-- How to represent the half-brothers of the Hero Twins? "nuestros hermanos" -->
+                <lb n="19" />sotros somos substitutos de nuestros hermanos
+                <lb n="20" />esto díxeron el <rs ana="HUNAHPU">hun ahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>. y
+                <lb n="21" />entonces tomando sus hachas, y azadones
+                <lb n="22" />se fueron con sus çeruatanas al hombro. y
+                <lb n="23" />salíendo de sus casas auísaron a su abuela
+                <lb n="24" />
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>les llevase su comída, al medío día. esta
+                <lb n="25" />bíen níetos míos díxo <rs ana="XMUCANE">la víeja</rs>. y llegan
+                <lb n="26" />do ala mílpa, donde auían desembrar
+                <lb n="27" />clauaron el azadon en la tíerra, y mucho
+                <lb n="28" />era lo 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se labraba; por el azadon solo, y
+                <lb n="29" />la hacha clauandola en el palo se íuan
+                <lb n="30" />todos los palos cayendo tendídos, y tambí –
+                <lb n="31" />en todos los mecates, y era muchísímo lo
+                <lb n="32" />
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>auía de palos derríbados, y cortados, con
+                <lb n="33" />solo vna hacha, y con solo vn azadon, era
+                <lb n="34" />muchísimo lo
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>estaba labrado ya, no era
+                <lb n="35" />contable todo lo 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>auían hecho con solo vn
+                <lb n="36" />azadonazo, en todos los montes chícos, y gran –
+                <lb n="37" />des, todos se íuan abaxo. y entonçes
+                <lb n="38" />auísaron a vn animal 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se llamaba, xmu –
+                <lb n="39" />cur, esto es la paloma de monte.) y la pu –
+                <lb n="40" />síeron enlo alto de vn tronco, y le díxe –
+                <lb n="41" />ron el <rs ana="HUNAHPU">hun ahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs> mírad
+                <lb n="42" />quando venga <rs ana="XMUCANE">nuestra abuela</rs>, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>ha de
+                <lb n="43" />venir a traernos de comer, y luego al
+                <lb n="44" />punto cantad qundo víeres 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>víene
+                <lb n="45" />y luego
+                <lb />
+                <lb />
+                <!-- Is this how we should show that the Spanish side ends with blank space? or do we not need the ending /p? -->
+                </p>
+                </p>
                 </div>
             </div>
         </body>
