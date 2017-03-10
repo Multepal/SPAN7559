@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,180 @@
             <div type="page" n="22.1" xml:id="xom-f22-s1">
                 <div type="col" n="22.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <!-- NB: The OSU transcription adds space (after the first case) between letters and word-final -. This is not like my other sections. -->
+                <p>
+                <lb n="1" />cacat vlacho riquic xcah vla pu
+                <!-- Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? -->
+                <lb n="2" />tum ha ruc bate pachcab <abbr><hi rend="subscript">q'</hi></abbr>uum x–
+                <lb n="3" />quimahixtah cut cate xbe quevah
+                <lb n="4" />pabe vbeel hom cate cut xebe chic 
+                <lb n="5" />ruq catit chiya catahin curi catit
+                <lb n="6" />qui chuch ꜩapi vvach quebal hu – 
+                <lb n="7" />hun catecut ta xeoponic huhun chi
+                <lb n="8" />cu chivvb ta xeoponic chiya,na
+                <lb n="9" />quipa mixibano xamixcoz caqux
+                <lb n="10" />xohpetic xeqha. chivila na vvach
+                <lb n="11" />nuquebal maui caꜩapitahic xqha
+                <lb n="12" />catit. libah chicut xquiꜩapihchic
+                <lb n="13" />hunam cut xepe chic, enabe chu –
+                <lb n="14" />vach catit quehe cut vcanaic quic 
+                <lb n="15" />ri.
+                <lb n="16" rend="indent"/><hi rend="large">Q</hi>uequicot chicut xebec echaa
+                <lb n="17" />hel, pahom nahtcu xechaahic qui
+                <lb n="18" />tuquel xquimez rihom quicahau
+                <lb n="19" />ta xquita cu vloc rahaual <rs ana="XIBALBA">xibalba</rs>
+                <lb n="20" />apa china chiri mixutiquiba chic
+                <lb n="21" />eꜩanem pacavi mapu quequixbic
+                <lb n="22" />quenicnot vl oc. mapu xecam ri
+                <lb n="23" /><rs ana="HUN_HUNAHPU">hun hunahpu</rs> <rs ana="VUCUB_HUNAHPU">vvcubhunahpu</rs> xr –
+                <lb n="24" />ah quinimarizah quib chicavach
+                <!-- How to show this note from OSU? "S.J.: he cu; A.V.: he cu i; A.I.CH., A.Ch.: hecu." Basically, I need to show that the ꜫ below is written over a "c", but the "c" isn't crossed out-->
+                <lb n="25" />he<hi rend="large">ꜫ</hi>u itacachic xeqha chic rihun
+                <lb n="26" />came, vvcubcame conohel ahauab
+                <lb n="27" />xetaca vloc xeqhacut chire qui
+                <lb n="28" />zamahel quixqha quixoponic que
+                <lb n="29" />petoc queqha ahauab varal tah
+                <lb n="30" />cohchaah vi cuq vvcubix coheꜩanic 
+                <lb n="31" />quecha ahauab quixqha quixopo –
+                <lb n="32" />nic xevqhax cut ri zamahel ta
+                <lb n="33" />xepecut nimahoc cuquibe riga – 
+                <lb n="34" />holab chicochoch ca tocol chico – 
+                <lb n="35" />choch xacuyacal ri zamahel xo –
+                <lb n="36" />pon ruq catit arecut quechahic
+                <lb n="37" />taxul canoc vzamahel <rs ana="XIBALBA">xibalba</rs>
+                <lb n="38" />quiꜩih quepetic quecha riahauab
+                <lb n="39" />xeqha cut ri vzamahel <rs ana="XIBALBA">xibalba</rs> ta
+                <lb n="40" />xchoye cu canoc quiquih cumal ri 
+                <lb n="41" />vzamahel <rs ana="XIBALBA">xibalba</rs> vvcubix que –
+                <lb n="42" />ꜩelavachixic xuqhax canoc xmu –
+                <lb n="43" />cane vꜩbala. xquebe tac oc ixza –
+                <lb n="44" />mahel xqhari atit, xebe curi za –
+                <lb n="45" />mahel xezalihic ta xquiz cut v
+                <lb n="46" />gux ri atit naqui xchiuvchah
+                <lb n="47" />qui taquic ri vÿ, mavi quiꜩih ri
+                </p>
                 </div>
                 <div type="col" n="22.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" />de a do pendía el vle, la pala, y el bate. y cayo
+                <lb n="2" />y arrebatandolo ellos lo fueron a esconder
+                <lb n="3" />al camino, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>es camíno de el cementerío, ó lu –
+                <lb n="4" />gar donde jugaban la pelota. y luego fue – 
+                <lb n="5" />ron donde estaba su abuela, y estaban ac –
+                <lb n="6" />tualmente su abuela, y su madre cerran – 
+                <lb n="7" />do el hoyo ala tínaja cada vna. y llegando
+                <lb n="8" />cada vno con su cerbatana al agua 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>aueís
+                <lb n="9" />hecho, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>estamos ya cansados de esperar, y
+                <lb n="10" />así venímos. mírad mí tínaja díxo la ví –
+                <lb n="11" />eja 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>nose quíere zerrar el hoyo. y luego
+                <lb n="12" />al punto la cerraron, y todos juntos se bol –
+                <lb n="13" />bíeron otra vez, <rs ana="HERO_TWINS">ellos</rs> delante de<rs ana="XMUCANE">su abuela</rs>
+                <lb n="14" />y así fue el hallazgo deel vle. 
+                <lb />
+                </p>
+                <p>
+                <lb n="15" />yellos muy alegres se fueron a jugar á
+                <lb n="16" />la pelota al cementerío, y estaba muy
+                <lb n="17" />lexos donde fueron a jugar ellos solos.
+                <lb n="18" />y barríeron, y límpíaron el cementerío
+                <lb n="19" />de sus Padres. y oyendo los 
+                <choice>
+                	<abbr type="superscript">SSes.</abbr>
+                	<expan>Señores</expan>
+                	</choice>deel ín
+                <lb n="20" />fíerno <del rend="scribble">œ</del>esto díxeron: quíenes son es –
+                <lb n="21" />tos 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>otra vez empezaron a jugar sobre
+                <lb n="22" />nosotros, y no nos tíenen respecto, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>estan
+                <lb n="23" />haçiendo ruído, por ventura no murí –
+                <lb n="25" />eron aquel <rs ana="HUN_HUNAHPU">hunhunahpu</rs>, y <rs ana="VUCUB_HUNAHPU">vucubhun
+                <lb n="26" />ahpu</rs>, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se quísíeron engrandecer en
+                <lb n="27" />nuestra presençia? vayan luego a llamar –
+                <lb n="28" />los, dixeron otra vez el <rs ana="HUNCAME">hun came</rs>, y <rs ana="VUCUB_CAME">vu –
+                <lb n="29" />cubcame</rs>, y todos los Señores, y los llamaron.
+                <lb n="30" />y díxeron asus mensageros andad de –
+                <lb n="31" />çíldes, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>vengan aca 
+                		<choice>
+                			<abbr>q’</abbr>
+                			<expan>que</expan>
+                			</choice>lo díçen los 
+                				<choice>
+                					<abbr type="superscript">SSes.</abbr>
+                					<expan>Señores</expan>
+                					</choice>y
+                <lb n="32" />jugaran con nosotros, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>de aquí asíete
+                <lb n="33" />días esten aquí y jugaremos, les fue dí – 
+                <lb n="34" />cho a los mensageros y víníeron enton –
+                <lb n="35" />çes por vn camino ancho, de los mucho
+                <lb n="36" />
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>iba derecho asu casa de ellos, y dere
+                <lb n="37" />chos víníeron con <rs ana="XMUCANE">la víeja</rs>, y esta esta
+                <lb n="38" />ba lauando quando llegaron los men
+                <lb n="39" />sageros de el ínfíerno. y díxeron: dícen
+                <lb n="40" />los 
+                <choice>
+                	<abbr type="superscript">SSes.</abbr>
+                	<expan>Señores</expan>
+                	</choice>
+                		<choice>
+                			<abbr>q’</abbr>
+                			<expan>que</expan>
+                			</choice>vengan <rs ana="HERO_TWINS">los muchachos</rs> al <rs ana="XIBALBA">ínfíerno</rs>
+                <lb n="41" />y este termino les dan de síete días en 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>
+                <lb n="42" />los esperan, esto le fue dícho a<rs ana="XMUCANE">la xmu –
+                <lb n="43" />cane</rs>. esta bíen díxo ella íran alla, írá –
+                <lb n="44" />alla 
+                <choice>
+                	<abbr type="superscript">SSes.</abbr>
+                	<expan>Señores</expan>
+                	</choice>mensageros. y fueronse los
+                <lb n="45" />mensageros, y se bolbíeron y aflíxíose
+                <lb n="46" /><rs ana="XMUCANE">la víeja</rs>, como embíare a llamar los, a <rs ana="HERO_TWINS">mís
+                <lb n="47" />níetos</rs>, q’ dire tocante asu llamada, deuer –
+                </p>
                 </div>
             </div>
         </body>

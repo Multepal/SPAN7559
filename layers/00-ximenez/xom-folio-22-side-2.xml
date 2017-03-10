@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,148 @@
             <div type="page" n="22.2" xml:id="xom-f22-s2">
                 <div type="col" n="22.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                <!-- NB: The OSU transcription includes space between letters and line-end -; my other pages weren't like that -->
+                <lb n="1" /><rs ana="XIBALBA">xibalba</rs> xaquehe rulic zamahel
+                <lb n="2" />oher taxebe camoc ri quicahau
+                <lb n="3" />xqhari catit quz choc paha vtuquel
+                <lb n="4" />cate cut xcah vlo hun ug chuca – 
+                <lb n="5" />yac cate cu xuchap acanoc ta xuya
+                <lb n="6" />cut pu cab chimalmatib curi ug
+                <lb n="7" />xbinic at vÿ chauahtah canutaco
+                <lb n="8" />quebeta ataca ri vÿ pahom xu –
+                <lb n="9" />chaxrivq ta xbec taconel mixul
+                <lb n="10" />zamahel ruqivatit caqha catopo –
+                <lb n="11" />nic vvcubix cut queoponic ca –
+                <lb n="12" />cha vzamahel <rs ana="XIBALBA">xibalba</rs> caqha iv –
+                <lb n="13" />atit caqha xuqhax ri uq ta xbec
+                <lb n="14" />chimalmat cut xbec, cubul curi 
+                <lb n="15" />qahol pabe tamazul vbi ri xpec
+                <lb n="16" />apa catbe vi qha curi xpec chire
+                <lb n="17" />uq qoba nu ꜩih chinupam quinbe
+                <lb n="18" />cuq qaholab xqha ri uq chire tama
+                <lb n="19" />zul vꜩbala maba catanaic cavilo
+                <lb n="20" />xuqhax cu uq rumal xpec macha –
+                <lb n="21" />uah canubico chauilana pe quin –
+                <lb n="22" />anic va xcohopon chanim. vꜩba
+                <lb n="23" />la xqha ri vq chirech xpec cate
+                <lb n="24" />cut ta xrictaxic rumal xpec chi –
+                <lb n="25" />becnah curi xpec ta xbec chi ma –
+                <lb n="26" />ui caanic, catecut taxucul chicut
+                <lb n="27" />hunnima cumaꜩ zaquicaz ubi a
+                <lb n="28" />pa catbe vi at tamazul qahol xu
+                <lb n="29" />qhax chic ri xpec rumal zaqui –
+                <lb n="30" />caz? inzamahel qonuꜩih chinu 
+                <lb n="31" />pam xqha chicut xpec chire
+                <lb n="32" />cumaꜩ maba catanic cavilo in
+                <lb n="33" />taon xquinopon chanim xqha cu 
+                <lb n="34" />cumaꜩ chire xpec. catoho xuqha – 
+                <lb n="35" />xic catecu xbic chic rixpec rum –
+                <lb n="36" />al zaquicaz, ta xucam ri recha cu –
+                <lb n="37" />maꜩ quebico u xpec vacamic. chan
+                <lb n="38" />curi cumaꜩ ta xbec xculutah chi –
+                <lb n="39" />vicut ricumaꜩ rumal vac ni –
+                <lb n="40" />ma ꜩiquin xbic chivi ri cumaꜩ
+                <lb n="41" />rumal vac cate pu xopon ri chu –
+                <lb n="42" />vi hom ta xucam recha ri xic
+                <lb n="43" />quetiou cumaꜩ patachuyub.ta
+                <lb n="44" />xopon puch rivac xqhacachob chu –
+                <lb n="45" />vi v zuꜩil hom quequicot curi
+                <lb n="46" /><rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs> quechaahic
+                <lb n="47" />taxopon cut ri vac taxoc curi vac
+                </p>
                 </div>
                 <div type="col" n="22.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" />así víníeron los mensageros antígua men –
+                <lb n="2" />te quando víníeron por <rs ana="HUN_HUNAHPU"><rs ana="IXQUIC">sus Padres</rs></rs>, dí –
+                <lb n="3" />xo <rs ana="XMUCANE">la vieja</rs>, y muy tíerna se entro en su
+                <lb n="4" />casa, ella sola, y luego baxo vn píojo de
+                <!-- How can I show that there is double space here? -->
+                <lb n="5" rend="indent" />y lo cogío <rs ana="XMUCANE">la víeja</rs> y lo puso
+                <lb n="6" />sobre la mano, y estaba meneandose el
+                <lb n="7" />píojo, y anduvo. y le díxo: tu mí níeto que –
+                <lb n="8" />rras 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>te embíe, 
+                		<choice>
+                		<abbr>q’</abbr>
+                		<expan>que</expan>
+                		</choice>vayas a llamar a mís ní –
+                <lb n="9" />tos al cementerio, le fue dícho al píojo. an
+                <lb n="10" />da y decíldes, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>dice <rs ana="XMUCANE">vuestra abuela</rs> co – 
+                <lb n="11" />mo han venído a <rs ana="XMUCANE">ella</rs> los mensageros de
+                <lb n="12" />el ínfíerno, allamarnos, y 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>de aquí así –
+                <lb n="13" />ete días aueís de ír y q’ 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>esto dice <rs ana="XMUCANE">vuestra
+                <lb n="14" />abuela</rs> le fue dícho al píojo, y luego se
+                <lb n="15" />fue el píojo meneando. y estaba sen
+                <lb n="16" />tado en el camíno vn muchacho llama –
+                <lb n="17" />do tamazul, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>era sapo, y le díxo el sa –
+                <lb n="18" />po al píojo: a donde vas? y díxo el pí –
+                <lb n="19" />ojo: voy con <rs ana="HERO_TWINS">los mozos, ó muchachos</rs>, y lle –
+                <lb n="20" />vo en mí víentre el mensage. esta bíen
+                <lb n="21" />dixo el sapo, pero veo 
+                <choice>
+                	<abbr>q'</abbr>
+                	<expan>que</expan>
+                	</choice> no puedes cor –
+                <lb n="22" />rer quíeres 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>te trague, y así podras ír;
+                <lb n="23" />mírad como corro yo. y así llegaremos
+                <lb n="24" />luego esta bíen dixo el píojo, al sapo y
+                <lb n="25" />luego se lo trago el sapo al píojo. eíba el
+                <lb n="26" />sapo corríendo, y ya cansado no corría,
+                <lb n="27" />quando encontrando con vna grande
+                <lb n="28" />culebra 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se llamaba. zaquícaz, y le
+                <lb n="29" />díxo: donde vas tamazul muchacho?
+                <lb n="30" />esto le fue dícho al tamazul por el zaquí –
+                <lb n="31" />caz. y díxo el sapo soy mensagero, ala
+                <lb n="32" />culebra, en mí víentre lleuo el mensage.
+                <lb n="33" />y dixo la culebra, veo q’vas cansado, y no
+                <lb n="34" />puedes corer, yo no llegar e presto? dixo 
+                <lb n="35" />la culebra al sapo ven aca te tragare, y
+                <lb n="36" />luego se trago la culebra zaquícaz al sa –
+                <lb n="37" />po. y entonçes tomo esta comída para sí
+                <lb n="38" />la culebra, comíendose los sapos íba cor –
+                <lb n="39" />ríendo la culebra, quando fue encon
+                <lb n="40" />trada de vn paxaro llamado vac, y se
+                <lb n="41" />trago a la culebra el paxaro vac. y lu –
+                <lb n="42" />egollego sobre el çementerío. y entonçes
+                <lb n="43" />tomo parasí este paxaro este sustento co –
+                <lb n="44" />míendose a las culebras enlos montes
+                <lb n="45" />y llegando el vac separo sobre las al –
+                <lb n="46" />menas de el zementerío. y estaban hol –
+                <lb n="47" />gandose el <rs ana="HUNAHPU">hunahpu</rs>, y <rs ana="XBALANQUE">xbalan
+                	<choice>
+                		<abbr>q’</abbr>
+                		<expan>que</expan>
+                		</choice></rs> pelote –
+                </p>
                 </div>
             </div>
         </body>
