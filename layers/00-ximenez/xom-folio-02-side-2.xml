@@ -47,7 +47,7 @@
             	<lb n="4" />ronohel, vvinaquil huyub ri
             	<lb n="5" />quieh, ꜩiquin, qoh, balam, cu –
             	<lb n="6" />maꜩ, zochoh, canti chahal ca –
-            	<lb n="7" />am cacha ri alom, qaholom
+            	<lb n="7" />am cacha ri <rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaholom</rs>
             	<lb n="8" />xa pa chilolinic, maxa on chi –
             	<lb n="9" />ꜩininic vxeche, caam, cate vꜩ
             	<lb n="10" />chiqohe chahal re xeqha cut
@@ -70,12 +70,12 @@
             	<lb n="27" />no quibanoh ronohel xuca –
             	<lb n="28" />mo v varabal, v yacalibal
             	<lb n="29" />quehe cut cochoch vi chicop
-            	<lb n="30" />ri vleu xuyao alom, qaho –
-            	<lb n="31" />lom. xuꜩininaca chic ronohel
+            	<lb n="30" />ri vleu xuyao <rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaho –
+            	<lb n="31" />lom</rs>. xuꜩininaca chic ronohel
             	<lb n="32" />ri queh ꜩiquin
             	<lb n="33" rend ="indent"/><hi rend="large">T</hi>a xevqhax chicut rÿ queh
-            	<lb n="34" />ꜩiquin rumal ꜩacol bitol a –
-            	<lb n="35" />lom, qaholom: quixqhauoc ,
+            	<lb n="34" />ꜩiquin rumal <rs ana="TZACOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="ALOM">a –
+            	<lb n="35" />lom</rs>, <rs ana="KAJOLOM">qaholom</rs>: quixqhauoc ,
             	<lb n="36" />quixziquinoc mi xyonoliqui –
             	<lb n="37" />nic, mixziquinic, quixqha va he
             	<lb n="38" />tah chi huhunal, chu hutac chobil 
@@ -83,10 +83,11 @@
             	<lb n="40" />ri queh ꜩiquin qoh, balam
             	<lb n="41" />cumaꜩ, chibÿhnacut ri ca bi
             	<lb n="42" />cohicaharizah, oh ichuch, oh
-            	<lb n="43" />icahau quiqha va na cut, hu –
-            	<lb n="44" />racan, chipi caculha, raxa
-            	<lb n="45" />caculha, vqux cah, vquxvle –
-            	<lb n="46" />uh, ꜩacol, bitol, alom qaholõ
+            	<lb n="43" />icahau quiqha va na cut, <rs ana="JURAKAN">hu –
+            	<!-- GUESSING WITH JURAKAN -->
+            	<lb n="44" />racan</rs>, <rs ana="CHIPI_KAQULJA">chipi caculha</rs>, <rs ana="RAXA_KAQULJA">raxa
+            	<lb n="45" />caculha</rs>, <rs ana="UKUX_KAJ">vqux cah</rs>, vquxvle –
+            	<lb n="46" />uh, <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bitol</rs>, <rs ana="ALOM">alom</rs> <rs ana="KAJOLOM">qaholõ</rs>
             	</p>
             </div>
             <div type="col" n="02.2.2" xml:lang="spa">
@@ -96,7 +97,7 @@
             	<lb n="2" />te guardianes suyos de los montes todos, sus crí –
             	<lb n="3" />aturas de el monte, el venado, el paxaro, el
             	<lb n="4" />leon, el tigre, la culebra, la vívora, el cantí
-            	<lb n="5" />guardas de los mecates. y dixo el criador sí
+            	<lb n="5" />guardas de los mecates. y dixo <rs ana="">el criador</rs> sí
             	<lb n="6" />solo hã de estar en silencio, o an de estar en
             	<lb n="7" />suspension debaxo de los palos, y mecates<unclear reason="could be a superscripted 2">?</unclear> y so
             	<lb n="8" />lo ha de estar bueno el <abbr>q’</abbr>aiga quien los guar –
@@ -117,23 +118,24 @@
             	<lb n="23" />nados ypa xaros <abbr>q<hi rend="superscript">o</hi></abbr> hizieron sus obras. to –
             	<lb n="24" />dos tomaron sus dormitorios, y sus habita
             	<lb n="25" />ziones. y así seles dio la tierra por casa
-            	<lb n="26" />por el criador. y ya estando acabados
+            	<lb n="26" />por <rs ana="">el criador</rs>. y ya estando acabados
             	<lb n="27" />todos los venados y paxaros
             	<lb />
             	<lb />
             	<lb />
             	<lb />
-            	<lb n ="28"/><hi rend="large">E</hi>ntonzes seles dixo otra vez por el criador
-            	<lb n="29" />y formador alos venados, y alas aves: ha
+            	<lb n ="28"/><hi rend="large">E</hi>ntonzes seles dixo otra vez por <rs ana="TZACOL">el criador</rs>
+            	<lb n="29" />y <rs ana="BITOL">formador</rs> alos venados, y alas aves: ha
             	<lb n="30" />blad, gritad, nohagaís íol, íol. no gríteís.
             	<lb n="31" />hablad cadavno en su espeçie, en cada
             	<lb n="32" />diferencia, seles fue dicho alos venados
             	<lb n="33" />y pajaros, alos leones, tígres, y culebras
             	<lb n="34" />dezíd nuestro nombre, alabadnos, dezid
-            	<lb n="35" /><abbr>q’</abbr>somos vuestras madres, y vuestros Padres.
-            	<lb n="36" />huracan, chípí caculha, raxa caculha
-            	<lb n="37" />vquxcah, vquxuleu, formadores, cría
-            	<lb n="38" />dores, madres, y Padres. hablad, ínvo –
+            	<lb n="35" /><abbr>q’</abbr>somos vuestras <rs ana="ALOM">madres</rs>, y vuestros <rs ana="KAJOLOM">Padres</rs>.
+            	<lb n="36" /><rs ana="JURAKAN">huracan</rs>, <rs ana="CHIPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>
+            	<!-- GUESSING WITH JURAKAN -->
+            	<lb n="37" /><rs ana="UKUX_CAJ">vquxcah</rs>, <rs ana="">vquxuleu</rs>, <rs ana="TZAQOL">formadores</rs>, <rs ana="BITOL">cría
+            	<lb n="38" />dores</rs>, <rs ana="ALOM">madres</rs>, y <rs ana="KAJOLOM">Padres</rs>. hablad, ínvo –
             	<lb />
             	<lb />
             	<lb />
