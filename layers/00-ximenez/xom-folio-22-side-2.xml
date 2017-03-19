@@ -88,7 +88,7 @@
                 <lb n="43" />quetiou cumaꜩ patachuyub.ta
                 <lb n="44" />xopon puch rivac xqhacachob chu –
                 <lb n="45" />vi v zuꜩil hom quequicot curi
-                <lb n="46" /><rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs> quechaahic
+                <lb n="46" /><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> quechaahic
                 <lb n="47" />taxopon cut ri vac taxoc curi vac
                 </p>
                 </div>
@@ -96,11 +96,11 @@
                 <!-- SPANISH LINES GO HERE -->
                 <p>
                 <lb n="1" />así víníeron los mensageros antígua men –
-                <lb n="2" />te quando víníeron por <rs ana="HUN_HUNAHPU"><rs ana="IXQUIC">sus Padres</rs></rs>, dí –
-                <lb n="3" />xo <rs ana="XMUCANE">la vieja</rs>, y muy tíerna se entro en su
+                <lb n="2" />te quando víníeron por <rs ana="JUN_JUNAJPU"><rs ana="IXKIK">sus Padres</rs></rs>, dí –
+                <lb n="3" />xo <rs ana="IXMUKANE">la vieja</rs>, y muy tíerna se entro en su
                 <lb n="4" />casa, ella sola, y luego baxo vn píojo de
                 <!-- How can I show that there is double space here? -->
-                <lb n="5" rend="indent" />y lo cogío <rs ana="XMUCANE">la víeja</rs> y lo puso
+                <lb n="5" rend="indent" />y lo cogío <rs ana="IXMUKANE">la víeja</rs> y lo puso
                 <lb n="6" />sobre la mano, y estaba meneandose el
                 <lb n="7" />píojo, y anduvo. y le díxo: tu mí níeto que –
                 <lb n="8" />rras 
@@ -117,8 +117,8 @@
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
-                	</choice>dice <rs ana="XMUCANE">vuestra abuela</rs> co – 
-                <lb n="11" />mo han venído a <rs ana="XMUCANE">ella</rs> los mensageros de
+                	</choice>dice <rs ana="IXMUKANE">vuestra abuela</rs> co – 
+                <lb n="11" />mo han venído a <rs ana="IXMUKANE">ella</rs> los mensageros de
                 <lb n="12" />el ínfíerno, allamarnos, y 
                 <choice>
                 	<abbr>q’</abbr>
@@ -128,7 +128,7 @@
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
-                	</choice>esto dice <rs ana="XMUCANE">vuestra
+                	</choice>esto dice <rs ana="IXMUKANE">vuestra
                 <lb n="14" />abuela</rs> le fue dícho al píojo, y luego se
                 <lb n="15" />fue el píojo meneando. y estaba sen
                 <lb n="16" />tado en el camíno vn muchacho llama –
@@ -177,7 +177,7 @@
                 <lb n="44" />míendose a las culebras enlos montes
                 <lb n="45" />y llegando el vac separo sobre las al –
                 <lb n="46" />menas de el zementerío. y estaban hol –
-                <lb n="47" />gandose el <rs ana="HUNAHPU">hunahpu</rs>, y <rs ana="XBALANQUE">xbalan
+                <lb n="47" />gandose el <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalan
                 	<choice>
                 		<abbr>q’</abbr>
                 		<expan>que</expan>

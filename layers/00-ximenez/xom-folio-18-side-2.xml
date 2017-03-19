@@ -44,26 +44,26 @@
                 <p>
                 <lb n="1" />vvbanic chiquibano huta quih
                 <lb n="2" />maui queloꜫoxic rumal ri catit
-                <lb n="3" /><rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun choven</rs>. maui chiia 
+                <lb n="3" /><rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs>. maui chiia 
                 <lb n="4" />quiva xbaninac vaim xepu va –
-                <lb n="5" />inac ri <rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun choven</rs> ta
+                <lb n="5" />inac ri <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs> ta
                 <lb n="6" />quevvlic, macu quecacaric oio –
                 <lb n="7" />uaric xa chiquicuyu xere que –
                 <lb n="8" />taam ri qui qoheic queheri zac
                 <!-- Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? -->
                 <lb n="9" />caquilo cucaam cut qui <abbr>q<hi rend="subscript">'</hi></abbr>iquin
                 <lb n="10" />ta quevlic huta quih chiquiti cut 
-                <lb n="11" />ri <rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun choven</rs> mahabi
+                <lb n="11" />ri <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs> mahabi
                 <lb n="12" />naquila chiia chiquech quicabi
-                <lb n="13" />chal ri <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs> xa
-                <lb n="14" />cu zu, xapu bix chiquibano <rs ana="HUN_BATZ">hun
-                <lb n="15" />baꜩ</rs> <rs ana="HUN_CHOUEN">hun chouen</rs>. ta xevl chi puch
-                <lb n="16" />ri <rs ana="HUNAHPU">hun ahau</rs> <rs ana="XBALANQUE">xbalanque</rs> mahabi
+                <lb n="13" />chal ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> xa
+                <lb n="14" />cu zu, xapu bix chiquibano <rs ana="JUN_BATZ">hun
+                <lb n="15" />baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>. ta xevl chi puch
+                <lb n="16" />ri <rs ana="JUNAJPU">hun ahau</rs> <rs ana="XBALAMKE">xbalanque</rs> mahabi
                 <!-- Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? -->
                 <lb n="17" />chic qui <abbr>q<hi rend="subscript">'</hi></abbr>iquin cucaam xeoc vl
                 <lb n="18" />oc xcacar curi atit naquipa ru
                 <lb n="19" />mal mahabi chi ziquin ivcaam
-                <lb n="20" />xevqhax cut ri <rs ana="HUNAHPU">hun ah pu</rs> <rs ana="XBALANQUE">xbalan
+                <lb n="20" />xevqhax cut ri <rs ana="JUNAJPU">hun ah pu</rs> <rs ana="XBALAMKE">xbalan
                 <lb n="21" />que</rs>. are vi ixcatit xa mi xetana
                 <!-- Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? -->
                 <lb n="22" />tob ca <abbr>q<hi rend="subscript">'</hi></abbr>iquin chuvi che xqha
@@ -75,7 +75,7 @@
                 <lb n="27" />vꜩbala cohbe iuvq zaquiric xe
                 <lb n="28" />qha curi caꜩ taxe chacouic. xca –
                 <lb n="29" />minac cut quinaoh quicabichal
-                <lb n="30" />chirech qui chaquic <rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun
+                <lb n="30" />chirech qui chaquic <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun
                 <lb n="31" />chouen</rs>, xa caꜩolcomih qui qoheic
                 <lb n="32" />e upam, caꜩih ta chuxoc rumal ni –
                 <lb n="33" />ma caxcol mi xquiban chique xoh
@@ -102,14 +102,14 @@
                 <!-- SPANISH LINES GO HERE -->
                 <p>
                 <lb n="1" />con cerbatana todos los días, y no eran
-                <lb n="2" />amados, desu <rs ana="XMUCANE">abuela</rs>, y de <rs ana="HUN_BATZ">hunbaꜩ</rs>, y
-                <lb n="3" /><rs ana="HUN_CHOUEN">hunchouen</rs>. y no les daban de comer
+                <lb n="2" />amados, desu <rs ana="IXMUKANE">abuela</rs>, y de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y
+                <lb n="3" /><rs ana="JUN_CHOWEN">hunchouen</rs>. y no les daban de comer
                 <lb n="4" />hecha ya la comída, síno 
                 <choice>
                 		<abbr>q’</abbr>
                 		<expan>que</expan>
                 		</choice> auíendo ya
-                <lb n="5" />comído <rs ana="HUN_BATZ">hun baꜩ</rs>, y <rs ana="HUN_CHOUEN">hun chouen</rs> enton 
+                <lb n="5" />comído <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs> enton 
                 <lb n="6" />çes venían, y no se enojaban, ní encole 
                 <lb n="7" />rízaban; síno 
                 <choice>
@@ -122,20 +122,20 @@
                 	<expan>que</expan>
                 	</choice>como claridad míra –
                 <lb n="9" />ban. y traían sus paxaros quando ve –
-                <lb n="10" />nían todos los días, y comían <rs ana="HUN_BATZ">hun baꜩ</rs>, y 
-                <lb n="11" /><rs ana="HUN_CHOUEN">hun chouen</rs>, y nada les daban a los dos
-                <lb n="12" /><rs ana="HUNAPHU">hunahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>, sino 
+                <lb n="10" />nían todos los días, y comían <rs ana="JUN_BATZ">hun baꜩ</rs>, y 
+                <lb n="11" /><rs ana="JUN_CHOWEN">hun chouen</rs>, y nada les daban a los dos
+                <lb n="12" /><rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>, sino 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>solo se es –
                 <lb n="13" />taban tocando flauta, y cantando, el
-                <lb n="14" /><rs ana="HUN_BATZ">hun baꜩ</rs>, y <rs ana="HUN_CHOUEN">hun chouen</rs>. y víníeron vna
-                <lb n="15" />vez <rs ana="HUNAHPU">hunahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>, sin traer
-                <lb n="16" />paxaros, y entrando, se enojo <rs ana="XMUCANE">la vieja</rs>,
+                <lb n="14" /><rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>. y víníeron vna
+                <lb n="15" />vez <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>, sin traer
+                <lb n="16" />paxaros, y entrando, se enojo <rs ana="IXMUKANE">la vieja</rs>,
                 <lb n="17" />y les dixo como no traeís paxaros, les
-                <lb n="18" />fue dícho a <rs ana="HUNAPHU">hunahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>
-                <lb n="19" />fue el caso <rs ana="XMUCANE">abuela</rs>abuela, 
+                <lb n="18" />fue dícho a <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>
+                <lb n="19" />fue el caso <rs ana="IXMUKANE">abuela</rs>abuela, 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
@@ -143,7 +143,7 @@
                 <lb n="20" />dado atorados los paxaros en los arbo –
                 <lb n="21" />les, y no podemos subír nosotros sobre
                 <!-- What term are we using for Hun Baꜩ and Hun Chouen? Half-brothers? -->
-                <lb n="22" />los palos, <rs ana="XMUCANE">Señora</rs>, vayan nuestros her – 
+                <lb n="22" />los palos, <rs ana="IXMUKANE">Señora</rs>, vayan nuestros her – 
                 <lb n="23" />manos con nosotros, 
                 <choice>
                 	<abbr>q’</abbr>
@@ -154,7 +154,7 @@
                 <lb n="26" />na, esto díxeron sus hermanos, quan
                 <lb n="27" />do fueron vençidos, y ganados.
                 <lb n="28" />y auíendo los dos consultado entresí so –
-                <lb n="29" />bre el vencer a <rs ana="HUN_BATZ">hun baꜩ</rs>, y <rs ana="HUN_CHOUEN">hun chouen</rs>
+                <lb n="29" />bre el vencer a <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>
                 <lb n="30" />solo los conuertíremos, en otra cosa, sus
                 <lb n="31" />varrígas. cíertamente quando sea he –
                 <lb n="32" />cho por la gran pena, y dolor 

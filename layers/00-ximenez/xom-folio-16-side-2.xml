@@ -55,7 +55,7 @@
                     <lb n="11" />zah ix zamahel rumal maui
                     <lb n="12" />nu hoxbal ri qo chinupam xaqui
                     <lb n="13" />xvinaquiric xere xbenumaihah
-                    <lb n="14" />ri vholom <rs ana="HUN_HUNAHPU">hun hunahpu</rs> qochi
+                    <lb n="14" />ri vholom <rs ana="JUN_JUNAJPU">hun hunahpu</rs> qochi
                     <lb n="15" />pucbal chah quequeta cut maui
                     <lb n="16" />qui puz ix zamahel xqhari capoh
                     <lb n="17" />a xqhauic. naquipa xchicacoh
@@ -73,8 +73,8 @@
                     <lb n="29" />maui varal ivochoch chuxic
                     <lb n="30" />macu xachichih vinac chicamic ca –
                     <lb n="31" />te qui ꜩih ivech ri qui ꜩih hoxol
-                    <lb n="32" />cate naipu rech hun came, vvcub
-                    <lb n="33" />came, xa quic, xa holomax rech
+                    <lb n="32" />cate naipu rech <rs ana="JUN_KAME">hun came</rs>, <rs ana="VUKUB_KAME">vvcub
+                    <lb n="33" />came</rs>, xa quic, xa holomax rech
                     <lb n="34" />ta chuxoc are chicut chuvach.
                     <lb n="35" />maui are ri qux chicat chuvach
                     <lb n="36" />ta chuxoc. chicoho ri vvach che
@@ -97,7 +97,11 @@
                 <!-- SPANISH LINES GO HERE -->
                     <lb n="1" />Pe aun no he conozídovaron. estabíen
                     <lb n="2" />dixo el cíertamente tu eres forníca –
-                    <lb n="3" />ría. ea andad vosotros <abbr type="superscription">SSes.</abbr> principa –
+                    <lb n="3" />ría. ea andad vosotros 
+                    <choice>
+                    	<abbr type="superscription">SSes.</abbr>
+                    	<expan>Señores</expan>
+                    	</choice>principa –
                     <lb n="4" />ples andad y sacríficalda, y traed
                     <lb n="5" />su carazon en vna hícara. esto se
                     <lb n="6" />les mando alos tecolotes, 
@@ -112,7 +116,7 @@
                     		<abbr>pa</abbr>
                     		<expan>para</expan>
                     		</choice>
-                    <lb n="10" />revanarla. y entonzes <rs ana="IXQUIC">ella</rs> les díxo no
+                    <lb n="10" />revanarla. y entonzes <rs ana="IXKIK">ella</rs> les díxo no
                     <lb n="11" />me mateís mensageros por
                     	<choice>
                     		<abbr>q’</abbr>
@@ -138,7 +142,7 @@
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
                     		</choice>fuí adívertirme, y uer aquel prodí –
-                    <lb n="15" />gío de la cabeza de <rs ana="HUN_HUNAHPU">hun hun ahpu</rs>, 
+                    <lb n="15" />gío de la cabeza de <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>, 
                     	<choice>
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
@@ -151,14 +155,18 @@
                     		<expan>que</expan>
                     		</choice> hemos de lleuar en lugar de tu
                     <lb n="19" />corazon en la hícara? no nos manda –
-                    <lb n="20" />ron los <abbr type="superscription">SSes.</abbr> 
+                    <lb n="20" />ron los 
+                    	<choice>
+                    	<abbr type="superscription">SSes.</abbr> 
+                    	<expan>Señores</expan>
+                    	</choice>
                     	<choice>
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
                     		</choice> en esta hícara les lle –
                     <lb n="21" />uaremos tu corazon, así no nos man –
                     <lb n="22" />daron? bíen quísíeramos nosotros
-                    <lb n="23" />librarte. esta bien dixo <rs ana="IXQUIC">ella</rs>. no es de
+                    <lb n="23" />librarte. esta bien dixo <rs ana="IXKIK">ella</rs>. no es de
                     <lb n="24" />ellos este corazon, y vuestra casa nose –
                     <lb n="25" />ra aquí, síno 
                     	<choice>
@@ -171,13 +179,13 @@
                     		<expan>que</expan>
                     		</choice>mueran. y de verdad ese sera
                     <lb n="27" />vuestro ser ser engañadores. y lu –
-                    <lb n="28" />ego sera mío <rs ana="HUNCAME">hun came</rs>, y <rs ana="VUCUBCAME">vvcubcame</rs>
+                    <lb n="28" />ego sera mío <rs ana="JUN_KAME">hun came</rs>, y <rs ana="WUQUB_KAME">vvcubcame</rs>
                     <lb n="29" />y solo sera de ellos lasangre, y las
                     <lb n="30" />calberas esto sera solo de ellos en
                     <lb n="31" />su presenzía. este corazón nosera 
                     <lb n="32" />quemado delante de ellos. poned
                     <lb n="33" />en la hícara el fruto de este arbol
-                    <lb n="34" />dixo <rs ana="IXQUIC">la donzella</rs>. y el humor de a –
+                    <lb n="34" />dixo <rs ana="IXKIK">la donzella</rs>. y el humor de a –
                     <lb n="35" />quell arbol era Colorado, y salí –
                     <lb n="36" />endo el humor lo cogíeron en la
                     <lb n="37" />hícara y luego se congelo y se hizo
@@ -193,7 +201,7 @@
                     <lb n="43" />mo sangre, y muy Colorado estuvo
                     <lb n="44" />despues de sacado en la hícara, y en –
                     <lb n="45" />tonzes resplandezio aquel palo por la
-                    <lb n="46" /><rs ana="IXQUIC">donzella</rs> yeste palo se llama grana
+                    <lb n="46" /><rs ana="IXKIK">donzella</rs> yeste palo se llama grana
                     <lb n="47" />palo Colorado, y se llamo sangre, y por –
                     </p>
                 </div>

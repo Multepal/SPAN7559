@@ -42,7 +42,7 @@
                 <div type="col" n="20.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p>
-                <lb n="1" />quevqhaxic xeqha ri <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xba –
+                <lb n="1" />quevqhaxic xeqha ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xba –
                 <lb n="2" />lanque</rs> xeziquix cut rumal ri ahzu
                 <lb n="3" />ahbix, ri oher vinac are puch chu –
                 <lb n="4" />zi quih ri ahzib ahcot oher xechi –
@@ -50,7 +50,7 @@
                 <lb n="6" />quinimarizah quib xquiyoc ri qui
                 <lb n="7" />chac quehevi calabil chiqui qux
                 <lb n="8" />quehecut qui maixic ri ta xezachic
-                <lb n="9" />ri <rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun choven</rs>. e chicop xe –
+                <lb n="9" />ri <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs>. e chicop xe –
                 <lb n="10" />vxic are cut erama quelal coccho – 
                 <lb n="11" />ch chic xavi xere e ahzu e ahbix
                 <lb n="12" />nim chic xquibano ta xecoheic rug
@@ -61,7 +61,7 @@
                 <lb n="17" />ri abix. xa cohabixic ixcatit ix
                 <lb n="18" />pu cachuch xeqha mi xbizonic oh
                 <lb n="19" />qolic oh ivÿ oh qui quexel caꜩ
-                <lb n="20" />xeqha curi <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs>.
+                <lb n="20" />xeqha curi <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>.
                 <lb n="21" />ta xquicam cut quicah qui mixqui
                 <lb n="22" />na qui xoquem xebec ruq huhun
                 <lb n="23" />qui vvb xquiteleh xeel chi co cho –
@@ -91,7 +91,7 @@
                 <lb n="42" />yub cabec ta xquipixabah cut hun
                 <lb n="43" />chicop xmucur vbi xquituyuba
                 <lb n="44" />acanoc chuvi nima cutam xeqha
-                <lb n="45" />cut <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs> xa
+                <lb n="45" />cut <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> xa
                 <lb n="46" />chavil ri catit chipetic iaol ca va
                 <lb n="47" />huzu catoquic tapetoc catecut
                 </p>
@@ -99,12 +99,12 @@
                 <div type="col" n="20.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
                 <p>
-                <lb n="1" />les fue dicho a<rs ana="XMUCANE">la víeja</rs>, y a su 
+                <lb n="1" />les fue dicho a<rs ana="IXMUKANE">la víeja</rs>, y a su 
                 <choice>
-                	<abbr type="superscription"><rs ana="XBAQUIYALO">Me.</rs></abbr>
+                	<abbr type="superscription"><rs ana="XIXBAQIYALO">Me.</rs></abbr>
                 	<expan>Madre</expan>
                 	</choice>y díxeron el
-                <lb n="2" /><rs ana="HUNAHPU">hun ahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>. y fueron llamados por
+                <lb n="2" /><rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y fueron llamados por
                 <lb n="3" />los tocadores de flautas, y los cantores, y a estos in – 
                 <lb n="4" />uocaron los hombres antíguos los píntores, y enta –
                 <lb n="5" />lladores, se bolbíeron en brutos mícos por
@@ -114,8 +114,8 @@
                 	</choice>se
                 <lb n="6" />ensoberbeçíeron, y maltrataron a<rs ana="HERO_TWINS">sus hermanos</rs>
                 <lb n="7" />y les tuvíeron como a esclauos, y así fueron bor
-                <lb n="8" />rados, quando fueron perdídos el <rs ana="HUN_BATZ">hun baꜩ</rs>, y
-                <lb n="9" /><rs ana="HUN_CHOUEN">hun chouen</rs>. 
+                <lb n="8" />rados, quando fueron perdídos el <rs ana="JUN_BATZ">hun baꜩ</rs>, y
+                <lb n="9" /><rs ana="JUN_CHOWEN">hun chouen</rs>. 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
@@ -129,13 +129,13 @@
                 <lb n="12" />grandes cosas estos quando estuuíeron con
                 <lb n="13" />su 
                 <choice>
-                	<abbr type="superscription"><rs ana="XBAQUIYALO">Me.</rs></abbr>
+                	<abbr type="superscription"><rs ana="XIXBAQIYALO">Me.</rs></abbr>
                 	<expan>Madre</expan>
-                	</choice>y<rs ana="XMUCANE">abuela</rs>
+                	</choice>y<rs ana="IXMUKANE">abuela</rs>
                 <lb n="14" />y quando empezaron sus obras, y amanífestar
-                <lb n="15" />se ante <rs ana="XMUCANE">su abuela</rs>, y <rs ana="XBAQUIYALO">su madre</rs>, lo prímero tra-
+                <lb n="15" />se ante <rs ana="IXMUKANE">su abuela</rs>, y <rs ana="XIXBAQIYALO">su madre</rs>, lo prímero tra-
                 <lb n="16" />taron de haçer mílpa. nosotros sembraremos
-                <lb n="17" />mílpa díxeron a<rs ana="XMUCANE">su abuela</rs>, y a<rs ana="XBAQUIYALO">su 
+                <lb n="17" />mílpa díxeron a<rs ana="IXMUKANE">su abuela</rs>, y a<rs ana="IXKIK">su 
                 <choice>
                 	<abbr type="superscription">Me.</abbr>
                 	<expan>Madre</expan>
@@ -143,7 +143,7 @@
                 <lb n="18" />aflíxaís aquí estamos <rs ana="HERO_TWINS">nosotros, tus níetos</rs>, no
                 <!-- How to represent the half-brothers of the Hero Twins? "nuestros hermanos" -->
                 <lb n="19" />sotros somos substitutos de nuestros hermanos
-                <lb n="20" />esto díxeron el <rs ana="HUNAHPU">hun ahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>. y
+                <lb n="20" />esto díxeron el <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y
                 <lb n="21" />entonces tomando sus hachas, y azadones
                 <lb n="22" />se fueron con sus çeruatanas al hombro. y
                 <lb n="23" />salíendo de sus casas auísaron a su abuela
@@ -152,7 +152,7 @@
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>les llevase su comída, al medío día. esta
-                <lb n="25" />bíen níetos míos díxo <rs ana="XMUCANE">la víeja</rs>. y llegan
+                <lb n="25" />bíen níetos míos díxo <rs ana="IXMUKANE">la víeja</rs>. y llegan
                 <lb n="26" />do ala mílpa, donde auían desembrar
                 <lb n="27" />clauaron el azadon en la tíerra, y mucho
                 <lb n="28" />era lo 
@@ -188,8 +188,8 @@
                 	</choice>se llamaba, xmu –
                 <lb n="39" />cur, esto es la paloma de monte.) y la pu –
                 <lb n="40" />síeron enlo alto de vn tronco, y le díxe –
-                <lb n="41" />ron el <rs ana="HUNAHPU">hun ahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs> mírad
-                <lb n="42" />quando venga <rs ana="XMUCANE">nuestra abuela</rs>, 
+                <lb n="41" />ron el <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs> mírad
+                <lb n="42" />quando venga <rs ana="IXMUKANE">nuestra abuela</rs>, 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>

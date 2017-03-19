@@ -66,7 +66,7 @@
                 <lb n="20" />apa china chiri mixutiquiba chic
                 <lb n="21" />eꜩanem pacavi mapu quequixbic
                 <lb n="22" />quenicnot vl oc. mapu xecam ri
-                <lb n="23" /><rs ana="HUN_HUNAHPU">hun hunahpu</rs> <rs ana="VUCUB_HUNAHPU">vvcubhunahpu</rs> xr –
+                <lb n="23" /><rs ana="JUN_JUNAJPU">hun hunahpu</rs> <rs ana="WUQUB_JUNAJPU">vvcubhunahpu</rs> xr –
                 <lb n="24" />ah quinimarizah quib chicavach
                 <!-- How to show this note from OSU? "S.J.: he cu; A.V.: he cu i; A.I.CH., A.Ch.: hecu." Basically, I need to show that the ꜫ below is written over a "c", but the "c" isn't crossed out-->
                 <lb n="25" />he<hi rend="large">ꜫ</hi>u itacachic xeqha chic rihun
@@ -125,7 +125,7 @@
                 	<expan>que</expan>
                 	</choice>nose quíere zerrar el hoyo. y luego
                 <lb n="12" />al punto la cerraron, y todos juntos se bol –
-                <lb n="13" />bíeron otra vez, <rs ana="HERO_TWINS">ellos</rs> delante de<rs ana="XMUCANE">su abuela</rs>
+                <lb n="13" />bíeron otra vez, <rs ana="HERO_TWINS">ellos</rs> delante de<rs ana="IXMUKANE">su abuela</rs>
                 <lb n="14" />y así fue el hallazgo deel vle. 
                 <lb />
                 </p>
@@ -151,14 +151,14 @@
                 	<expan>que</expan>
                 	</choice>estan
                 <lb n="23" />haçiendo ruído, por ventura no murí –
-                <lb n="25" />eron aquel <rs ana="HUN_HUNAHPU">hunhunahpu</rs>, y <rs ana="VUCUB_HUNAHPU">vucubhun
+                <lb n="25" />eron aquel <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vucubhun
                 <lb n="26" />ahpu</rs>, 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>se quísíeron engrandecer en
                 <lb n="27" />nuestra presençia? vayan luego a llamar –
-                <lb n="28" />los, dixeron otra vez el <rs ana="HUNCAME">hun came</rs>, y <rs ana="VUCUB_CAME">vu –
+                <lb n="28" />los, dixeron otra vez el <rs ana="JUNKAME">hun came</rs>, y <rs ana="WUQUB_JUNAJPUE">vu –
                 <lb n="29" />cubcame</rs>, y todos los Señores, y los llamaron.
                 <lb n="30" />y díxeron asus mensageros andad de –
                 <lb n="31" />çíldes, 
@@ -187,7 +187,7 @@
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>iba derecho asu casa de ellos, y dere
-                <lb n="37" />chos víníeron con <rs ana="XMUCANE">la víeja</rs>, y esta esta
+                <lb n="37" />chos víníeron con <rs ana="IXMUKANE">la víeja</rs>, y esta esta
                 <lb n="38" />ba lauando quando llegaron los men
                 <lb n="39" />sageros de el ínfíerno. y díxeron: dícen
                 <lb n="40" />los 
@@ -204,7 +204,7 @@
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>
-                <lb n="42" />los esperan, esto le fue dícho a<rs ana="XMUCANE">la xmu –
+                <lb n="42" />los esperan, esto le fue dícho a<rs ana="IXMUKANE">la xmu –
                 <lb n="43" />cane</rs>. esta bíen díxo ella íran alla, írá –
                 <lb n="44" />alla 
                 <choice>
@@ -212,7 +212,7 @@
                 	<expan>Señores</expan>
                 	</choice>mensageros. y fueronse los
                 <lb n="45" />mensageros, y se bolbíeron y aflíxíose
-                <lb n="46" /><rs ana="XMUCANE">la víeja</rs>, como embíare a llamar los, a <rs ana="HERO_TWINS">mís
+                <lb n="46" /><rs ana="IXMUKANE">la víeja</rs>, como embíare a llamar los, a <rs ana="HERO_TWINS">mís
                 <lb n="47" />níetos</rs>, q’ dire tocante asu llamada, deuer –
                 </p>
                 </div>

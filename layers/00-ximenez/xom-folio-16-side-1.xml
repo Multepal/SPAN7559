@@ -61,24 +61,24 @@
                     <lb n="17" />chave. catacan cut chila chu –
                     <lb n="18" />vach vleu mavi cacamic catoc
                     <lb n="19" />paꜩih ta chuxoc xqhari vho –
-                    <lb n="20" />lom <rs ana="HUN_HUNAHPU">hun hunahpu</rs> <rs ana="VUCUB_HUNAHPU">vvcub hun
+                    <lb n="20" />lom <rs ana="JUN_JUNAJPU">hun hunahpu</rs> <rs ana="WUQUB_JUNAJPU">vvcub hun
                     <lb n="21" />ahpu</rs>. xavi qui naoh taxquiba –
-                    <lb n="22" />no are vꜩih <rs ana="HURACAN">huracan</rs> <rs ana="CHIPICACULHA">chipica –
-                    <lb n="23" />culha</rs>, <rs ana="RAXA_CACULHA">raxa caculha</rs> chiquech.
+                    <lb n="22" />no are vꜩih <rs ana="HURAKAN">huracan</rs> <rs ana="CHIPI_KAQULJA">chipica –
+                    <lb n="23" />culha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs> chiquech.
                     <lb n="24" />quehe cu vꜩalihic chic capoh
                     <lb n="25" />chi rochoch quia pixab xbÿx
                     <lb n="26" />chirech. huzu cu xvinaquir ral
                     <lb n="27" />chupam rumal ri xachub. are
-                    <lb n="28" />cut quivinaquiric <rs ana="HUN_AHPU">hun ahpu</rs>
-                    <lb n="29" /><rs ana="XBALANKE">xbalanque</rs> ta xopon cut chi ro –
+                    <lb n="28" />cut quivinaquiric <rs ana="JUNAJPU">hun ahpu</rs>
+                    <lb n="29" /><rs ana="XBALAMKE">xbalanque</rs> ta xopon cut chi ro –
                     <lb n="30" />choch ri capoh xzacat cut va –
                     <lb n="31" />caquib ic ta xnauachil rumal
-                    <lb n="32" />vcahau ri <rs ana="CUCHUMAQUIC">cuchumaquic</rs> vbi v
+                    <lb n="32" />vcahau ri <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi v
                     <lb n="33" />cahau
                     <lb n="34" rend="indent" /><hi rend="large">C</hi>ate puch vnatahic capoh ru –
                     <lb n="35" />mal vcahau ta xil ri ral cochic
                     <lb n="36" />ta xquicuch cut qui naoh cono –
-                    <lb n="37" />hel ahauab <rs ana="HUN_CAME">hun came</rs> <rs ana="VUCUBKAME">vvcub
+                    <lb n="37" />hel ahauab <rs ana="JUN_KAME">hun came</rs> <rs ana="WUQUB_KAME">vvcub
                     <lb n="38" />came</rs> ruc ri cuchumaquic are
                     <lb n="39" />ri numeal qochi ral ixahauab
                     <lb n="40" />xa vhoxbal xqha curi cuchuma
@@ -107,10 +107,16 @@
                     <lb n="6" />y solo por la carne se adorna. y en moví –
                     <lb n="7" />endo se asombran los hombres por la
                     <lb n="8" />calabera. y así <rs ana="HERO_TWINS">sus hijos</rs> son como lasalí –
-                    <lb n="9" />ba, y su baba, sí son <rs ana="HERO_TWINS">hijos</rs> de <abbr type="superscription">Ses.</abbr>de sabío
+                    <lb n="9" />ba, y su baba, sí son <rs ana="HERO_TWINS">hijos</rs> de 
+                    <choice>
+                    	<abbr type="superscription">Ses.</abbr>
+                    	<expan>Señores</expan>
+                    	</choice>de sabío
                     <lb n="10" />y entendido, nose píerde ní se apaga
                     <lb n="11" />el ser de 
-                    <abbr type="superscription">Ses.</abbr> entendido, o sabio, síno 
+                    <choice>
+                    	<abbr type="superscription">Ses.</abbr>
+                    	<expan>Señores</expan> entendido, o sabio, síno 
                     	<choice>
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
@@ -131,12 +137,12 @@
                     	<abbr>q.</abbr>
                     	<expan>cuando</expan>
                     	</choice>sea
-                    <lb n="16" />hecha esto dixo la cabeza de <rs ana="HUN_HUNAHPU">hun –
-                    <lb n="17" />hun ahpu</rs>, y de <rs ana="VUCUB_HUNAHPU">vvcub hun ahpu</rs>. y
+                    <lb n="16" />hecha esto dixo la cabeza de <rs ana="JUN_JUNAJPU">hun –
+                    <lb n="17" />hun ahpu</rs>, y de <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs>. y
                     <lb n="18" />esto fue pura sabíduría, y mandato
-                    <lb n="19" />de <rs ana="HURACAN">huracan</rs>, de <rs ana="CHIPICACULHA">chípícaculha</rs>, y <rs ana="RAXA_CACULHA">raxa –
+                    <lb n="19" />de <rs ana="HURAKAN">huracan</rs>, de <rs ana="CHIPI_KAQULJA">chípícaculha</rs>, y <rs ana="RAXA_KAQULJA">raxa –
                     <lb n="20" />caculha</rs> y por su mandato lo hízíe –
-                    <lb n="21" />ron. y así se bolbío <rs ana="IXQUIC">la doncella</rs> asu
+                    <lb n="21" />ron. y así se bolbío <rs ana="IXKIK">la doncella</rs> asu
                     <lb n="22" />casa auíendole dícho muchas cosas
                     <lb n="23" />y mandates. y luego conzívío y fueron
                     <lb n="24" />conzebídos <rs ana="HERO_TWINS">híjos</rs> en su víentre por –
@@ -145,11 +151,11 @@
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
                     		</choice> solo era salíba. losq’ fue –
-                    <lb n="26" />ron engendrados fueron <rs ana="HUN_AHPU">hun ahpu</rs>
-                    <lb n="27" />y <rs ana="XBALANKE">xbalanque</rs>. y auíendose buelto
-                    <lb n="28" />asu casa <rs ana="IXQUIC">la donzella</rs>. y auíendo a —
+                    <lb n="26" />ron engendrados fueron <rs ana="JUNAJPU">hun ahpu</rs>
+                    <lb n="27" />y <rs ana="XBALAMKE">xbalanque</rs>. y auíendose buelto
+                    <lb n="28" />asu casa <rs ana="IXKIK">la donzella</rs>. y auíendo a —
                     <lb n="29" />justado los seis meses fue reparado
-                    <lb n="30" />por su <abbr type="superscription">Pe.</abbr> <rs ana="CUCHUMAQUIC">cuchumaquíc</rs>.
+                    <lb n="30" />por su <abbr type="superscription">Pe.</abbr> <rs ana="KUCHUMA_KIK">cuchumaquíc</rs>.
                     <lb />
                     <lb />
                     <lb />
@@ -160,22 +166,34 @@
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
                     		</choice> fue sentido el preñez por
-                    <lb n="32" />su <abbr type="superscription">Pe.</abbr> de la <rs ana="IXQUIC">la donzella</rs> y 
+                    <lb n="32" />su <abbr type="superscription">Pe.</abbr> de la <rs ana="IXKIK">la donzella</rs> y 
                     	<choice>
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
                     		</choice> tenía híjo.
-                    <lb n="33" />se juntaron acabildo los <abbr type="superscription">SSes.</abbr> <rs ana="HUNCAME">hun
-                    <lb n="34" />came</rs>, y <rs ana="VUCUBCAME">vvcubcame</rs>, con <rs ana="CUCHUMAQUIC">cuchuma –
-                    <lb n="35" />quíc</rs>, y dixo esta <rs ana="IXQUIC">mi híja</rs> esta pre –
-                    <lb n="36" />ñada <abbr type="superscription">SSes.</abbr> y esto ha prozedido de su
+                    <lb n="33" />se juntaron acabildo los 
+                    <choice>
+                    	<abbr type="superscription">SSes.</abbr>
+                    	<expan>Señores</expan>
+                    	</choice><rs ana="JUN_KAME">hun
+                    <lb n="34" />came</rs>, y <rs ana="WUQUB_KAME">vvcubcame</rs>, con <rs ana="KUCHUMA_KIK">cuchuma –
+                    <lb n="35" />quíc</rs>, y dixo esta <rs ana="IXKIK">mi híja</rs> esta pre –
+                    <lb n="36" />ñada 
+                    <choice>
+                    	<abbr type="superscription">SSes.</abbr>
+                    	<expan>Señores</expan>
+                    	</choice> y esto ha prozedido de su
                     <lb n="37" />deshonestidad, y fornízío. esto dixo
-                    <lb n="38" /><rs ana="CUCHUMAQUIC">cuchumaquíc</rs> 
+                    <lb n="38" /><rs ana="KUCHUMA_KIK">cuchumaquíc</rs> 
                     	<choice>
                     		<abbr>q’</abbr>
                     			<expan>que</expan>
                     			</choice> compareçío ante
-                    <lb n="39" />los <abbr type="superscription">SSes.</abbr> estabíen díxeron. oprímílda
+                    <lb n="39" />los 
+                    <choice>
+                    	<abbr type="superscription">SSes.</abbr>
+                    	<expan>Señores</expan>
+                    	</choice>estabíen díxeron. oprímílda
                     <lb n="40" />y 
                     	<choice>
                     		<abbr>q’</abbr>
@@ -186,13 +204,20 @@
                     				<expan>que</expan>
                     				</choice> dize, y la
                     <lb n="41" />llevaron lexos a matarla. estabíen
-                    <lb n="42" /><abbr type="superscription">SSes.</abbr> díxo el y luego le pregunto a <rs ana="IXQUIC">su hi -
+                    <lb n="42" />
+                    <choice>
+                    	<abbr type="superscription">SSes.</abbr>
+                    	<expan>Señores</expan>
+                    	</choice>díxo el y luego le pregunto a <rs ana="IXKIK">su hi -
                     <lb n="43" />ja</rs> dequíen es ese híjo 
                     	<choice>
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
                     		</choice>tienes en la
-                    <lb n="44" />barríga. y díxo <rs ana="IXQUIC">ella</rs> no tengo hijo <abbr type="superscription">Sor</abbr> 
+                    <lb n="44" />barríga. y díxo <rs ana="IXKIK">ella</rs> no tengo hijo 
+                    <choice>
+                    	<abbr type="superscription">Sor</abbr>
+                    	<expan>Señor</expan>
                     </p>
                 </div>
             </div>
