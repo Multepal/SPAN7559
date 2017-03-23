@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -41,105 +41,115 @@
             <div type="page" n="23.2" xml:id="xom-f23-s2">
                 <div type="col" n="23.2.1" xml:lang="quc">
                 
-                
-<lb />vi chipe ri quetzabal quic bate
-<lb />pachcab, q,uum are chicaztahv
- <lb />vach varal queqha ahauab
- <lb />xul quitzih cacha ri ivatit ta
- <lb />xipetic qui tzih caqha ri ivatit
- <lb />coquic caziquinic ivatit xipetic
- <lb />maquitzih xeqha cut qaholab
- <lb />chiquiqux ta xquitao huzu xe –
- <lb />petic xeopon cut ruq catit xa
- <lb />e pixabai chire catit xebec.
- <lb />ho na ixcatit xaohpixabay
- <lb />ive vae cute retal catzih xchicacanah
- <lb />huhun xchicatic chire
- <lb />va ah chunicahal cochoch xchi
- <lb />catic vi are retal ca camic ve
- <lb />chichaquihic mipa xecamic quix
- <lb />qha ta chichaquihic ve cut ta
- <lb />chipe vtux epa cazlic quixqha
- <lb />cut ixcatit ix pu ca chuch mixo –
- <lb />quic qo retal catzih cacanahic
- <lb />ivvq xeqha. ta xebec hun xu
- <lb />tic hun nahpu, hun chicu xti –
- <lb />cou xbalanque xa paha xutic
- <lb />vi mana pa huyub tah manaipu
- <lb />para x vleu tah xa pa chaquih
- <lb />vleu chunicahal vpa cochoch
- <lb />xquitic vi canoc. ta xebe cut hu –
- <lb />hun chi vvb chique xecah chi
- <lb />xibalba libah chi xecah chua
- <lb />cumuc xeicou. chivicut chupan
- <lb />hal ha zivan xachu xol q,iquin
- <lb />xeicou vi are ri q,iquin molai
- <lb />quibi xeicou chicut pa puhia
- <lb />pa quiquia chacbal ta que chi –
- <lb />qui qux xibalba maui xqui –
- <lb />yicou xa chirihvvb xeicou vi
- <lb />xeel chicu apanoc pa cahib xal –
- <lb />cat be xa xquetaam vi cut qui
- <lb />be xibalba queca be zaqui be, ca
- <lb />ca be, raxa be chiri cut xquitac
- <lb />vi hun chicop xan vbi are ca –
- <lb />mol quita xquitac vbic huhu –
- <lb />nal queatio nabe chati ri na
- <lb />be cubulel chatzaconizah qui
- <lb />tic conohel xa vech vi cut cha –
- <lb />tzubahvi vquiquel vinac pa –
- <lb />be xuqhaxic ri xan vtzbala.
+ <p>                
+<lb n="1" />vi chipe ri <expan>que</expan>tzabal quic bate
+<lb n="2" />pachcab, q,uum are chicaztahv
+ <lb n="3" />vac<rs ana="PELOTA"><rs ana="PELOTA"><rs ana="PELOTA">h varal <expan>que</expan>qha ahauab
+ <lb n="4" />xul quitzih cacha ri ivatit ta
+ <lb n="5" />xipetic qui tzih caqha ri ivatit
+ <lb n="6" />coquic caziquinic ivatit xipetic
+ <lb n="7" />maquitzih xeqha cut qaholab
+ <lb n="8" />chiquiqux ta xquitao huzu xe –
+ <lb n="9" />petic xeopon cut ruq catit xa
+ <lb n="10" />e pixabai chire catit xebec.
+ <lb n="11" />ho na ixcatit xaohpixabay
+ <lb n="12" />ive vae cute retal catzih xchicacanah
+ <lb n="13" />huhun xchicatic chire
+ <lb n="14" />va ah chunicahal cochoch xchi
+ <lb n="15" />catic vi are retal ca camic ve
+ <lb n="16" />chichaquihic mipa xecamic quix
+ <lb n="17" />qha ta chichaquihic ve cut ta
+ <lb n="18" />chipe vtux epa cazlic quixqha
+ <lb n="19" />cut ixcatit ix pu ca chuch mixo –
+ <lb n="20" />quic qo retal catzih cacanahic
+ <lb n="21" />ivvq xeqha. ta xebec hun xu
+ <lb n="22" />tic hun nahpu, hun chicu xti –
+ <lb n="23" />cou <rs ana="XBALAMKE"><expan>que</expan> xa paha xutic
+ <lb n="24" />vi mana pa huyub tah manaipu
+ <lb n="25" />para x vleu tah xa pa chaquih
+ <lb n="26" />vleu chunicahal vpa cochoch
+ <lb n="27" />xquitic vi canoc. ta xebe cut hu –
+ <lb n="28" />hun chi vvb chi<expan>que</expan> xecah chi
+ <lb n="29" /><rs ana="XIBALBA"> libah chi xecah chua
+ <lb n="30" />cumuc xeicou. chivicut chupan
+ <lb n="31" />hal ha zivan xachu xol q,iquin
+ <lb n="32" />xeicou vi are ri q,iquin molai
+ <lb n="33" />quibi xeicou chicut pa puhia
+ <lb n="34" />pa quiquia chacbal ta <expan>que</expan> chi –
+ <lb n="35" />qui qux <rs ana="XIBALBA"> maui xqui –
+ <lb n="36" />yicou xa chirihvvb xeicou vi
+ <lb n="37" />xeel chicu apanoc pa cahib xal –
+ <lb n="38" />cat be xa x<expan>que</expan>taam vi cut qui
+ <lb n="39" />be <rs ana="XIBALBA"> <expan>que</expan>ca be zaqui be, ca
+ <lb n="40" />ca be, raxa be chiri cut xquitac
+ <lb n="41" />vi hun chicop xan vbi are ca –
+ <lb n="42" />mol quita xquitac vbic huhu –
+ <lb n="43" />nal <expan>que</expan>atio nabe chati ri na
+ <lb n="44" />be cubulel chatzaconizah qui
+ <lb n="45" />tic conohel xa vech vi cut cha –
+ <lb n="46" />tzubahvi vqui<expan>que</expan>l vinac pa –
+ <lb n="47" />be xuqhaxic ri xan vtzbala.
  
  
-                </div>
+ 				</div>
                 <div type="col" n="23.2.2" xml:lang="spa">
                 
-                
-<lb />y que vengan los ínstrumentos de el jue –
-<lb />go, el vle, el bate, la pala, y el cuero, q’ va –
-<lb />yan a divertirlos, q’lo diçen los Señores, es –
-<lb />to dice vuestra abuela, q’así víno el men
-<lb />sage de los SSes. y así vine a llamaros. sí se –
-<lb />ra así díxeron ellos en sus corazones, oy –
-<lb />endo el mensage. y luego al punto se
-<lb />víníeron, y llegaron con su abuela, y so –
-<lb />lo fueron a auísarle asu abuela.
-<lb />Nosotros vamos, Sa y solo á auísaros vení –
-<lb />mos, y esta señal os dexamos de nuestra pa –
-<lb />labra, cada vno de nosotros sembraremos
-<lb />vna caña, en medio de nuestra casa, y es –
-<lb />ta sera la señal de nuestra muerte, sí se seca
-<lb />díreís, poco haq’ murieron; empero sí re
-<lb />toñeze, díreís q’ estan vívos tus níetos abu –
-<lb />ela, y vos madre, no lloreís, q’ señal que –
-<lb />da de nuestra palabra con vosotros.. y qdo
-<lb />se fueron vna sembro hun ahpu, y otra sem –
-<lb />bro xbalanque. y solo las sembraron en
-<lb />la casa y no las sembraron en el monte
-<lb />ní tambpoco en tíerra humeda; sino en
-<lb />tíerra seca, en medío de su casa las de
-<lb />xaron sembradas. y luego se fueron lle –
-<lb />uando cada vno al ínfíerno cada vno su
-<lb />ceruatana. y luego baxaron al ínfíerno
-<lb />y con brebedad baxaron las gradas, y
-<lb />pasaron vn río, en vna barranca, por me
-<lb />dío delos paxaros pasaron, y estos paxa
-<lb />ros sellamaban, molay., y tambien pas –
-<lb />saron por vn río de material, y otro de
-<lb />sangre, y estos ríos eran paraq’ fuesen ven
-<lb />çídos, como pensaban los de el ínfíerno
-<lb />y no los písaron; y salíendo de allí, legaron
-<lb />a una encruçjada de quarto camínos
-<lb />y çíertamente sabían el camíno de el ín –
-<lb />fíerno, vno era Negro, otro blanco, otro co –
-<lb />lorado, y otro verde; y desde allí embi –
-<lb />aron a vn anímalexo q’ sellamaba. xan.
-<lb />este íba a tomar nueuos, y embiando, y le
-<lb />fue dícho a cada vno de por sí muerdelos
-<lb />y prímero muerde al prímero q’esta
-<lb />asentado, y acaba de morderlos a todos
-<lb />y deti sera el chupar la sangre de los hon
-<lb />bres, y su comída. enlos camínos. esto le fue
+<p>                
+<lb n="1" />y <expan>que</expan> vengan los ínstrumentos de el jue –
+<lb n="2" />go, el vle, el bate, la pala, y el cuero, <abbr>q’</abbr>
+<expan>que</expan> va –
+<lb n="3" />yan a divertirlos, <abbr>q’</abbr>
+<expan>que</expan>lo diçen los <expan>Señores</expan>, es –
+<lb n="4" />to dice vuestra <rs ana="IXMUKANE">, <abbr>q’</abbr>
+<expan>que</expan>así víno el men
+<lb n="5" />sage de los <abbr type="superscript">SSes.</abbr>
+                	<expan>Señores</expan> y así vine a llamaros. sí se –
+<lb n="6" />ra así díxeron <rs ana="HERO_TWINS"> en sus corazones, oy –
+<lb n="7" />endo el mensage. y luego al punto se
+<lb n="8" />víníeron, y llegaron con su <rs ana="IXMUKANE">, y so –
+<lb n="9" />lo fueron a auísarle asu <rs ana="IXMUKANE">.
+<lb n="10" />Nosotros vamos, Sa y solo á auísaros vení –
+<lb n="11" />mos, y esta señal os dexamos de nuestra pa –
+<lb n="12" />labra, cada vno de nosotros sembraremos
+<lb n="13" />vna caña, en medio de nuestra casa, y es –
+<lb n="14" />ta sera la señal de nuestra muerte, sí se seca
+<lb n="15" />díreís, poco ha<abbr>q’</abbr>
+<expan>que</expan> murieron; empero sí re
+<lb n="16" />toñeze, díreís <abbr>q’</abbr>
+<expan>que</expan> estan vívos tus níetos abu –
+<lb n="17" />ela, y vos madre, no lloreís, <abbr>q’</abbr>
+<expan>que</expan> señal <expan>que</expan> –
+<lb n="18" />da de nuestra palabra con vosotros.. y qdo
+<lb n="19" />se fueron vna sembro <rs ana="JUN_JUNAJPU">, y otra sem –
+<lb n="20" />bro <rs ana="XBALAMKE"><expan>que</expan>. y solo las sembraron en
+<lb n="21" />la casa y no las sembraron en el monte
+<lb n="22" />ní tambpoco en tíerra humeda; sino en
+<lb n="23" />tíerra seca, en medío de su casa las de
+<lb n="24" />xaron sembradas. y luego se fueron lle –
+<lb n="25" />uando cada vno al ínfíerno cada vno su
+<lb n="26" />ceruatana. y luego baxaron al ínfíerno
+<lb n="27" />y con brebedad baxaron las gradas, y
+<lb n="28" />pasaron vn río, en vna barranca, por me
+<lb n="29" />dío delos paxaros pasaron, y estos paxa
+<lb n="30" />ros sellamaban, molay., y tambien pas –
+<lb n="31" />saron por vn río de material, y otro de
+<lb n="32" />sangre, y estos ríos eran para<abbr>q’</abbr>
+<expan>que</expan> fuesen ven
+<lb n="33" />çídos, como pensaban los de el ínfíerno
+<lb n="34" />y no los písaron; y salíendo de allí, legaron
+<lb n="35" />a una encruçjada de quarto camínos
+<lb n="36" />y çíertamente sabían el camíno de el ín –
+<lb n="37" />fíerno, vno era Negro, otro blanco, otro co –
+<lb n="38" />lorado, y otro verde; y desde allí embi –
+<lb n="39" />aron a vn anímalexo <abbr>q’</abbr>
+<expan>que</expan> sellamaba. xan.
+<lb n="40" />este íba a tomar nueuos, y embiando, y le
+<lb n="41" />fue dícho a cada vno de por sí muerdelos
+<lb n="42" />y prímero muerde al prímero <abbr>q’</abbr>
+<expan>que</expan>esta
+<lb n="43" />asentado, y acaba de morderlos a todos
+<lb n="44" />y deti sera el chupar la sangre de los hon
+<lb n="45" />bres, y su comída. enlos camínos. esto le fue
 
 
                 </div>

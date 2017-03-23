@@ -40,7 +40,8 @@
         <body>
             <div type="page" n="32.2" xml:id="xom-f32-s2">
                 <div type="col" n="32.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                <note rend="margin-left">
+                <num rend="large">32</num>
                 <lb n="1" />bÿh chi vbi ri vhunalpuil vchi
                 <lb n="2" />xerepu xchatah chivi quehe
                 <lb n="3" />cut ta xquinimah vi canahoc v
@@ -49,7 +50,7 @@
                 <lb n="6" />chuxic xeqha chivqahol chirech
                 <lb n="7" />ta xcubax vquxnabe chel ive
                 <lb n="8" />nabe naipuch. quixquihiloxic
-                <lb n="9" />rumal zaquil al zaquil gahol
+                <lb n="9" />rumal zaquil al zaquil ꜭahol
                 <lb n="10" />maui chizachic ibita chuxoc xe
                 <lb n="11" />qha chirech qui cahau ta xqui –
                 <lb n="12" />cuba vqux xa oh pacolica –
@@ -57,15 +58,17 @@
                 <lb n="14" />chiue quehe cut quipixabic
                 <lb n="15" />ri xchacatahinac oc ronohel
                 <lb n="16" />xibalba taxeacan culoc vara –
-                <lb n="17" />le nicahzaC huzu cu xeacan
+                <lb n="17" />le nicahzaC huzu cu xeacan <!--not sure how to deal with big C-->
                 <lb n="18" />chicah. hun cu quih hun naipu
                 <lb n="19" />ic chique ta xzaquiric vpam
-                <lb n="20" />cah v vach vleu chi cah xeqo –
+                <lb n="20" />cah v vach vleu chi cah xeqo – <!--this q looks like a ꜭ to me-->
                 <lb n="21" />heui are cut cachacanic ri o-
                 <lb n="22" />much qaholab xecam rumal
                 <lb n="23" />zipacna are cut cachbil xu –
                 <lb n="24" />xic e vchumilal cah xevxic.
-                <lb n="25" />Vae cut vtiqueric ta xnaohix
+                </p>
+                <p>
+                <lb n="25" rend="indent"><hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
                 <lb n="26" />vinac ta xꜩucux puch ri choc vtio –
                 <lb n="27" />hilvinac xeqha cut ri alom qa –
                 <lb n="28" />holom, e ꜩacol bitol tepeu cucu-
@@ -74,7 +77,7 @@
                 <lb n="31" />ꜩucul cool zaquil al zaquilqa-
                 <lb n="32" />hol mixeale vinac v vinaquil
                 <lb n="33" />v vach vleu xeqha, xmolomanic
-                <lb n="34" />xulic xbe quinaoh chi queeumal
+                <lb n="34" />xulic xbe quinaoh chi queꜫumal
                 <lb n="35" />chiaeabal ta xquiꜩucuh xqui –
                 <lb n="36" />pucuh puch xenaohinic xebizon
                 <lb n="37" />puch varal quehecut xelvia
@@ -83,16 +86,19 @@
                 <lb n="40" />vtiohil vinac xazcaquin chic ma
                 <lb n="41" />ui cauachin quih ic chumil pa
                 <lb n="42" />qui vi e ꜩacol bitol.
-                <lb n="43" />Pan paxil, pan cayala vbi xpe
+                </p>
+                <p>
+                <lb n="43" rend="indent"><hi rend="large">P</hi>an paxil, pan cayala vbi xpe
                 <lb n="44" />vi eanahal zaquihal.
-                <lb n="45" />Are cuquibi chicop va camolre
+                </p>
+                <p>
+                <lb n="45" rend="indent"><hi rend="large">A</hi>re cuquibi chicop va camolre
                 <lb n="46" />cha. yac, vtiu, quel, hoh ecahib
-                <lb n="47" />chi chicop xbÿn vꜩihel eanahal
+                <lb n="47" />chi chicop xbÿn vꜩihel ꜫanahal
 
                 </div>
                 <div type="col" n="32.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                <lb n="1" />y solo nosedíxo el nombre hunalpuíl
+                <lb n="1" />y so<del rend="scribble">l</del>o nosedíxo el nombre hunalpuíl
                 <lb n="2" />su voca, y solo esto fue díco. y así en
                 <lb n="3" />grandeçíeron antes el corazon desu
                 <lb n="4" />padre, y quedo el cenízero, paraq’
@@ -102,44 +108,47 @@
                 <lb n="8" />dos, y saludados, por todos los esclarezí –
                 <lb n="9" />dos híjos vasallos, y no se perdera vu –
                 <lb n="10" />estro nombre quando amanezca la
-                <lb n="11" />claridad les díxeron a sus Pes
-                <lb n="12" />. consolan
-                <lb n="13" />dole. y nosotros somos los vengado –
-                <lb n="14" />res de vuestra muerte, y de las pe –
-                <lb n="15" />nas, q’os díeron, y así fue su auísamí –
-                <lb n="16" />ento ya vençídos todos los de el ínfí –
-                <lb n="17" />erno. yluego se subíeron aca al mun –
-                <lb n="18" />do; y en un ínstante subíeron al çí –
-                <lb n="19" />elo. y vno de ellos fue puesto por sol,
-                <lb n="20" />y el otro por luna quando se aclaro
-                <lb n="21" />el çíelo. y tambíen subíeron los qua –
-                <lb n="22" />troçíentos muchachos q’mato el zípac –
-                <lb n="23" />na. y estos fueron compañeros suyos
-                <lb n="24" />y fueron hechos las estrellas de el
-                <lb n="25" />çíelo.
-                <lb n="26" />y aquí empíeza quando se díspuso ha –
-                <lb n="27" />çer al hombre, y el buscar cosa q’fuese
-                <lb n="28" />carne de el hombre y díxeron los cría
-                <lb n="29" />dores, y los formadores tepeu, y cucu –
-                <lb n="30" />maꜩ, q’así se llamaban yase açerco el
-                <lb n="31" />tíempo, de el amanezer, y de q’se acabe
-                <lb n="32" />de perfíçíonar todo todo, y deser hechos
-                <lb n="33" />los sustentados nuestros, esclareçídos vasa –
-                <lb n="34" />llos, se han secado los hombres vívíentes de
-                <lb n="35" />la tíerra díxeron. se juntaron, y víníeron
-                <lb n="36" />de montor y fueron a aconsejarse en la
-                <lb n="37" />obscurídad de la noche, y buscando, se
-                <lb n="38" />aconsejaron, y consultaron, y se entríste
-                <lb n="39" />çíeron aquí. y así salío a luz su sabíduría
-                <lb n="40" />a la claridad, y hallaron, lo q’buscaban
-                <lb n="41" />q’fuese carne de el hombre y faltaba
-                <lb n="42" />ya poco paraq’ amaneçíese el sol, luna
-                <lb n="43" />y estrellas, sobre los formadores.
-                <lb n="44" />De paxíl, y de cayala q’así sellamaba; víní –
-                <lb n="45" />ron las maçorcas amarillas, y blancas.
-                <lb n="46" />y estos eran los nombres de los animales q’tra –
-                <lb n="47" />geron la comida. el gato de monte, el lobo,
-                <lb n="48" />el chocoy. y el cueruo. estos quarto animales
+                <lb n="11" />claridad les díxeron a sus P<abbr type="superscription">es</abbr> consolan
+                <lb n="12" />dole. y nosotros somos los vengado –
+                <lb n="13" />res de vuestra muerte, y de las pe –
+                <lb n="14" />nas, q’os díeron, y así fue su auísamí –
+                <lb n="15" />ento ya vençídos todos los de el ínfí –
+                <lb n="16" />erno. yluego se subíeron aca al mun –
+                <lb n="17" />do; y en un ínstante subíeron al çí –
+                <lb n="18" />elo. y vno de ellos fue puesto por sol,
+                <lb n="19" />y el otro por luna quando se aclaro
+                <lb n="20" />el çíelo. y tambíen subíeron los qua –
+                <lb n="21" />troçíentos muchachos q’mato el zípac –
+                <lb n="22" />na. y estos fueron compañeros suyos
+                <lb n="23" />y fueron hechos las estrellas de el
+                <lb n="24" />çíelo.
+                </p>
+                <p>
+                <lb n="25" />y aquí empíeza quando se díspuso ha –
+                <lb n="26" />çer al hombre, y el buscar cosa q’fuese
+                <lb n="27" />carne de el hombre y díxeron los cría
+                <lb n="28" />dores, y los formadores tepeu, y cucu –
+                <lb n="29" />maꜩ, q’así se llamaban yase açerco el
+                <lb n="30" />tíempo, de el amanezer, y de q’se acabe
+                <lb n="31" />de perfíçíonar todo todo, y deser hechos
+                <lb n="32" />los sustentados nuestros, esclareçídos vasa –
+                <lb n="33" />llos, se han secado los hombres vívíentes de
+                <lb n="34" />la tíerra díxeron. se juntaron, y víníeron
+                <lb n="35" />de montor y fueron a aconsejarse en la
+                <lb n="36" />obscurídad de la noche, y buscando, se
+                <lb n="37" />aconsejaron, y consultaron, y se entríste
+                <lb n="38" />çíeron aquí. y así salío a luz su sabíduría
+                <lb n="39" />a la claridad, y hallaron, lo q’buscaban
+                <lb n="40" />q’fuese carne de el hombre y faltaba
+                <lb n="41" />ya poco paraq’ amaneçíese el sol, luna
+                <lb n="42" />y estrellas, sobre los formadores.
+                </p>
+                <p>
+                <lb n="43" />De paxíl, y de cayala q’así sellamaba; víní –
+                <lb n="44" />ron las maçorcas amarillas, y blancas.
+                <lb n="45" />y estos eran los nombres de los animales q’tra –
+                <lb n="46" />geron la comida. el gato de monte, el lobo,
+                <lb n="47" />el chocoy. y el cueruo. estos quarto animales
                 </div>
             </div>
         </body>

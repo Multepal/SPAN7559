@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,170 @@
             <div type="page" n="56.2" xml:id="xom-f56-s2">
                 <div type="col" n="56.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                <lb n="1" /><rs ana="COMAHCUN">Comahcun</rs>
+                <lb n="2" /><rs ana="VUCUBAH">Vucubah</rs>
+                <lb n="3" /><rs ana="COCAMEL">Cocamel</rs>
+                <lb n="4" /><rs ana="COYABACOH">Coyabacoh</rs>
+                <lb n="5" /><rs ana="VINAC_BAM">Vinac bam</rs>
+                <lb n="6" rend="indent"/><hi rend="large">A</hi>recut ahauab ri chuvach
+                <lb n="7" />ahau quiche are vleel vtazel
+                <lb n="8" />puch arecut vbi ahauab va
+                <lb n="9" />chupan nimha xacahib vnim
+                <lb n="10" />ha.
+                <lb n="11" /><rs ana="AH_TZICVINAC"><hi rend="large">A</hi>h ꜩic vinac ahau</rs> vbi nabeahau
+                <lb n="12" rend="indent"/>hun vnim ha
+                <lb n="13" /><rs ana="LOLMET"><hi rend="large">L</hi>olmet ahau</rs> ucabahau hun
+                <lb n="14" rend="indent"/>vnimha
+                <lb n="15" /><rs ana="NIM_CHOCOH"><hi rend="large">N</hi>im chocoh</rs> ahau roxahau hun
+                <lb n="16" rend="indent"/>unimha. 
+                <lb n="17" /><rs ana="HACAVITZ"><hi rend="large">H</hi>acaviꜩ</rs> cut vcah ahau hun
+                <lb n="18" rend="indent"/>vnim ha chicahibcut nimha
+                <lb n="19" rend="indent"/>chuvach ahau quiche
+                <lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chinim chocoh
+                <lb n="21" />queheri e cahauixel rumal ro –
+                <lb n="22" />nohel ahavab quiche xahun
+                <lb n="23" />chiqui cuch vi quib e oxib chic –
+                <lb n="24" />chocohib. e alanel, e vchuch ꜩih
+                <lb n="25" />evcahau ꜩih nim zcaquin vqo-
+                <lb n="26" />heic eoxib chichocohib
+                <lb n="27" rend="indent"/><hi rend="large">N</hi>im chocohcut chuvach nihaib
+                <lb n="28" />vcab curi. <rs ana="NIM_CHOCOH">nimchocoh ahau</rs> chuva –
+                <lb n="29" />ch ahau quiche rox <rs ana="NIM_CHOCOH">nim chocoh</rs>
+                <lb n="30" />chi oxibcut ri chocohib huhun
+                <lb n="31" />chivach chinamit. xere cut v
+                <lb n="32" />qoheic quicheri rumal mahabi
+                <lb n="33" />chi ilbalre, qonabe oher cu –
+                <lb n="34" />mal ahauab zachinac chic. xere
+                <lb n="35" />curi mixuꜩinic chiconohel qui –
+                <lb n="36" />che 
+                <choice>
+                	<abbr type="superscript">Sta.</abbr>
+                	<expan>Santa</expan>
+                	</choice>
+                	Cruz vbi.
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                </p>
                 </div>
                 <div type="col" n="56.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" /><rs ana="COMAHCUN">comah cun</rs>. <num>5</num>
+                <lb n="2" /><rs ana="VUCUB_AH">Vucub ah</rs>. <num>6</num>
+                <lb n="3" /><rs ana="COCAMEL">Cocamel</rs>. <num>7.</num>
+                <lb n="4" /><rs ana="COYABACOH">Coyabacoh</rs>. <num>8</num>.
+                <lb n="5" /><rs ana="VINAC_BAM">Vínac bam</rs>. <num>9</num>.
+                <lb n="6" />y estos fueron los Reyes de los de ah –
+                <lb n="7" />au quiche, y su desçendençías. y es –
+                <lb n="8" />tos son los nombres delos 
+                <choice>
+                	<abbr type="superscript">SSes.</abbr>
+                	<expan>Señores</expan>
+                	</choice>de las
+                <lb n="9" />grandes casas, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>solo son quatro.
+                <lb />
+                </p>
+                <p>
+                <lb n="10" /><rs ana="AH_TZICVINAC"><hi rend="large">A</hi>h ꜩíc vínac</rs> el nombre del primer 
+                <choice>
+                	<abbr type="superscript">Sor</abbr>
+                	<expan>Señor</expan>
+                	</choice>
+                <lb n="11" />de vna grande casa.
+                <lb n="12" /><rs ana="LOLMET_AHAU"><hi rend="large">L</hi>olmet ahau</rs>. el segundo 
+                <choice>
+                	<abbr type="superscript">Sor</abbr>
+                	<expan>Señor</expan>
+                	</choice>de vna
+                <lb n="13" rend="indent"/>casa grande.
+                <lb n="14" /><rs ana="NIM_CHOCOH"><hi rend="large">N</hi>ím chocoh</rs> el tercero 
+                <choice>
+                	<abbr type="superscript">Sor</abbr>
+                	<expan>Señor</expan>
+                	</choice>de vna ca –
+                <lb n="15" rend="indent"/>sa grande.
+                <lb n="16" /><rs ana="HACAVITZ"><hi rend="large">H</hi>acauíꜩ</rs>. el quarto 
+                <choice>
+                	<abbr type="superscript">Sor</abbr>
+                	<expan>Señor</expan>
+                	</choice>de vna casa
+                <lb n="17" />grande. queeran solo quatro casas
+                <lb n="18" />grandes de los de ahau quiche.
+                <lb n="19" />y estos eran los tres grandes combí –
+                <lb n="20" />tes, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>eran como padres por todos los
+                <lb n="21" />
+                <choice>
+                	<abbr type="superscript">SSes</abbr>
+                	<expan>Señores</expan>
+                	</choice>del quiche, y todos se juntaban
+                <lb n="22" />en vno de los tres combítes. 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>eran los
+                		<choice>
+                			<abbr>q’</abbr>
+                			<expan>que</expan>
+                			</choice>
+                <lb n="23" />todo lo mandaban, y dísponían, pe –
+                <lb n="24" />queño, y grande, los tres juntos, o
+                <lb n="25" />combítes.
+                <lb n="26" />Grande Junta, y combíte delos de ca
+                <lb n="27" />uíquíb. y el Segundo de los de níha –
+                <lb n="28" />íb. y el terçero de los de ahau quí –
+                <lb n="29" />che. cada vno de estos tres en su
+                <lb n="30" />chínamítal. y esto es todo lo de el
+                <lb n="31" />quiche. por
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>ya no ay donde leerlo
+                <lb n="32" />yaun
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>antíguamente lo auía, pero
+                <lb n="33" />se ha perdído. y aquí seacabo todo lo –
+                <lb n="34" />tocante al quiche, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se llama 
+                		<choice>
+                			<abbr type="superscript">Sta</abbr>
+                			<expan>Santa</expan>
+                			</choice>
+                <lb n="35" />Cruz
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                </p>
                 </div>
             </div>
         </body>

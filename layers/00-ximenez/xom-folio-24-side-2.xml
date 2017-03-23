@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -41,107 +41,118 @@
             <div type="page" n="24.2" xml:id="xom-f24-s2">
                 <div type="col" n="24.2.1" xml:lang="quc">
                 
-                
-<lb />huhun chiholoman vbixic cumal
-<lb />are chibÿn vbi hun ri cubul chu –
-<lb />xucut mahabi hunoc xquizach v
-<lb />bi quiz quibÿh quibi conohel ta
-<lb />xeti rumal rizmal v vach vchec
-<lb />hun ahpu xumich vbic mana qui –
-<lb />tzih xan ri xetiovic xbetao quibi
-<lb />conohel rumal hun ahpu xba –
-<lb />lanque. cate cut ta xebec ta xe
-<lb />opon puch chila e qovi xibalba
-<lb />chi quihila ahau xqhari cubulic
-<lb />xqha huntac chiinel maui are
-<lb />ahau ri xa poy ahamche ri xe
-<lb />qha ta xeoponic cate cut ta xeca –
-<lb />lainic calata hun came, calata
-<lb />vvcub came, calata xiquiritap
-<lb />calata cuchumaquic. calata a
-<lb />hal puh, calata ahalcana, cala
-<lb />ta chamia bac, calata chamia
-<lb />holom, calata cala xic, cala
-<lb />ta patan, calata quic re, calata
-<lb />vquic xic rixcac. xeqha taxeopo –
-<lb />nic ronohel xquiz cut vvach
-<lb />xquibÿh vbi ronohel mahabi
-<lb />hun xquizach vbi are ta xaha –
-<lb />uax chiquech mata xcanai vbi
-<lb />cumal quixcu vloc xevqhax cut
-<lb />xerah oc chuvi tem macu xcah
-<lb />maui are catem ri xa chohim a
-<lb />bah ri tem xeqha hun ahpu xba
-<lb />lanque mavi xechacatahic vtz
-<lb />vbala. xabahix paha xevchaxic
-<lb />cate cut ta xeoc pa queeumaha
-<lb />maui xechacatahic chiri are
-<lb />nabe vtihobal xibalba ri xeoc
-<lb />vi quechi cu vticaric quichaca
-<lb />tahic ta chic chiquiqux xibalba
-<lb />nabe xeoc paqueeumaha
-<lb />cate cut ta xbeyaoc quichah
-<lb />catilovic ta xoponic ruq huhun
-<lb />qui zic rumal vzamahel hun
-<lb />came, vae quichahe cacha aha –
-<lb />u chul quiya chic ri chah zaca –
-<lb />ric ruq ri zic chul qui moloba
-<lb />cacha ahau xqha zamahel ta
-<lb />xoponic vtzbala xeqha cut ma
-<lb />cu xquitzih richah xa eaeahv
+<p>                
+<lb n="1" />huhun chiholoman vbixic cumal
+<lb n="2" />are chibÿn vbi hun ri cubul chu –
+<lb n="3" />xucut mahabi hunoc xquizach v
+<lb n="4" />bi quiz quibÿh quibi conohel ta
+<lb n="5" />xeti rumal rizmal v vac<rs ana="PELOTA">h vchec
+<lb n="6" /><rs ana="JUN_JUNAJPU"> xumich vbic mana qui –
+<lb n="7" />tzih xan ri xetiovic xbetao quibi
+<lb n="8" />conohel rumal <rs ana="JUN_JUNAJPU"> xba –
+<lb n="9" />lan<expan>que</expan>. cate cut ta xebec ta xe
+<lb n="10" />opon puch chila e qovi <rs ana="XIBALBA">
+<lb n="11" />chi quihila ahau xqhari cubulic
+<lb n="12" />xqha huntac chiinel maui are
+<lb n="13" />ahau ri xa poy ahamche ri xe
+<lb n="14" />qha ta xeoponic cate cut ta xeca –
+<lb n="15" />lainic calata hun came, calata
+<lb n="16" />vvcub came, calata xiquiritap
+<lb n="17" />calata cuchumaquic. calata a
+<lb n="18" />hal puh, calata ahalcana, cala
+<lb n="19" />ta chamia baca<rs ana="CHAMIYABAQ">, calata chamia
+<lb n="20" />holom, calata cala xic, cala
+<lb n="21" />ta patan<rs ana="PATAN"><rs ana="PATAN">, calata quic re, calata
+<lb n="22" />vquic xic rixcac. xeqha taxeopo –
+<lb n="23" />nic ronohel xquiz cut vvac<rs ana="PELOTA">h
+<lb n="24" />xquibÿh vbi ronohel mahabi
+<lb n="25" />hun xquizach vbi are ta xaha –
+<lb n="26" />uax chi<expan>que</expan>ch mata xcanai vbi
+<lb n="27" />cumal quixcu vloc xevqhax cut
+<lb n="28" />xerah oc chuvi tem macu xcah
+<lb n="29" />maui are catem ri xa chohim a
+<lb n="30" />bah ri tem xeqha <rs ana="JUN_JUNAJPU"> xba
+<lb n="31" />lan<expan>que</expan> mavi xechacatahic vtz
+<lb n="32" />vbala. xabahix paha xevchaxic
+<lb n="33" />cate cut ta xeoc pa <expan>que</expan>eumaha
+<lb n="34" />maui xechacatahic chiri are
+<lb n="35" />nabe vtihobal <rs ana="XIBALBA"> ri xeoc
+<lb n="36" />vi <expan>que</expan>chi cu vticaric quichaca
+<lb n="37" />tahic ta chic chiquiqux <rs ana="XIBALBA">
+<lb n="38" />nabe xeoc pa<expan>que</expan>eumaha
+<lb n="39" />cate cut ta xbeyaoc quichah
+<lb n="40" />catilovic ta xoponic ruq huhun
+<lb n="41" />qui zic rumal vzamahel hun
+<lb n="42" />came, vae quichahe cacha aha –
+<lb n="43" />u chul quiya chic ri chah zaca –
+<lb n="44" />ric ruq ri zic chul qui moloba
+<lb n="45" />cacha ahau xqha zamahel ta
+<lb n="46" />xoponic vtzbala xeqha cut ma
+<lb n="47" />cu xquitzih richah xa eaeahv
 
 
                 </div>
                 <div type="col" n="24.2.2" xml:lang="spa">
                 
-                
-<lb />de cada vno. y se llamaba holoman, vno
-<lb />q’estaba asentado en vn vanco. y nín –
-<lb />gun nombre de ellos perdío, síno q’ todos
-<lb />díxeron sus nombres todos quando fueron
-<lb />mordidos por vn pelo de la cara de hun
-<lb />ahpu, y no era mosquito en realídad
-<lb />de verdad, el q’ fue a morderlos atodos
-<lb />y q’ fue a oyrlos nombres detodos por
-<lb />hun ahpu. y luego q’llegaron alla á
-<lb />donde estaban los de el ínfíerno, les díxe –
-<lb />ron ea saludad aese Sor. y no era Sor.síno
-<lb />vna estatua para engalñarlos, y díxe
-<lb />ron ese solo es estatua. y saludandolos a
-<lb />los demas díxeron Sor. came, Sor. vucub
-<lb />came, Sor. xíquírípat, Sor. cuchumaquíc,
-<lb />Sor. ahal puh, Sor. ahal cana, Sor. chamía
-<lb />bac, Sor. chamía holom, Sor. xíc, Sor. pa –
-<lb />tan, Sor. quíc re, Sor. quic rí eae. esto di –
-<lb />xeron quando llegaron a todos les ma –
-<lb />manífestaron sus caras, y díxeron sus
-<lb />nombres de todos, y de nonguno perdí –
-<lb />eron, ní olvídaron su nombre. y esto
-<lb />era lo q’querían de ellos q’ no supíesen
-<lb />sus nombres, ní fuesen hallados por
-<lb />ellos. ea veníd les díxeron, y los quísí –
-<lb />eron sentar en vn asíento, pero no quí –
-<lb />síeron, no es este nuestro asíento porq’
-<lb />es píedra ardíendo ese asíento díxe –
-<lb />ron hun ahpu, y xbalanque, y no pu –
-<lb />díeron ser vençídos. esta bíen díxeron
-<lb />ellos, ea vayan a la casa les fue dícho, y
-<lb />luego entraron en vna casa obscura, y no
-<lb />fueron allí vencídos. y este era el primer
-<lb />castígo de el ínfíerno. allí entraron, y allí
-<lb />pensaban los de el ínfíerno empezar a
-<lb />tríunfar de ellos. allí entraron en la
-<lb />casa obscura., y luego les fueron a dar su
-<lb />ocote, q’relumbraba, quando llegaron.
-<lb />y también a cada vno vn zígarro por los
-<lb />mensageros de huncame, y les díxeron
-<lb />este vuestro ocote, y estos zígarros, dízen
-<lb />los Señores ala mañana los aueís de bol –
-<lb />ber, auíendo ardído toda la noche. esto
-<lb />díxeron los mensageros, quando lle –
-<lb />garon. esta bíen díxeron ellos, y no en
-<lb />cendíeron el ocote, síno q’pusíeron otra
-<lb />cosa colorada en lugar de el ocote, q’ fue
+<p>                
+<lb n="1" />de cada vno. y se llamaba holoman, vno
+<lb n="2" /><abbr>q’</abbr>
+<expan>que</expan>estaba asentado en vn vanco. y nín –
+<lb n="3" />gun nombre de <rs ana="HERO_TWINS"> perdío, síno <abbr>q’</abbr>
+<expan>que</expan> todos
+<lb n="4" />díxeron sus nombres todos quando fueron
+<lb n="5" />mordidos por vn pelo de la cara de hun
+<lb n="6" />ahpu<rs ana="JUN_JUNAJPU">, y no era mosquito en realídad
+<lb n="7" />de verdad, el <abbr>q’</abbr>
+<expan>que</expan> fue a morderlos atodos
+<lb n="8" />y <abbr>q’</abbr>
+<expan>que</expan> fue a oyrlos nombres detodos por
+<lb n="9" /><rs ana="JUN_JUNAJPU">. y luego <abbr>q’</abbr>
+<expan>que</expan>llegaron alla á
+<lb n="10" />donde estaban los de el ínfíerno, les díxe –
+<lb n="11" />ron ea saludad aese Sor. y no era Sor.síno
+<lb n="12" />vna estatua para engalñarlos, y díxe
+<lb n="13" />ron ese solo es estatua. y saludandolos a
+<lb n="14" />los demas díxeron Sor. came, Sor. vucub
+<lb n="15" />came, Sor., Sor. cuchumaquíc,
+<lb n="16" />Sor. ahal puh<rs ana="AJAL_PUJ">, Sor. ahal cana<rs ana="AJAL_QANA">, Sor. chamía
+<lb n="17" />baca<rs ana="CHAMIYABAQ">, Sor. chamía holom<rs ana="CHAMIYAJOLOM">, Sor. xíc, Sor. pa –
+<lb n="18" />tan<rs ana="PATAN">, Sor. quíc re, Sor. quic rí eae. esto di –
+<lb n="19" />xeron quando llegaron a todos les ma –
+<lb n="20" />manífestaron sus caras, y díxeron sus
+<lb n="21" />nombres de todos, y de nonguno perdí –
+<lb n="22" />eron, ní olvídaron su nombre. y esto
+<lb n="23" />era lo <abbr>q’</abbr>
+<expan>que</expan><expan>que</expan>rían de <rs ana="HERO_TWINS"> <abbr>q’</abbr>
+<expan>que</expan> no supíesen
+<lb n="24" />sus nombres, ní fuesen hallados por
+<lb n="25" /><rs ana="HERO_TWINS">. ea veníd les díxeron, y los quísí –
+<lb n="26" />eron sentar en vn asíento, pero no quí –
+<lb n="27" />síeron, no es este nuestro asíento por<abbr>q’</abbr>
+<expan>que</expan>
+<lb n="28" />es píedra ardíendo ese asíento díxe –
+<lb n="29" />ron <rs ana="JUN_JUNAJPU">, y <rs ana="XBALAMKE"><expan>que</expan>, y no pu –
+<lb n="30" />díeron ser vençídos. esta bíen díxeron
+<lb n="31" /><rs ana="HERO_TWINS">, ea vayan a la casa les fue dícho, y
+<lb n="32" />luego entraron en vna casa obscura, y no
+<lb n="33" />fueron allí vencídos. y este era el primer
+<lb n="34" />castígo de el ínfíerno. allí entraron, y allí
+<lb n="35" />pensaban los de el ínfíerno empezar a
+<lb n="36" />tríunfar de <rs ana="HERO_TWINS">. allí entraron en la
+<lb n="37" />casa obscura., y luego les fueron a dar su
+<lb n="38" />ocote, <abbr>q’</abbr>
+<expan>que</expan>relumbraba, quando llegaron.
+<lb n="39" />y también a cada vno vn zígarro por los
+<lb n="40" />mensageros de huncame, y les díxeron
+<lb n="41" />este vuestro ocote, y estos zígarros, dízen
+<lb n="42" />los <expan>Señores</expan> ala mañana los aueís de bol –
+<lb n="43" />ber, auíendo ardído toda la noche. esto
+<lb n="44" />díxeron los mensageros, quando lle –
+<lb n="45" />garon. esta bíen díxeron <rs ana="HERO_TWINS">, y no en
+<lb n="46" />cendíeron el ocote, síno <abbr>q’</abbr>
+<expan>que</expan>pusíeron otra
+<lb n="47" />cosa colorada en lugar de el ocote, <abbr>q’</abbr>
+<expan>que</expan> fue
 
 
                 </div>

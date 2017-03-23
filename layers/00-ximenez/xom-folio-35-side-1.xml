@@ -74,7 +74,7 @@
                 <lb n="31" />quilonic xeziquinic xazelava –
                 <lb n="32" />chin vzaquiric xavi chila que –
                 <lb n="33" />mucun vi relebal quih quila va –
-                <lb n="34" />chin ri iqoquih nima chu mil xa
+                <lb n="34" />chin ri iqoquih nima chu mil <del rend="scribble">xa</del>
                 <lb n="35" />chalaxic quih ꜩihol re vpa cah
                 <lb n="36" />vpavleu vbinibal vinac ꜩac vi
                 <lb n="37" />nac bit xeqha e balam quiꜩe
@@ -91,6 +91,8 @@
                                  
                     </div>
                     <div type="col" n="2" xml:lang="spa">
+                <note rend="margin-right">
+                <num rend="large">35</num>
                 <lb n="1" />díferentes generaçíones en el mundo. y
                 <lb n="2" />ay patrías de algunos hombres, q’no se
                 <lb n="3" />han vísto sus caras, q’ no tíenen casas, sí –
@@ -102,15 +104,13 @@
                 <lb n="9" />guardaban el mandato de el críador
                 <lb n="10" />corazon deel çíelo, y de la tíerra. y solo
                 <lb n="11" />aguardaban q’naçíese el sol. y solo se
-                <lb n="12" />entretenían en pedír los grandes, y SSes
-                <lb n="13" />leuantado las caras al çíelo qo
-                <lb n="14" />. pedían
+                <lb n="12" />entretenían en pedír los grandes, y SS<abbr type="superscription">es</abbr>
+                <lb n="13" />leuantado las caras al çíelo q<abbr type="superscription">o</abbr> pedían
                 <lb n="15" />híjos, e híjas, y deçían. ó tu críador, y for –
                 <lb n="16" />mador, míradnos, oídnos, no nos dexes, no
                 <lb n="17" />nos desampares tu ídolo çíelo, y tíerra, cora
                 <lb n="18" />çon de el çíelo, y de la tíerra, dadnos nu –
-                <lb n="19" />estra deçendençía, para síempre, qo
-                <lb n="20" />a
+                <lb n="19" />estra deçendençía, para síempre, q<abbr type="superscription">o</abbr>a
                 <lb n="21" />manezca, y dadnos muchos buenos ca –
                 <lb n="22" />mínos, y anchos, y dadnos paz quíeta, y
                 <lb n="23" />sosegada, y buena vída, y costumbres
@@ -118,14 +118,14 @@
                 <lb n="25" />caculha, chípína navac, raxa nanavac
                 <lb n="26" />vox, hun ahpu tepeu cucumaꜩ, alom
                 <lb n="27" />qaholom, xpiyacoc, xmucane, abu –                    
-                <lb n="28" />ela de el sol, abuela de la clarídad, qo
-                <lb n="29" />amanezca, y aclare. esto díxeron qo
+                <lb n="28" />ela de el sol, abuela de la clarídad, q<abbr type="superscription">o</abbr>
+                <lb n="29" />amanezca, y acrend="scribble">l</del>are. esto díxeron q<abbr type="superscription">o</abbr>
                 <lb n="30" />saludaban, e ínuocaban, y esperaban
                 <lb n="31" />el naçer el sol. y así mesmo estaban
                 <lb n="32" />mírando al naçímíento de el sol, y
                 <lb n="33" />míraban el luzero, vna grande estrella.
                 <lb n="34" />q’anunçíaba el naçímíento de el sol, q’
-                <lb n="35" />auía de alumbrar todo el çíelo, y la tí –
+                <lb n="35" />auía de alumbrar todo el çíelo, y la tí – <!--i see a ', not a ti-->
                 <lb n="36" />rra, con q’ auían de andar las críatu –
                 <lb n="37" />ras. esto díxeron balam quíꜩe, balam
                 <lb n="38" />acab, mahucutah; íquíbalam. y díxe –
@@ -139,7 +139,7 @@
                 <lb n="46" />los pueblos con el los de yaquí. con estos
                 <lb n="47" />dígnos derespecto y veneraçíon. ea,
                 <lb n="48" />vamos díxeron a buscar, y vamos a 
-                <lb n="49" />ya
+                <lb n="49" />ya <!--i don't see this??-->
                     </div>
                 </div>
             </div>

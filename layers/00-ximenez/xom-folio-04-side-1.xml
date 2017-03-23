@@ -43,9 +43,9 @@
             	<p>
             	<lb n="1" />nabaxic rumal vinac ꜩac, vinac
             	<lb n="2" />bit, vinac poy, vinac anom cha
-            	<lb n="3" />ta chuxoc chicutun ibi hunahpu
-            	<lb n="4" />vuch, hunahpu vtiu camul alo –
-            	<lb n="5" />m, camul qaholom nimac nima
+            	<lb n="3" />ta chuxoc chicutun ibi <rs ana="JUNAJPU_WUCH">hunahpu
+            	<lb n="4" />vuch</rs>, <rs ana="JUNAJPU_UTIW">hunahpu vtiu</rs> camul <rs ana="ALOM">alo –
+            	<lb n="5" />m</rs>, camul <rs ana="KAJOLOM">qaholom</rs> nimac nima
             	<lb n="6" />ꜩÿz ah cuval ah yamanic ah chut
             	<lb n="7" />ahꜩalam, ah raxalac, ah raxazel
             	<lb n="8" />ah eol, ah toltecat ratit quih ra
@@ -54,14 +54,14 @@
             	<lb n="11" />xa chibanatahic xa pu chel apan
             	<lb n="12" />oc chicahah chicacotah puch
             	<lb n="13" />vchi vvach che xevqhaxic e
-            	<lb n="14" />ah <del rend="scribble">t</del> quih cate puch vcahic v
+            	<lb n="14" />ah <del rend="overstrike">t</del> quih cate puch vcahic v
             	<lb n="15" />quihiloxic ri xmalic chi ixim
             	<lb n="16" />chiꜩite quih bit xeqha quri
             	<lb n="17" />hunatit hunmama chiquech
-            	<lb n="18" />are ri mama are ahꜩite xpi–
-            	<lb n="19" />yacoc vbi. arecu riatit ahquih
-            	<lb n="20" />ahbit chi racan xmucane vbi
-            	<lb n="21" />xeqha cut ta x<del rend="scribble"></del>quitiquiba quih
+            	<lb n="18" />are ri mama are ahꜩite <rs ana="XPIYAKOK">xpi–
+            	<lb n="19" />yacoc</rs> vbi. arecu riatit ahquih
+            	<lb n="20" />ahbit chi racan <rs ana="IXMUKANE">xmucane</rs> vbi
+            	<lb n="21" />xeqha cut ta x<del rend="overstrike"> </del>quitiquiba quih
             	<lb n="22" />xa chuculu xa pu chu rico ch –
             	<lb n="23" />abÿh cata caxiquin, caqha –
             	<lb n="24" />uic caꜩihontah xa chuculu
@@ -73,8 +73,8 @@
             	<lb n="30" />nic cattaquentah xqha chi –
             	<lb n="31" />re ixim q,ite, quih bit. cat
             	<lb n="32" />quixla vloc at vqux cah
-            	<lb n="33" />macahizah vchi vvach tepeu
-            	<lb n="34" />qucumaꜩ xeqha ta xquibih
+            	<lb n="33" />macahizah vchi vvach <rs ana="TEPEW_QUKUMATZ">tepeu
+            	<lb n="34" />gucumaꜩ</rs> xeqha ta xquibih
             	<lb n="35" />cut v zuculiquil vꜩ are chu –
             	<lb n="36" />xic ri i poy aham che chiqha –
             	<lb n="37" />uic chiꜩihon bala chuvach
@@ -95,11 +95,12 @@
             	<lb n="1" />nuestro ser adorado, nuestro ser acordado por <note place="margin-right" type="pagination">4</note>
             	<lb n="2" />el hombre formado, y edificado. y por el hombre
             	<lb n="3" />nuestro pobre, y así se díga, mostrad vuestro
-            	<lb n="4" />nombre hun ahpu vuch, hun ahpu vtíu dos
-            	<lb n="5" />vezes madre, dos vezes Padre, grandes, gran –
-            	<lb n="6" />de pízote, el de los chalchíguítes, el de el
+            	<lb n="4" />nombre <rs ana="JUNAJPU_WUCH">hun ahpu vuch</rs>, <rs ana="JUNAJPU_UTIW">hun ahpu vtíu</rs> <rs ana="ALOM">dos
+            	<lb n="5" />vezes madre</rs>, <rs ana="KAJOLOM">dos vezes Padre</rs>, grandes, gran –
+            	<lb n="6" />de <rs ana="SAQI_NIM_AQ_SIS">pízote</rs>, el de los chalchíguítes, el de el
             	<lb n="7" />toríron, el de la tabla, o trono, el de el toltecat
             	<lb n="8" />abuela de el sol, abuela de la luna, así seaís
+            	<!-- should these titles be marked up -->
             	<lb n="9" />dichos por nuestros formados, y críaturas.
             	<lb n="10" />echad suertes con maíses, y con ꜩítes y sea
             	<lb n="11" />solo hecho, sí saldra, sí labraremos, y lo
@@ -108,22 +109,24 @@
             	<lb n="14" />dura de las suertes, su ser saludado lo<abbr>q’</abbr>
             	<lb n="15" />sortearon con el maís y el ꜩíte. a sol, a
             	<lb n="16" />formadura dixeron vnabieja y un viejo
+            	<!-- should vieja and viejo be xmucane and xpiyacoc -->
             	<lb n="17" />a ellos. y el viejo era el de las suertes de
-            	<lb n="18" />el ꜩité, y se llamaba xpíyacoc, y la vieja
+            	<lb n="18" />el ꜩité, y se llamaba <rs ana="XPIYAKOK"</rs>xpíyacoc, y la vieja
             	<lb n="19" />adivina de el sol, y de la formadura, se
-            	<lb n="20" />llamaba chíracan xmucane. <del rend="strikethrough">y esta</del>
-            	<lb n="21" /><del rend="strikethrough">vieja adivina de el sol</del> y dixeron <abbr>q<hi rend="superscript">o</hi></abbr>
+            	<lb n="20" />llamaba chíracan <rs ana="IXMUKANE">xmucane</rs>. <del rend="overstrike">y esta</del>
+            	<lb n="21" /><del rend="overstrike">vieja adivina de el sol</del> y dixeron <abbr>q<hi rend="superscript">o</hi></abbr>
             	<lb n="22" />empezaron a adivinar el sol solo se
             	<lb n="23" />junten y se avnen decid nuestra nu –
             	<lb n="24" />eua, nuestro oydo hablá, parlád, si es
             	<lb n="25" />conveniente sea labrado el palo por los
             	<lb n="26" />formadores, y sí es este es <abbr>q’</abbr>se ha de sus –
+            	<!-- what to do with formadores -->
             	<lb n="27" />tentar, y alímentar, <abbr>q<hi rend="superscript">o</hi</abbr> se siembre, y acba –
             	<lb n="28" />re, dí maís, tu ꜩíte, tu sol, tu forma—
             	<lb n="29" />dura llamad, y segued le dixo al maís,
             	<lb n="30" />y al ꜩíte, al sol, y ála formadura. y tu
-            	<lb n="31" />corazon de el zielo tened verguenza, no afren-
-            	<lb n="32" />teís a tepeu, y cucumaꜩ. y entonzes respon-
+            	<lb n="31" /><rs ana="UKUX_KAJ">corazon de el zielo</rs> tened verguenza, no afren-
+            	<lb n="32" />teís a <rs ana="TEPEU_QUKUMATZ">tepeu, y cucumaꜩ</rs>. y entonzes respon-
             	<lb n="33" />diendo el q,íte y el maís dixeron la verdad
             	<lb n="34" />haceldo así <abbr>q’</abbr>así estara bíen, y hablara el pa
             	<lb n="35" />lo enlabrandolo. y luego fue hecha la íma
@@ -133,6 +136,7 @@
             	<lb n="39" />pero salieron tontos sin corazon, sin enten –
             	<lb n="40" />dimiento; y así no se acordaron mas desu crí –
             	<lb n="41" />ador; sino <abbr>q’</abbr>en vano estubieron, y andu –
+            	<!-- what to do with el criador -->
             	<lb n="42" />uieron sobre la tierra, y así no se acorda –
             	<lb />
             	<lb />

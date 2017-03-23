@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -41,105 +41,111 @@
             <div type="page" n="27.2" xml:id="xom-f27-s2">
                 <div type="col" n="27.2.1" xml:lang="quc">
                 
-                
-                hupacha mi xabano mahabi
-chic chizilabic xaquichico –
-zoz chic cate cut xuquixbih
-xbalanque araroc mixcaya
-yan xcha cut chila cut xbe
-colana vi vholom chuvi hom
-xavi vtzih hun came vvcub
-came quequicot curi xibal –
-ba conohel rumal vholom
-10 hun ahpu cate cut ta xutac
-chicop ronohel ziz, ae. rono –
-hel chuti chicop, nima chicop
-chacab xavi xare racabal
-ta xutzonoh cut quecha na
-qui tac pa ivecha chi huhunal
-are quixnutac vi chicam vl
-oc ri ivecha xqha cut xba –
-lanque chique vtzbala xe
-qha cut ta xebec e camol rech
-20 ta xevl he cut conohel qo xa
-cumar rech xbevcama, qo
-xa tzalic xbevcama, qo xa a –
-bah xbevcama, qo xavleu
-xbe vcama halahoh quecha
-ri chicop, nimachicop quipu
-ca v xambe canahoc ri tziz coc
-xbe vcama cubalcatih chutzam
-capetic are cut xoc halvachi –
-bal vholom hunahpu libahchi
-30 xcotox vbac v vach tzatz chi ahna –
-oh chicah xpevi arev quxcah
-huracan xulcoloc xuluculoc chi –
-ri pa zotziha macuatan xutzi –
-nic v vach vtz chic xuxic xa
-uixare vchuuc hebel xvachi –
-nic xavi xare xqhauic are
-cut ta chirah zaquiric chi
-cactarin vxe cah caxaqui –
-nachic ama xuchax ri vuch
-40 ve xqhari mama ta chixa –
-quinic cate ta chiqueea mar
-chic cahmul xaquin ri mama.
-caxaquinvvch caqha vi –
-nac vacamic. xa cu cac raxu –
-tzinic ta xutiquiba vqohic ma
-vtz cha chux cut hunahpu he vtz
-xqhacut xavi xare chvbaqui –
+<p>                 
+<lb n="1" />hupacha mi xabano mahabi
+<lb n="2" />chic chizilabic xaquichico –
+<lb n="3" />zoz chic cate cut xuquixbih
+<lb n="4" /><rs ana="XBALAMKE"><expan>que</expan> araroc mixcaya
+<lb n="5" />yan xcha cut chila cut xbe
+<lb n="6" />colana vi vholom chuvi hom
+<lb n="7" />xavi vtzih hun came vvcub
+<lb n="8" />came <expan>que</expan>quicot curi xibal –
+<lb n="9" />ba conohel rumal vholom
+<lb n="10" /><rs ana="JUN_JUNAJPU"> cate cut ta xutac
+<lb n="11" />chicop ronohel ziz, ae. rono –
+<lb n="12" />hel chuti chicop, nima chicop
+<lb n="13" />chacab xavi xare racabal
+<lb n="14" />ta xutzonoh cut <expan>que</expan>cha na
+<lb n="15" />qui tac pa ivecha chi huhunal
+<lb n="16" />are quixnutac vi chicam vl
+<lb n="17" />oc ri ivecha xqha cut xba –
+<lb n="18" />lan<expan>que</expan> chi<expan>que</expan> vtzbala xe
+<lb n="19" />qha cut ta xebec e camol rech
+<lb n="20" />ta xevl he cut conohel qo xa
+<lb n="21" />cumar rech xbevcama, qo
+<lb n="22" />xa tzalic xbevcama, qo xa a –
+<lb n="23" />bah xbevcama, qo xavleu
+<lb n="24" />xbe vcama halahoh <expan>que</expan>cha
+<lb n="25" />ri chicop, nimachicop quipu
+<lb n="26" />ca v xambe canahoc ri tziz coc
+<lb n="27" />xbe vcama cubalcatih chutzam
+<lb n="28" />capetic are cut xoc halvac<rs ana="PELOTA"><rs ana="PELOTA">hi –
+<lb n="29" />bal vholom hunahpu libahchi
+<lb n="30" />xcotox vbaca<rs ana="CHAMIYABAQ"> v vac<rs ana="PELOTA"><rs ana="PELOTA">h tzatz chi ahna –
+<lb n="31" />oh chicah xpevi arev quxcah
+<lb n="32" />huracan xulcoloc xuluculoc chi –
+<lb n="33" />ri pa zotziha macuatan xutzi –
+<lb n="34" />nic v vac<rs ana="PELOTA"><rs ana="PELOTA">h vtz chic xuxic xa
+<lb n="35" />uixare vchuuc hebel xvac<rs ana="PELOTA"><rs ana="PELOTA">hi –
+<lb n="36" />nic xavi xare xqhauic are
+<lb n="37" />cut ta chirah zaquiric chi
+<lb n="38" />cactarin vxe cah caxaqui –
+<lb n="39" />nachic ama xuchax ri vuch
+<lb n="40" />ve xqhari mama ta chixa –
+<lb n="41" />quinic cate ta chi<expan>que</expan>ea mar
+<lb n="42" />chic cahmul xaquin ri mama.
+<lb n="43" />caxaquinvvch caqha vi –
+<lb n="44" />nac vac<rs ana="PELOTA"><rs ana="PELOTA">amic. xa cu cac raxu –
+<lb n="45" />tzinic ta xutiquiba vqohic ma
+<lb n="46" />vtz cha chux cut hunahpu he vtz
+<lb n="47" />xqhacut xavi xare chvbaqui –
 
 
                 </div>
                 <div type="col" n="27.2.2" xml:lang="spa">
                 
-                
-                como ha sído esto, y ya nose mouía, sí –
-no q’ se estaba acostado, y luego se
-50 espanto el xbalanque. ay ay desdí –
-chado, esto díxo. y luego fueron apo –
-ner la cabeza al cementerío, q’así
-lo auía ordenado el hun came. y v –
-ucub came. y alegrandose todos los
-de el ínfierno por la cabeza de hun
-ahpu. y luego llamando a todos los
-animals al pízote, al puerco, a todos
-chícos , y grandes ala noche, y ala
-mañana les díxo os he llamado pa
-60 señalaros vuestra comída acada
-vno, esto les díxo xbalanque tomad
-vuestra comída. y díxeron ellos es –
-ta bíen y entonces se fueron a tomar
-cada vno posesíon de sucomída qdo
-todos se fueron amanífestar vnos
-tomaron la podredumbre, porcomí –
-da, otros yeruas, otros píedras, otros
-tíerra díferentes fueron las co mídas
-delos animals grandes, y chícos. y
-70 alo vltímo víno. y a vno q’era tortu –
-ga q’ venía dando bueltas atomar
-sucomída, y este se puso en lugar
-de la cabeza de hun ahpu, y luego
-le labraron los ojos, y muchíssímos
-sabíos víníeron de el çíelo, víno
-el corazon de el çíelo, y víno huracan.
-ala casa de los murçíelagos víníe –
-ron, no así nomas se acabo su cara
-estubo muy Buena, y salío muy her –
-80 mosa, y así mesmo hablo. y quando
-quería ya amanezer, q’seaclaraba
-el çíelo, le fue dícho al çopílote, otra. –
-uez señala, y lobsureze, y díxo el
-víejo estabíen, y luego se obscureçío
-quarto uezes señalo el víejo zopílo –
-te, y así dícen agora q’raya el zo –
-pílote quando quíere amanezer.
-y así estaua fresco quando se empezo
-ahazer, síestara bueno díxeron quan
-90 do sea hecho el hun ahpu, y díxo bíen
-estara, y así mesmo sera gueso su ca –
-beza, y fuehecho como sífuera su
+<p>                 
+<lb n="1" />como ha sído esto, y ya nose mouía, sí –
+<lb n="2" />no <abbr>q’</abbr>
+<expan>que</expan> se estaba acostado, y luego se
+<lb n="3" />espanto el <rs ana="XBALAMKE"><expan>que</expan>. ay ay desdí –
+<lb n="4" />chado, esto díxo. y luego fueron apo –
+<lb n="5" />ner la cabeza al cementerío, <abbr>q’</abbr>
+<expan>que</expan>así
+<lb n="6" />lo auía ordenado el hun came. y v –
+<lb n="7" />ucub came. y alegrandose todos los
+<lb n="8" />de el ínfierno por la cabeza de hun
+<lb n="9" />ahpu. y luego llamando a todos los
+<lb n="10" />animals al pízote, al puerco, a todos
+<lb n="11" />chícos , y grandes ala noche, y ala
+<lb n="12" />mañana les díxo os he llamado pa
+<lb n="13" />señalaros vuestra comída acada
+<lb n="14" />vno, esto les díxo <rs ana="XBALAMKE"><expan>que</expan> tomad
+<lb n="15" />vuestra comída. y díxeron <rs ana="HERO_TWINS"> es –
+<lb n="16" />ta bíen y entonces se fueron a tomar
+<lb n="17" />cada vno posesíon de sucomída qdo
+<lb n="18" />todos se fueron amanífestar vnos
+<lb n="19" />tomaron la podredumbre, porcomí –
+<lb n="20" />da, otros yeruas, otros píedras, otros
+<lb n="21" />tíerra díferentes fueron las co mídas
+<lb n="22" />delos animals grandes, y chícos. y
+<lb n="23" />alo vltímo víno. y a vno <abbr>q’</abbr>
+<expan>que</expan>era tortu –
+<lb n="24" />ga <abbr>q’</abbr>
+<expan>que</expan> venía dando bueltas atomar
+<lb n="25" />sucomída, y este se puso en lugar
+<lb n="26" />de la cabeza de <rs ana="JUN_JUNAJPU">, y luego
+<lb n="27" />le labraron los ojos, y muchíssímos
+<lb n="28" />sabíos víníeron de el çíelo, víno
+<lb n="29" />el corazon de el çíelo<rs ana="UKUX_KAJ">, y víno huracan.
+<lb n="30" />ala casa de los murçíelagos víníe –
+<lb n="31" />ron, no así nomas se acabo su cara
+<lb n="33" />estubo muy Buena, y salío muy her –
+<lb n="34" />mosa, y así mesmo hablo. y quando
+<lb n="35" /><expan>que</expan>ría ya amanezer, <abbr>q’</abbr>
+<expan>que</expan>seaclaraba
+<lb n="36" />el çíelo, le fue dícho al çopílote, otra. –
+<lb n="37" />uez señala, y lobsureze, y díxo el
+<lb n="38" />víejo estabíen, y luego se obscureçío
+<lb n="39" />quarto uezes señalo el víejo zopílo –
+<lb n="40" />te, y así dícen agora <abbr>q’</abbr>
+<expan>que</expan>raya el zo –
+<lb n="41" />pílote quando quíere amanezer.
+<lb n="42" />y así estaua fresco quando se empezo
+<lb n="43" />ahazer, síestara bueno díxeron quan
+<lb n="44" />do sea hecho el <rs ana="JUN_JUNAJPU">, y díxo bíen
+<lb n="45" />estara, y así mesmo sera gueso su ca –
+<lb n="46" />beza, y fuehecho como sífuera su
 
 
                 </div>

@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -41,103 +41,115 @@
             <div type="page" n="27.1" xml:id="xom-f27-s1">
                 <div type="col" n="27.1.1" xml:lang="quc">
                 
-                
-                varanel conohel qui quiqux chi–
-re macuxecamic xavi xere vtz
-quivach xeel vloc pabalami ha
-naquipa quichi e vinaquil apa
-qui xepe vi xeqha ri xibalba co –
-nohel
-Cate chic xeoc chupam eae
-hun ha chieae, xa vtuquel eae v
-pam maui xecatic rumal, xa
-10 bolol, xa tzimah vi xavi xere
-vtz chi quivach ta xzaquiric a
-reta cahauaxic huzuc ta que –
-camic chupan ri, queicou vi ma–
-ui quehe xavi cazach quiqux
-xibalba rumal.
-Xecoh chic chupan zotzin ha
-vtuquel zotz chupam chiha
-hun ha chi camazotz nimac chi –
-cop queheri cha quitzam quica –
-20 mizabal huzu chutzinic chopon
-chi quivach. xeqohe cu chiri chu –
-pam xa pa vvb xevar vi ma
-vi xetÿc rumal ri e qo pa ha
-chiri cut xquiya vi quib hun vi
-rumal hun chicama zotz chica –
-h xpevi carah cu mucum vloc
-chu tzam vvb xavi vcutbal rib
-ta xquibano rumal qo caqui –
-tzonoh vi quinaoh hun acab
-30 curi zotz quebuhuhic quilitz
-quilitz queqha, queqha hun –
-acab. xtane curi zcaquin ma –
-habi chic quezilobic ri zotz chi –
-ri cu chacal viri hun tzam v –
-vb. xchacuri xbalanque hu –
-nahpu cahanic pa vzaquiric
-cauilo cahanican labalo vila
-na xqha cut qui cu are carah
-mucum vloc chuchi vvb
-40 carah ril vloc vzaquiric ca –
-te puch ta xcupix vholom
-rumal cama zotz cupul chi
-canoc vnimal ri hun ahpu hu
-chalic ma mixzaquiric xqha –
-ri xbalanque mahabi chic chi –
-zilobic rihun ahpu hupacha
-maxaon mi xbec hunahpu
+<p>                 
+<lb n="1" />varanel conohel qui quiqux chi–
+<lb n="2" />re macuxecamic xavi xere vtz
+<lb n="3" />quivac<rs ana="PELOTA">h xeel vloc pabalami ha
+<lb n="4" />naquipa quichi e vinaquil apa
+<lb n="5" />qui xepe vi xeqha ri <rs ana="XIBALBA"> co –
+<lb n="6" />nohel
+<lb n="7" />Cate chic xeoc chupam eae
+<lb n="8" />hun ha chieae, xa vtu<expan>que</expan>l eae v
+<lb n="9" />pam maui xecatic rumal, xa
+<lb n="10" />bolol, xa tzimah vi xavi xere
+<lb n="11" />vtz chi quivac<rs ana="PELOTA">h ta xzaquiric a
+<lb n="12" />reta cahauaxic huzuc ta <expan>que</expan> –
+<lb n="13" />camic chupan ri, <expan>que</expan>icou vi ma–
+<lb n="14" />ui <expan>que</expan>he xavi cazach quiqux
+<lb n="15" /><rs ana="XIBALBA"> rumal.
+<lb n="16" />Xecoh chic chupan zotzin ha
+<lb n="17" />vtu<expan>que</expan>l zotz chupam chiha
+<lb n="18" />hun ha chi camazotz nimac chi –
+<lb n="19" />cop <expan>que</expan>heri cha quitzam quica –
+<lb n="20" />mizabal huzu chutzinic chopon
+<lb n="21" />chi quivac<rs ana="PELOTA">h. xeqohe cu chiri chu –
+<lb n="22" />pam xa pa vvb xevar vi ma
+<lb n="23" />vi xetÿc rumal ri e qo pa ha
+<lb n="24" />chiri cut xquiya vi quib hun vi
+<lb n="25" />rumal hun chicama zotz chica –
+<lb n="26" />h xpevi carah cu mucum vloc
+<lb n="27" />chu tzam vvb xavi vcutbal rib
+<lb n="28" />ta xquibano rumal qo caqui –
+<lb n="29" />tzonoh vi quinaoh hun acab
+<lb n="30" />curi zotz <expan>que</expan>buhuhic quilitz
+<lb n="31" />quilitz <expan>que</expan>qha, <expan>que</expan>qha hun –
+<lb n="32" />acab. xtane curi zcaquin ma –
+<lb n="33" />habi chic <expan>que</expan>zilobic ri zotz chi –
+<lb n="34" />ri cu chacal viri hun tzam v –
+<lb n="35" />vb. xchacuri <rs ana="XBALAMKE"><expan>que</expan> hu –
+<lb n="36" />nahpu cahanic pa vzaquiric
+<lb n="37" />cauilo cahanican labalo vila
+<lb n="38" />na xqha cut qui cu are carah
+<lb n="39" />mucum vloc chuchi vvb
+<lb n="40" />carah ril vloc vzaquiric ca –
+<lb n="41" />te puch ta xcupix vholom
+<lb n="42" />rumal cama zotz cupul chi
+<lb n="43" />canoc vnimal ri <rs ana="JUN_JUNAJPU"> hu
+<lb n="44" />chalic ma mixzaquiric xqha –
+<lb n="45" />ri <rs ana="XBALAMKE"><expan>que</expan> mahabi chic chi –
+<lb n="46" />zilobic ri<rs ana="JUN_JUNAJPU"> hupacha
+<lb n="47" />maxaon mi xbec hunahpu
 
 
                 </div>
                 <div type="col" n="27.1.2" xml:lang="spa">
                 
-                
-                todos, y estaban alegres de aquella, mas
-no murieron. y así mesmo salíeron bu –
-50 enos de la casa de los tígres. y díxeron
-los de el ínfíerno: q’ genero de hombres
-soys, de adonde venístís?
-yluego los metíeron en una casa de
-fuego, donde solo auía fuego, y no fu –
-eron abrasados por el fuego, síno q’her –
-mosos, y Buenos quando amaneçío, y
-esto querían q’allí luego muríesen
-dentro de el fuego; pero lo sobrepu –
-60 jaron así mesmo. y con esto estaban
-desesperados los de el ínfíerno
-y luego otra vez en la casa de los mu –
-rçíelagos, q’no auía mas q’murçíe –
-lagos dentro, vna casa de murçíe –
-lagos tomadores grandes brutos, así
-como chaquítzan, era su matanza.
-q’luego pereçían los q’llegan asu pre
-sençía. y allí estuvíeron dentro; pe –
-70 ro durmíeron dentro desus çerua –
-tanas, y no fueron mordídos por los
-muerçíelagos, y allí se estuuíeron por
-vn grande murçíelago, q’vino de
-el çíelo, y se manifesto quando fue
-hecho por el y tomaron consejo, toda
-la noche estaban rebolenado, y de
-çían. quílítz, auílítz. así estuuíeron
-díçíendo toda la noche. y parando
-todos, ya ní vno de los murçíelagos
-80 se mouía, estauan pegados ala pun
-ta de la zeruatana y díxo xbalanq’
-a hun ahpu. ya aura quízas amane—
-çído, veamos, y queríendo ver sa
-co la cabeza ala voca dela çerua –
-tana, quería ver sí auía amane—
-çído, y luego fue cortada la cabe –
-za por el qamazotz. quedando solo
-el cuerpo de hun ahpu. 464. díxo el otro
-q’ay a amanecido dixo xbalanq’
-90 pero nose meneaba hunahpu. q’
-hasído esto díxo sí seacaído hun
-ahpu
+<p>                 
+<lb n="32" />todos, y estaban alegres de a<expan>que</expan>lla, mas
+<lb n="32" />no murieron. y así mesmo salíeron bu –
+<lb n="32" />enos de la casa de los tígres. y díxeron
+<lb n="32" />los de el ínfíerno: <abbr>q’</abbr>
+<expan>que</expan> genero de hombres
+<lb n="32" />soys, de adonde venístís?
+<lb n="32" />yluego los metíeron en una casa de
+<lb n="32" />fuego, donde solo auía fuego, y no fu –
+<lb n="32" />eron abrasados por el fuego, síno <abbr>q’</abbr>
+<expan>que</expan>her –
+<lb n="32" />mosos, y Buenos quando amaneçío, y
+<lb n="32" />esto <expan>que</expan>rían <abbr>q’</abbr>
+<expan>que</expan>allí luego muríesen
+<lb n="32" />dentro de el fuego; pero lo sobrepu –
+<lb n="32" />jaron así mesmo. y con esto estaban
+<lb n="32" />desesperados los de el ínfíerno
+<lb n="32" />y luego otra vez en la casa de los mu –
+<lb n="32" />rçíelagos, <abbr>q’</abbr>
+<expan>que</expan>no auía mas <abbr>q’</abbr>
+<expan>que</expan>murçíe –
+<lb n="32" />lagos dentro, vna casa de murçíe –
+<lb n="32" />lagos tomadores grandes brutos, así
+<lb n="32" />como chaquítzan, era su matanza.
+<lb n="32" /><abbr>q’</abbr>
+<expan>que</expan>luego pereçían los <abbr>q’</abbr>
+<expan>que</expan>llegan asu pre
+<lb n="32" />sençía. y allí estuvíeron dentro; pe –
+<lb n="32" />ro durmíeron dentro desus çerua –
+<lb n="32" />tanas, y no fueron mordídos por los
+<lb n="32" />muerçíelagos, y allí se estuuíeron por
+<lb n="32" />vn grande murçíelago, <abbr>q’</abbr>
+<expan>que</expan>vino de
+<lb n="32" />el çíelo, y se manifesto quando fue
+<lb n="32" />hecho por el y tomaron consejo, toda
+<lb n="32" />la noche estaban rebolenado, y de
+<lb n="32" />çían. quílítz, auílítz. así estuuíeron
+<lb n="32" />díçíendo toda la noche. y parando
+<lb n="32" />todos, ya ní vno de los murçíelagos
+<lb n="32" />se mouía, estauan pegados ala pun
+<lb n="32" />ta de la zeruatana y díxo <rs ana="XBALAMKE"><abbr>q’</abbr>
+<expan>que</expan>
+<lb n="32" />a <rs ana="JUN_JUNAJPU">. ya aura quízas amane—
+<lb n="32" />çído, veamos, y <expan>que</expan>ríendo ver sa
+<lb n="32" />co la cabeza ala <rs ana="WOK">a dela çerua –
+<lb n="32" />tana, <expan>que</expan>ría ver sí auía amane—
+<lb n="32" />çído, y luego fue cortada la cabe –
+<lb n="32" />za por el qamazotz. <expan>que</expan>dando solo
+<lb n="32" />el cuerpo de <rs ana="JUN_JUNAJPU">. 464. díxo el otro
+<lb n="32" /><abbr>q’</abbr>
+<expan>que</expan>ay a amanecido dixo <rs ana="XBALAMKE"><abbr>q’</abbr>
+<expan>que</expan>
+<lb n="32" />pero nose meneaba hunahpu. <abbr>q’</abbr>
+<expan>que</expan>
+<lb n="32" />hasído esto díxo sí seacaído hun
+<lb n="32" />ahpu
 
 
                 </div>

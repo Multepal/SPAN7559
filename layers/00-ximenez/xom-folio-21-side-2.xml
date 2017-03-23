@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,175 @@
             <div type="page" n="21.2" xml:id="xom-f21-s2">
                 <div type="col" n="21.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                <lb n="1" />chire cho nim xquicot quiquxtav
+                <lb n="2" />xquitao vꜩihel quic taxubÿh
+                <lb n="3" />cho ta xquiya cut recha cho are
+                <lb n="4" />curi recha ri ixim zaquilic, qui – 
+                <lb n="5" />nac, pec, cacou, arecut avech
+                <lb n="6" />ri uve naquila cuvvn chimezcu – 
+                <lb n="7" />tahinac auech cut chacuxu. xu  
+                <lb n="8" />qhax curicho cumal <rs ana="JUNAJPU">hun ahpu</rs>
+                <lb n="9" /><rs ana="XBALAMKE">xbalanque</rs>. vꜩbala ixqaholab
+                <lb n="10" />naquila cu quinvvchah vve
+                <lb n="11" />quirilri ivatit xghacut maui 
+                <lb n="12" />chiꜩac aqux oh qolic cohnohi —
+                <lb n="13" />nic goruqhaxic ricatit, xahu
+                <lb n="14" />zu cacaya acanoc xiquin ha ta 
+                <lb n="15" />cuho co apanoc huzu cat opon
+                <lb n="16" />chiri xequel vi chiri cut caquil 
+                <lb n="17" />vi putumha xapa cati caquil
+                <lb n="18" />vi xeqhacut chire cho, taxqui –
+                <lb n="19" />pixabah hunacab xcam qui na –
+                <lb n="20" />oh ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> qui
+                <lb n="21" />cutiquil quih xeoponic.
+                <lb n="22" rend="indent"/><hi rend="large">M</hi>acu calah richo cucaam
+                <lb n="23" />taxeoponic hunriyacalic xoc
+                <lb n="24" />paha, huncu xoc xiquinha libah 
+                <lb n="25" />chi xuya acanoc richo ta xqui- 
+                <lb n="26" />ꜩonoh cut quiva chire catit xa
+                <lb n="27" />chicutu cati cacaraihri cutum ic ix
+                <lb n="28" />catit xeqha cut. cate cut xcut qui
+                <lb n="29" />ti hun lac vvaal xtiquibax chiquivach
+                <lb n="30" />xavi quimichbal re catit quichuchpu – 
+                <lb n="31" />ch xquiꜩahizah cuha paquebalqui
+                <lb n="32" />ꜩih chaquih cachi chicama cu quia
+                <lb n="33" />xeqha chire catit ve xqha cut ta 
+                <lb n="34" />xbec are cut queva canoc macu qui 
+                <lb n="35" />ꜩih ta quenumic xaqui moyvachibal
+                <lb n="36" />xquibano ta xquil cut ri cho chupan
+                <lb n="37" />cutum ic colon vloc richo chirih
+                <lb n="38" />quic xequelvi puvi ha taxquilo pa
+                <lb n="39" />cutumic ta xquitac cut b
+                <!-- Not sure how to show this. OSU writes: "The h is overwritten with black ink in an unknown hand; all transcriptions say hun." 
+                "La h está sobrescrita con tinta negra; todas las transcripciones dicen hun."-->
+                <corr>
+                	<hi rend="handwriting;color:black">h</hi>
+                	</corr>un xan ri
+                <lb n="40" />chicop rixan queheri uz xopon chi 
+                <lb n="41" />a. are cu xvoro vvach quebal a –
+                <lb n="42" />tit xa yacal ha chel chuvach vque
+                <lb n="43" />bal chutiho xma chiꜩapitah vi v
+                <lb n="44" />vach quebal. na quipa mi xuban ri
+                <lb n="45" />catit ohhizabah chiya cohvꜩin rumal
+                <lb n="46" />chaquih chi xeqhachic chire qui
+                <lb n="47" />chuch ta xquitac vbic. catecut xu
+                </p>
                 </div>
                 <div type="col" n="21.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" />tros padres. y díxeron los muchachos: de çíer
+                <lb n="2" />to lo sabeís vos? y sealegraron mucho quando
+                <lb n="3" />oyeron la notíçía de la bola de vle, y auíen –
+                <lb n="4" />do dícho el raton le señalaron sucomída al 
+                <lb n="5" />raton. esta sera tu comída, el maís, las pepí –
+                <lb n="6" />tas de el chíle, los fríxoles, el pataste, el cacao,
+                <lb n="7" />esto es vuestro, y sí algo esta guardado, oluída – 
+                <lb n="8" />do, también es vuestro comeldo, esto le fue dí –
+                <lb n="9" />cho al raton, por <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. esta
+                <lb n="10" />bíen muchachos, y sí me ve vuestra abuela, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>
+                <lb n="11" />me deçis? díxo el raton. no te aflíxas 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice> noso –
+                <lb n="12" />tros estamos aquí, y aduertíremos lo 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se ha
+                <lb n="13" />de haçer. ay
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>le dígamos a <rs ana="IXMUKANE">nuestra abuela</rs>.
+                <lb n="14" />luego 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>te pongamos en la esquína de la
+                <lb n="15" />casa en llegando llegate luego donde
+                <lb n="16" />esta colgado, y allí veremos el chíle molido
+                <lb n="17" />para nuestra comída, y veremos. díxeron
+                <lb n="18" />al raton y entonçes auísaron ala noche, y
+                <lb n="19" />consultaron <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>, y lle-
+                <lb n="20" />garon al medío día. 
+                <lb />
+                </p>
+                <p>
+                <lb n="21" />y el raton lo traían oculto, y llegando el vno
+                <lb n="22" />entro derecho en casa, y el otro ala esquína
+                <lb n="23" />y luego al punto levanto en alto al raton
+                <lb n="24" />y lo puso allí. y luego pídíeron su comida
+                <lb n="25" />a <rs ana="IXMUKANE">su abuela</rs>, moled nuestra comída,
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>dese –
+                <lb n="26" />amos chílmol abuela esto díxeron, y luego
+                <lb n="27" />se molío su chíle, y se les puso delante vn
+                <lb n="28" />cagete de caldo, pero esto era para enga –
+                <lb n="29" />ñar a <rs ana="IXMUKANE">la víeja</rs>, y a <rs ana="IXKIK">su madre</rs>, y agotaron el
+                <lb n="30" />agua 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>estaba en la tínaja, y dígeron, nos
+                <lb n="31" />estamos muríendo desed andad traed a –
+                <lb n="32" />gua le díxeron a<rs ana="IXMUKANE">la abuela</rs>, bíen, díxo ella
+                <lb n="33" />y entonçes se fue ella por el agua. y <rs ana="HERO_TWINS">ellos</rs> que
+                <lb n="34" />daban comiendo, pero ala verdad no tenían
+                <lb n="35" />gana, síno
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>era solo engaño, el
+                	<choice>
+                		<abbr>q'</abbr>
+                		<expan>que</expan>
+                		</choice>haçían, y en
+                <lb n="36" />tonçes víeron al raton en el chílmol, y estaba li –
+                <lb n="37" />brado elraton en el chíle
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>estaba colgado
+                <lb n="38" />en el tapanco, y entonces lo víeron en el chíle.
+                <lb n="39" />ó chílmol. y embíaron entonçes un anímale –
+                <lb n="40" />jo llamado: xan.   
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice> es como mosquito, y fue
+                <lb n="41" />al agua, ó arroyo y horado la tínaja de el
+                <lb n="42" />agua de <rs ana="IXMUKANE">la víeja</rs>, ysesalía el agua de la tí –
+                <lb n="43" />naja. probaba, y no se podia zerrar el hoyo de 
+                <lb n="44" />la tinaja. 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>hara <rs ana="IXMUKANE">nuestra abuela</rs>, díxeron asu
+                <lb n="45" /><rs ana="IXKIK">
+                <choice>
+                	<abbr type="superscription">Me.</abbr>
+                	<expan>Madre</expan>
+                	</choice>
+                	</rs>
+                	<choice>
+                		<abbr>q’</abbr>
+                		<expan>que</expan>
+                		</choice>nos secamos de sed, andad 
+                			<choice>
+                			<abbr type="superscription">Sa.</abbr>
+                			<expan>Señora</expan>
+                			</choice>auerlo, y 
+                <lb n="46" />la embíaron. y luego corto el raton, royendo
+                </p>
                 </div>
             </div>
         </body>

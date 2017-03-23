@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Karina A. Baptista</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,10 +40,108 @@
         <body>
             <div type="page" n="13.2" xml:id="xom-f13-s2">
                 <div type="col" n="13.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
+                	<p>
+                		<lb n="1"/>cab chipe naipuch riqui quiqque
+                			<note place="margin-right" type="pagination"><num rend="large">13</num></note>
+                		<lb n="2"/>qha ahauab, quixqha ta quixopon –
+                		<lb n="3"/>oc xevqhaxic ri zamahel are cut
+                		<lb n="4"/>qui zamahel ri tucur, chabi tucur,
+                		<lb n="5"/>huracan tucur, caquix tucur, ho –
+                		<lb n="6"/>lom tucur quevqhaxic vzama –
+                		<lb n="7"/>hel xibalba are ri qhabi tucur que –
+                		<lb n="8"/>heri qhab. xa copquic, are curi hu –
+                		<lb n="9"/>racan tucur xa hun racan qo v
+                		<lb n="10"/>xic. are curi caquix tucur eae
+                		<lb n="11"/>rih qo v xic, are chi naipuch ri
+                		<lb n="12"/>holom tucur xa vtuquel vholom
+                		<lb n="13"/>mahabi racan xa v xic qolic
+                		<lb n="14"/>e cahib ri zamahel rahpop achi –'
+                		<lb n="15"/>hab quecalem ta xepe cut chila
+                		<lb n="16"/>chi xibalba libah chi xevlic e
+                		<lb n="17"/>cu tacal chuvi hom quechaah cut
+                		<lb n="18"/>hun hunahpu vvcub hun ahpu
+                		<lb n="19"/>pahom ri nim xob carchah chu –
+                		<lb n="20"/>qhaxic e cu tacatoh ri tucur chuvi
+                		<lb n="21"/>hom ta xquizac cut quitzih xavi
+                		<lb n="22"/>xere vcholic vtzih hun came, v –
+                		<lb n="23"/>vcub came ahal puh, ahal cana
+                		<lb n="24"/>chamia bac, chamia holom, xi-
+                		<lb n="25"/>quiripat, cuchumaquic, ahal –
+                		<lb n="26"/>mez, ahal tocob, xic patan qui –
+                		<lb n="27"/>bi conohel ahauab xtzac qui –
+                		<lb n="28"/>tzih cumal tucur. maquitzih ca –
+                		<lb n="29"/>qha ahau hun came, vvcub ca –
+                		<lb n="30"/>me? quitzih bala queqha ohna
+                		<lb n="31"/>cu achbilai ive. chicam vloc ri
+                		<lb n="32"/>ronohel quetzabal queqha aha–
+                		<lb n="33"/>uab, vtz bala cohiuoiobeh na
+                		<lb n="34"/>ohna capixabah canna ca chuch
+                		<lb n="35"/>xeqha cut xebe cut chicochoch
+                		<lb n="36"/>xeqha cut chire qui chuch xca –
+                		<lb n="37"/>minac oc qui cahau hona ixca
+                		<lb n="38"/>chuch xa et culic mi xul v zama –
+                		<lb n="39"/>hel ahau camol que, quepetoc
+                		<lb n="40"/>caqha cut queqha tacol que x –
+                		<lb n="41"/>chicanah cu cana va ca quic
+                		<lb n="42"/>xeqha cut cate xbe quixima
+                		<lb n="43"/>canoc puvi ha qohul na cate
+                		<lb n="44"/>chica choconizah chic xa quixtzu –
+                		<lb n="45"/>an oc, xa pu quixbixan oc, quix
+                		<lb n="46"/>siban oc, quixcoton oc, chi mecoh
+                		<lb n="47"/>cochoch chimecoh puch vqux
+                	</p>
                 </div>
                 <div type="col" n="13.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+                	<p>
+                		<1b n="1"/>traigan tambien el vle, o pelota dezildes q’lo
+                		<lb n="2"/>dízen los SSes así les fue dicho alos mensage –
+                		<lb n="3"/>ros, y los mensageros eran, vn tecolote, y
+                		<lb n="4"/>vna saeta tecolote, vntecolote de vna pier –
+                		<lb n="5"/>na, y vna guacamaya tecolote .yestos e –
+                			<note place="margin-right"><del rend="scribble">yuntecolo<add place="below">tecabeza.</add>–</del></note>
+                		<lb n="6"/>ran los nombres de los mensageros de el in –
+                		<lb n="7"/>fierno. este q’se llamaba saeta tecolote,
+                		<lb n="8"/>era como vna flecha. y esta alerta. elq’se
+                		<lb n="9"/>llamaba de vna píerna, solo vna tenía, y te
+                		<lb n="10"/>nía alas. elq’ se llamaba: guacamaya te
+                		<lb n="11"/>colote, tenía colorada la espalda, y tenía
+                		<lb n="12"/>alas. elq’se llamaba cabeza tecolote, no te –
+                		<lb n="13"/>nía mas q’la cabeza, no tenía pies, síno solo
+                		<lb n="14"/>alas. estos cuatro mensageros eran se –
+                		<lb n="15"/>ñores prinzípales. Luego víníeron al
+                		<lb n="16"/>mensage desde el ínfíerno, y en un íns –
+                		<lb n="17"/>tante llegaron derechos al atrío a do es –
+                		<lb n="18"/>taban jugando ala pelota hunhunahpu
+                		<lb n="19"/>y vvcub hunahpu, y el atrio se llamaba
+                		<lb n="20"/>ním xob carchah. y los cuatro tecolotes em –
+                		<lb n="21"/>biados díeron su mensage y embaxada
+                		<lb n="22"/>de huncame, y vvcub            came, de
+                		<lb n="23"/>ahal puh, de ahal eanía, de chamíabac, y
+                		<lb n="24"/>chamía holom, xíquíripat cuchumaquíc,
+                		<lb n="25"/>y ahalmez, ahal tocob, y xíc. y patan, y
+                		<lb n="26"/>estos eran los nombres de ellos. y auíen
+                		<lb n="27"/>do dada el recado díxeron ellos. por
+                		<lb n="28"/>ventura es así q’lo dize el Sor came, y v –
+                		<lb n="29"/>vcubcame? escíerto díxeron ellos, y no –
+                		<lb n="30"/>sotros os hemos de acompañar. traed
+                		<lb n="31"/>todos los instrumentos q’así lo dizen los SSes
+                		<lb n="32"/>esta bíen dixeron ellos aguardadnos
+                		<lb n="33"/>míentras vamos a avísar a nuestra ma –
+                		<lb n="34"/>dre. y entonzes se fueron asu casa, y le
+                		<lb n="35"/>díxeron asu madre, porq’ ya estaba mu –
+                		<lb n="36"/>erto su Pe. madre nosotros vamos, pero
+                		<lb n="37"/>en vano ha deser nuestraída, víno el men –
+                		<lb n="38"/>sagero de los SSes, por nosotros, q’dízen
+                		<lb n="39"/>los SSes.q’vamos. este vle, opelota, y lo –
+                		<lb n="40"/>fueron a colgar en el tabanco de la
+                		<lb n="41"/>casa. y en bolbiendo díxeron bolbere –
+                		<lb n="42"/>mos a jugar. y sus híjos hunbatz, y hun –
+                		<lb n="43"/>choven lesdixeron, vosotros solo en
+                		<lb n="44"/>treteneis en tocar la flauta, encantar
+                		<lb n="45"/>en pintar, en labrar esculturas. esta –
+                		<lb n="46"/>is aquí, calentad nuestra casa, y ca –
+                		<lb n="47"/>lentad el corazon de vuesstra abuela.
+                	</p>
                 </div>
             </div>
         </body>

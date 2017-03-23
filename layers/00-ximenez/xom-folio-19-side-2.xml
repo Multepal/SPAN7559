@@ -44,7 +44,7 @@
                 <p>
                 <!-- error in line 1 is because of name that begins on previous side -->
                 <lb n="1" />ahpu</rs> coy vbi zu ta xeoc cu vloc ri
-                <lb n="2" /><rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun chouen</rs> quexahouic
+                <lb n="2" /><rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs> quexahouic
                 <lb n="3" />ta xevlic cate puch ta xmucun ri 
                 <lb n="4" />atit iꜩel qui vach xril atit ta
                 <lb n="5" />xꜩeenic maui xucui vꜩe atit.
@@ -54,7 +54,7 @@
                 <lb n="9" />tit xa cah mul xchicatiho xa
                 <lb n="10" />oxmul chic xquecaziquih pazu  
                 <lb n="11" />pa bix quichicuyu iꜩe catiha
-                <lb n="12" />china xeqhachic <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xba –
+                <lb n="12" />china xeqhachic <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xba –
                 <lb n="13" />lanque</rs> cate xezuan chic, ta xe –
                 <lb n="14" />oc chi vloc quexahou chic xe
                 <lb n="15" />vl chic chi vnicahal vva ha xa
@@ -68,7 +68,7 @@
                 <lb n="23" />be<hi rend="bold">c</hi>hic patac huiub. naquipa
                 <lb n="24" />qui chicabano ixcatit xere chiva
                 <lb n="25" />roxmulchic xchicatiho xqha –
-                <lb n="26" />ri <rs ana="HUNAHPU">hun ahpu</rs> <rs ana="XBALANQUE">xbalanque</rs>. xezuan
+                <lb n="26" />ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>. xezuan
                 <lb n="27" />chic xevl chic quexahouic. xa
                 <lb n="28" />cu chucuiuca vꜩe ri catit xe
                 <lb n="29" />acan cu vloc chucatanah ꜩac
@@ -89,14 +89,15 @@
                 <lb n="44" />oh qolic oh ivÿ xachilocoh ri ca
                 <lb n="45" />chuch ixcatit quenabax ri caꜩ
                 <lb n="46" />ta chuxoc mi xeqobic mi pu xebi –
-                <lb n="47" />nahic <rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun chouen</rs>
+                <lb n="47" />nahic <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>
+                </p>
                 </div>
                 <div type="col" n="19.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
                 <p>
-                <lb n="1" /><rs ana="HUNAHPU">hun ahpu</rs> coy (vn tírador míco) y tocando
-                <lb n="2" />llamando, a <rs ana="HUN_BATZ">hun baꜩ</rs>, y <rs ana="HUN_CHOUEN">hun chouen</rs>, víní –
-                <lb n="3" />eron bailando, y víendo <rs ana="XMUCANE">la víeja</rs> los ma –
+                <lb n="1" /><rs ana="JUNAJPU">hun ahpu</rs> coy (vn tírador míco) y tocando
+                <lb n="2" />llamando, a <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>, víní –
+                <lb n="3" />eron bailando, y víendo <rs ana="IXMUKANE">la víeja</rs> los ma –
                 <lb n="4" />los gestos 
                 <choice>
                 	<abbr>q’</abbr>
@@ -126,7 +127,7 @@
                 <lb n="9" />baremos, y así solo otras tres vezes les lla –
                 <lb n="10" />maremos, con la flauta, y con el canto, su –
                 <lb n="11" />fríd la ríssa. eá probed otra vez les fue
-                <lb n="12" />dícho a <rs ana="HUNAHPU">hun ahpu</rs>, y <rs ana="XBALANQUE">xbalanque</rs>; y luego
+                <lb n="12" />dícho a <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>; y luego
                 <lb n="13" />tocaron otra vez sus flautas, y luego bol
                 <lb n="14" />bíeron al medío de la casa, y así mesmo
                 <lb n="15" />hacían monerías, con
@@ -134,7 +135,7 @@
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>prouocaban a
-                <lb n="16" />ríssa a<rs ana="XMUCANE">la víeja</rs>, y luego serío <rs ana="XMUCANE">la víeja</rs>
+                <lb n="16" />ríssa a<rs ana="IXMUKANE">la víeja</rs>, y luego serío <rs ana="IXMUKANE">la víeja</rs>
                 <lb n="17" />por
                 <choice>
                 	<abbr>q’</abbr>
@@ -149,25 +150,25 @@
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
-                	</choice><rs ana="XMUCANE">la víeja</rs> se reya, y luego se
+                	</choice><rs ana="IXMUKANE">la víeja</rs> se reya, y luego se
                 <lb n="21" />fueron otra vez alos montes; 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>hemos de
-                <lb n="22" />haçer <rs ana="XMUCANE">abuela</rs> mía, solo esta otra terce –
-                <lb n="23" />ra vez. probaremos, dixo el <rs ana="HUNAHPU">hun ahpu</rs>
-                <lb n="24" />y <rs ana="XBALANQUE">xbalanque</rs>. y tocaron otra vez, y bol –
-                <lb n="25" />bieron baílando sufra vsted <rs ana="XMUCANE">abuela</rs> la
+                <lb n="22" />haçer <rs ana="IXMUKANE">abuela</rs> mía, solo esta otra terce –
+                <lb n="23" />ra vez. probaremos, dixo el <rs ana="JUNAJPU">hun ahpu</rs>
+                <lb n="24" />y <rs ana="XBALAMKE">xbalanque</rs>. y tocaron otra vez, y bol –
+                <lb n="25" />bieron baílando sufra vsted <rs ana="IXMUKANE">abuela</rs> la
                 <lb n="26" />rísa. y subíeron corríendo sobre el edífí –
                 <lb n="27" />çío; estaban muy colorados los ojos, y sus vo –
                 <lb n="28" />cas ahozícadas, y se estaban sobandose
-                <lb n="29" />la cara, y víendo estas figuras su<rs ana="XMUCANE">abuela</rs> se
+                <lb n="29" />la cara, y víendo estas figuras su<rs ana="IXMUKANE">abuela</rs> se
                 <lb n="30" />tendío derrísa, y nunca mas les víeron sus
-                <lb n="31" />caras por la ríssa de <rs ana="XMUCANE">la víeja</rs>, solo esta vez
+                <lb n="31" />caras por la ríssa de <rs ana="IXMUKANE">la víeja</rs>, solo esta vez
                 <lb n="32" />les llamaremos, y la quarta vez xerío, y no
                 <lb n="33" />víníeron la quarta vez. y luego al punto
-                <lb n="34" />se fueron al monte y dixeron a<rs ana="XMUCANE">la víeja</rs>
+                <lb n="34" />se fueron al monte y dixeron a<rs ana="IXMUKANE">la víeja</rs>
                 <lb n="35" />ya hemos hecho dílígençía, y no víníeron
                 <lb n="36" />auíendo los llamado, no te de pena 
                 <choice>
@@ -176,13 +177,13 @@
                 	</choice>aquí
                 <!-- How to mark up the half-brothers? Hun Baꜩ y Hun Chouen -->
                 <lb n="37" />estamos nosotros, tus níetos, y te queremos
-                <lb n="38" />a <rs ana="XMUCANE">vos</rs> ya nuestra <rs ana="XBAQUIYALO">Madre</rs>, 
+                <lb n="38" />a <rs ana="IXMUKANE">vos</rs> ya nuestra <rs ana="IXKIK">Madre</rs>, 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>nosotros queda –
                 <lb n="39" />mos en memoría, y en lugar de nuestros
-                <lb n="40" />hermanos llamados <rs ana="HUN_BATZ">hunbaꜩ</rs>, y <rs ana="HUN_CHOUEN">huncho –
+                <lb n="40" />hermanos llamados <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho –
                 <lb n="41" />uen</rs>.
                 <lb />
                 <lb />
@@ -190,7 +191,6 @@
                 <lb />
                 <lb />
                 <lb />
-                <!-- Is this how we should show that the Spanish side ends with blank space? -->
                 </p>
                 </p>
                 </div>

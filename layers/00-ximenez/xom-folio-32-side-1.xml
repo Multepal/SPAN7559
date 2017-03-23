@@ -40,7 +40,8 @@
         <body>
             <div type="page" n="32.1" xml:id="xom-f32-s1">
                 <div type="col" n="32.1.1" xml:lang="quc">
-                    <lb n="1" />chinel chimac chilabal; enaipu 
+                <p>
+                	<lb n="1" />chinel chimac chilabal; enaipu 
                     <lb n="2" />ah muculic qux, e quecail za -
                     <lb n="3" />quiilah moxvach, ahlaꜩab que
                     <lb n="4" />vqhaxic. chixeon quivach que
@@ -49,7 +50,7 @@
                     <lb n="7" />chi cahavarem xuxic. are
                     <lb n="8" />xebanou ri xhun ahpu, xba
                     <lb n="9" />lan que . are cut coquic cazi –
-                    <lb n="10" />quin ri catit chuvach ri ahau
+                    <lb n="10" />quin ri catit chuvach ri ah<del rend="scribble">au</del>
                     <lb n="11" />ri xquitic canoc xpevtux ri
                     <lb n="12" />ah cate xchaquih chic are
                     <lb n="13" />cut taxecat pachoh taxpe
@@ -60,9 +61,9 @@
                     <lb n="18" />ri chu camul xpe vtux ri ah
                     <lb n="19" />ta xcabauilax rumal catit ta
                     <lb n="20" />xubinatizah cut nicah ha, ni
-                    <lb n="21" />cah bi choc. cazamah chatam
-                    <lb n="22" />vleu vbi xuxic are cut xu –
-                    <lb n="23" />binaah vi nicah ha, nicah bichoc
+                    <lb n="21" />cah bi choc. <u>cazamah</u> <u>chatam</u>
+                    <lb n="22" /><u>vleu</u> vbi xuxic are cut xu –
+                    <lb n="23" />binaah vi <u>nicah</u> ha, <u>nicah</u> bichoc
                     <lb n="24" />rumal xa chunicahal vpa co-
                     <lb n="25" />choch xquitic ah. are chi cu
                     <lb n="26" />xubinaah vi chatam vleu
@@ -78,79 +79,71 @@
                     <lb n="36" />xquil chicut vvachri qui cahau
                     <lb n="37" />chila chi xibalba. xqhau chic qui
                     <lb n="38" />cahau chiquetax xquichac xi –
-                    <lb n="39" />Vacute vviquic chic qui ca –
-                    <lb n="40" />hau cumal are xquivic ri vvcub
-                    <lb n="41" />hunahpu chila xbe quivica vi chi
-                    <lb n="42" />pucbal chah xavi xere vvach x –
-                    <lb n="43" />rah vxic xꜩonox cut chire vbi
-                    <lb n="44" />ronohel vchi vꜩam vbac vvach
-                    <lb n="45" />xuric nabe vbi xacu zcaquin
-                    <lb n="46" />chic xchatahvi xere maui xu –  
+                    <lb n="39" />balba. <!--somehow left out of flat, added by me-->
+                    </p>
+                    <p>
+                    <lb n="40" rend="indent">Vacute vviquic chic qui ca –
+                    <lb n="41" />hau cumal are xquivic ri vvcub
+                    <lb n="42" />hunahpu chila xbe quivica vi chi
+                    <lb n="43" />pucbal c<del rend="scribble"></del>hah xavi xere vvach x –<!--chah written over c*hah, not sure what was crossed out-->
+                    <lb n="44" />rah vxic xꜩonox cut chire vbi
+                    <lb n="45" />ronohel vchi vꜩam vbac vvach
+                    <lb n="46" />xuric nabe vbi xacu zcaquin
+                    <lb n="47" />chic xchatahvi xere maui xu –  
                 </div>
                 <div type="col" n="32.1.2" xml:lang="spa">
+                	<note rend="margin-right">
+                	<num rend="large">32</num>
+                	<p>
                     <lb n="1" />res de las culpas, y pecados y eran tam –
                     <lb n="2" />bíen de doblado corazon, y traídores, ím-
                     <lb n="3" />bídíosos, y los oprímídores, eran díchos,
-                    <lb n="5" />y carleaban sus caras; y guerreaban. y
-                    <lb n="6" />así fueron perdídos, y cajo su grandeza
-                    <lb n="7" />y ya no fue grande su ímperío. y esto es
-                    <lb n="8" />lo q’híçíeron xhun ahpu, y xbalanque.
-                    <lb n="9" />y esto es lo q’ lloran
-                    <lb n="10" />n y lamentan
-                    <lb n="11" />n aquella
-                    <lb n="12" />nuestra abuela delante de aquellas ca –
-                    <lb n="13" />ñas q’dexaron sembradas, q’retoño, y
-                    <lb n="14" />luego seseco quando fueron quema –
-                    <lb n="15" />dos en la hoguera, y quando otra vez
-                    <lb n="16" />retoñaron las cañas, entonçes quemo
-                    <lb n="18" />copal aquella su abuela delante de
-                    <lb n="19" />las cañas, en memoría desus níetos.
-                    <lb n="20" />y por esto se allegro mucho su abuela
-                    <lb n="21" />quando segunda vez retoñaron las
-                    <lb n="22" />cañas. y entonçes empezo la ydola –
-                    <lb n="23" />tría por su abuela, y entonçes fue lla –
-                    <lb n="24" />mada la mítad de la casa. y la mítad
-                    <lb n="25" />de el çentro. o remolino. y llamase
-                    <lb n="26" />chatam vleu. tíerra hecha cama. y así
-                    <lb n="27" />sellamo el medío de la casa, y del re
-                    <lb n="29" />molino por ellos, porq’ en el medío de
-                    <lb n="30" />la casa fueron sembradas las cañas. y
-                    <lb n="31" />así fue dícha tíerra hecha cama porq’ fu –
-                    <lb n="32" />eron puestas las cañas sobre esta tíerra
-                    <lb n="33" />hecha tapesco donde se síembran las ca –
-                    <lb n="34" />ñas. y tambíen por esto sellamo cazam
-                    <lb n="35" />ah, cañas puestas porq’retoñeçíeron y
-                    <lb n="36" />entonçes le fue puesto el nombre por e –
-                    <lb n="37" />lla la xmucane, porq’ dexaron sem
-                    <lb n="38" />bradas las cañas xhun ahpu, y xba –
-                    <lb n="39" />lanque, para memoría dellos pa
-                    <lb n="40" />. su a –
-                    <lb n="41" />buela. y estos fueron nuestros prime –
-                    <lb n="42" />ros Pes
-                    <lb n="43" />.antíguamente hunhun
-                    <lb n="44" />ahpu, y x
-                    <lb n="45" />xb
-                    <lb n="46" />ba
-                    <lb n="47" />a –
-                    <lb n="48" />–
-                    <lb n="49" />l
-                    <lb n="50" />la
-                    <lb n="51" />an
-                    <lb n="52" />nq
-                    <lb n="53" />q’
-                    <lb n="54" />’ y vucub hun ahpu q’ víeron las ca –
-                    <lb n="55" />ras de los de el ínfíerno. y hablaronotra
-                    <lb n="56" />vez asus Pes
-                    <lb n="57" />. sus híjos, q’vençíeron a los de
-                    <lb n="58" />el ínfíerno.
-                    <lb n="59" />y esta fue su adjuntadura con sus Pes
-                    <lb n="60" />.
-                    <lb n="61" />por ellos. y hallaronlos el hunahpu alla
-                    <lb n="62" />en el zenízero, alla lo fue a halllar, adon
-                    <lb n="63" />de se arrojaba la zeníza, y asemesmo su
-                    <lb n="64" />cara, quíso alar, y se le fue preguntado su
-                    <lb n="65" />nombre, y su voca, y narizes, los ojos, y ha
-                    <lb n="66" />llo primero su nombre, y poco fue lo q’ hablo.
+                    <lb n="4" />y carleaban sus caras; y guerreaban. y
+                    <lb n="5" />así fueron perdídos, y cajo su grandeza
+                    <lb n="6" />y ya no fue grande su ímperío. y esto es
+                    <lb n="7" />lo q’híçíeron xhun ahpu, y xbalanque.
+                    <lb n="8" />y esto es lo q’ llora<del rend="scribble">n</del>, y lamenta<del rend="scribble">n</del> aquella
+                    <lb n="9" />nuestra abuela delante de aquellas ca –
+                    <lb n="10" />ñas q’dexaron sembradas, q’retoño, y
+                    <lb n="11" />luego seseco quando fueron quema –
+                    <lb n="12" />dos en la hoguera, y quando otra vez
+                    <lb n="13" />retoñaron las cañas, entonçes quemo
+                    <lb n="14" />copal aquella su abuela delante de
+                    <lb n="15" />las cañas, en memoría desus níetos.
+                    <lb n="16" />y por esto se allegro mucho su abuela
+                    <lb n="17" />quando segunda vez retoñaron las
+                    <lb n="18" />cañas. y entonçes empezo la ydola –
+                    <lb n="19" />tría por su abuela, y entonçes fue lla –
+                    <lb n="20" />mada la mítad de la casa. y la mítad
+                    <lb n="21" />de el çentro. o remolino. y llamase
+                    <lb n="22" />chatam vleu. tíerra hecha cama. y así
+                    <lb n="23" />sellamo el medío de la casa, y del re
+                    <lb n="24" />molino por ellos, porq’ en el medío de
+                    <lb n="25" />la casa fueron sembradas las cañas. y
+                    <lb n="26" />así fue dícha tíerra hecha cama porq’ fu –
+                    <lb n="27" />eron puestas las cañas sobre esta tíerra
+                    <lb n="28" />hecha tapesco donde se síembran las ca –
+                    <lb n="29" />ñas. y tambíen por esto sellamo cazam
+                    <lb n="30" />ah, cañas puestas porq’retoñeçíeron y
+                    <lb n="31" />entonçes le fue puesto el nombre por e –
+                    <lb n="32" />lla la xmucane, porq’ dexaron sem
+                    <lb n="33" />bradas las cañas xhun ahpu, y xba –
+                    <lb n="34" />lanque, para memoría dellos p<abbr type="superscription">a</abbr> su a - <!--flat has a period but it looks like a hyphen-->
+                    <lb n="35" />buela. y estos fueron nuestros prime –
+                    <lb n="36" />ros P<abbr type="superscription">es</abbr> antíguamente hun<abbr type="superscription">hun</abbr> ahpu, y <del rend="scribble">xba -</del>
+                    <lb n="37" /><del rend="scribble">lanq'</del> y vucub hun ahpu q’ víeron las ca –
+                    <lb n="38" />ras de los de el ínfíerno. y hablaronotra
+                    <lb n="39" />vez asus P<abbr type="superscription">es</abbr> sus híjos, q’vençíeron a los de
+                    <lb n="40" />el ínfíerno.
+                    </p>
+                    <p>
+                    <lb n="41" />y esta fue su adjuntadura con sus P<abbr type="superscription">es</abbr>
+                    <lb n="42" />por ellos. y hallaronlos el hunahpu alla
+                    <lb n="43" />en el zenízero, alla lo fue a halllar, adon
+                    <lb n="44" />de se arrojaba la zeníza, y asemesmo su
+                    <lb n="45" />cara, quíso alar, y se le fue preguntado su
+                    <lb n="46" />nombre, y su voca, y narizes, los ojos, y ha
+                    <lb n="47" />llo primero su nombre, y poco fue lo q’ hablo.
                 </div>
             </div>
         </body>

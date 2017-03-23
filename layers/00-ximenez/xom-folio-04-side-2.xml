@@ -52,8 +52,8 @@
                 <lb n="9" />cha quih coꜩ qoh qui vach. ca
                 <lb n="10" />pichipoh cacan, quicab caie
                 <lb n="11" />ioh quitiohil quehe cut maui
-                <lb n="12" />xenau chivi chuvach ꜩacol bi –
-                <lb n="13" />tol alai quech, quxlaai quech
+                <lb n="12" />xenau chivi chuvach <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bi –
+                <lb n="13" />tol</rs> alai quech, quxlaai quech
                 <lb n="14" />enabe ꜩaꜩ chivinac xevxic
                 <lb n="15" />varal chuvach vleu
                 <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
@@ -63,9 +63,9 @@
                 <lb n="20" />cah nima butic xbanic xpe
                 <lb n="21" />pa quivi ri e poy e aham che
                 <lb n="22" />q,ite vtiohil ri achih, ta xaha –
-                <lb n="23" />xic, rumal ꜩacol bitol, ixoc
+                <lb n="23" />xic, rumal <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>, ixoc
                 <lb n="24" />zibac cut vtiohil ixoc. xrah
-                <lb n="25" />oquic rumal ꜩacol bitol maui
+                <lb n="25" />oquic rumal <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> maui
                 <lb n="26" />xenauic, ma pu xeqhauic chu
                 <lb n="27" />vach cah ꜩac, cah bit banol que
                 <lb n="28" />vinaquirizay quech quehe
@@ -81,7 +81,7 @@
                 <lb n="38" />quil, cahizabal qui vach; ru
                 <lb n="39" />mal maui quinauic chuvach
                 <lb n="40" />qui chuch, chuvach puch qui
-                <lb n="41" />cahau, ri vqux cah, huracan
+                <lb n="41" />cahau, ri <rs ana="UKUX_KAJ">vqux cah, huracan</rs>
                 <lb n="42" />vbi, cumal xquecumaric v
                 <lb n="43" />vach vleu, xticaric quecal hab
                 <lb n="44" />quihil hab, acabal hab xoc vla
@@ -92,7 +92,7 @@
             </div>
             <div type="col" n="04.2.2" xml:lang="spa">
                 <p>
-                <lb n="1" />ron más de el corazon de el zíelo, y así díeron
+                <lb n="1" />ron más de <rs ana="UKUX_KAJ">el corazon de el zíelo</rs>, y así díeron
                 <lb n="2" />de hozicos, empero esto fue solo probar, aparar –
                 <lb n="3" />los, y hazerlos gente. hablaban, empero esta –
                 <lb n="4" />ba seca su cara, estaban abromados, y pesa
@@ -100,8 +100,8 @@
                 <lb n="6" />dor, ní gordura, estavan secas, y palídas
                 <lb n="7" />sus maxillas. estaban sus pies amarillos, y
                 <lb n="8" />secos, y las manos, y amarilla su carne, y así
-                <lb n="9" />no se acordaron mas de su críador, y haze –
-                <lb n="10" />dor, el <abbr>q’</abbr>los avía crído; y estos eran ya mu –
+                <lb n="9" />no se acordaron mas de su <rs ana="TZAQOL">críador</rs>, y <rs ana="BITOL">haze –
+                <lb n="10" />dor</rs>, el <abbr>q’</abbr>los avía crído; y estos eran ya mu –
                 <lb n="11" />chos, y se multíplícaron sobre la tíerra.
                 <lb />
                 <lb />
@@ -109,11 +109,12 @@
                 <lb />
                 <lb n="12" />y despues fueron acabados, y destruídos, y
                 <lb n="13" />muertos, todos estos hombres de palo.
-                <lb n="14" />fue embiado consultado por el corazon de
-                <lb n="15" />el cíelo, y se hizo vn gran díluuío <abbr>q’</abbr>víno so –
+                <lb n="14" />fue embiado consultado por <rs ana="UKUX_KAJ">el corazon de
+                <lb n="15" />el cíelo</rs>, y se hizo vn gran díluuío <abbr>q’</abbr>víno so –
                 <lb n="16" />bre ellos; de palo de corcho era la carne de
                 <lb n="17" />los hombres, y de esa material fueron he –
                 <lb n="18" />chos, y labrados, por el criador y las muge –
+                <!-- criador in this passage: is Ximénez conflating tzacol and bitol? -->
                 <lb n="19" />res fueron hechas de corazon de espadaña
                 <lb n="20" />y esa fue la voluntad de el críador, hazerlos
                 <lb n="21" />de esa material, empero no hizieron memo –
@@ -127,9 +128,9 @@
                 <lb n="29" />nes, y el <abbr>q’</abbr>se llama tucumbalam, <abbr>q’</abbr>les quebro
                 <lb n="30" />los huesos, y los nervíos, y los hízeron harína
                 <lb n="31" />y esto fue en castigo y escarmiento porq’no
-                <lb n="32" />hízíeron grazías delante de su <abbr>P<hi rend="superscript">e.</hi></abbr> y <abbr>M<hi rend="superscript">e</hi></abbr>, y
-                <lb n="33" /><abbr>S<hi rend="superscript">or</hi></abbr>. el corazon de el zíelo, <abbr>q’</abbr>se llama hura –
-                <lb n="34" />can, y por ellos se obscuresío la haz de
+                <lb n="32" />hízíeron grazías delante de su <rs ana="ALOM"><abbr>P<hi rend="superscript">e.</hi></abbr></rs> y <rs ana="KAJOLOM"><abbr>M<hi rend="superscript">e</hi></abbr></rs>, y
+                <lb n="33" /><rs ana="UKUX_KAJ"><abbr>S<hi rend="superscript">or</hi></abbr>. el corazon de el zíelo, <abbr>q’</abbr>se llama hura –
+                <lb n="34" />can</rs>, y por ellos se obscuresío la haz de
                 <lb n="35" />la tierra, y empezo vna llovízna de noche
                 <lb n="36" />y de día. y víno todo genero de animals chi –
                 <lb n="37" />cos y grandes, y los palos, y las píedras, y les –

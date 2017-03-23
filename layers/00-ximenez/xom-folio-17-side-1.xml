@@ -52,11 +52,11 @@
                         <lb n="8" />quivach ahauab xeqha cut ri za –
                         <lb n="9" />mahel. ta xopon cut chiquivach
                         <lb n="10" />ahauab quezeleuachin conohel.
-                        <lb n="11" />maui xuꜩinic xqha cut <rs ana="HUNCAME">hun came</rs>.
+                        <lb n="11" />maui xuꜩinic xqha cut <rs ana="JUN_KAME">hun came</rs>.
                         <lb n="12" />mi xuꜩinic ixahauab vana cu vqux
                         <!-- Does this work to show that the "x" in "xe" is slightly left-aligned? -->
                         <lb n="13" /><note place="margin"><num rend="large">x</num></note>e qo pazel. uꜩbala vila cut xqha
-                        <lb n="14" />curi <rs ana="HUNCAME">hun came</rs> ta xuchuieh cu a
+                        <lb n="14" />curi <rs ana="JUN_KAME">hun came</rs> ta xuchuieh cu a
                         <lb n="15" />can oc eaturur rih chicomah eae
                         <lb n="16" />luhluh rih chiquic vꜩ chiluu v
                         <lb n="17" />vach eae chiya chuvi eae xqha cut
@@ -72,21 +72,21 @@
                         <lb n="27" />chacatah vi rahaual <rs ana="XIBALBA">xibalba</rs>
                         <lb n="28" />ri rumal capoh xemoyvachixic
                         <lb n="29" />conohel.
-                        <lb n="30" rend="indent" /><hi rend="large">A</hi>re cut e qo ri vchuch <rs ana="HUN_BATZ">hun baꜩ</rs>
-                        <lb n="31" /><rs ana="HUN_CHOUEN">hun choven</rs> ta xul ri ixoc <rs ana="IXQUIC">xquic</rs> v
-                        <lb n="32" />bi. ta xul cut ri ixoc <rs ana="IXQUIC">xquic</rs> ruq 
-                        <lb n="33" />ri vchuch <rs ana="HUN_BATZ">hun baꜩ</rs> <rs ana="HUN_CHOUEN">hun choven</rs>
+                        <lb n="30" rend="indent" /><hi rend="large">A</hi>re cut e qo ri vchuch <rs ana="JUN_BATZ">hun baꜩ</rs>
+                        <lb n="31" /><rs ana="JUN_CHOWEN">hun choven</rs> ta xul ri ixoc <rs ana="IXKIK">xquic</rs> v
+                        <lb n="32" />bi. ta xul cut ri ixoc <rs ana="IXKIK">xquic</rs> ruq 
+                        <lb n="33" />ri vchuch <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs>
                         <lb n="34" />xqoloc ral chupam. xa zcaquin 
-                        <lb n="35" />chic maui queyaqueic ri <rs ana="HUNAHPU">hun ah-
-                        <lb n="36" />pu</rs> <rs ana="XBALANQUE">xbalanque</rs> quibi. ta xul curi ixoc
+                        <lb n="35" />chic maui queyaqueic ri <rs ana="JUNAJPU">hun ah-
+                        <lb n="36" />pu</rs> <rs ana="XBALAMKE">xbalanque</rs> quibi. ta xul curi ixoc
                         <lb n="37" />chire ri atit xqha curi ixoc chire
                         <lb n="38" />ri atit. mi xinulic lal chichu in
                         <lb n="39" />alibla in puch alcual la lal chichu
                         <lb n="40" />xqha ta xoc vloc ruq ri atit. apa
                         <lb n="41" />catpe vi vloc qo chi pa ri val ma
                         <lb n="42" />pa xecamic chi <rs ana="XIBALBA">xibalba</rs>. e cu caib
-                        <lb n="43" />canoc quetal qui ꜩihel puch <rs ana="HUN_BATZ">hun
-                        <lb n="44" />baꜩ</rs> <rs ana="HUN_CHOUEN">hun chouen</rs> quibi ve avila
+                        <lb n="43" />canoc quetal qui ꜩihel puch <rs ana="JUN_BATZ">hun
+                        <lb n="44" />baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs> quibi ve avila
                         <lb n="45" />catpe vi catel vbic xuqha x ri ca –
                         <lb n="46" />poh rumal atit. xere la quiꜩih
                         <lb n="47" />vi chi in alibla xqo nare inqovi
@@ -97,29 +97,41 @@
                 <p>
                         <lb n="1" />ello fue llamado sangre. alla en la tierra
                         <lb n="2" />tendreís cosa vuestra, y series regalados, les
-                        <lb n="3" />dixo la donzella alos tecolotes. estabíen <rs ana="IXQUIC">don
+                        <lb n="3" />dixo la donzella alos tecolotes. estabíen <rs ana="IXKIK">don
                         <lb n="4" />zella</rs> díxeron ellos íremos allevar esto, y tu
                         <lb n="5" />anda bete 
                         	<choice>
                         		<abbr>q’</abbr>
                         		<expan>que</expan>
                         		</choice>nosotros vamos a dar este su tru –
-                        <lb n="6" />eque de tu corazon alos <abbr type="superscription">SSes.</abbr>dixeron los te –
+                        <lb n="6" />eque de tu corazon alos 
+                        <choice>
+                        	<abbr type="superscription">SSes.</abbr>
+                        	<expan>Señores</expan>
+                        	</choice>dixeron los te –
                         <lb n="7" />coletes. y luego 
                         	<choice>
                         		<abbr>q’</abbr>
                         		<expan>que</expan>
                         		</choice> llegaron ala presençía
-                        <lb n="8" />de los <abbr type="superscription">SSes.</abbr> 
+                        <lb n="8" />de los 
+                        <choice>
+                        <abbr type="superscription">SSes.</abbr>
+                        <expan>Señores</expan>
+                        </choice> 
                         	<choice>
                         		<abbr>q’</abbr>
                         		<expan>que</expan>
                         		</choice>estaban aguardando todos.
-                        <lb n="9" />por ventura yase concluyo dixeron <rs ana="HUNCAME">hun –
-                        <lb n="10" />came</rs>, y <rs ana="VUCUBCAME">vucub came</rs>. yaze concluyó <abbr type="superscription">SSes.</abbr>
+                        <lb n="9" />por ventura yase concluyo dixeron <rs ana="JUN_KAME">hun –
+                        <lb n="10" />came</rs>, y <rs ana="VUKUB_KAME">vucub came</rs>. yaze concluyó 
+                        <choice>
+                        	<abbr type="superscription">SSes.</abbr>
+                        	<expan>Señores</expan>
+                        	</choice> 
                         <lb n="11" />díxeron ellos. aquí esta sucorazon en el
                         <lb n="12" />asíento de esta hícara. estabíen veamos
-                        <lb n="13" />dixeron <rs ana="HUNCAME">huncame</rs>, y <rs ana="VUCUBCAME">vvcubcame</rs>. y cogíen
+                        <lb n="13" />dixeron <rs ana="JUN_KAME">huncame</rs>, y <rs ana="VUKUB_KAME">vvcubcame</rs>. y cogíen
                         <lb n="14" />dolo con los tres dedos lo leuanto 
                         	<choice>
                         		<abbr>pa</abbr>
@@ -128,7 +140,7 @@
                         <lb n="15" />ba chorreaba lasangre, y estaba muy
                         <lb n="16" />colorado de sangre. atízad muy bien el
                         <lb n="17" />fuego díxo, y poneldo sobre el fuego, dixo
-                        <lb n="18" /><rs ana="HUNCAME">huncame</rs>. y luego 
+                        <lb n="18" /><rs ana="JUN_KAME">huncame</rs>. y luego 
                         	<choice>
                         		<abbr>q’</abbr>
                         		<expan>que</expan>
@@ -147,50 +159,58 @@
                         		<abbr>q’</abbr>
                         		<expan>que</expan>
                         		</choice>auían lleua –
-                        <lb n="25" />do a<rs ana="IXQUIC">la donzella</rs>. y así fueron vençidos los
-                        <lb n="26" />señores de el ínfíerno, por <rs ana="IXQUIC">la donçella</rs>.
+                        <lb n="25" />do a<rs ana="IXKIK">la donzella</rs>. y así fueron vençidos los
+                        <lb n="26" />señores de el ínfíerno, por <rs ana="IXKIK">la donçella</rs>.
                         <lb n="27" />con aquella aparíencía fueron deslum –
                         <lb n="28" />brados todos.
                         <lb />
                         </p>
                         <p>
-                        <lb n="29" rend="indent" /><hi rend="large">Y</hi>estaba la madre de <rs ana="HUN_BATZ">hun baꜩ</rs>, y <rs ana="HUN_CHOEN">huncho –
+                        <lb n="29" rend="indent" /><hi rend="large">Y</hi>estaba la madre de <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho –
                         <lb n="31" />uen</rs> quando llego la mugger 
                         	<choice>
                         		<abbr>q'</abbr>
                         			<expan>que</expan>
                         			</choice>se llamaba
                         <lb n="32" />xquíc. entonçes llego la mugger llamada
-                        <lb n="33" /><rs ana="IXQUIC">xquic</rs> con la madre de <rs ana="HUN_BATZ">hunbaꜩ</rs>, y <rs ana="HUN_CHOEN">hun’ch –
+                        <lb n="33" /><rs ana="IXKIK">xquic</rs> con la madre de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">hun’ch –
                         <lb n="34" />uoen</rs> y actualmente estaba preñada, y le 
-                        <lb n="35" />faltaban para nacer a <rs ana="HUNAHPU">hun ahpu</rs>, y a <rs ana="XBALANQUE">xba –
+                        <lb n="35" />faltaban para nacer a <rs ana="JUNAJPU">hun ahpu</rs>, y a <rs ana="XBALAMKE">xba –
                         <lb n="36" />lanque</rs>, 
                         	<choice>
                         		<abbr>q'</abbr>
                         		<expan>que</expan>
                         		</choice>así sellamaban. y llegando esta
-                        <lb n="37" />mugger a<rs ana="XMUCANE">la vieja</rs> le díxo la mugger <rs ana="IXQUIC">x –
-                        <lb n="38" />quíc</rs>: he venido <abbr type="superscription">Sa.</abbr><abbr type="superscription">Me.</abbr>
+                        <lb n="37" />mugger a<rs ana="IXMUKANE">la vieja</rs> le díxo la mugger <rs ana="IXKIK">x –
+                        <lb n="38" />quíc</rs>: he venido 
+                        <choice>
+                        	<abbr type="superscription">Sa.</abbr>
+                        	<expan>Señora</expan>
+                        	</choice>
+                        	<choice>
+                        	<abbr type="superscription">Me.</abbr>
+                        	<expan>Madre</expan>
+                        	</choice>
                         	<choice>
                         		<abbr>q'</abbr>
                         		<expan>que</expan>
                         		</choice>soy su nuera, ysu
                         <lb n="39" />híja pequeña, esto díxo quando llego
-                        <lb n="40" />a <rs ana="XMUCANE">laVíeja</rs>. deadonde vienes, por ventura
-                        <lb n="41" />víven mís hijos? no muríeron alla en el
-                        <lb n="42" /> ínfíerno? los 
+                        <lb n="40" />a <rs ana="IXMUKANE">laVíeja</rs>. deadonde vienes, por ventura
+                        <lb n="41" />víven <rs ana="HERO_TWINS">mís hijos</rs>? no muríeron alla en <rs ana="XIBALBA">el
+                        <lb n="42" /> ínfíerno</rs>? los 
                         	<choice>
                         		<abbr>q'</abbr>
                         		<expan>que</expan>
                         		</choice>eran desçendençía mía lla –
-                        <lb n="43" />mados <rs ana="HUN_BATZ">hun baꜩ</rs>, <rs ana="HUN_CHOUEN">hun chouen</rs>, no estan aquí?
+                        <lb n="43" />mados <rs ana="JUN_BATZ">hun baꜩ</rs>, <rs ana="JUN_CHOWEN">hun chouen</rs>, no estan aquí?
                         <lb n="44" />de adonde víenes? sal deaquí. le fue dícho
-                        <lb n="45" />a<rs ana="IXQUIC">la donçella</rs> por <rs ana="XMUCANE">la víeja</rs>. solo esto es ver –
+                        <lb n="45" />a<rs ana="IXKIK">la donçella</rs> por <rs ana="IXMUKANE">la víeja</rs>. solo esto es ver –
                         <lb n="46" />dad, 
                         	<choice>
                         		<abbr>q'</abbr>
                         		<expan>que</expan>
-                        		</choice>soy <rs ana="IXQUIC">su nuera</rs>, y soy de <rs ana="HUN_HUNAHPU">hun hunahpu</rs>
+                        		</choice>soy <rs ana="IXKIK">su nuera</rs>, y soy de <rs ana="JUN_JUNAJPU">hun hunahpu</rs>
                         		</p>
                 </div>
             </div>

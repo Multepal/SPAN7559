@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,175 @@
             <div type="page" n="21.1" xml:id="xom-f21-s1">
                 <div type="col" n="21.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                <lb n="1" />vi e mucumuxinacchic chiritaxe
+                <lb n="2" />cuchu cu quib ronohel chicop xa
+                <lb n="3" />hun xquizep viquib ronohel chuti
+                <lb n="4" />chicop nima chicop are puch tiquilv 
+                <lb n="5" />qux acab ta xepetic xechaviheic cono
+                <lb n="6" />hel taxepetic are qui qhabalri iac – 
+                <lb n="7" />lin che iaclincaam xeqha taxepe –
+                <lb n="8" />tic quenebebic xeche xecaam, ta
+                <lb n="9" />xeyopihic, ta xecutun cu chiquivach
+                <lb n="10" />are cut vnabe ri coh balam xrah
+                <lb n="11" />cu quichapo maui xuya rib taxyo –
+                <lb n="12" />pih chic queh vmul xacu chuhe xqui
+                <lb n="13" />chap vi xacu xcupucub canahoc v
+                <lb n="14" />he queh pa quicab ta xucam ri vhe 
+                <lb n="15" />queh rugvhe vmul ri xzcatac qui
+                <lb n="16" />he macu xquiya quib ri yac vtiu 
+                <lb n="17" />aꜫ ziz xeicouic conohel chicop chi
+                <lb n="18" />quivach ri<rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> chi 
+                <lb n="19" />catat chicut qui qux rumal ri ma
+                <lb n="20" />habi xquichapo. xpe curi hun chic 
+                <lb n="21" />vxambe chic caꜩoꜩotic taxpe –
+                <lb n="22" />tic cate cut xquicateh xquize–
+                <lb n="23" />cut pacatricho cate puch xqui – 
+                <lb n="24" />chapo, xquiyoteh puch chirih vvi
+                <lb n="25" />xrah quibio xquiporoh vhe chuvi
+                <lb n="26" />ꜫaꜫ ta xucam ri vhe cho, mahabi
+                <lb n="27" />rizmal uhe arenaipu vbac vva-
+                <lb n="28" />ch ta xrah bÿc cumal qaholab ri
+                <lb n="29" /><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>, mata quica –
+                <lb n="30" />mic ivvmal mavi are ipatan ri  
+                <lb n="31" />abixic qo ive xqhari ri cho apa
+                <lb n="32" />qovi que chabÿh na cut xeqha 
+                <lb n="33" />curi qaholab chire cho la quin
+                <lb n="34" />iꜩocopih tanabala qo nu ꜩih chi 
+                <lb n="35" />nu pam cate cut chinbÿh chive
+                <lb n="36" />chiyatana zquin vecha xqha
+                <lb n="37" />ri cho, ate chicayao avecha
+                <lb n="38" />chabÿh na xuqhaxic vꜩbala 
+                <lb n="39" />are bari rech icahau ri <rs ana="JUN_JUNAJPU">hunhu –
+                <lb n="40" />nahpu</rs> <rs ana="WUQUB_JUNAJPU">vvcub hunahpu</rs> vbi ri 
+                <lb n="41" />xecam chi <rs ana="XIBALBA">xibalba</rs> qo cu canoc
+                <lb n="42" />ri queꜩabal xequel canoc chu –
+                <lb n="43" />viha ri qui bate qui pachcab qui 
+                <lb n="44" />quic puch, xa maui caeut chi 
+                <lb n="45" />vach rumal ivatit rumalri
+                <lb n="46" />are xcam vi icahau maquiꜩih 
+                <lb n="47" />auetaam, xeqhacuri qaholab
+                </p>
                 </div>
                 <div type="col" n="21.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" />uíeron ocultos allí, quando se junta –
+                <lb n="2" />ron todos los anímales, en una parte
+                <lb n="3" />sejuntaron todos los animales chicos
+                <lb n="4" />ygrandes. y luego empunto de la me – 
+                <lb n="5" />día noche, víníeron, y hablando todos
+                <lb n="6" />quando víníeron deçían así: yaclín
+                <lb n="7" />che, yaclín caam. (esto es: parense  
+                <lb n="8" />palos, parense mecates) esto dígeron
+                <lb n="9" />quando víníeron, y se meneaban deba –
+                <lb n="10" />xode los arboles, y mecates, acercandose
+                <lb n="11" />entonçes se manífestaron ante ellos, y
+                <lb n="12" />el prímero era vn leon, y vn tígre, y 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>–
+                <lb n="13" />ríendolos coger, nose díeron, y luego
+                <lb n="14" />se apropínquo vn venado, y vn cone
+                <lb n="15" />jo, y juntándose vno con otro los cogíe –
+                <lb n="16" />ron pero se les arrancaron las colas, en
+                <lb n="17" />tonçes tomaron la cola de el venado, y la
+                <lb n="18" />cola de el conejo, y así solo son chíquítas
+                <lb n="19" />sus colas. y el gato montes, y el lobo tam-
+                <lb n="20" />po sedíeron, ní el puerco, y el pízote to – 
+                <lb n="21" />dos se pasaron los anímales por delante
+                <lb n="22" />de <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y rebenta –
+                <lb n="23" />ban de colera sus corazones, por
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>no 
+                <lb n="24" />los auían cogído. y víno vno a la postre
+                <lb n="25" />saltando, y atajando lo cogíeron en la
+                <lb n="26" />red al raton, y luego 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>lo cogíeron, le
+                <lb n="27" />apretaron el çelebro, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>lo querían aho –
+                <lb n="28" />gar, y le quemaron la cola en el fuego,
+                <lb n="29" />y entonçes tomo su cola el raton sín pe – 
+                <lb n="30" />lo, y tambíen sus ojos saltados<corr>saltones</corr> quando lo –
+                <lb n="31" />quisieron ahogar los dos muchachos
+                <lb n="32" /><rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. ydíxo el ra –
+                <lb n="33" />ton, no me mateís, no es esto vuestro off
+                <choice>
+                	<abbr type="superscript">o</abbr>
+                	<expan>oficio</expan>
+                	</choice>
+                <lb n="34" />el haçer mílpa. pues 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>es lo 
+                		<choice>
+                			<abbr>q’</abbr>
+                			<expan>que</expan>
+                			</choice>nos de—
+                <lb n="35" />deçís, díxeron los dos muchachos al
+                <lb n="36" />raton. dexadme vn poco, por
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>tengo,
+                <lb n="37" />en mí víentre q’ 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>dezir, y despues lo dire
+                <lb n="38" />dadme algo
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice> comer díxo el raton, y
+                <lb n="39" />le fue dícho despues te daremos tu comí-
+                <lb n="40" />da deçíldo agora. esta bíen díxo el raton.
+                <lb n="41" />sabreís 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>los bienes de vuestros Padres, <rs ana="JUN_JUNAJPU">hun –
+                <lb n="42" />hun ahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vucub hun ahpu</rs> q
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>así se llama –
+                <lb n="43" />ban aquellos,
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice> muríeron en el
+                		<choice>
+                			<abbr>ífíerno</abbr>
+                			<expan>infierno</expan>
+                			</choice>, es
+                <lb n="44" />tan ay, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>es con
+                		<choice>
+                			<abbr>q’</abbr>
+                			<expan>que</expan>
+                			</choice>jugaban, estan colgados
+                <lb n="45" />sobre el tapanco, su batey, la pala, y la pelo –
+                <lb n="46" />ta de vle, y no os lo quíere manífestar vues – 
+                <lb n="47" />tra <rs ana="IXMUKAME">abuela</rs>, por
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>por estos muríeron vues –
+                </p>
                 </div>
             </div>
         </body>

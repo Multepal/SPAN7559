@@ -41,11 +41,11 @@
             <div type="page" n="02.1" xml:id="xom-f02-s1">
             <div type="col" n="02.1.1" xml:lang="quc">
             	<p>
-            	<lb n="1" />caculha huracan nabe, vcab
-            	<lb n="2" />cut chipa caculha, roxchic 
-            	<lb n="3" />raxa caculha chi e cu oxib
-            	<lb n="4" />rÿ vqux cah ta xeul cuq ri
-            	<lb n="5" />tepeu qucumaꜩ, ta xnaohi –
+            	<lb n="1" /><rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
+            	<lb n="2" />cut <rs ana="CHIPI_KAQULJA">chipa caculha</rs>, roxchic 
+            	<lb n="3" /><rs ana="RAXA_KAQULJA">raxa caculha</rs> chi e cu oxib
+            	<lb n="4" />rÿ <rs ana="UKUX_KAJ">vqux cah</rs> ta xeul cuq ri
+            	<lb n="5" /><rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs>, ta xnaohi –
             	<lb n="6" />xic zac qazlem, hupacha ta cha
             	<lb n="7" />uaxoc ta caquiro puch, apa –
             	<lb n="8" />chinac ꜩucul cool ta chuxoc
@@ -69,10 +69,10 @@
             	<lb n="26" />tah vi vnaohixic huyub ta –
             	<lb n="27" />cah, huzuc rach vinaquiric
             	<lb n="28" />v quizizil, v pachahil v vach.
-            	<lb n="29" />quehe cut xquicot vi ri qu –
-            	<lb n="30" />cumaꜩ, vꜩ mi xatulic at vqux
-            	<lb n="31" />cah, at huracan, at pu chipi –
-            	<lb n="32" />caculha, raxa caculha, xchu –
+            	<lb n="29" />quehe cut xquicot vi ri <rs ana="QUKUMATZ">qu –
+            	<lb n="30" />cumaꜩ</rs>, vꜩ mi xatulic at <rs ana="UKUX_KAJ">vqux
+            	<lb n="31" />cah</rs>, at <rs ana="UKUX_KAJ">huracan</rs>, at pu <rs ana="CHIPI_KAQULJA">chipi –
+            	<lb n="32" />caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, xchu –
             	<lb n="33" />ꜩinic caꜩac cabit xeqha cut.
             	<lb n="34" />nabe cut xvinaquir vleuh
             	<lb n="35" />huyub tacah, xchobochox vbe
@@ -92,11 +92,11 @@
             </div>
             <div type="col" n="02.1.2" xml:lang="spa">
                 <p>
-                <lb n="1" />y el tercero: raxa caculha. (nombre proprío
+                <lb n="1" />y el tercero: <rs ana="RAXA_KAQULJA">raxa caculha</rs>. (nombre proprío
                 	<note place="margin-right" type="pagination"><num rend="large">2</num></note>
-                <lb n="2" /><abbr>q’</abbr>dize: verde rayo) con <abbr>q’</abbr>suertes aquel su co –
-            	<lb n="3" />razon de el cielo, <abbr>q’</abbr>vinieron con tepeu, qu –
-            	<lb n="4" />cumaꜩ, entonzes se consulto la vida, y la cre-
+                <lb n="2" /><abbr>q’</abbr>dize: <rs ana="RAXA_KAQULJA">verde rayo</rs>) con <abbr>q’</abbr>suertes aquel su <rs ana="UKUX_KAJ">co –
+            	<lb n="3" />razon de el cielo</rs>, <abbr>q’</abbr>vinieron con <rs ana="TEPEW_QUKUMATZ">tepeu, qu –
+            	<lb n="4" />cumaꜩ</rs>, entonzes se consulto la vida, y la cre-
             	<lb n="5" />azion; pues como se sembrara, y aclarar, quí –
             	<lb n="6" />en sera hecho alimentador, y sustentador, dad
             	<lb n="7" />vuestro voto. esta agua salga, desembaraze
@@ -114,9 +114,9 @@
             	<lb n="19" />hecho. solo por milagro, y maravilla fue
             	<lb n="20" />hecho, y en vninstante juntamente se
             	<lb n="21" />formo su produzir zipreses, y pínabetes en
-            	<lb n="22" />su haz. y así se alegro qucumaꜩ, esta bien
-            	<lb n="23" />tu venida corazon de el zielo, tu huracan,
-            	<lb n="24" />y tu chípi caculha, raxa caculha, se per -
+            	<lb n="22" />su haz. y así se alegro <rs ana="QUKUMATZ">gucumaꜩ</rs>, esta bien
+            	<lb n="23" />tu venida <rs ana="UKUX_KAJ">corazon de el zielo</rs>, tu <rs ana="UKUX_KAJ">huracan</rs>,
+            	<lb n="24" />y tu <rs ana="CHIPI_KAQULJA">chípi caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, se per -
             	<lb n="25" />izionara, nuestra obra, y criaturas dixe –
             	<lb n="26" />ron. prímeramente se crío la tierra, los –
             	<lb n="27" />montes, y llanos. se dividieron los camínos
@@ -125,8 +125,8 @@
             	<lb n="30" />paro, y detuvo el agua, y entonzes se
             	<lb n="31" />mostraron los grandes zerros. y así su ser
             	<lb n="32" />formada la tierra, <abbr>q<hi rend="superscript">o</hi></abbr> se crío por aquellos
-            	<lb n="33" /><abbr>q’</abbr>se llaman el corazon de el zielo, y el cora
-            	<lb n="34" />zon de la tierra, y esto es lo primero <abbr>q’</abbr> dís
+            	<lb n="33" /><abbr>q’</abbr>se llaman <rs ana="UKUX_KAJ_UKUX_ULEW">el corazon de el zielo, y el cora
+            	<lb n="34" />zon de la tierra</rs>, y esto es lo primero <abbr>q’</abbr> dís
             	<lb n="35" />currieron estando el zielo y la tierra den
             	<lb n="36" />tro de el agua, y así su ser discurrído a
             	<lb n="37" />quello <abbr>q’</abbr> discurrieron, qo pensaron suser

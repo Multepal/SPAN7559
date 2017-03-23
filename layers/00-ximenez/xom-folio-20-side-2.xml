@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Allison Margaret Bigelow</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,9 +41,169 @@
             <div type="page" n="20.2" xml:id="xom-f20-s2">
                 <div type="col" n="20.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <p>
+                <lb n="1" />chicachap ri mixquina ruq icah vꜩ
+                <lb n="2" />bala xqha curi xmucur. are cut
+                <lb n="3" />xa vvbanic chiquibano mana qui –
+                <lb n="4" />ꜩih abixic ta chiquibano cate pu – 
+                <lb n="5" />ch choc ri xmucur anim cut que
+                <lb n="6" />petic hun chichapo mi xquina, hun 
+                <lb n="7" />cut chichapou ri icah chiquipiz  
+                <lb n="8" />la qui vi xaloc chubacala vleu
+                <lb n="9" />pu cab ri hun xaquehe chuꜩiloh
+                <lb n="10" />vvach queheri quiꜩih abixom
+                <lb n="11" />are curi hun chic xaloc chu pu – 
+                <lb n="12" />quih vvebalche puholom que –
+                <lb n="13" />he uiri quiꜩih catohcheenel ta
+                <lb n="14" />xil rumal catit catecut queva – 
+                <lb n="15" />ic maquiꜩih abixic chiquibano
+                <lb n="16" />xaloc chibe yaoc qui va taxebe 
+                <lb n="17" />cut chicochoch quiꜩih mixohco –
+                <lb n="18" />ꜩic ixcatit queqha queoponic xa 
+                <lb n="19" />loc chiqui qui quih, chiquiiuc puch
+                <lb n="20" />cacan, qui eab chuvach catit taxe 
+                <lb n="21" />be chicut chu ca quih xeopon
+                <lb n="22" />cut pa cabix quiz iacatahinac 
+                <lb n="23" />chic ronohel che caam vchapom 
+                <lb n="24" />chi rib rono hel tun quixic taxe – 
+                <lb n="25" />oponic. apa chinac cohmichouic 
+                <lb n="26" />xeqha cut are cut quebanou ri
+                <lb n="27" />ronohel chuti chicop nima chicop
+                <lb n="28" />coh balam, queh, vmul, iac, vtiu
+                <!-- Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? -->
+                <lb n="29" />ae, ziz chuti <abbr>q<hi rend="subscript">'</hi></abbr>iquin, nima <abbr>q<hi rend="subscript">'</hi></abbr>iquin
+                <lb n="30" />are xebanouic xahun acab xqui – 
+                <lb n="31" />bano cate chicut xquitiquiba
+                <lb n="32" />chic abixic. xaui xuban chirib 
+                <lb n="33" />vleuh ruq catoh che ta xcam 
+                <lb n="34" />chicu quinaoh chiri pacatohche 
+                <lb n="35" />pa cupuh puch xa cavarah rica
+                <lb n="36" />bix anavi china cabano vlo la
+                <lb n="37" />qui ta chicarico xeqha cut ta xc
+                <!-- Does this work for showing the abbreviation -an? or should I just write: ã -->
+                <choice>
+                	<abbr type="superscription">a-</abbr>
+                	<expan>an</expan>
+                	</choice>
+                <lb n="38" />quinaoh xeopon chicut chiha– 
+                <lb n="39" />naquirilo cohmichouic ixcatit
+                <lb n="40" />nima quim chic nima quechelah 
+                <lb n="41" />chi puch ri cabix ta xohopon mi –
+                <lb n="42" />er ixcatit xeqha cut chire–
+                <lb n="43" />catit chire pu qui chuch xcohbe 
+                <lb n="44" />cut xchicavarah rumal mavi 
+                <lb n="45" />vꜩ caban chique xeqha catecut 
+                <lb n="46" />xebaꜩonic. cate cut qui bic chic pa 
+                <lb n="47" />quicatohche chiri cut xe maꜩehe
+                </p>
                 </div>
                 <div type="col" n="20.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
+                <lb n="1" />al punto tomaremos nuestro azadon, y ha –
+                <lb n="2" />cha. esta bíen, dixo la paloma. y luego solo
+                <lb n="3" />se entretenían en tírar con la çerbatana, y
+                <lb n="4" />no trataban de mílpa. y luego 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>canto la 
+                <lb n="5" />paloma víníeron a toda prísa vno tomo el
+                <lb n="6" />azadon, y el otro la hacha, y amarrandose
+                <lb n="7" />las cabezas en valde se vntaban de tíerra  
+                <lb n="8" />las manos el vno como 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>se ensuçíaba la
+                <lb n="9" />cara, a modo de el 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>siembra mílpa, y el
+                <lb n="10" />otro en valde se desparramaba astíllas
+                <lb n="11" />en su cabeza así como hachero de palos, y 
+                <lb n="12" />entonçes fue vísto de <rs ana="IXMUKANE">su abuela</rs>, y corrí ––
+                <lb n="13" />endo, no deuerdad haçían mílpa, y así en
+                <lb n="14" />valde les lleuaron de comer. y enton
+                <lb n="15" />çes sefueron a sus casas, verdadera men –
+                <lb n="16" />te estamos cansados abuela, le díxeron, y 
+                <lb n="17" />llegandose asu casa, en valde creían su –
+                <lb n="18" />trabaxo desus manos, y pies ante <rs ana="IXMUKANE">su abuela</rs>.
+                <lb n="19" />y las refregaban; y luego fueron al segun
+                <lb n="20" />do día, y llegando ala mílpa hallaron 
+                <lb n="21" />parados todos los arboles, y los mecates
+                <lb n="22" />y se auían otra vez vnído, y juntado.
+                <lb n="23" />quíen sera este díxeron, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>nos ha en 
+                <lb n="24" />gañado, sin duda han sído los 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>han he –
+                <lb n="25" />cho esto todos los animales grandes, y chí –
+                <lb n="26" />cos; el tígre, el venado, el conejo, el ga –
+                <lb n="27" />to de monte, el lobo; el puerco, el pízote,
+                <lb n="28" />y los paxaros grandes, y chícos, estos fu –
+                <lb n="29" />eron los 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>híçíeron esto, y luego bolbíe –
+                <lb n="30" />ron otra vez ahazer la mílpa, y así mes –
+                <lb n="31" />mo hízo la tíerra, y los palos cortados, y
+                <lb n="32" />entonçes consultaron, en los palos corta – 
+                <lb n="33" />dos, y la tíerra desyeruada, velare 
+                <lb n="34" />mos nuestra mílpa quízas cogere – 
+                <lb n="35" />mos al 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>víene ahazer esto, esto díxe –
+                <lb n="36" />ron, en su consulta, y llegaron asus ca –
+                <lb n="37" />sas, 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>le pareçe abuela lo 
+                	<choice>
+                		<abbr>q’</abbr>
+                		<expan>que</expan>
+                		</choice>hemos vis –
+                <lb n="38" />to, la burla 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>nos han hecho, lo 
+                		<choice>
+                			<abbr>q’</abbr>
+                			<expan>que</expan>
+                			</choice> labra – 
+                <lb n="39" />mos, se ha buelto otra vez, monte, y pa –
+                <lb n="40" />jonal, ya lo hallamos así quando fuí – 
+                <lb n="41" />mos denantes, esto díxeron a<rs ana="IXMUKANE">su abu –
+                <lb n="42" />ela</rs>, y a<rs ana="IXKIK">su 
+                <choice>
+                	<abbr type ="superscript">Me</abbr>
+                	<expan>Madre</expan>
+                	</choice></rs>, bolberemos otra vez, y
+                <lb n="43" />velaremos, por
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>no esbueno esto 
+                		<choice>
+                		<abbr>q’</abbr>
+                		<expan>que</expan>
+                		</choice>
+                <lb n="44" />nos han hecho. esto díxeron, y luego
+                <lb n="45" />se armaron, y fueron otra vez a la
+                <lb n="46" />roza suya, y luego se ocultaron, y estu 
+                <lb />
+                </p>
                 </div>
             </div>
         </body>
