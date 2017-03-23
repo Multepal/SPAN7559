@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -40,8 +40,13 @@
         <body>
             <div type="page" n="22.2" xml:id="xom-f22-s2">
                 <div type="col" n="22.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
+                <note place="margin-left" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">22
+                			</hi>
+                				</num>
+                					</note>	
                 <!-- NB: The OSU transcription includes space between letters and line-end -; my other pages weren't like that -->
                 <lb n="1" /><rs ana="XIBALBA">xibalba</rs> xaquehe rulic zamahel
                 <lb n="2" />oher taxebe camoc ri quicahau

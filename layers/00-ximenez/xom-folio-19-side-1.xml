@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -40,7 +40,6 @@
         <body>
             <div type="page" n="19.1" xml:id="xom-f19-s1">
                 <div type="col" n="19.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
                 <lb n="1" />vꜩbala xeqha cut. cate puch xeaca –
                 <lb n="2" />nic chui che xnimar cut riche xzi –
@@ -92,9 +91,15 @@
                 <lb n="47" />zu pa bix ta xubinaah ri <rs ana="JUNAJPU">hun
                 </p>
                 </div>
+                
                 <div type="col" n="19.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 <p>
+                <note place="margin-right" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">19
+                			</hi>
+                				</num>
+                					</note>	
                 <lb n="1" />esta bíen díxeron ellos, y luego subíeron sobre
                 <lb n="2" />el arbol, y se engroso el tronco, ehíncho, y lu –
                 <lb n="3" />ego 

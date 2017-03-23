@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -40,7 +40,6 @@
         <body>
             <div type="page" n="56.1" xml:id="xom-f56-s1">
                 <div type="col" n="56.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
                 <lb n="1" />bÿh vleabal rib ahauarem xa
                 <lb n="2" />hun vxe x<add place="above">ch</add>ticar  chuvach vxe
@@ -104,9 +103,15 @@
                 <lb />
                 </p>
                 </div>
+                
                 <div type="col" n="56.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 <p>
+                <note place="margin-right" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">56
+                			</hi>
+                				</num>
+                					</note>	
                 <lb n="1" />çendençía del Reyno 
                 <choice>
                 	<abbr>q’</abbr>

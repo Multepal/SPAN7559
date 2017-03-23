@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -40,8 +40,13 @@
         <body>
             <div type="page" n="19.2" xml:id="xom-f19-s2">
                 <div type="col" n="19.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
+                <note place="margin-left" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">19
+                			</hi>
+                				</num>
+                					</note>	
                 <!-- error in line 1 is because of name that begins on previous side -->
                 <lb n="1" />ahpu</rs> coy vbi zu ta xeoc cu vloc ri
                 <lb n="2" /><rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs> quexahouic

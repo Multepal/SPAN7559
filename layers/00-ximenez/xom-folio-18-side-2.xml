@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -40,8 +40,13 @@
         <body>
             <div type="page" n="18.2" xml:id="xom-f18-s2">
                 <div type="col" n="18.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
+                <note place="margin-left" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">18
+                			</hi>
+                				</num>
+                					</note>	
                 <lb n="1" />vvbanic chiquibano huta quih
                 <lb n="2" />maui queloꜫoxic rumal ri catit
                 <lb n="3" /><rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs>. maui chiia 
@@ -98,8 +103,8 @@
                 <lb n="47" />cazah vloc xeqha cut chire caꜩ
                 </p>
                 </div>
+                
                 <div type="col" n="18.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 <p>
                 <lb n="1" />con cerbatana todos los días, y no eran
                 <lb n="2" />amados, desu <rs ana="IXMUKANE">abuela</rs>, y de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y

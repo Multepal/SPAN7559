@@ -40,7 +40,6 @@
         <body>
             <div type="page" n="17.1" xml:id="xom-f17-s1">
                 <div type="col" n="17.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
                         <lb n="1" />are curi quic xubinaah rumal quic
                         <lb n="2" />holomax chuchaxic. chila cut quix
@@ -93,8 +92,13 @@
                         </p>
                 </div>
                 <div type="col" n="17.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 <p>
+                <note place="margin-left" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">17
+                			</hi>
+                				</num>
+                					</note>	
                         <lb n="1" />ello fue llamado sangre. alla en la tierra
                         <lb n="2" />tendreís cosa vuestra, y series regalados, les
                         <lb n="3" />dixo la donzella alos tecolotes. estabíen <rs ana="IXKIK">don

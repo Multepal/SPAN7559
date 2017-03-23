@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -92,8 +92,13 @@
                 </p>
                 </div>
                 <div type="col" n="21.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 <p>
+                <note place="margin-right" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">21
+                			</hi>
+                				</num>
+                					</note>	
                 <lb n="1" />uíeron ocultos allí, quando se junta –
                 <lb n="2" />ron todos los anímales, en una parte
                 <lb n="3" />sejuntaron todos los animales chicos

@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -40,8 +40,13 @@
         <body>
             <div type="page" n="21.2" xml:id="xom-f21-s2">
                 <div type="col" n="21.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
+                <note place="margin-left" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">21
+                			</hi>
+                				</num>
+                					</note>	
                 <lb n="1" />chire cho nim xquicot quiquxtav
                 <lb n="2" />xquitao vꜩihel quic taxubÿh
                 <lb n="3" />cho ta xquiya cut recha cho are
@@ -96,8 +101,8 @@
                 <lb n="47" />chuch ta xquitac vbic. catecut xu
                 </p>
                 </div>
+                
                 <div type="col" n="21.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 <p>
                 <lb n="1" />tros padres. y díxeron los muchachos: de çíer
                 <lb n="2" />to lo sabeís vos? y sealegraron mucho quando

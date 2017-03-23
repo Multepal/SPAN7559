@@ -41,7 +41,12 @@
             <div type="page" n="17.2" xml:id="xom-f17-s2">
                 <div type="col" n="17.2.1" xml:lang="quc">
                 <p>
-                <!-- K'ICHE' LINES GO HERE -->
+                <note place="margin-left" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">17
+                			</hi>
+                				</num>
+                					</note>	
                 <lb n="1" />rech <rs ana="JUN_JUNAJPU">hun hunahpu</rs> va vcaam eqaz–
                 <lb n="2" />lic maui e caminac ri <rs ana="JUN_JUNAJPU">hun hunahpu</rs>
                 <lb n="3" /><rs ana="WUQUB_JUNAJPU">vvcub hunahpu</rs> xa vcatbal rib 
@@ -93,7 +98,6 @@
                 </div>
                 <div type="col" n="17.2.2" xml:lang="spa">
                 <p>
-                <!-- SPANISH LINES GO HERE -->
                 <lb n="1" />y esto 
                 	<choice>
                     		<abbr>q’</abbr>

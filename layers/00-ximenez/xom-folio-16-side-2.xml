@@ -36,12 +36,18 @@
             </creation>
         </profileDesc>
     </teiHeader>
+    
     <text>
         <body>
             <div type="page" n="16.2" xml:id="xom-f16-s2">
                 <div type="col" n="16.2.1" xml:lang="quc">
                 <p>
-                <!-- K'ICHE' LINES GO HERE -->
+                <note place="margin-left" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">16
+                			</hi>
+                				</num>
+                					</note>			
                     <lb n="1" />val lalnu cahau, mahabi achih
                     <lb n="2" />vetaam vvach xqhacut uꜩ bala
                     <lb n="3" />quiꜩih vi chi at hoxol chec chipu –
@@ -94,7 +100,6 @@
 
                 <div type="col" n="16.2.2" xml:lang="spa">
                 <p>
-                <!-- SPANISH LINES GO HERE -->
                     <lb n="1" />Pe aun no he conozídovaron. estabíen
                     <lb n="2" />dixo el cíertamente tu eres forníca –
                     <lb n="3" />ría. ea andad vosotros 

@@ -40,7 +40,6 @@
         <body>
             <div type="page" n="18.1" xml:id="xom-f18-s1">
                 <div type="col" n="18.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
                 <p>
                 <lb n="1" />xberilari a bix xavixere qovi ri
                 <lb n="2" />huvi abix xavi cuxere calah vco –
@@ -92,8 +91,14 @@
                 </p>
                 </div>
                 <div type="col" n="18.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
+
                 <p>
+                <note place="margin-right" type="pagination">
+                	<num rend="large">
+                		<hi rend="handwriting;color:pencil">18
+                			</hi>
+                				</num>
+                					</note>	
                 <lb n="1" />a ver la milpa, y así hallo su píe de mílpa
                 <lb n="2" />ytambien estaba patente a donde estubo
                 <lb n="3" />el matate. y luego el punto sevíno <rs ana="IIXMUKANE">la víeja</rs>

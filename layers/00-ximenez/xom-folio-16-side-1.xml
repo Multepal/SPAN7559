@@ -41,7 +41,6 @@
             <div type="page" n="16.1" xml:id="xom-f16-s1">
                 <div type="col" n="16.1.1" xml:lang="quc">
                 <p>
-                <!-- K'ICHE' LINES GO HERE -->
                     <lb n="1" />bac pucab xaretal mi xnuya cha -
                     <lb n="2" />ue ri nu chub nu caxah. are ri nu
                     <lb n="3" />holom mahabi cachocon chivi xa
@@ -93,8 +92,13 @@
                     </div>
                   
                 <div type="col" n="16.1.2" xml:lang="spa">
-                <p>
-                <!-- SPANISH LINES GO HERE -->
+                <p>   
+                <note place="margin-right" type="pagination">
+                	<num rend="large">
+                	<hi rend="handwriting;color:pencil">16
+                		</hi>
+                			</num>
+                				</note>					
                     <lb n="1" />saliba de la calabera en su mano. te he dado
                     <lb n="2" />dixo la calabera señal en mí salíba, y mí
                     <lb n="3" />baba. esta mi cabeza ya no respondera
