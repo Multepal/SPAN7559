@@ -61,27 +61,27 @@
 <lb n="17" />cuchumaquic xqha xiquiripat chi –
 <lb n="18" />re naquila mi xitiouic xqha chic
 <lb n="19" />ta xti vvc culel ahi xqha chic. na
-<lb n="20" />qui ahal puh xqha cuchumaquic
+<lb n="20" />qui ahal puh<rs ana="AJAL_PUJ"> xqha cuchumaquic
 <lb n="21" />chire naquila mi xitiouic xqha
 <lb n="22" />chic ta xti chic v vahxac culel ahi
 <lb n="23" />xqha chic. naqui ahalcana xqha
 <lb n="24" />chi ahalpuh chire, naquila mixi –
 <lb n="25" />tiouic qha chic ta xti chic vbeleh
-<lb n="26" />culel ahi. xqha naqui chamiabac
+<lb n="26" />culel ahi. xqha naqui chamiabaca<rs ana="CHAMIYABAQ">
 <lb n="27" />xcha ahalcana chire naquila
 <lb n="28" />mi xitiouic xcha chic ta xti chic
 <lb n="29" />lahuh cubulel ahi naqui qha
-<lb n="30" />mia holom xqha chamia bac na
+<lb n="30" />mia holom xqha chamia baca<rs ana="CHAMIYABAQ"> na
 <lb n="31" />quila mi xitiouic xqha chic ta xti
 <lb n="32" />chic vhulah culel ahi xqha chic
 <lb n="33" />naqui qha chic chamiaholom chi –
 <lb n="34" />re na quila mi xitiouic xqha chic
 <lb n="35" />ta xti chic vcablahuh culel a –
-<lb n="36" />hi xqha qhic naqui patan xqha
+<lb n="36" />hi xqha qhic naqui patan<rs ana="PATAN"> xqha
 <lb n="37" />chic chire naquila mixitiouic
 <lb n="38" />xqha chic ta xti chic roxlahuh
 <lb n="39" />culel ahi naqui, quic xic qha –
-<lb n="40" />patan chirech naquila mi xitio
+<lb n="40" />patan<rs ana="PATAN"> chirech naquila mi xitio
 <lb n="41" />vic xqha chic ta xti chic vcah –
 <lb n="42" />lahuh culel ahi naquila mixitiovic
 <lb n="43" />xqha chic quic ri xcac
@@ -114,14 +114,14 @@
 <lb n="11" /><abbr>q’</abbr>
 <expan>que</expan>es esp vucub came <abbr>q’</abbr>
 <expan>que</expan>te ha mordído le
-<lb n="12" />díxo el quínto. ayay. díxo xíquírípat.
+<lb n="12" />díxo el quínto. ayay. díxo <rs ana="KUCHUMA_KIK">.
 <lb n="13" />y le díxo vucub came <abbr>q’</abbr>
 <expan>que</expan>le ha mordido?
 <lb n="14" />y mordío al sexto y díxo: ay. <abbr>q’</abbr>
 <expan>que</expan>es eso, cu –
 <lb n="15" />chu maquíc <abbr>q’</abbr>
 <expan>que</expan>te ha mordído? ledíxo
-<lb n="16" />xíquírípat. <abbr>q’</abbr>
+<lb n="16" /><rs ana="KUCHUMA_KIK">. <abbr>q’</abbr>
 <expan>que</expan>es eso <abbr>q’</abbr>
 <expan>que</expan>te ha mordído di –
 <lb n="17" />xo quando mordío al septímo <abbr>q’</abbr>
@@ -130,32 +130,32 @@
 <expan>que</expan>te ha mordído ahalpuh? dixo cu –
 <lb n="19" />chu maquíC. y quando mordío al octauo
 <lb n="20" /><abbr>q’</abbr>
-<expan>que</expan>díxo ay, le díxo ahal puh. <abbr>q’</abbr>
+<expan>que</expan>díxo ay, le díxo ahal puh<rs ana="AJAL_PUJ">. <abbr>q’</abbr>
 <expan>que</expan>es eso ahal
 <lb n="21" />cana <abbr>q’</abbr>
 <expan>que</expan>te mordío? y quando mordío al
 <lb n="22" />nono <abbr>q’</abbr>
 <expan>que</expan>estaba sentado, <abbr>q’</abbr>
 <expan>que</expan>díxo: ay. le
-<lb n="23" />díxo ahal cana, <abbr>q’</abbr>
-<expan>que</expan>te mordío chamí bac?
+<lb n="23" />díxo ahal cana<rs ana="AJAL_QANA"><rs ana="AJAL_QANA">, <abbr>q’</abbr>
+<expan>que</expan>te mordío chamí baca<rs ana="CHAMIYABAQ">?
 <lb n="24" />y quando mordío al deçímo, <abbr>q’</abbr>
 <expan>que</expan>dixo: ay.
 <lb n="25" />le díxo chamía buc, <abbr>q’</abbr>
 <expan>que</expan>te mordío cha –
 <lb n="26" />mía holom? y mordíendo al vndeçí –
 <lb n="27" />mo, <abbr>q’</abbr>
-<expan>que</expan>dixo ay. le díxo chamía holom
+<expan>que</expan>dixo ay. le díxo chamía holom<rs ana="CHAMIYAJOLOM">
 <lb n="28" /><abbr>q’</abbr>
 <expan>que</expan>te mordío? y mordío al duodeçí –
 <lb n="29" />mo, <abbr>q’</abbr>
 <expan>que</expan>dixo ay ledixo otra uez. <abbr>q’</abbr>
 <expan>que</expan>te mor –
-<lb n="30" />dío patan? y mordíendo al terçío de
+<lb n="30" />dío patan<rs ana="PATAN">? y mordíendo al terçío de
 <lb n="32" />çímo <abbr>q’</abbr>
 <expan>que</expan>dixo ay. le dixo otra vez: <abbr>q’</abbr>
 <expan>que</expan>te
-<lb n="32" />mordío quíc xíc. le díjo patan. y mor
+<lb n="32" />mordío quíc xíc. le díjo patan<rs ana="PATAN">. y mor
 <lb n="33" />díendo al quarto deçímo <abbr>q’</abbr>
 <expan>que</expan>dixo ay
 <lb n="34" />le díxo a quíc ríx eae, quíc re. <abbr>q’</abbr>
