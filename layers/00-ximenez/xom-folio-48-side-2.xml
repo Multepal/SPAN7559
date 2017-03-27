@@ -42,16 +42,16 @@
                 <div type="col" n="48.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p> 
-                <lb /> caib vbihun vqahol balamqui –
-                <lb /> tze rech ronohel coaui quib
-                <lb /> coacutec vbi vqahol balam
-                <lb /> acab xarechnihaibab coaha –
-                <lb /> u vbi hun chic vqahol mahu –
-                <lb /> cutah rech ahau quiche. are
+                <lb /> <rs ana="KOKAIB">caib</rs> vbihun vqahol <rs ana="BALAM_KITZE">balamqui –
+                <lb /> tze</rs> rech ronohel <rs ana="KAWEQ">coaui quib</rs>
+                <lb /> <rs ana="KOAKUTEK">coacutec</rs> vbi vqahol <rs ana="BALAM_AQAB">
+                <lb /> acab</rs> xarech<rs ana="NIJAIB">nihaibab</rs> <rs ana="KOAJAW">coaha –
+                <lb /> u</rs> vbi hun chic vqahol <rs ana="MAJUKUTAJ">mahu –
+                <lb /> cutah</rs> rech <rs ana="AJAW_KICHE">ahau quiche</rs>. are
                 <lb /> cu quibiri xebe chila chaca pa –
                 <lb /> lo eoxib ta xebec xavi qo qui –
                 <lb /> naoh qopu quetamabal ma –
-                <lb /> 10 na xa et vinac qui qoheic xqui
+                <lb /> na xa et vinac qui qoheic xqui
                 <lb /> pixabah canoc ronohel catz
                 <lb /> qui chac quequicotic xebec ma –
                 <lb /> ui cohcamic cohvlic xeqha ia
@@ -63,47 +63,47 @@
                 <lb /> bal quih xeoponvi.
                 </p> 
                 <p>
-                <lb /> Ta xeopon cut chuvach ahau
-                <lb /> nacxit vbi nim ahau xahu
+                <lb /> <hi rend="large">T</hi>a xeopon cut chuvach ahau
+                <lb /> <rs ana="NAKXIT">nacxit</rs> vbi nim ahau xahu
                 <lb /> catol tzih tzatz rahauarem are
                 <lb /> cut xyau vloc retal ahauarem
                 <lb /> ronohel vvachinel ta xpetic re
-                <lb /> tal ahpopol, ahpopcamhail ta
+                <lb /> tal <rs ana="AJPOP">ahpopol</rs>, <rs ana="AJPOP_KAMJA">ahpop camhail</rs> ta
                 <lb /> xpe cut retal veaeal rahaua –
-                <lb /> rem puch ahpop ahpop camha
-                <lb /> xquiz vya vloc nacxit vvachi –
+                <lb /> rem puch <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpop camha</rs>
+                <lb /> xquiz vya vloc <rs ana="NAKXIT">nacxit</rs> vvachi –
                 <lb /> nel rahauarem aretac vbi va
-                <lb /> 30 muh ealibah zubac chamcham
+                <lb /> muh ealibah zubac chamcham
                 <lb /> tatil canabah tzicvil cohtzicuil
                 <lb /> balam holom pich queh macu –
                 <lb /> tax tot tatam quz buz caxcon
                 <lb /> chiyom aztapulul ronohel cu
                 <lb /> quecaam ri xepetic taxquica –
-                <lb /> vlari chaca palo vtzibal tulan
+                <lb /> vlari chaca palo vtzibal <rs ana="TULÁN">tulan</rs>
                 <lb /> vtzibal xeqha chire qui oqui –
                 <lb /> nac chupan chupan quitzih.
                 </p>
                 <p> 
                 <lb /> Catepuch ta xevlic chiri chu –
-                <lb /> ui quitinamit hacavitz vbi chi –
-                <lb /> ricut xecuch vi ronohel tam –
-                <lb /> ub ilocab xecuchu quib rono –
+                <lb /> ui quitinamit <rs ana="LUGAR_DE_JAQAWITZ">hacavitz</rs> vbi chi –
+                <lb /> ricut xecuch vi ronohel <rs ana="TAMUB">tam –
+                <lb /> ub</rs> <rs ana="ILOKAB">ilocab</rs> xecuchu quib rono –
                 <lb /> hel amac xequicotic taxevlic
-                <lb /> co caib coacutec cahau xaui
+                <lb /> <rs ana="KOKAIB">co caib</rs> <rs ana="KOAKUTEK">coacutec</rs> <rs ana="KOAJAW">cahau</rs> xaui
                 <lb /> chiri chic xquicam vi cahaua –
-                <lb /> rem amac xequicotic e rabi –
-                <lb /> naleb, e eaechequeleb, ahq,i –
+                <lb /> rem amac xequicotic e <rs ana="RABINALEB">rabi –
+                <lb /> naleb</rs>, e <rs ana="KAQCHIKELEB">eaechequeleb</rs>, ahq,i –
                 </p>
                 </div>
                               	
                 <div type="col" n="48.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
                 <p>
-                <lb /> qocaíb, sellamaba elvno, híjode balamquí –
-                <lb /> tze, de todos los de cauíquíb. qoacutec, el
-                <lb /> otro híjo de balamacab, de los de níhaí –
-                <lb /> bab, qoahau. se llamaba el otro híjo de
-                <lb /> mahucutah, de los de ahauquíche. yasí
+                <lb /> <rs ana="KOKAIB">qocaíb</rs>, sellamaba elvno, híjode <rs ana="BALAM_KITZE">balamquí –
+                <lb /> tze</rs>, de todos los de <rs ana="KAWEQ">cauíquíb</rs>. <rs ana="KOAKUTEK">qoacutec</rs>, el
+                <lb /> otro híjo de <rs ana="BALAM_AQAB">balamacab</rs>, de los de <rs ana="NIJAIB">níhaí –
+                <lb /> bab</rs>, <rs ana="KOAJAW">qoahau</rs>. se llamaba el otro híjo de
+                <lb /> <rs ana="MAJUKUTAJ">mahucutah</rs>, de los de <rs ana="AJAW_KICHE">ahauquíche</rs>. yasí
                 <lb /> se llamaban los q’fueron alla de la otra
                 <lb /> parte de el mar. tres fueron los q’se fue –
                 <lb /> ron, y sabían lo q’se haçían, y no eran
@@ -114,19 +114,19 @@
                 <lb /> qo se fueron los tres. y asímesmo pasa –
                 <lb /> ron sobre el mar, y llegaron alla al
                 <lb /> oríente, y fueron a reçíuír su ímperío
-                <lb /> y este era el nombre de el Sor q’domí –
+                <lb /> y este era el nombre de el <abbr>S<hi rend="superscript">or</hi></abbr> q’domí –
                 <lb /> naba en el oríente, adonde fueron.
                 </p>
                 <p>
-                <lb /> y llegaron ante el Sor q’se llamaba nac –
-                <lb /> xít. gran Sor. y vno q’todo lo juzgaba.
+                <lb /> y llegaron ante el <abbr>S<hi rend="superscript">or</hi></abbr> q’se llamaba <rs ana="NAKXIT">nac –
+                <lb /> xít</rs>. gran <abbr>S<hi rend="superscript">or</hi></abbr>. y vno q’todo lo juzgaba.
                 <lb /> y era grande su reíno, y oeoe este lesdío
                 <lb /> con la señal de su Reyno, de todos los
                 <lb /> adeuínos, y entonçes víno señal de los
-                <lb /> grandes SSes., y de los SSes de las casas, y
+                <lb /> grandes <abbr>SS<hi rend="superscript">es</hi></abbr>., y de los <abbr>SS<hi rend="superscript">es</hi></abbr> de las casas, y
                 <lb /> entonçes víno la señal de lagrande –
                 <lb /> za, y grandes, y SSes. yacabo de dar –
-                <lb /> lo todo el nacxít, los adeuínos, y for –
+                <lb /> lo todo el <rs ana="NAKXIT">nacxít</rs>, los adeuínos, y for –
                 <lb /> ma de el Reyno. y era todo esto. el tro
                 <lb /> no, flauta, cham cham. otra flauta. chal –
                 <lb /> chíguítes, tzícvil cohtzícuíl balam, ho
@@ -135,19 +135,19 @@
                 <lb /> polul. y todo lo trageron cargado quan –
                 <lb /> do víníeron, y lo trageron de la otra
                 <lb /> parte de el mar, su escrítura, y píntura
-                <lb /> de tulan, su escrítura, díxeron a esto q’
+                <lb /> de <rs ana="TULÁN">tulan</rs>, su escrítura, díxeron a esto q’
                 <lb /> es mucho lo q’pusíeron en sus tradíçí –
                 <lb /> ones.
                 </p>
                 <p> 
                 <lb /> y luego quando llegaron asu pueblo
-                <lb /> q’se llamaba hacauítz, allí se juntaron
-                <lb /> todos los de tamub, e ílocab, y todos los
+                <lb /> q’se llamaba <rs ana="LUGAR_DE_JAQAWITZ">hacauítz</rs>, allí se juntaron
+                <lb /> todos los de <rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>, y todos los
                 <lb /> pueblos, y se alegraron desu venída de
-                <lb /> qocaíb, qoacutec, qoahau. yallí otra uez
+                <lb /> <rs ana="KOKAIB">qocaíb</rs>, <rs ana="KOAKUTEK">qoacutec</rs>, <rs ana="KOAJAW">qoahau</rs>. yallí otra uez
                 <lb /> tomaron el señorío de los pueblos, y se
-                <lb /> alegraron los de Rabinal, eaechíque
-                <lb /> les, y los de q’íquínaha.
+                <lb /> alegraron los de <rs ana="RABINALEB">Rabinal</rs>, <rs ana="KAQCHIKELEB">eaechíque
+                <lb /> les</rs>, y los de q’íquínaha.
                 </p>
                                
                 
