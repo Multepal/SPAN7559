@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">03</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 03, Side 1. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/>líca mas<abbr>q'</abbr>las dos partes de su <abbr>th<hi rend="superscript">a</hi>.</abbr> deel <abbr>N<hi rend="superscript">e</hi>.</abbr> <abbr>P<hi rend="superscript">e</hi>.</abbr> <abbr>fr.</abbr> Domíngo de Víco, y el <unclear n="1">catezísmo</unclear>
+            	<lb n="2"/><abbr>q'</abbr>como no han pasado de manuscríptos, es muy raro el<abbr>q'</abbr>se halla, y tengo por expe
+            	<lb n="3"/>ríençía <abbr>q'</abbr>los índíos <abbr>q'</abbr> han tenído dícha de leerlos han reçíuído mucho bíen en sus al -
+            	<lb n="4"/>mas, <abbr>q'</abbr>sí se vbíeran ímpreso díchos líbros muchos, o todos ubíuran gozado de este
+            	<lb n="5"/>bíen; y hasído tal la desgraçía de estos pobres, <abbr>q'</abbr>auíendo consultado tantos díspa -
+            	<lb n="6"/>rates a la Magestad, sus mínístros, y otros <abbr>q'</abbr>no lo son, no ha auído quíen esto lo tome
+            	<lb n="7"/>en voca, <abbr>q'</abbr>no dudo de supíedad, y deseo, deel bíen de su Vasallos, y mas de
+            	<lb n="8"/>estos, <abbr>q'</abbr>tíene asu cargo como menores, <abbr>q'</abbr>no dudara gastar lo neçesarío en esta
+            	<lb n="9"/>obra, para <abbr>q'</abbr>todos gozasen de este bíen. esto era lo <abbr>q'</abbr> auían de consultar, y no <abbr>q'</abbr>apren
+            	<lb n="10"/>díeren la doctrína chrístíana en lengua castellana, como lo han consultado, <abbr>q'</abbr>
+            	<lb n="11"/>no dudo afírmar, <abbr>q'</abbr>el <abbr>q'</abbr>tal consulto fue algun mínístro <abbr>q'</abbr>el demonío tomo <abbr>p<hi rend="superscript">a</hi></abbr>
+            	<lb n="12"/>
+            	<lb n="13"/>
+            	<lb n="14"/>
+            	<lb n="15"/>
+            	<lb n="16"/>
+            	<lb n="17"/>
+            	<lb n="18"/>
+            	<lb n="19"/>
+            	<lb n="20"/>
+            	<lb n="21"/>
+            	<lb n="22"/>
+            	<lb n="23"/>
+            	<lb n="24"/>
+            	<lb n="25"/>
+            	<lb n="26"/>
+            	<lb n="27"/>
+            	<lb n="28"/>
+            	<lb n="29"/>
+            	<lb n="30"/>
+            	<lb n="31"/>
+            	<lb n="32"/>
+            	<lb n="33"/>
+            	<lb n="34"/>
+            	<lb n="35"/>
+            	<lb n="36"/>
+            	<lb n="37"/>
+            	<lb n="38"/>
+            	<lb n="39"/>
+            	<lb n="40"/>
+            	<lb n="41"/>
+            	<lb n="42"/>
+            	<lb n="43"/>
+            	<lb n="44"/>
+            	<lb n="45"/>
+            	<lb n="46"/>
+            	<lb n="47"/>
+            </p>
+        </body>
+    </text>
+</TEI>
