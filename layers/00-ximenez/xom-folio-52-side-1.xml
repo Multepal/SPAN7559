@@ -94,7 +94,13 @@
                 </div>
                 <div type="col" n="52.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
-               	<p>	
+               	<p>
+               	<note place="margin-right" type="pagination">
+                	<num rend="large">
+                	<hi rend="handwriting;color:pencil">52
+                		</hi>
+                			</num>
+                				</note>
                 	<lb/>lagroso en su ser. y era espanto ante
                 	<lb/>todos los SSes. y se desparçío esta notí –
                 	<lb/>cía, y lo oyeron todos los SSesy los pue –
