@@ -74,9 +74,9 @@
             	<lb n="31" /><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs> <add>¶</add> cate cut
             	<lb n="32" />vbixic ri chiquech ri enic vachi –
             	<lb n="33" />nel, ratit quih ratit zac que
-            	<lb n="34" />vqhaxic cumal ri <rs ana="TZAQOL">ꜩacol <rs ana="BITOL">bitol
-            	<lb n="35" />are qui bi ri <rs ana="XPIYAKOK">xpiyacoc, <rs ana="IXMUKANE">xmuca –
-            	<lb n="36" />ne
+            	<lb n="34" />vqhaxic cumal ri <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>
+            	<lb n="35" />are qui bi ri <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmuca –
+            	<lb n="36" />ne</rs>
             	<lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="UKUX_KAJ">huracan</rs> ruq <rs ana="TEPEW_QUKUMATZ">te –
             	<lb n="38" />peu gucumaꜩ</rs> ta xquibih chire –
             	<lb n="39" />ch ahquih ah bit enic vachi – 
@@ -84,7 +84,7 @@
             	<lb n="41" />ta chic chi cauinac bitoh, chica
             	<lb n="42" />vinac ꜩacoh ta chic ꜩucul cool coh
             	<lb n="43" />ziquixtah, cohnabaxtah puch, ca –
-            	<lb n="44" />toc ta cut pa ꜩih <rs ana="IXMUKANE">iyom <rs ana="XPIYAKOK">mamom
+            	<lb n="44" />toc ta cut pa ꜩih <rs ana="IXMUKANE">iyom</rs> <rs ana="XPIYAKOK">mamom</rs>
             	<lb n="45" />catit camam <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmuca
             	<lb n="46" />ne</rs> chatah ta chavaxoc, ta zaqui–
             	<lb n="47" />roc ca ziquixic, ca toquexic ca
@@ -125,10 +125,12 @@
             	<!-- SHOULD ABUELA DE EL DÍA Y LA LUNA BE MARKED UP AS XPIYACOC AND XMUCANE AND IF SO HOW -->
             	<lb n="30" />hazedores, y fabrícadores, y estos eran
             	<lb n="31" />los nombres de <rs ana="XPIYAKOK">xpíyacoc</rs>, y <rs ana="IXMUKANE">xmucane</rs>.
+            	</p>
             	<lb />
             	<lb />
             	<lb />
             	<lb />
+            	<p>
             	<lb n="32" />y díxeron aquel <rs ana="UKUX_KAJ">huracan</rs>, con <rs ana="TEPEW_QUKUMATZ">tepeu
             	<lb n="33" />y gucumaꜩ</rs> <abbr>q<hi rend="superscript">o</hi></abbr> ledixeron al de el sol, o
             	<lb n="34" />adivino, al formador adívíno alcan –
