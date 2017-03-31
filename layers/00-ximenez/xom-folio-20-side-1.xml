@@ -146,18 +146,17 @@
                 	<expan>Madre</expan>
                 	</choice></rs> no os
                 <lb n="18" />aflíxaís aquí estamos <rs ana="HERO_TWINS">nosotros, tus níetos</rs>, no
-                <!-- How to represent the half-brothers of the Hero Twins? "nuestros hermanos" -->
-                <lb n="19" />sotros somos substitutos de nuestros hermanos
+                <lb n="19" />sotros somos substitutos de <rs ana="HERMANOS_ARTESANOS">nuestros hermanos</rs>
                 <lb n="20" />esto díxeron el <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y
                 <lb n="21" />entonces tomando sus hachas, y azadones
                 <lb n="22" />se fueron con sus çeruatanas al hombro. y
-                <lb n="23" />salíendo de sus casas auísaron a su abuela
+                <lb n="23" />salíendo de sus casas auísaron a <rs ana="IXMUKANE">su abuela</rs>
                 <lb n="24" />
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>les llevase su comída, al medío día. esta
-                <lb n="25" />bíen níetos míos díxo <rs ana="IXMUKANE">la víeja</rs>. y llegan
+                <lb n="25" />bíen <rs ana="HERO_TWINS">níetos míos</rs> díxo <rs ana="IXMUKANE">la víeja</rs>. y llegan
                 <lb n="26" />do ala mílpa, donde auían desembrar
                 <lb n="27" />clauaron el azadon en la tíerra, y mucho
                 <lb n="28" />era lo 
