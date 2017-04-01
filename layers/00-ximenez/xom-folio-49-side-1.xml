@@ -42,104 +42,105 @@
                 <div type="col" n="49.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p> 
-                <lb /> quinaha xetal1 xcutun chiqui –
-                <lb /> vach ri vnimal ahauarem nim
-                <lb /> chic qui qoheic chuxic amac ma –
-                <lb /> nabe xquiz taquicut cahauarem
-                <lb /> are eqo chiri hacavitz xaqo
-                <lb /> cuq ronohel ri xpe relebal quih
-                <lb /> naht chicut xquiban chiri chu
-                <lb /> ui huyub equichic chiconohel
-                <lb /> chiricut xecam vi quixoquil
-                <lb /> balam quitze, balam acab, ma
-                <lb /> hucutah ta xepetic xcocotah chi –
-                <lb /> canoc ri qui huyub al. hunchi –
-                <lb /> huyub xquitzucuh are que –
-                <lb /> tique vi maui ahilam huyub
-                <lb /> xetique vi ta xecobic ta xebina
-                <lb /> ah puch chire ri xemolomanic
-                <lb /> xechihomanic e nabe cachuch
-                <lb /> enabe cacahau xeqha oher
-                <lb /> tacvinac taxquitzihoh taxqui
-                <lb /> toloba pu canahoc nabe quitinamit
-                <lb /> hacavitz vbi taxeul
-                <lb /> chicuchiri xquitiquilibeh chic
-                <lb /> huntinamit chiquix vbi naht
-                <lb /> chi xquiban chiri chuvi hu
-                <lb /> chob tinamit quemialanic
-                <lb /> queqaholanic puch chiri que
-                <lb /> ecotac vi aretac cahi huyub
-                <lb /> va xahun xchoc vi vbiri qui
-                <lb /> tinamit. xquiculuba qui mial
-                <lb /> qui qahol xa qui chiquizipah
-                <lb /> xatocobanic xapu maihanic
-                <lb /> chiquibano rahil quimial chi –
-                <lb /> quicamo xa vtz qui qoheic x –
-                <lb /> quibano. ta xeico chiri chuvi
-                <lb /> hutac chob chitinamit. va tac
-                <lb /> vbi e chiquix, chiqu chac, humeta
-                <lb /> ha, culba, cavinal, vbi
-                <lb /> huyub xeyaluh vi arecut ca –
-                <lb /> quinic vachih ri huyub qui ti
-                <lb /> namit puch vlah huyub ca –
-                <lb /> quitzucuh ecaquichic chico –
-                <lb /> nohel xacu caminac oc ri
-                <lb /> camol ahauarem relebal
-                <lb /> quih e mamaxel chic xevl
-                <lb /> chiri chuvi hun2 tinamit ma –
-                <lb /> naxucam quivach rixeico
-                <lb /> vi hetac vivloc caxcolrail
+                <lb n = "1"/> quinaha xetal1 xcutun chiqui –
+                <lb n = "2"/> vach ri vnimal ahauarem nim
+                <lb n = "3"/> chic qui qoheic chuxic amac ma –
+                <lb n = "4"/> nabe xquiz taquicut cahauarem
+                <lb n = "5"/> are eqo chiri <rs ana="LUGAR_DE_JAQAWITZ">hacavitz</rs> xaqo
+                <lb n = "6"/> cuq ronohel ri xpe relebal quih
+                <lb n = "7"/> naht chicut xquiban chiri chu
+                <lb n = "8"/> ui huyub equichic chiconohel
+                <lb n = "9"/> chiricut xecam vi quixoquil
+                <lb n = "10"/> <rs ana="BALAM_KITZE">balam quitze</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">ma
+                <lb n = "11"/> hucutah</rs> ta xepetic xcocotah chi –
+                <lb n = "12"/> canoc ri qui huyub al. hunchi –
+                <lb n = "13"/> huyub xquitzucuh are que –
+                <lb n = "14"/> tique vi maui ahilam huyub
+                <lb n = "15"/> xetique vi ta xecobic ta xebina
+                <lb n = "16"/> ah puch chire ri xemolomanic
+                <lb n = "17"/> xechihomanic e nabe cachuch
+                <lb n = "18"/> enabe cacahau xeqha oher
+                <lb n = "19"/> tacvinac taxquitzihoh taxqui
+                <lb n ="20"/> toloba pu canahoc nabe quitinamit
+                <lb n = "21"/> <rs ana="LUGAR_DE_JAQAWITZ">hacavitz</rs> vbi taxeul
+                <lb n = "22"/> chicuchiri xquitiquilibeh chic
+                <lb n = "23"/> huntinamit <rs ana="CHI_KIX">chiquix</rs> vbi naht
+                <lb n = "24"/> chi xquiban chiri chuvi hu
+                <lb n = "25"/> chob tinamit quemialanic
+                <lb n = "26"/> queqaholanic puch chiri que
+                <lb n = "27"/> ecotac vi aretac cahi huyub
+                <lb n = "28"/> va xahun xchoc vi vbiri qui
+                <lb n = "29"/> tinamit. xquiculuba qui mial
+                <lb n = "30"/> qui qahol xa qui chiquizipah
+                <lb n = "31"/> xatocobanic xapu maihanic
+                <lb n = "32"/> chiquibano rahil quimial chi –
+                <lb n = "33"/> quicamo xa vtz qui qoheic x –
+                <lb n = "34"/> quibano. ta xeico chiri chuvi
+                <lb n = "35"/> hutac chob chitinamit. va tac
+                <lb n = "36"/> vbi e <rs ana="CHI_KIX">chiquix</rs>, <rs ana="CHI_CHAQ">chiq <unclear reason ="ink blot">u</unclear> chac</rs>, hu-                
+                <lb n = "37"/> metaha, <rs ana="KULBA">culba</rs>, <rs ana="KAWINAL">cavinal</rs>, vbi
+                <lb n = "38"/> huyub xeyaluh vi arecut ca –
+                <lb n = "39"/> quinic vachih ri huyub qui ti
+                <lb n = "40"/> namit puch vlah huyub ca –
+                <lb n = "41"/> quitzucuh ecaquichic chico –
+                <lb n = "42"/> nohel xacu caminac oc ri
+                <lb n = "43"/> camol ahauarem relebal
+                <lb n = "44"/> quih e mamaxel chic xevl
+                <lb n = "45"/> chiri chuvi hun2 tinamit ma –
+                <note place = "margin-left">ꜩu</note>
+                <lb n = "46"/> naxucam quivach rixeico
+                <lb n = "47"/> vi hetac vivloc caxcolrail
                 </p>
                 </div>
                 <div type="col" n="49.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
                 <p> 
-                <lb /> y manífestaron las señales, y sígnosq’
-                <lb /> haían desu Reyno. y fue grande su
-                <lb /> ser delos pueblos, y no se acababa qo ma –
-                <lb /> nífestaron las señales desu ímperío
-                <lb /> y estaban allí enhacauítz, y con ellos to –
-                <lb /> los q’víníeron de el oríente, y fueron
-                <lb /> a haçer largo camíno. y sobre el mon
-                <lb /> te eran ya muchos todos. y allí se mu –
-                <lb /> ríeron las mugeres de balamquítze
-                <lb /> balam acab, y mahucutah. y quando
-                <lb /> víníeron dexaron aquella su mo –
-                <lb /> rada, y buscaron otra habitaçíon
-                <lb /> adonde se plantasen, y no eran con –
-                <lb /> tables los çerros q’ habítaron, qo se
-                <lb /> multíplícaron, y aumentaron, y an
-                <lb /> duuíeron. y se amontonaron, nuestros
-                <lb /> prímeros padres, y madres, díxe –
-                <lb /> ron los antíguos, quando díeron notí –
-                <lb /> çía de el primer pueblo q’despobla –
-                <lb /> ron q’se llamaba hacauítz. y entonçes víníeron
-                <lb /> a poblar otro q’se lla –
-                <lb /> maba chíquíx. en las espínas. y mu –
-                <lb /> cho se estuuíeron sobre aquel otro
-                <lb /> pueblo, y allí se multíplícaron, tuuí –
-                <lb /> eron híjos, e híjas. y allí estaban en
-                <lb /> muchos çerros q’eran quatro, y solo le —
-                <lb /> pusíeron el nombre de vno asu pu –
-                <lb /> eblo. y casaron asus híjas, y sus hí –
-                <lb /> jos, y solo las repartían, y solo en a
-                <lb /> gradeçímíento, tomaban el preçío
-                <lb /> desus híjas. y era bueno el ser q’te —
-                <lb /> nían, y luego pasaron de aquellos
-                <lb /> çerros, cada vna de las tríbus, y tac .
-                <lb /> o muchos era el nombre de quix.`el
-                <lb /> vno, otro chíchat, otro humetabs, y
-                <lb /> otro culba, y otro cauínal. estos eran
-                <lb /> los nombres de los çerros donde se
-                <lb /> detuuíeron. estabanmírando los
-                <lb /> çerros desu pueblo q’buscaban. y
-                <lb /> eran ya muchos, todos, y auían ya
-                <lb /> muerto los q’auían ydo atomar el
-                <lb /> ímperío al oríente. ya víejos vi
-                <lb /> níeron de allí sobre cada vno de
-                <lb /> los pueblos, y nose hallaron en aque –
-                <lb /> llos montes qo pasaron, y muchos tra –
-                <lb /> baxos pasaron
+                <lb n = "1"/> y manífestaron las señales, y sígnos <abbr>q’</abbr>
+                <lb n = "2"/> haían desu Reyno. y fue grande su
+                <lb n = "3"/> ser delos pueblos, y no se acababa qo ma –
+                <lb n = "4"/> nífestaron las señales desu ímperío
+                <lb n = "5"/> y estaban allí en<rs ana="LUGAR_DE_JAQAWITZ">hacauítz</rs>, y con ellos to –
+                <lb n = "6"/> los q’víníeron de el oríente, y fueron
+                <lb n = "7"/> a haçer largo camíno. y sobre el mon
+                <lb n = "8"/> te eran ya muchos todos. y allí se mu –
+                <lb n = "9"/> ríeron las mugeres de <rs ana="BALAM_KITZE">balamquítze</rs>
+                <lb n = "10"/> <rs ana="BALAM_AQAB">balam acab</rs>, y <rs ana="MAJUKUTAJ">mahucutah</rs>. y quando
+                <lb n = "11"/> víníeron dexaron aquella su mo –
+                <lb n = "12"/> rada, y buscaron otra habitaçíon
+                <lb n = "13"/> adonde se plantasen, y no eran con –
+                <lb n = "14"/> tables los çerros <abbr>q'</abbr> habítaron, qo se
+                <lb n = "15"/> multíplícaron, y aumentaron, y an
+                <lb n = "16"/> duuíeron. y se amontonaron, nuestros
+                <lb n = "17"/> prímeros padres, y madres, díxe –
+                <lb n = "18"/> ron los antíguos, quando díeron notí –
+                <lb n = "19"/> çía de el primer pueblo q’despobla –
+                <lb n = "20"/> ron q’se llamaba <rs ana="LUGAR_DE_JAQAWITZ">hacauítz</rs>. y entonçes víníeron
+                <lb n = "21"/> a poblar otro <abbr>q’</abbr>se lla –
+                <lb n = "22"/> maba <rs ana="CHI_KIX">chíquíx</rs>. en las espínas. y mu –
+                <lb n = "23"/> cho se estuuíeron sobre aquel otro
+                <lb n = "24"/> pueblo, y allí se multíplícaron, tuuí –
+                <lb n = "25"/> eron híjos, e híjas. y allí estaban en
+                <lb n = "26"/> muchos çerros q’eran quatro, y solo le —
+                <lb n = "27"/> pusíeron el nombre de vno asu pu –
+                <lb n = "28"/> eblo. y casaron asus híjas, y sus hí –
+                <lb n = "29"/> jos, y solo las repartían, y solo en a
+                <lb n = "30"/> gradeçímíento, tomaban el preçío
+                <lb n = "31"/> desus híjas. y era bueno el ser <abbr>q’</abbr>te —
+                <lb n = "32"/> nían, y luego pasaron de aquellos
+                <lb n = "33"/> çerros, cada vna de las tríbus, y tac .
+                <lb n = "34"/> o muchos era el nombre de <rs ana="CHI_KIX">quix</rs>.`el
+                <lb n = "35"/> vno, otro <rs ana="CHI_CHAQ">chíchat</rs>, otro <rs ana="JUMETA_JA">humetabs</rs>, y
+                <lb n = "36"/> otro <rs ana="KULBA">culba</rs>, y otro <rs ana="KAWINAL">cauínal</rs>. estos eran
+                <lb n = "37"/> los nombres de los çerros donde se
+                <lb n = "38"/> detuuíeron. estabanmírando los
+                <lb n = "39"/> çerros desu pueblo q’buscaban. y
+                <lb n = "40"/> eran ya muchos, todos, y auían ya
+                <lb n = "41"/> muerto los q’auían ydo atomar el
+                <lb n = "42"/> ímperío al oríente. ya víejos vi
+                <lb n = "43"/> níeron de allí sobre cada vno de
+                <lb n = "44"/> los pueblos, y nose hallaron en aque –
+                <lb n = "45"/> llos montes qo pasaron, y muchos tra –
+                <lb n = "46"/> baxos pasaron
                 </p>
                 </div>
             </div>
