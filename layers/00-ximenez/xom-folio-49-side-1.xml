@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Matthew Richey</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -41,17 +41,23 @@
             <div type="page" n="49.1" xml:id="xom-f49-s1">
                 <div type="col" n="49.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <note place="margin-left" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">49
+                </hi>
+                </num>
+                </note>
                 <p> 
-                <lb n = "1"/> quinaha xetal1 xcutun chiqui –
+                <lb n = "1"/> quinaha xe<add place="above">ar</add>tal1 xcutun chiqui –
                 <lb n = "2"/> vach ri vnimal ahauarem nim
                 <lb n = "3"/> chic qui qoheic chuxic amac ma –
                 <lb n = "4"/> nabe xquiz taquicut cahauarem
-                <lb n = "5"/> are eqo chiri <rs ana="LUGAR_DE_JAQAWITZ">hacavitz</rs> xaqo
+                <lb n = "5"/> are eqo chiri <rs ana="LUGAR_DE_JAQAWITZ">hacaviꜩ</rs> xaqo
                 <lb n = "6"/> cuq ronohel ri xpe relebal quih
                 <lb n = "7"/> naht chicut xquiban chiri chu
                 <lb n = "8"/> ui huyub equichic chiconohel
                 <lb n = "9"/> chiricut xecam vi quixoquil
-                <lb n = "10"/> <rs ana="BALAM_KITZE">balam quitze</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">ma
+                <lb n = "10"/> <rs ana="BALAM_KITZE">balam quiꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">ma
                 <lb n = "11"/> hucutah</rs> ta xepetic xcocotah chi –
                 <lb n = "12"/> canoc ri qui huyub al. hunchi –
                 <lb n = "13"/> huyub xquitzucuh are que –
@@ -94,10 +100,16 @@
                 </div>
                 <div type="col" n="49.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <note place="margin-right" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">49
+                </hi>
+                </num>
+                </note>
                 <p> 
                 <lb n = "1"/> y manífestaron las señales, y sígnos <abbr>q’</abbr>
                 <lb n = "2"/> haían desu Reyno. y fue grande su
-                <lb n = "3"/> ser delos pueblos, y no se acababa qo ma –
+                <lb n = "3"/> ser delos pueblos, y no se acababa <abbr>q<add place="above">o</add></abbr> ma –
                 <lb n = "4"/> nífestaron las señales desu ímperío
                 <lb n = "5"/> y estaban allí en<rs ana="LUGAR_DE_JAQAWITZ">hacauítz</rs>, y con ellos to –
                 <lb n = "6"/> los q’víníeron de el oríente, y fueron
@@ -108,7 +120,7 @@
                 <lb n = "11"/> víníeron dexaron aquella su mo –
                 <lb n = "12"/> rada, y buscaron otra habitaçíon
                 <lb n = "13"/> adonde se plantasen, y no eran con –
-                <lb n = "14"/> tables los çerros <abbr>q'</abbr> habítaron, qo se
+                <lb n = "14"/> tables los çerros <abbr>q'</abbr> habítaron, <abbr>q<add place="above">o</add></abbr> se
                 <lb n = "15"/> multíplícaron, y aumentaron, y an
                 <lb n = "16"/> duuíeron. y se amontonaron, nuestros
                 <lb n = "17"/> prímeros padres, y madres, díxe –
@@ -120,7 +132,7 @@
                 <lb n = "23"/> cho se estuuíeron sobre aquel otro
                 <lb n = "24"/> pueblo, y allí se multíplícaron, tuuí –
                 <lb n = "25"/> eron híjos, e híjas. y allí estaban en
-                <lb n = "26"/> muchos çerros q’eran quatro, y solo le —
+                <lb n = "26"/> muchos çerros <abbr>q’</abbr>eran quatro, y solo le —
                 <lb n = "27"/> pusíeron el nombre de vno asu pu –
                 <lb n = "28"/> eblo. y casaron asus híjas, y sus hí –
                 <lb n = "29"/> jos, y solo las repartían, y solo en a
@@ -130,16 +142,16 @@
                 <lb n = "33"/> çerros, cada vna de las tríbus, y tac .
                 <lb n = "34"/> o muchos era el nombre de <rs ana="CHI_KIX">quix</rs>.`el
                 <lb n = "35"/> vno, otro <rs ana="CHI_CHAQ">chíchat</rs>, otro <rs ana="JUMETA_JA">humetabs</rs>, y
-                <lb n = "36"/> otro <rs ana="KULBA">culba</rs>, y otro <rs ana="KAWINAL">cauínal</rs>. estos eran
+                <lb n = "36"/> otro <rs ana="KULBA"><hi rend="underline;color:blue-ink">culba</hi></rs>, y otro <rs ana="KAWINAL">cauínal</rs>. estos eran
                 <lb n = "37"/> los nombres de los çerros donde se
                 <lb n = "38"/> detuuíeron. estabanmírando los
-                <lb n = "39"/> çerros desu pueblo q’buscaban. y
+                <lb n = "39"/> çerros desu pueblo <abbr>q’</abbr>buscaban. y
                 <lb n = "40"/> eran ya muchos, todos, y auían ya
-                <lb n = "41"/> muerto los q’auían ydo atomar el
+                <lb n = "41"/> muerto los <abbr>q’</abbr>auían ydo atomar el
                 <lb n = "42"/> ímperío al oríente. ya víejos vi
                 <lb n = "43"/> níeron de allí sobre cada vno de
                 <lb n = "44"/> los pueblos, y nose hallaron en aque –
-                <lb n = "45"/> llos montes qo pasaron, y muchos tra –
+                <lb n = "45"/> llos montes <abbr>qo</abbr> pasaron, y muchos tra –
                 <lb n = "46"/> baxos pasaron
                 </p>
                 </div>
