@@ -42,7 +42,7 @@
                 <div type="col" n="26.2.1" xml:lang="quc">
                 
 <p>                 
-<lb n="1" />balba zacbuc quivac<rs ana="PELOTA">h rumal
+<lb n="1" />balba zacbuc qui <rs ana="PELOTA">vach</rs> rumal
 <lb n="2" />ri cotzih catecut xquitac ri cha –
 <lb n="3" />hal coq,ih na qui pa rumal mi –
 <lb n="4" />xia ca cotzih chi elecaxic are
@@ -52,16 +52,16 @@
 <lb n="8" />qha cut cate puch xhix quichi
 <lb n="9" />quitohbal quichahin chicle –
 <lb n="10" />caxic <expan>que</expan>he cut quichacatahic
-<lb n="11" />hun came vvcub came cu –
-<lb n="12" />mal <rs ana="JUN_JUNAJPU"> <rs ana="XBALAMKE"><expan>que</expan>
+<lb n="11" />hun came <rs ana="JUN_JUNAJPU">vvcub came cu –
+<lb n="12" />mal</rs> <expan>que</expan>
 <lb n="13" />v xe ribanoh ri. ta xquicam ri
-<lb n="14" />qui chi herebaca<rs ana="CHAMIYABAQ"> quichi purpuec
-<lb n="15" />herebaca<rs ana="CHAMIYABAQ"> vac<rs ana="PELOTA">amic cate chi –
+<lb n="14" /><rs ana="CHAMIYABAQ">qui chi</rs> herebaca <rs ana="CHAMIYABAQ">quichi</rs> purpuec
+<lb n="15" />herebaca vac<rs ana="PELOTA">amic cate chi –
 <lb n="16" />cut ta xcahchaah xaui xe
 <lb n="17" />re hunam <expan>que</expan>chaahic x<expan>que</expan>
 <lb n="18" />leh chicu chaah ta xepixaban
-<lb n="19" />chicu quib zacaric chic xeqha –
-<lb n="20" /><rs ana="XIBALBA"> vzbala xeqha qaho –
+<lb n="19" />chicu quib zacaric <rs ana="XIBALBA">chic xeqha</rs> –
+<lb n="20" /> vzbala xeqha qaho –
 <lb n="21" />lab ta x <expan>que</expan>leh.
 <lb n="22" />Xeoc chicut pateuh ha ma –
 <lb n="23" />ui ahilan teu tzatz chi zacbocom
@@ -69,23 +69,23 @@
 <lb n="25" />cu ztzah teu rumal cutz mama –
 <lb n="26" />ina xzach ri teu cumal qaho –
 <lb n="27" />lab maui xecamic xavi e
-<lb n="28" />qazlic ta xzaquiric areta cu
-<lb n="29" />xcah <rs ana="XIBALBA"> chirita xecam
+<lb n="28" />qazlic ta xzaquiric areta <rs ana="XIBALBA">cu
+<lb n="29" />xcah</rs> chirita xecam
 <lb n="30" />vi maui <expan>que</expan>he xavi qutz qui
-<lb n="31" />vac<rs ana="PELOTA">h ta xzaquiric xe<expan>que</expan>l chi –
+<lb n="31" /><rs ana="PELOTA">vach</rs> ta xzaquiric xe<expan>que</expan>l chi –
 <lb n="32" />vla tacol <expan>que</expan> xebe chic e
 <lb n="33" />chahal na quipala maui mi –
 <lb n="34" />xecamic xqha chi rahaual xi –
 <lb n="35" />balba xquimaihah chic qui –
-<lb n="36" />banoh qaholab <rs ana="JUN_JUNAJPU"> xba –
+<lb n="36" />banoh qaholab xba –
 <lb n="37" />lan<expan>que</expan>
 <lb n="38" />Cate xeoc chicut pabala
 <lb n="39" />mi ha tzatz chibalam balam
 <lb n="40" />rochoch maui cohitio qo ivech
 <lb n="41" />chuxic xevqhaxic balam cate
-<lb n="42" />cut xquipuquih baca<rs ana="CHAMIYABAQ"> chi quiva –
+<lb n="42" />cut <rs ana="CHAMIYABAQ">xquipuquih</rs> baca chi quiva –
 <lb n="43" />ch chicop cate cut <expan>que</expan>pa –
-<lb n="44" />caquic chirichuvi baca<rs ana="CHAMIYABAQ"> micu
+<lb n="44" />caquic <rs ana="CHAMIYABAQ">chirichuvi baca</rs> micu
 <lb n="45" />xevtzinic mi xutih qui qux ca –
 <lb n="46" />teviri mix xquia quib are qui –
 <lb n="47" />baquil ri caxuxic xeqha ri
@@ -104,13 +104,13 @@
 <lb n="5" />res <abbr>q’</abbr>
 <expan>que</expan>aquí vemos? no lo hemos sentído
 <lb n="6" />Sor. díxeron, y nuestras colas mírad
-<lb n="7" />como estan; y luego les rasgaron las
-<lb n="8" /><rs ana="WOK">as, en pago de auer dejado hur –
+<lb n="7" />como estan; y luego les <rs ana="WOK">rasgaron</rs> las
+<lb n="8" />as, en pago de auer dejado hur –
 <lb n="9" />tar las flores. y así fueron venzídos
 <lb n="10" />hun came, y vucub came, por hun
 <lb n="11" />ahpu, y xbala<expan>que</expan>. y este fue el prín
 <lb n="12" />çípío desus obras. y entonçes toma –
-<lb n="13" />ron su <rs ana="WOK">a de a<expan>que</expan>lla suerte rasga –
+<lb n="13" />ron  <rs ana="WOK">su</rs>a de a<expan>que</expan>lla suerte rasga –
 <lb n="14" />da el parpuac, y así esta rasgada
 <lb n="14" />agora. y luego echaron la pelota
 <lb n="15" />y juntamente jugaban, y luego
@@ -125,7 +125,7 @@
 <expan>que</expan> en ella auía, y el yelo <abbr>q’</abbr>
 <expan>que</expan>auía
 <lb n="23" />en ella, en la casa de el frío, y luego se
-<lb n="24" />agoto el frío por <rs ana="HERO_TWINS"> los mançebos, y no
+<lb n="24" />agoto el frío por  <rs ana="HERO_TWINS">los mançebos</rs>, y no
 <lb n="25" />muríeron, síno <abbr>q’</abbr>
 <expan>que</expan> vivos amaneçíeron
 <lb n="26" />y esto era lo <abbr>q’</abbr>
@@ -140,8 +140,8 @@
 <lb n="32" />erno, <abbr>q’</abbr>
 <expan>que</expan>es esto como no han muer –
 <lb n="33" />to y se maravíllaron otra vez de
-<lb n="34" />los prodígíos de <rs ana="JUN_JUNAJPU">, y de
-<lb n="35" /><rs ana="XBALAMKE"><expan>que</expan>.
+<lb n="34" />los prodígíos de, y de
+<lb n="35" /><expan>que</expan>.
 <lb n="36" />y luego entraron en la casa de los tí –
 <lb n="37" />gres, no eran constables los <abbr>q’</abbr>
 <expan>que</expan>auía en
