@@ -41,107 +41,122 @@
             <div type="page" n="49.2" xml:id="xom-f49-s2">
                 <div type="col" n="49.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <note place="margin-left" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">49
+                </hi>
+                </num>
+                </note>
                 <p>
-                <lb /> xquibano cavnaht xquiric vi
-                <lb /> quitinamit emamexel epu
-                <lb /> cahauixel va cu vbi tinamit
-                <lb /> e xevl vi
+                <lb n="1"/> xquibano cavnaht xquiric vi
+                <lb n="2"/> quitinamit emamexel epu
+                <lb n="3"/> cahauixel va cu vbi tinamit
+                <lb n="4"/> e xevl vi
                 </p>
                 <p> 
-                <lb /> Chiizmachi cut vbihuyub qui
-                <lb /> tinamit xeqohe vi chinaipuchxe
-                <lb /> amaquelab vi chiri cut xqui –
-                <lb /> tihvi eaeal xcah quichun qui
-                <lb /> zahcab chucahle oc ahauab
-                <lb /> xeqha curi conache xubeheb1
-                <lb /> queh ruqpuch ealelahau ta
-                <lb /> xahauar cutahau cotuha ruq
-                <lb /> iztayul quibi ahpop ahpopcam
-                <lb /> ha xe ahauar chiri chiizmachi
-                <lb /> vtzilah tinamit xuxic xquibano
-                <lb /> xacu oxib ri nimha xux chiri
-                <lb /> chiizmachi mahabioc rÿ huvi –
-                <lb /> nac cahib chi nimha. caoxib
-                <lb /> oc quinimha xahun vnimha
-                <lb /> cauiquib xacuhun nimha
-                <lb /> chu vach nihaibab xanaipu
-                <lb /> hun rech ahau quiche xaqui
-                <lb /> caib chinimha ri cachob chi
-                <lb /> 2chinamit are eqo chiizmachi
-                <lb /> xahunqui qux mahabi qui –
-                <lb /> tzelal mapuhabi qui cayeual
-                <lb /> lianic ahauarem mahabi
-                <lb /> qui qhaoh quiyuhuh puch xa
-                <lb /> zac xa amac qo chiqui qux ma –
-                <lb /> habi moxvachinic mapu habi
-                <lb /> eaevachinic xquibano ca chu –
-                <lb /> tinoc quieaeal maha quica –
-                <lb /> nucmaihoc mahapu ca nimar
-                <lb /> oc. taxquitihcut xquicouizah
-                <lb /> pocob chiri chiizmachi xretal
-                <lb /> cut cahauarem ri taxquiba –
-                <lb /> no xretal qui eaeal retal na –
-                <lb /> ipuquinimal taxilcut rumal
-                <lb /> ilocab ta xvinaquir labal ru
-                <lb /> malilocab xrahvl camiza x
-                <lb /> oc rÿ ahau cotuhu, xacu hun
-                <lb /> ahau xrah cuquib areri a
-                <lb /> hau ztayul xrah quitihoh x –
-                <lb /> rah tihoxcumal ilocab chica –
-                <lb /> mizanic macuxel aponoc qui
-                <lb /> moxvachibal chirihahau co –
-                <lb /> tuha xaciquih xcah vi ma
+                <lb n="5"/> <rs ana="CHI_ISMACHI">Chiizmachi</rs> cut vbihuyub qui
+                <lb n="6"/> tinamit xeqohe vi chinaipuchxe
+                <lb n="7"/> amaquelab vi chiri cut xqui –
+                <lb n="8"/> tihvi eaeal xcah quichun qui
+                <lb n="9"/> zahcab chucahle oc ahauab
+                <lb n="10"/> xeqha curi <rs ana="KONACHE">conache</rs> <rs ana="BELEJEB_KEJ">xubeheb1
+                <note place="margin-left">t/e</note>
+                <lb n="11"/> queh</rs> ruqpuch <rs ana="AJAW_QALEL">ealelahau</rs> ta
+                <lb n="12"/> xahauar cutahau <rs ana="KOTUJA">cotuha</rs> ruq
+                <lb n="13"/> <rs ana="ISTAYUL">iztayul</rs> quibi <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpopcam
+                <lb n="14"/> ha</rs> xe ahauar chiri <rs ana="CHI_ISMACHI">chiizmachi</rs>
+                <lb n="15"/> vtzilah tinamit xuxic xquibano
+                <lb n="16"/> xacu oxib ri nimha xux chiri
+                <lb n="17"/> <rs ana="CHI_ISMACHI">chiizmachi</rs> mahabioc rÿ huvi –
+                <lb n="18"/> nac cahib chi nimha. caoxib
+                <lb n="19"/> oc quinimha xahun vnimha
+                <lb n="20"/> <rs ana="KAWEQ">cauiquib</rs> xacuhun nimha
+                <lb n="21"/> chu vach <rs ana="NIJAIB">nihaibab</rs> xanaipu
+                <lb n="22"/> hun rech <rs ana="AJAW_KICHE">ahau quiche</rs> xaqui
+                <lb n="23"/> caib chinimha ri cachob chi
+                <lb n="24"/> chinamit are eqo <rs ana="CHI_ISMACHI">chiizmachi</rs>
+                <note place="margin-left">cumatzil <lb />pro.nim <lb /> <unclear reason="illegible">ba</unclear></note>
+                <lb n="25"/> xahunqui qux mahabi qui –
+                <lb n="26"/> tzelal mapuhabi qui cayeual
+                <lb n="27"/> lianic ahauarem mahabi
+                <lb n="28"/> qui qhaoh quiyuhuh puch xa
+                <lb n="29"/> zac xa amac qo chiqui qux ma –
+                <lb n="30"/> habi moxvachinic mapu habi
+                <lb n="31"/> eaevachinic xquibano ca chu –
+                <lb n="32"/> tinoc quieaeal maha quica –
+                <lb n="33"/> nucmaihoc mahapu ca nimar
+                <lb n="34"/> oc. taxquitihcut xquicouizah
+                <lb n="35"/> pocob chiri <rs ana="CHI_ISMACHI">chiizmachi</rs> xretal
+                <lb n="36"/> cut cahauarem ri taxquiba –
+                <lb n="37"/> no xretal qui eaeal retal na –
+                <lb n="38"/> ipuquinimal taxilcut rumal
+                <lb n="39"/> <rs ana="ILOKAB">ilocab</rs> ta xvinaquir labal ru
+                <lb n="40"/> malilocab xrahvl camiza x
+                <lb n="41"/> oc rÿ ahau <rs ana="KOTUJA">cotuhu</rs>, xacu hun
+                <lb n="42"/> ahau xrah cuquib areri a
+                <lb n="43"/> hau <rs ana="ISTAYUL">ztayul</rs> xrah quitihoh x –
+                <lb n="44"/> rah tihoxcumal <rs ana="ILOKAB">ilocab</rs> chica –
+                <lb n="45"/> mizanic macuxel aponoc qui
+                <lb n="46"/> moxvachibal chirihahau <rs ana="KOTUJA">co –
+                <lb n="47"/> tuha</rs> xaciquih xcah vi ma
                 </p>             
                 
                 </div>
                 <div type="col" n="49.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <note place="margin-right" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">49
+                </hi>
+                </num>
+                </note>
                 <p> 
-                <lb /> porq’ muy lexos hallaron su pueblo
-                <lb /> eran abuelos, y padres y este es el
+                <lb n ="1"/> porq’ muy lexos hallaron su pueblo
+                <lb n ="2"/> eran abuelos, y padres y este es el
                 <lb /> nombre de el pueblo a do víníeron
                 </p>
+                <lb />
                 <p>
-                <lb /> chí ízmachí es el nombre de el çer –
-                <lb /> ro, y su pueblo do estuuíeron, y don
-                <lb /> de se poblaron; y llí probaron su
-                <lb /> grandeza. y hícíeron edífíçíos de
-                <lb /> cal y canto, la quarta generacíon
-                <lb /> de Reyes, y SSes oeoedixo conache, y
-                <lb /> beleheb queh, y tambíen ealel ahau
-                <lb /> y quando reyno el Rey cotuha
-                <lb /> con íztayul q’así se llamaban SSes
-                <lb /> de trono, y alfombra, reínaron
-                <lb /> allí en ízmachí, y lo íllustraron, e
-                <lb /> hízíeron buen pueblo y solo tres ca –
-                <lb /> sas grandes auía allí en ízmachí
-                <lb /> q’ aun todauía noauí las veínte
-                <lb /> y quatro casas grandes solo tres a –
-                <lb /> uía casas grandes, vna casa grande
-                <lb /> de cauíquíb y vna casa grande los
-                <lb /> de níhaíbab, y vna casa grande de
-                <lb /> los de ahau quiche y solo dos eran
-                <lb /> las casas grandes, de las dos parci –
-                <lb /> alidades, y estaban allí en ízmachí
-                <lb /> todos en vno, sín auer maldad, ní
-                <lb /> cosa dífícíl, y solo auía paz, y quíe –
-                <lb /> tud, sín pleítos, ní ríñas, síno solo
-                <lb /> paz auía en sus corazones, sín ínuí –
-                <lb /> día, y solo era poca su grandeza. no
-                <lb /> se auían juntado en poder, ní en so –
-                <lb /> berbia. y entonçes prouaron apose –
-                <lb /> erlo con el escudo allí en ízmachí en
-                <lb /> señal de su Reynado y entonçes
-                <lb /> hízíeron la señal desu ímperio, y
-                <lb /> de su grandeza, y magestad. y ví —
-                <lb /> endo esto los de ílocab, quísíeron
-                <lb /> venír a matar a cotuha y se empe —
-                <lb /> zo la Guerra por ellos, y solo querían
-                <lb /> vn Rey pa sí y al Rey ztayul, lo
-                <lb /> quísíeron castígar, los de ílocab,
-                <lb /> con la muerte, y no salío la ímbídía
-                <lb /> de ellos contra el Rey cotuha, síno
-                <lb /> q’sobre ellos víno qo pensaban ma
+                <lb n="3"/> <rs ana="CHI_ISMACHI">chí ízmachí</rs> es el nombre de el çer –
+                <lb n="4"/> ro, y su pueblo do estuuíeron, y don
+                <lb n="5"/> de se poblaron; y llí probaron su
+                <lb n="6"/> grandeza. y hícíeron edífíçíos de
+                <lb n="7"/> cal y canto, la quarta generacíon
+                <lb n="8"/> de Reyes, y <abbr>SS<hi rend="superscript">es</hi></abbr> <unclear reason="deletion">oeoe</unclear>dixo <rs ana="KONACHE">conache</rs>, y
+                <lb n="9"/> <rs ana="BELEJEB_KEJ">beleheb queh</rs>, y tambíen <rs ana="AJAW_QALEL">ealel ahau</rs>
+                <lb n="10"/> y quando reyno el Rey <rs ana="KOTUJA">cotuha</rs>
+                <lb n="11"/> con <rs ana="ISTAYUL">íztayul</rs> <abbr>q’</abbr>así se llamaban <abbr>SS<hi rend="superscript">es</hi></abbr>
+                <lb n="12"/> de trono, y alfombra, reínaron
+                <lb n="13"/> allí en <rs ana="CHI_ISMACHI">ízmachí</rs>, y lo íllustraron, e
+                <lb n="14"/> hízíeron buen pueblo y solo tres ca –
+                <lb n="15"/> sas grandes auía allí en <rs ana="CHI_ISMACHI">ízmachí</rs>
+                <lb n="16"/> <abbr>q’</abbr> aun todauía noauí las veínte
+                <lb n="17"/> y quatro casas grandes solo tres a –
+                <lb n="18"/> uía casas grandes, vna casa grande
+                <lb n="19"/> de <rs ana="KAWEQ">cauíquíb</rs> y vna casa grande los
+                <lb n="20"/> de <rs ana="NIJAIB">níhaíbab</rs>, y vna casa grande de
+                <lb n="21"/> los de <rs ana="AJAW_KICHE">ahau quiche</rs> y solo dos eran
+                <lb n="22"/> las casas grandes, de las dos parci –
+                <lb n="23"/> alidades, y estaban allí en <rs ana="CHI_ISMACHI">ízmachí</rs>
+                <lb n="24"/> todos en vno, sín auer maldad, ní
+                <lb n="25"/> cosa dífícíl, y solo auía paz, y quíe –
+                <lb n="26"/> tud, sín pleítos, ní ríñas, síno solo
+                <lb n="27"/> paz auía en sus corazones, sín ínuí –
+                <lb n="28"/> día, y solo era poca su grandeza. no
+                <lb n="29"/> se auían juntado en poder, ní en so –
+                <lb n="30"/> berbia. y entonçes prouaron apose –
+                <lb n="31"/> erlo con el escudo allí en <rs ana="CHI_ISMACHI">ízmachí</rs> en
+                <lb n="32"/> señal de su Reynado y entonçes
+                <lb n="33"/> hízíeron la señal desu ímperio, y
+                <lb n="34"/> de su grandeza, y magestad. y ví —
+                <lb n="35"/> endo esto los de <rs ana="ILOKAB">ílocab</rs>, <del rend="scribble">q</del>uísíeron
+                <lb n="36"/> venír a matar a <rs ana="KOTUJA">cotuha</rs> y se empe —
+                <lb n="37"/> zo la Guerra por ellos, y solo querían
+                <lb n="38"/> vn Rey <abbr>p<hi rend="superscript">a</hi></abbr> sí y al Rey <rs ana="ISTAYUL">ztayul</rs>, lo
+                <lb n="39"/> quísíeron castígar, los de <rs ana="ILOKAB">ílocab</rs>,
+                <lb n="40"/> con la muerte, y no salío la ímbídía
+                <lb n="41"/> de ellos contra el Rey <rs ana="KOTUJA">cotuha</rs>, síno
+                <lb n="42"/> <abbr>q’</abbr>sobre ellos víno <abbr>q'</abbr> pensaban ma
                 </p>
                 
                 

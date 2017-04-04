@@ -100,7 +100,7 @@
                 			</hi>
                 				</num>
                 					</note>	
-                <lb n="1" />esta bíen díxeron ellos, y luego subíeron sobre
+                <lb n="1" />esta bíen díxeron <rs ana="HERMANOS_ARTESANOS">ellos</rs>, y luego subíeron sobre
                 <lb n="2" />el arbol, y se engroso el tronco, ehíncho, y lu –
                 <lb n="3" />ego 
                 <choice>
@@ -125,8 +125,7 @@
                 	<expan>para</expan>
                 	</choice>atras, y de ese mo –
                 <lb n="13" />do podreís andar, y vajar, esto les fue
-                <!-- How to mark up half-brothers? Hun Baꜩ y Hun Chouen: "ellos" -->
-                <lb n="14" />dícho por <rs ana="HERO_TWINS">sus hermanos</rs>. bíen, díxeron ellos,
+                <lb n="14" />dícho por <rs ana="HERO_TWINS">sus hermanos</rs>. bíen, díxeron <rs ana="HERMANOS_ARTESANOS">ellos</rs>,
                 <lb n="15" />yluego 
                 <choice>
                 	<abbr>q’</abbr>
@@ -148,7 +147,6 @@
                 <lb n="25" />se fueron a su casa, y díxeron quando
                 <lb n="26" />llegaron con su <rs ana="IXMUKANE">abuela</rs>, y su <rs ana="IXKIK">Madre</rs>
                 <lb n="27" />a
-                <!-- Does this work for a superscripted abbreviation? -->
                 <choice>
                 <abbr type="superscription">Sa.</abbr>
                 	<expan>Señora</expan>
@@ -156,21 +154,22 @@
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
-                	</choice>sera lo q’lesha aconteçido a
-                	<!-- How to mark up half-brothers? Hun Baꜩ y Hun Chouen: "nuestros hermanos" -->
-                <lb n="28" />nuestros hermanos, 
+                	</choice>sera lo 
+                	<choice>
+                		<abbr>q’</abbr>
+                		<expan>que</expan>
+                		</choice>lesha aconteçido a
+                <lb n="28" /><rs ana="HERMANOS_ARTESANOS">nuestros hermanos</rs>, 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>verdes sus caras
                 <lb n="29" />se fueron como animales? mas sí al –
-                <!-- How to mark up half-brothers? Hun Baꜩ y Hun Chouen: "vuestros hermanos" -->
-                <lb n="30" />go les aueís hecho a vuestros herma –
-                <lb n="31" />nos, y me aueís menospreçíado, y pues –
-                <!-- How to mark up half-brothers? Hun Baꜩ y Hun Chouen: "vuestros hermanos" -->
-                <lb n="32" />to en misería, no hagaís eso con vu –
-                <lb n="33" />estros hermanos les dixo <rs ana="IXMUKANE">la víeja</rs> a <rs ana="JUNAJPU">hun
-                <lb n="34" />ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y ellos le díxeron
+                <lb n="30" />go les aueís hecho a <rs ana="HERMANOS_ARTESANOS">vuestros herma –
+                <lb n="31" />nos</rs>, y me aueís menospreçíado, y pues –
+                <lb n="32" />to en misería, no hagaís eso con <rs ana="HERMANOS_ARTESANOS">vu –
+                <lb n="33" />estros hermanos</rs> les dixo <rs ana="IXMUKANE">la víeja</rs> a <rs ana="JUNAJPU">hun
+                <lb n="34" />ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y <rs ana="HERO_TWINS">ellos</rs> le díxeron
                 <lb n="35" />asu <rs ana="IXMUKANE">abuela</rs>, no te aflíxas abuela, 
                 <choice>
                 	<abbr>q’</abbr>

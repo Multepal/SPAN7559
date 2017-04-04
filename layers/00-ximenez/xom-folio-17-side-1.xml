@@ -53,7 +53,6 @@
                         <lb n="10" />ahauab quezeleuachin conohel.
                         <lb n="11" />maui xuꜩinic xqha cut <rs ana="JUN_KAME">hun came</rs>.
                         <lb n="12" />mi xuꜩinic ixahauab vana cu vqux
-                        <!-- Does this work to show that the "x" in "xe" is slightly left-aligned? -->
                         <lb n="13" /><note place="margin"><num rend="large">x</num></note>e qo pazel. uꜩbala vila cut xqha
                         <lb n="14" />curi <rs ana="JUN_KAME">hun came</rs> ta xuchuieh cu a
                         <lb n="15" />can oc eaturur rih chicomah eae
@@ -149,7 +148,7 @@
                         		<abbr>q’</abbr>
                         		<expan>que</expan>
                         		</choice> losecaron sobre el fuego
-                        <lb n="19" />síntíeron los de el infíerno la fragançía, y
+                        <lb n="19" />síntíeron los de <rs ana="XIBALBA">el infíerno</rs> la fragançía, y
                         <lb n="20" />selevantaron todos y estuvíeron como em –
                         <lb n="21" />belesados sobre el, de verdad era cosa muy
                         <lb n="22" />suave lo 

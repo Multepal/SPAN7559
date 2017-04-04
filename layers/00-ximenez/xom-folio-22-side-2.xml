@@ -101,7 +101,7 @@
                 <!-- SPANISH LINES GO HERE -->
                 <p>
                 <lb n="1" />así víníeron los mensageros antígua men –
-                <lb n="2" />te quando víníeron por <rs ana="JUN_JUNAJPU"><rs ana="IXKIK">sus Padres</rs></rs>, dí –
+                <lb n="2" />te quando víníeron por sus Padres, dí –
                 <lb n="3" />xo <rs ana="IXMUKANE">la vieja</rs>, y muy tíerna se entro en su
                 <lb n="4" />casa, ella sola, y luego baxo vn píojo de
                 <!-- How can I show that there is double space here? -->
@@ -124,7 +124,7 @@
                 	<expan>que</expan>
                 	</choice>dice <rs ana="IXMUKANE">vuestra abuela</rs> co – 
                 <lb n="11" />mo han venído a <rs ana="IXMUKANE">ella</rs> los mensageros de
-                <lb n="12" />el ínfíerno, allamarnos, y 
+                <lb n="12" /><rs ana="XIBALBA">el ínfíerno</rs>, allamarnos, y 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
@@ -168,7 +168,11 @@
                 <lb n="30" />esto le fue dícho al tamazul por el zaquí –
                 <lb n="31" />caz. y díxo el sapo soy mensagero, ala
                 <lb n="32" />culebra, en mí víentre lleuo el mensage.
-                <lb n="33" />y dixo la culebra, veo q’vas cansado, y no
+                <lb n="33" />y dixo la culebra, veo 
+                <choice>
+                	<abbr>q’</abbr>
+                	<expan>que</expan>
+                	</choice>vas cansado, y no
                 <lb n="34" />puedes corer, yo no llegar e presto? dixo 
                 <lb n="35" />la culebra al sapo ven aca te tragare, y
                 <lb n="36" />luego se trago la culebra zaquícaz al sa –

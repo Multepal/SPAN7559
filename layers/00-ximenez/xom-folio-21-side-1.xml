@@ -109,7 +109,7 @@
                 <lb n="8" />palos, parense mecates) esto dígeron
                 <lb n="9" />quando víníeron, y se meneaban deba –
                 <lb n="10" />xode los arboles, y mecates, acercandose
-                <lb n="11" />entonçes se manífestaron ante ellos, y
+                <lb n="11" />entonçes se manífestaron ante <rs ana="HERO_TWINS">ellos</rs>, y
                 <lb n="12" />el prímero era vn leon, y vn tígre, y 
                 <choice>
                 	<abbr>q’</abbr>
@@ -145,7 +145,7 @@
                 <lb n="28" />gar, y le quemaron la cola en el fuego,
                 <lb n="29" />y entonçes tomo su cola el raton sín pe – 
                 <lb n="30" />lo, y tambíen sus ojos saltados<corr>saltones</corr> quando lo –
-                <lb n="31" />quisieron ahogar los dos muchachos
+                <lb n="31" />quisieron ahogar los <rs ana="HERO_TWINS">dos muchachos</rs>
                 <lb n="32" /><rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. ydíxo el ra –
                 <lb n="33" />ton, no me mateís, no es esto vuestro off
                 <choice>
@@ -161,13 +161,13 @@
                 			<abbr>q’</abbr>
                 			<expan>que</expan>
                 			</choice>nos de—
-                <lb n="35" />deçís, díxeron los dos muchachos al
+                <lb n="35" />deçís, díxeron los <rs ana="HERO_TWINS">dos muchachos</rs> al
                 <lb n="36" />raton. dexadme vn poco, por
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>tengo,
-                <lb n="37" />en mí víentre q’ 
+                <lb n="37" />en mí víentre 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
@@ -194,10 +194,11 @@
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice> muríeron en el
+                	<rs ana="XIBALBA">
                 		<choice>
                 			<abbr>ífíerno</abbr>
                 			<expan>infierno</expan>
-                			</choice>, es
+                			</choice></rs>, es
                 <lb n="44" />tan ay, 
                 <choice>
                 	<abbr>q’</abbr>

@@ -141,7 +141,11 @@
                <lb n="21" />sacandolos de allí los pusíeron otra vez
                <lb n="22" />sobre espínas. esto era lo q querían <rs ana="JUN_BATZ">hun 
                		<note place="margin-right">+</note>
-               <lb n="23" />baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>, q muriesen allí en
+               <lb n="23" />baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>, 
+               <choice>
+               		<abbr>q</abbr>
+               		<expan>que</expan>
+               		</choice>muriesen allí en
                <lb n="24" />el hormiguero, y sobre las espínas, por
                <lb n="25" />su embídía, de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>
                <lb n="26" />y 
@@ -178,9 +182,9 @@
                <lb n="37" />q’ fueron al fíerno, y eran grandes sabí –
                <lb n="38" />os el <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hunchouen</rs> en la ín –
                <lb n="39" />telígençía de todos, y así lo juzgaban,
-               <lb n="40" />quando se críaron los dos sus herma –
-               <lb n="41" />nos, y no mostraron su saber por su im –
-               <lb n="42" />bídía, sino q’ en ellos estuuo la vengan –
+               <lb n="40" />quando se críaron los dos <rs ana="HERO_TWINS">sus herma –
+               <lb n="41" />nos</rs>, y no mostraron su saber por su im –
+               <lb n="42" />bídía, sino q’ en <rs ana="HERMANOS_ARTESANOS">ellos</rs> estuuo la vengan –
                <lb n="43" />za desus corazones y no por alguna obra
                <lb n="44" />fueron ofendídos por <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xba –
                <lb n="45" />lanque</rs>, y solo se entretenían en tírar

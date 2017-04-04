@@ -41,107 +41,119 @@
             <div type="page" n="50.1" xml:id="xom-f50-s1">
                 <div type="col" n="50.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <note place="margin-left" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">50
+                </hi>
+                </num>
+                </note>
                 <p>
-                <lb /> nabe xcam tari ahau rumal
-                <lb /> ilocab quehe cut vxenahic yuhuh
-                <lb /> chaquimal labal puch xcoquibeh
-                <lb /> nabe tinamit xebec e camizanel a
-                <lb /> retacu xcah rizach tavvach quiche
-                <lb /> xata quituquel xahauaric chiqui
-                <lb /> qux xacuare xevl camoc xetele –
-                <lb /> cheexic xecanabix puch mauiha –
-                <lb /> rub chicxcolotah chique taxti-
-                <lb /> quer cut puzunic xepuz ri ilocab
-                <lb /> chuvach cabauil are chic tohbal
-                <lb /> quimac xuxic rumal ahau cu –
-                <lb /> tuha qui chicut xocchi munil xe
-                <lb /> alabilaxic xevinaquix puch xa
-                <lb /> xbe quiya quib chichaquix ru –
-                <lb /> mal quinucbal labal chirih
-                <lb /> ahau, chirih zivan tinamit x –
-                <lb /> maixic xcutuxta vvach, raha –
-                <lb /> ual quiche xrah quiqux macu
-                <lb /> xbanatahic. quehecut vvina –
-                <lb /> quiric vpuzic vinac chu va ca –
-                <lb /> bauil taxban ri pocob labal v
-                <lb /> xe taxticaric vpocobaxic tina –
-                <lb /> mit chiizmachi chila xticarvi
-                <lb /> vxenahic eaeal rumal ri xax
-                <lb /> nim vi rahauarem quiche ahau
-                <lb /> humah enaual ahauab xma
-                <lb /> qo vi qui yocotah vi xmaqoui
-                <lb /> alachinac choc chique xaviba –
-                <lb /> nol rech nimal ahauarem chi –
-                <lb /> ri xenahinac vi chiizmachi chi –
-                <lb /> rixnimarvi v quixic cabauil
-                <lb /> chixibin chic xuxibih pu rib
-                <lb /> ronohel amac chuti amac nima
-                <lb /> amac xquivachih roquic tele –  
-                <lb /> che vinac xquipuzu xquicami –
-                <lb /> zah rumal qui eaeal quitepe –
-                <lb /> ual ri ahau cotuha aha zta –
-                <lb /> yul ruq nihaibab ahau quiche
-                <lb /> xa oxchob chi chinamit xqohe
-                <lb /> chiri chiizmachi vbi tinamit ca
-                <lb /> chiri chinaipuch xquitiquiba vi
-                <lb /> vaim vcaha chirech qui mial
-                <lb /> taxquiziih vloc. are qui cuch –
-                <lb /> bal quib ri oxib chinimha v
-                <lb /> bi cumal chiricut chicucah vi
-                <lb /> cuquiya chiripuch chiquiveeh
+                <lb n="1"/> nabe xcam tari ahau rumal
+                <lb n="2"/> <rs ana="ILOKAB">ilocab</rs> quehe cut vxenahic yuhuh
+                <lb n="3"/> chaquimal labal puch xcoquibeh
+                <lb n="4"/> nabe tinamit xebec e camizanel a
+                <lb n="5"/> retacu xcah rizach tavvach <rs ana="KAWEQ">quiche</rs>
+                <lb n="6"/> xata quituquel xahauaric chiqui
+                <lb n="7"/> qux xacuare xevl camoc xetele –
+                <lb n="8"/> cheexic xecanabix puch mauiha –
+                <lb n="9"/> rub chicxcolotah chique taxti-
+                <lb n="10"/> quer cut puzunic xepuz ri <rs ana="ILOKAB">ilocab</rs>
+                <lb n="11"/> chuvach cabauil are chic tohbal
+                <lb n="12"/> quimac xuxic rumal ahau <rs ana="KOTUJA">cu –
+                <lb n="13"/> tuha</rs> qui chicut xocchi munil xe
+                <lb n="14"/> alabilaxic xevinaquix puch xa
+                <lb n="15"/> xbe qui<gap reason="illegible" unit="several characters"/>ya quib chichaquix ru –
+                <lb n="16"/> mal quinucbal labal chirih
+                <lb n="17"/> ahau, chirih zivan tinamit x –
+                <lb n="18"/> maixic xcutuxta vvach, raha –
+                <lb n="19"/> ual quiche xrah quiqux macu
+                <lb n="20"/> xbanatahic. quehecut vvina –
+                <lb n="21"/> quiric vpuzic vinac chu va ca –
+                <lb n="22"/> bauil taxban ri pocob labal v
+                <lb n="23"/> xe taxticaric vpocobaxic tina –
+                <lb n="24"/> mit chiizmachi chila xticarvi
+                <lb n="25"/> vxenahic eaeal rumal ri xax
+                <lb n="26"/> nim vi rahauarem quiche ahau
+                <lb n="27"/> humah enaual ahauab xma
+                <lb n="28"/> qo vi qui yocotah vi xmaqoui
+                <lb n="29"/> alachinac choc chique xaviba –
+                <lb n="30"/> nol rech nimal ahauarem chi –
+                <lb n="31"/> ri xenahinac vi chiizmachi chi –
+                <lb n="32"/> rixnimarvi v quixic cabauil
+                <lb n="33"/> chixibin chic xuxibih pu rib
+                <lb n="34"/> ronohel amac chuti amac nima
+                <lb n="35"/> amac xquivachih roquic tele –  
+                <lb n="36"/> che vinac xquipuzu xquicami –
+                <lb n="37"/> zah rumal qui eaeal quitepe –
+                <lb n="38"/> ual ri ahau cotuha aha zta –
+                <lb n="39"/> yul ruq nihaibab ahau quiche
+                <lb n="40"/> xa oxchob chi chinamit xqohe
+                <lb n="41"/> chiri chiizmachi vbi tinamit ca
+                <lb n="42"/> chiri chinaipuch xquitiquiba vi
+                <lb n="43"/> vaim vcaha chirech qui mial
+                <lb n="44"/> taxquiziih vloc. are qui cuch –
+                <lb n="45"/> bal quib ri oxib chinimha v
+                <lb n="46"/> bi cumal chiricut chicucah vi
+                <lb n="47"/> cuquiya chiripuch chiquiveeh
                 </p>
                 
                </div>
                 <div type="col" n="50.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <note place="margin-right" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">50
+                </hi>
+                </num>
+                </note>
                 <p>
-                <lb /> tar al Rey losde ílocb. yasí fue el
-                <lb /> prinçípío de las rebueltas, y las dí –
-                <lb /> sensíones de la Guerra, y entraron
-                <lb /> y ganaron el primer pueblo, fueron
-                <lb /> los soldados y lo q’querían era a –
-                <lb /> cabar con los quiches, y q’ellos solos
-                <lb /> reynasen, esto deseaban. y por
-                <lb /> esto víníeron a prender, y captí –
-                <lb /> uar, y fueron pocos los q’se escapa –
-                <lb /> ron, y líbraron. y entonçes empeza –
-                <lb /> ron asacrífícar a los de ílocab ante
-                <lb /> el ídolo, y esta fue la paga desu
-                <lb /> pecado por el Rey cotuha. y mu –
-                <lb /> chos fueron los q’ entraron en escla –
-                <lb /> uítud, y seruídumbre, de los q’ apre –
-                <lb /> saban, y se fueron a entregar, por
-                <lb /> la guerra q’contra ellos se juntaba
-                <lb /> y fue destruído el pueblo, y fue afren
-                <lb /> tado, querían los de ílocab, el ímpe –
-                <lb /> río del quiche, pero no les suçedío
-                <lb /> así. y así fue el prínçípío deser los
-                <lb /> hombres sacrífícados ante el ídolo,
-                <lb /> quando se hízo la guerra. y allí fue
-                <lb /> el prínçípío de fortífícar el pueblo
-                <lb /> de ízmachí. y alla empezo la grande –
-                <lb /> za, porq’ era grande el ímperío de
-                <lb /> el quiche, y desu Rey. y por todas
-                <lb /> partes auía SSes. poderosos, y no po –
-                <lb /> dían desbaratarlos, niquíen los
-                <lb /> entrase. y así mesmo haçían la              
-                <lb /> grandeza de el Reyno, q’se fundo
-                <lb /> en ízmachí, y allí empezo aser te
-                <lb /> mído el ídolo, y le tenían míedo
-                <lb /> todos los pueblos chícos, y grandes.
-                <lb /> y víeron q’íban esclauos, y q’los
-                <lb /> mataron, y sacrífícaron por gran –
-                <lb /> deza el Rey cotuha, y el Rey zta –
-                <lb /> yul, con los de níhaíbab, y los de
-                <lb /> ahauquíche. y solos tres tres tríbus
-                <lb /> ó generazíones estuuíeron allí en
-                <lb /> ízmachí. y allí empezaron a esta
-                <lb /> blezer las comídas, y bebídas, pa –
-                <lb /> ra con sus híjas quando las casa –
-                <lb /> ban, y así se juntaron aquellas tres
-                <lb /> grandes casas, q’se llamaron así.
-                <lb /> por ellos y allí bebían sus bebídas
-                <lb /> y allí comían sus –
+                <lb n="1"/> tar al Rey losde <rs ana="ILOKAB">ílocb</rs>. yasí fue el
+                <lb n="2"/> prinçípío de las rebueltas, y las dí –
+                <lb n="3"/> sensíones de la Guerra, y entraron
+                <lb n="4"/> y ganaron el primer pueblo, fueron
+                <lb n="5"/> los soldados y lo <abbr>q’</abbr>querían era a –
+                <lb n="6"/> cabar con los <rs ana="KAWEQ">quichees</rs>, y <abbr>q’</abbr>ellos solos
+                <lb n="7"/> reynasen, esto deseaban. y por
+                <lb n="8"/> esto víníeron a prender, y captí –
+                <lb n="9"/> uar, y fueron pocos los <abbr>q’</abbr>se escapa –
+                <lb n="10"/> ron, y líbraron. y entonçes empeza –
+                <lb n="11"/> ron asacrífícar a los de <rs ana="ILOKAB">ílocab</rs> ante
+                <lb n="12"/> el ídolo, y esta fue la paga desu
+                <lb n="13"/> pecado por el Rey <rs ana="KOTUJA">cotuha</rs>. y mu –
+                <lb n="14"/> chos fueron los <abbr>q’</abbr> entraron en escla –
+                <lb n="15"/> uítud, y seruídumbre, de los <abbr>q'</abbr> apre –
+                <lb n="16"/> saban, y se fueron a entregar, por
+                <lb n="17"/> la guerra <abbr>q’</abbr>contra ellos se juntaba
+                <lb n="18"/> y fue destruído el pueblo, y fue afren
+                <lb n="19"/> tado, querían los de <rs ana="ILOKAB">ílocab</rs>, el ímpe –
+                <lb n="20"/> río del <rs ana="KAWEQ">quiche</rs>, pero no les suçedío
+                <lb n="21"/> así. y así fue el prínçípío deser los
+                <lb n="22"/> hombres sacrífícados ante el ídolo,
+                <lb n="23"/> quando se hízo la guerra. y allí fue
+                <lb n="24"/> el prínçípío de fortífícar el pueblo
+                <lb n="25"/> de <rs ana="CHI_ISMACHI">ízmachí</rs>. y alla empezo la grande –
+                <lb n="26"/> za, <abbr>porq’</abbr> era grande el ímperío de
+                <lb n="27"/> el <rs ana="KAWEQ">quiche</rs>, y desu Rey. y por todas
+                <lb n="28"/> partes auía <abbr>SS<hi rend="superscript">es</hi></abbr>. poderosos, y no po –
+                <lb n="29"/> dían desbaratarlos, niquíen los
+                <lb n="30"/> entrase. y así mesmo haçían la              
+                <lb n="31"/> grandeza de el Reyno, <abbr>q’</abbr>se fundo
+                <lb n="32"/> en <rs ana="CHI_ISMACHI">ízmachí</rs>, y allí empezo aser te
+                <lb n="33"/> mído el ídolo, y le tenían míedo
+                <lb n="34"/> todos los pueblos chícos, y grandes.
+                <lb n="35"/> y víeron <abbr>q’</abbr>íban esclauos, y <abbr>q’</abbr>los
+                <lb n="36"/> mataron, y sacrífícaron por gran –
+                <lb n="37"/> deza el Rey <rs ana="KOTUJA">cotuha</rs>, y el Rey <rs ana="ISTAYUL">zta –
+                <lb n="38"/> yul</rs>, con los de <rs ana="NIJAIB">níhaíbab</rs>, y los de
+                <lb n="39"/> <rs ana="AJAW_KICHE">ahauquíche</rs>. y solos tres tres tríbus
+                <lb n="40"/> ó generazíones estuuíeron allí en
+                <lb n="41"/> <rs ana="CHI_ISMACHI">ízmachí</rs>. y allí empezaron a esta
+                <lb n="42"/> blezer las comídas, y bebídas, pa –
+                <lb n="43"/> ra con sus híjas quando las casa –
+                <lb n="44"/> ban, y así se juntaron aquellas tres
+                <lb n="45"/> grandes casas, <abbr>q’</abbr>se llamaron así.
+                <lb n="46"/> por ellos y allí bebían sus bebídas
+                <lb n="47"/> y allí comían sus –
                 </p>
                 
                 </div>

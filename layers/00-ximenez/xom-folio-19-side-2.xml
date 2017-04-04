@@ -180,15 +180,14 @@
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>aquí
-                <!-- How to mark up the half-brothers? Hun Baꜩ y Hun Chouen -->
-                <lb n="37" />estamos nosotros, tus níetos, y te queremos
+                <lb n="37" />estamos <rs ana="HERO_TWINS">nosotros</rs>, tus níetos, y te queremos
                 <lb n="38" />a <rs ana="IXMUKANE">vos</rs> ya nuestra <rs ana="IXKIK">Madre</rs>, 
                 <choice>
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>nosotros queda –
-                <lb n="39" />mos en memoría, y en lugar de nuestros
-                <lb n="40" />hermanos llamados <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho –
+                <lb n="39" />mos en memoría, y en lugar de <rs ana="HERMANOS_ARTESANOS">nuestros
+                <lb n="40" />hermanos</rs> llamados <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho –
                 <lb n="41" />uen</rs>.
                 <lb />
                 <lb />
