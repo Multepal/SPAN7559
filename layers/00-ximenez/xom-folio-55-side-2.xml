@@ -66,7 +66,7 @@
 <lb n="16" />uach castillan vinac are xe
 <lb n="17" />qaholan eanoc roxlahu lea
 <lb n="18" />hauab
-<lb n="19" /><hi rend="large">D</hi>on Juo de Rojas Don Juo cortes
+<lb n="19" /><rs ana="DON_JUAN_DE_ROJAS"><hi rend="large">D</hi>on Ju<hi rend="superscript">o.</hi> de Rojas</rs> <rs ana="DON_JUAN_CORTÉS">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
 <lb n="20" />cablahu le ahauab eqahola –
 <lb n="21" />xel rumal tecum tepepul
 <lb n="22" /><hi rend="large">A</hi>recut vleel vtazel ahauarem
@@ -89,7 +89,7 @@
 <lb n="39" /><hi rend="large">L</hi>olmet queh nai hun vnimha
 <lb n="40" /><hi rend="large">P</hi>opolvinac pahom tzalatz xcuxe –
 <lb n="41" />ba hun vnimha.
-<lb n="42" /><hi rend="large">T</hi>epeu iaqui hun vnimha
+<lb n="42" /><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
 <lb n="43" /><hi rend="large">A</hi>re curi bele heb chinamit chi –
 <lb n="44" />cavi quib tzatz ral vqahol ahilatal
 <lb n="45" />chirih beleheb chinim ha
@@ -118,7 +118,7 @@
 <lb n="16" />ñoles. y estos fueron la terçía deçíma
 <lb n="17" />generaçíon de los Reyes.
 <lb/>
-<lb n="18" /><hi rend="large">D</hi>.Juo de Roxas, D.Juo. cortes. la quarta<!-- abreviaturas de estos dos -->
+<lb n="18" /><rs ana="DON_JUAN_DE_ROJAS"><hi rend="large"><abbr>D.</abbr></hi><abbr>Ju<hi rend="superscript">o.</hi></abbr> de Roxas</rs>, <rs ana="DON_JUAN_CORTÉS"><abbr>D.</abbr><abbr>Ju<hi rend="superscript">o.</hi></abbr> cortes</rs>. la quarta
 <lb n="19" />deçíma generaçíon de los Reyes. y fue –
 <lb n="20" />ron híjos de tecum, Tepepul.
 <lb n="21" />y estas son las generaçíones del Reyno
@@ -141,9 +141,9 @@
 <lb n="38" /><hi rend="large">L</hi>olmet quehnay. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
 <lb n="39" /><hi rend="large">P</hi>opolvínac pahom. tzalatz xcuxeba. <abbr>S<hi rend="superscript">or.</hi></abbr>
 <lb n="40" />de vna casa grande.
-<lb n="41" /><hi rend="large">T</hi>epeu yaquí. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
-<lb n="42" />y estos son los nueue chínamítales de
-<lb n="43" />cauíquíb, y tenían muchos vasallos a su
+<lb n="41" /><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu yaquí</rs>. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
+<lb n="42" />y estos son los nueue <rs ana="SAQIK">chínamítales</rs> de
+<lb n="43" /><rs ana="KAWEQ">cauíquíb</rs>, y tenían muchos vasallos a su
 <lb n="44" />quenta.
 <lb n="45" />y aquí se ponen los de níhaíbab, <abbr>q’</abbr>tenían
 <lb n="46" />nueue casas y prímero díremos lade
