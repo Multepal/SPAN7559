@@ -38,54 +38,66 @@
     <text>
         <body>
         	<p>
-            	<lb n="1"/>
-            	<lb n="2"/>
-            	<lb n="3"/>
-            	<lb n="4"/>
-            	<lb n="5"/>
-            	<lb n="6"/>
-            	<lb n="7"/>
-            	<lb n="8"/>
-            	<lb n="9"/>
-            	<lb n="10"/>
-            	<lb n="11"/>
-            	<lb n="12"/>
-            	<lb n="13"/>
-            	<lb n="14"/>
-            	<lb n="15"/>
-            	<lb n="16"/>
-            	<lb n="17"/>
-            	<lb n="18"/>
-            	<lb n="19"/>
-            	<lb n="20"/>
-            	<lb n="21"/>
-            	<lb n="22"/>
-            	<lb n="23"/>
-            	<lb n="24"/>
-            	<lb n="25"/>
-            	<lb n="26"/>
-            	<lb n="27"/>
-            	<lb n="28"/>
-            	<lb n="29"/>
-            	<lb n="30"/>
-            	<lb n="31"/>
-            	<lb n="32"/>
-            	<lb n="33"/>
-            	<lb n="34"/>
-            	<lb n="35"/>
-            	<lb n="36"/>
-            	<lb n="37"/>
-            	<lb n="38"/>
-            	<lb n="39"/>
-            	<lb n="40"/>
-            	<lb n="41"/>
-            	<lb n="42"/>
-            	<lb n="43"/>
-            	<lb n="44"/>
-            	<lb n="45"/>
-            	<lb n="46"/>
-            	<lb n="47"/>
+            	<lb n="1"/>genero humano. como se íra víendo por toda esta obra.
             </p>
+            	<lb />
+            <p>
+            	<lb n="2" rend="center"/><label><hi rend="large">Sermon de <abbr>S<hi rend="superscript">ta</hi>.</abbr> Barbara</hi></label>
+            </p>
+            	<lb />
+            <p>
+            	<lb n="3" rend="center"/><label><hi rend="large"><hi rend="bold">Confecíonarío en Lengua Quíche</hi></hi></label>
+            </p>
+            	<lb />
+            <p>
+            	<lb n="4" rend="indent"/>Catxucloc.
+            		<note place="margin-left">hincate.</note>
+            	<lb n="5" rend="indent"/>chacruzih. auach
+            		<note place="margin-left">Persínate</note>
+            	<lb n="6" rend="indent"/>Chatunuba: acab.
+            		<note place="margin-left">Junta las manos:</note>
+            	<lb n="7" rend="indent"/>chazucuba avib.
+            	<lb n="8" rend="indent"/>Ma. acozoba. avib
+            	<lb n="9" rend="indent"/>xharuhil. ga. abanon. con
+            	<lb n="10" rend="indent"/>pesar. <hi rend="underline">Vel</hi>. abanon<unclear>o</unclear>a com
+            	<lb n="11" rend="indent"/>períon.
+            </p>
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
         </body>
     </text>
 </TEI>
