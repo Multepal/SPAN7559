@@ -41,6 +41,12 @@
             <div type="page" n="48.2" xml:id="xom-f48-s2">
                 <div type="col" n="48.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                 <note place="margin-left" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">48
+                </hi>
+                </num>
+                </note>
                 <p> 
                 <lb n = "1"/> <rs ana="KOKAIB">caib</rs> vbihun vqahol <rs ana="BALAM_KITZE">balamqui –
                 <lb n = "2"/> tze</rs> rech ronohel <rs ana="KAWEQ">coaui quib</rs>
@@ -98,19 +104,25 @@
                               	
                 <div type="col" n="48.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                 <note place="margin-right" type="pagination">
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">48
+                </hi>
+                </num>
+                </note>
                 <p>
                 <lb n = "1"/> <rs ana="KOKAIB">qocaíb</rs>, sellamaba elvno, híjode <rs ana="BALAM_KITZE">balamquí –
                 <lb n = "2"/> tze</rs>, de todos los de <rs ana="KAWEQ">cauíquíb</rs>. <rs ana="KOAKUTEK">qoacutec</rs>, el
                 <lb n = "3"/> otro híjo de <rs ana="BALAM_AQAB">balamacab</rs>, de los de <rs ana="NIJAIB">níhaí –
                 <lb n = "4"/> bab</rs>, <rs ana="KOAJAW">qoahau</rs>. se llamaba el otro híjo de
                 <lb n = "5"/> <rs ana="MAJUKUTAJ">mahucutah</rs>, de los de <rs ana="AJAW_KICHE">ahauquíche</rs>. yasí
-                <lb n = "6"/> se llamaban los q’fueron alla de la otra
-                <lb n = "7"/> parte de el mar. tres fueron los q’se fue –
-                <lb n = "8"/> ron, y sabían lo q’se haçían, y no eran
+                <lb n = "6"/> se llamaban los <abbr>q’</abbr>fueron alla de la otra
+                <lb n = "7"/> parte de el mar. tres fueron los <abbr>q’</abbr>se fue –
+                <lb n = "8"/> ron, y sabían lo <abbr>q'</abbr>se haçían, y no eran
                 <lb n = "9"/> hombres de valde. y se despídíeron de
                 <lb n = "10"/> todos sus hermanos, y paríentes, y se fu –
                 <lb n = "11"/> eron muy alegres. y díxeron no mo –
-                <lb n = "12"/> ríremos; síno q’bolberemos díxeron
+                <lb n = "12"/> ríremos; síno <abbr>q’</abbr>bolberemos díxeron
                 <lb n = "13"/> qo se fueron los tres. y asímesmo pasa –
                 <lb n = "14"/> ron sobre el mar, y llegaron alla al
                 <lb n = "15"/> oríente, y fueron a reçíuír su ímperío
@@ -118,14 +130,14 @@
                 <lb n = "17"/> naba en el oríente, adonde fueron.
                 </p>
                 <p>
-                <lb n = "18"/> y llegaron ante el <abbr>S<hi rend="superscript">or</hi></abbr> q’se llamaba <rs ana="NAKXIT">nac –
-                <lb n = "19"/> xít</rs>. gran <abbr>S<hi rend="superscript">or</hi></abbr>. y vno q’todo lo juzgaba.
-                <lb n = "20"/> y era grande su reíno, y oeoe este lesdío
-                <lb n = "21"/> con la señal de su Reyno, de todos los
+                <lb n = "18"/> y llegaron ante el <abbr>S<hi rend="superscript">or</hi></abbr> <abbr>q’</abbr>se llamaba <rs ana="NAKXIT"><hi rend="underline">nac –
+                <lb n = "19"/> xít</hi></rs>. gran <abbr>S<hi rend="superscript">or</hi></abbr>. y vno <abbr>q’</abbr>todo lo juzgaba.
+                <lb n = "20"/> y era grande su reíno, y <gap reason="illegible" unit="character"/> este lesdío
+                <lb n = "21"/> <del>con</del> la señal de su Reyno, de todos los
                 <lb n = "22"/> adeuínos, y entonçes víno señal de los
                 <lb n = "23"/> grandes <abbr>SS<hi rend="superscript">es</hi></abbr>., y de los <abbr>SS<hi rend="superscript">es</hi></abbr> de las casas, y
                 <lb n = "24"/> entonçes víno la señal de lagrande –
-                <lb n = "25"/> za, y grandes, y SSes. yacabo de dar –
+                <lb n = "25"/> za, y grandes, y <abbr>SS<hi rend="superscript">es</hi></abbr>. yacabo de dar –
                 <lb n = "26"/> lo todo el <rs ana="NAKXIT">nacxít</rs>, los adeuínos, y for –
                 <lb n = "27"/> ma de el Reyno. y era todo esto. el tro
                 <lb n = "28"/> no, flauta, cham cham. otra flauta. chal –
@@ -135,19 +147,19 @@
                 <lb n = "32"/> polul. y todo lo trageron cargado quan –
                 <lb n = "33"/> do víníeron, y lo trageron de la otra
                 <lb n = "34"/> parte de el mar, su escrítura, y píntura
-                <lb n = "35"/> de <rs ana="TULÁN">tulan</rs>, su escrítura, díxeron a esto q’
-                <lb n = "36"/> es mucho lo q’pusíeron en sus tradíçí –
+                <lb n = "35"/> de <rs ana="TULÁN">tulan</rs>, su escrítura, díxeron a esto <abbr>q’</abbr>
+                <lb n = "36"/> es mucho lo <abbr>q'</abbr>pusíeron en sus tradíçí –
                 <lb n = "37"/> ones.
                 </p>
                 <p> 
                 <lb n = "38"/> y luego quando llegaron asu pueblo
-                <lb n = "39"/> q’se llamaba <rs ana="LUGAR_DE_JAQAWITZ">hacauítz</rs>, allí se juntaron
+                <lb n = "39"/> <abbr>q’</abbr>se llamaba <rs ana="LUGAR_DE_JAQAWITZ">hacauítz</rs>, allí se juntaron
                 <lb n = "40"/> todos los de <rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>, y todos los
                 <lb n = "41"/> pueblos, y se alegraron desu venída de
                 <lb n = "42"/> <rs ana="KOKAIB">qocaíb</rs>, <rs ana="KOAKUTEK">qoacutec</rs>, <rs ana="KOAJAW">qoahau</rs>. yallí otra uez
                 <lb n = "43"/> tomaron el señorío de los pueblos, y se
                 <lb n = "44"/> alegraron los de <rs ana="RABINALEB">Rabinal</rs>, <rs ana="KAQCHIKELEB">eaechíque
-                <lb n = "45"/> les</rs>, y los de q’íquínaha.
+                <lb n = "45"/> les</rs>, y los de <rs ana="AJTZIKINAJA">q’íquínaha.</rs>
                 </p>
                                
                 
