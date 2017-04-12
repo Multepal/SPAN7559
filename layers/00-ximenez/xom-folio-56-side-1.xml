@@ -44,60 +44,63 @@
                 <lb n="1" />bÿh vleabal rib ahauarem xa
                 <lb n="2" />hun vxe x<add place="above">ch</add>ticar  chuvach vxe
                 <lb n="3" />quih vxe zac chivinac
-                <lb n="4" /><rs ana="BALAM_ACAB"><hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca 
+                <lb n="4" /><rs ana="BALAM_AQAB "><hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca 
                 <lb n="5" rend="indent" />hauixel.
-                <lb n="6" /><rs ana="COACUL_COACUTAC"><hi rend="large">C</hi>oacul coacutac</rs> vcale 
-                <lb n="7" /><rs ana="COCHAHUH_COTZIBAHA"><hi rend="large">C</hi>ochahuh coꜩibaha</rs> roxle
-                <lb n="8" /><rs ana="BELEHEB_QUIH"><hi rend="large">B</hi>eleheb quih</rs> vcah le chic
-                <lb n="9" /><rs ana="COTUHA"><hi rend="large">C</hi>otuha</rs> ro le ahau
+                <lb n="6" /><rs ana="KOAKUL"><hi rend="large">C</hi>oacul</rs> <rs ana="KOAKUTEK">coacutac</rs> vcale 
+                <lb n="7" /><rs ana="KOCHAJUJ"><hi rend="large">C</hi>ochahuh</rs> <rs ana="KOTZIBAJA">coꜩibaha</rs> roxle
+                <lb n="8" /><rs ana="BELEJEB_KEJ"><hi rend="large">B</hi>eleheb quih</rs> vcah le chic
+                <lb n="9" /><rs ana="KOTUJA"><hi rend="large">C</hi>otuha</rs> ro le ahau
                 <lb n="10" /><rs ana="BATZA"><hi rend="large">B</hi>aꜩa</rs> chicut v vacle chic
-                <lb n="11" /><rs ana="ZTAYUL"><hi rend="large">Z</hi>tayul</rs> chicut v vcle ahau
-                <lb n="12" /><rs ana="COTUHA_CHIVI"><hi rend="large">C</hi>otuha chivi</rs> v vahxac taz aha
+                <lb n="11" /><rs ana="ISTAYUL_NIJAIB"><hi rend="large">Z</hi>tayul</rs> chicut v vcle ahau
+                <lb n="12" /><rs ana="KOTUJA_OCTAVO"><hi rend="large">C</hi>otuha chivi</rs> v vahxac taz aha
                 <lb n="13" rend="indent"/>uarem.
-                <lb n="14" /><rs ana="BELEHEB_QUIH"><hi rend="large">B</hi>eleheb quih</rs> vbeleh taz
-                <lb n="15" /><rs ana="QUEMA_CHUQHAX"><hi rend="large">Q</hi>uema chuqhax</rs> chic vlahu le
-                <lb n="16" /><rs ana="AHAU_COTUHA"><hi rend="large">A</hi>hau cotuha</rs> vhulahu le.
-                <lb n="17" /><rs ana="CRISTOBAL_CHUCHAXIC"><hi rend="large">D</hi>on christoual chuchaxic</rs> xa
+                <lb n="14" /><rs ana="BELEJEB_KEJ_NOVENO"><hi rend="large">B</hi>eleheb quih</rs> vbeleh taz
+                <lb n="15" /><rs ana="KEEMA"><hi rend="large">Q</hi>uema chuqhax</rs> chic vlahu le
+                <lb n="16" /><rs ana="AJAW_KOTUJA_UNDÉCIMO"><hi rend="large">A</hi>hau cotuha</rs> vhulahu le.
+                <lb n="17" /><rs ana="DON_CRISTÓBAL"><hi rend="large">D</hi>on christoual chuchaxic</rs> xa
                 <lb n="18" rend="indent"/>hauaric chuvach caxtilan vi-
                 <lb n="19" rend="indent"/>nac
-                <lb n="20" /><hi rend="large"><rs ana="PEDRO_DE_ROBLES">
+                <lb n="20" /><hi rend="large"><rs ana="DON_PEDRO_DE_ROBLES">
                 <choice>
                 	<abbr>D</abbr>
                 	<expan>Don</expan>
-                	</choice></hi>. Pedro de robles</rs> ahau ꜫalel
+                	</choice>
+                	</hi>. Pedro de robles</rs> ahau ꜫalel
                 <lb n="21" />vacamic.
                 <lb n="22" rend="indent"/><hi rend="large">A</hi>re curi chi ronobel ahavab
                 <lb n="23" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>1</num></hi></note>
-                	<hi rend="large">A</hi>hau ꜫalel vnabe ahau chuva –
-                <lb n="24" rend="indent"/>ch nihaibab hun vnim ha.
+                	<rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva –
+                <lb n="24" rend="indent"/>ch <rs ana="NIJAIB">nihaibab</rs> hun vnim ha.
                 <lb n="25" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>2</num></hi></note>
-                <hi rend="large">A</hi>hau ah ꜩic vinac hun vnim ha
+                <rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩic vinac</rs> hun vnim ha
                 <lb n="26" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>3</num></hi></note>
-                <hi rend="large">A</hi>hau ꜫalel camha hun vnim ha.
+                <rs ana="QALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
                 <lb n="27" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>4</num></hi></note>
-                <hi rend="large">N</hi>ima camha hun vnim ha.
+                <seg source="mult:995">
+                <rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
                 <lb n="28" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>5</num></hi></note>
-                <hi rend="large">V</hi>chuch camha hun vnim ha.
+                <rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
                 <lb n="29" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>6</num></hi></note>
-                <hi rend="large">N</hi>ima camha hun vnim ha.
+                <rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
                 <lb n="30" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>7</num></hi></note>
-                <hi rend="large">N</hi>im chocoh nihaib hun vnim ha.
+                </seg>
+                <rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
                 <lb n="31" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>8</num></hi></note>
-                <hi rend="large">A</hi>hau auilix hun vnim ha.
+                <rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auilix</rs> hun vnim ha.
                 <lb n="32" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>9</num></hi></note>
-                <hi rend="large">Y</hi>acolatam hun vnim ha.
-                <lb n="33" rend="indent"/><hi rend="large">A</hi>cut nim ha ri chuvach ni –
-                <lb n="34" />haibab are vbinaam vi beleheb
-                <lb n="35" />chinamit chi nihaibab chuqha-
+                <rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs> hun vnim ha.
+                <lb n="33" rend="indent"/><hi rend="large">A</hi>cut nim ha ri chuvach <rs ana="NIJAIB">ni –
+                <lb n="34" />haibab</rs> are vbinaam vi beleheb
+                <lb n="35" />chinamit chi <rs ana="NIJAIB">nihaibab</rs> chuqha-
                 <lb n="36" />xic. quiia tac cut vchinamital hu –
                 <lb n="37" />hun chique ahauab are vnabe
                 <lb n="38" />ri mi xcabÿ quibi.
-                <lb n="39" rend="indent"/><hi rend="large">A</hi>re chicut rech ahau qui che
+                <lb n="39" rend="indent"/><hi rend="large">A</hi>re chicut rech <rs ana="AJAW_KICHE">ahau qui che</rs>
                 <lb n="40" />va vmam vcahau
-                <lb n="41" /><rs ana="MAHUCUTAH">Mahucutah</rs> nabe vinac<del><hi rend="strikethrough">cu</hi></del>
-                <lb n="42" /><rs ana="COAHAU">Coahau</rs> vbi vcale ahau
-                <lb n="43" /><rs ana="CAELACAN">Caelacan</rs>
-                <lb n="44" /><rs ana="COCOZOM">Cocozom</rs>
+                <lb n="41" /><rs ana="MAJUKUTAJ_HOMBRE">Mahucutah</rs> nabe vinac<del><hi rend="overstrike">cu</hi></del>
+                <lb n="42" /><rs ana="KOAJAW">Coahau</rs> vbi vcale ahau
+                <lb n="43" /><rs ana="QAQ_LAQAM">Caelacan</rs>
+                <lb n="44" /><rs ana="KOKOSOM">Cocozom</rs>
                 <lb />
                 <lb />
                 <lb />
@@ -122,20 +125,20 @@
                 	<abbr>q’</abbr>
                 	<expan>que</expan>
                 	</choice>vbíese luz, y sol.
-               <lb n="3" /><rs ana="BALAM_ACAB"><hi rend="large">B</hi>alam acab</rs>. el primer abuelo, y pa –
+               <lb n="3" /><rs ana="BALAM_AQAB"><hi rend="large">B</hi>alam acab</rs>. el primer abuelo, y pa –
                <lb n="4" />dre.
-               <lb n="5" /><rs ana="COACUL_COACUTAC">Coacul coacutac</rs> . segunda generaçíon.
-               <lb n="6" /><rs ana="COCHAHUH_COTZIBAHA">cochahuh coꜩíbaha</rs>. tercera generaçíon.
-               <lb n="7" /><rs ana="BELEHEB_QUIH"><hi rend="large">B</hi>eleheb quih</rs>, la quarta generaçíon.
-               <lb n="8" /><rs ana="COTUHA">Cotuha</rs> la quínta generaçíon.
+               <lb n="5" /><rs ana="KOAKUL">Coacul</rs> <rs ana="KOAKUTEK">coacutac</rs> . segunda generaçíon.
+               <lb n="6" /><rs ana="KOCHAJUJ">cochahuh</rs> <rs ana="KOTZIBAJA">coꜩíbaha</rs>. tercera generaçíon.
+               <lb n="7" /><rs ana="BELEJEB_KEJ"><hi rend="large">B</hi>eleheb quih</rs>, la quarta generaçíon.
+               <lb n="8" /><rs ana="KOTUJA">Cotuha</rs> la quínta generaçíon.
                <lb n="9" /><rs ana="BATZA">Baꜩa</rs>. la sexta generaçíon.
-               <lb n="10" /><rs ana="ZTAYUL">ztayul</rs> la septíma generaçíon de Reyes.
-               <lb n="11" /><rs ana="COTUHA">Cotuha</rs>. la octaua generaçíon del Rey –
+               <lb n="10" /><rs ana="ISTAYUL_NIJAIB">ztayul</rs> la septíma generaçíon de Reyes.
+               <lb n="11" /><rs ana="KOTUJA_OCTAVO">Cotuha</rs>. la octaua generaçíon del Rey –
                <lb n="12" />no.
-               <lb n="13" /><rs ana="BELEHEB_QUIH">Beleheb quíh</rs>. la nona generaçíon.
-               <lb n="14" /><rs ana="QUEMA">Quema</rs>. la deçíma generaçíon.
-               <lb n="15" /><rs ana="AHAU_COTUHA">Ahau cotuha</rs>. la undeçíma generaçíon.
-               <lb n="16" /><rs ana="CRISTOBAL_CHUCHAXIC">Don chrístoual se llamo el 
+               <lb n="13" /><rs ana="BELEJEB_KEJ_NOVENO">Beleheb quíh</rs>. la nona generaçíon.
+               <lb n="14" /><rs ana="KEEMA">Quema</rs>. la deçíma generaçíon.
+               <lb n="15" /><rs ana="AJAW_KOTUJA_UNDÉCIMO">Ahau cotuha</rs>. la undeçíma generaçíon.
+               <lb n="16" /><rs ana="DON_CRISTÓBAL">Don chrístoual se llamo el 
                <choice>
                		<abbr>q’</abbr>
                		<expan>que</expan>
@@ -144,7 +147,7 @@
                <lb />
                </p>
                <p>
-               <lb n="18" /><rs ana="PEDRO_DE_ROBLES">Don 
+               <lb n="18" /><rs ana="DON_PEDRO_DE_ROBLES">Don 
                <choice>
                		<abbr type="superscript">Po.</abbr>
                		<expan>Pedro</expan>
@@ -166,17 +169,17 @@
                		<expan>Señor</expan>
                		</choice>de cada vna de las
                <lb n="23" />grandes casas.
-               <lb n="24" /><hi rend="large">A</hi>hau ꜫalel el primer 
+               <lb n="24" /><rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer 
                <choice>
                		<abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
-               		</choice> de los de ní –
-               <lb n="25" />haíbab Sor
+               		</choice> de los de <rs ana="NIJAIB">ní –
+               <lb n="25" />haíbab</rs> Sor
                		<choice>
                			<abbr type="superscript">Sor</abbr>
                			<expan>Señor</expan>
                			</choice> de vna casa grande.
-               <lb n="26" /><hi rend="large">A</hi>hau ah ꜩíc vínac.
+               <lb n="26" /><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩíc vínac</rs>.
                		<choice>
                			<abbr type="superscript">Sor</abbr>
                			<expan>Señor</expan>
@@ -185,7 +188,7 @@
                				<abbr type="superscript">gre.</abbr>
                				<expan>grande</expan>
                				</choice>
-               <lb n="27" /><hi rend="large">A</hi>hau ꜫalel camha 
+               <lb n="27" /><rs ana="QALEL_KAMJA"<hi rend="large">A</hi>hau ꜫalel camha</p> 
                <choice>
                		<abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
@@ -194,7 +197,7 @@
                		<abbr type="superscript">grane.</abbr>
                		<expan>grande</expan>
                		</choice>
-               <lb n="28" /><hi rend="large">N</hi>íma camha 
+               <lb n="28" /><seg source="mult:995"><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs> 
                <choice>
                		<abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
@@ -203,7 +206,7 @@
                				<abbr type="superscript">gre.</abbr>
                				<expan>grande</expan>
                				</choice>
-               <lb n="29" /><hi rend="large">V</hi>chuch camha.
+               <lb n="29" /><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs>.
                <choice>
                <abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
@@ -212,7 +215,7 @@
                				<abbr type="superscript">gre.</abbr>
                				<expan>grande</expan>
                				</choice>
-               <lb n="30" /><hi rend="large">N</hi>íma camha.
+               <lb n="30" /><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs>.
                <choice>
                <abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
@@ -221,7 +224,8 @@
                				<abbr type="superscript">gre.</abbr>
                				<expan>grande</expan>
                				</choice>
-               <lb n="31" /><hi rend="large">N</hi>ímchocoh níhaíb
+               				</seg>
+               <lb n="31" /><rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>ímchocoh níhaíb</rs>
                <choice>
                <abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
@@ -230,7 +234,7 @@
                				<abbr type="superscript">grane.</abbr>
                				<expan>grande</expan>
                				</choice>
-               <lb n="32" /><hi rend="large">A</hi>hau auílíx 
+               <lb n="32" /><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auílíx</rs> 
                <choice>
                <abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
@@ -239,14 +243,14 @@
                				<abbr type="superscript">grane.</abbr>
                				<expan>grande</expan>
                				</choice>
-               <lb n="33" /><hi rend="large">Y</hi>acolatam. 
+               <lb n="33" /><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs>. 
                <choice>
                		<abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
                		</choice>de vna casa grande.
                <lb n="34" />y estas son las casa grandes de los
-               <lb n="35" />de níhaíbab. y así se llamaron los
-               <lb n="36" />nueue chínamítales de níhaíbab
+               <lb n="35" />de <rs ana="NIJAIB">níhaíbab</rs>. y así se llamaron los
+               <lb n="36" />nueue chínamítales de <rs ana="NIJAIB">níhaíbab</rs>
                <lb n="37" />y tenía muchos chínamítales cada
                <lb n="38" />vno de los 
                <choice>
@@ -259,15 +263,15 @@
                			</choice>prímero díxímos
                <lb n="39" />sus nombres.
                <lb n="40" />y esta es la desçendençía de los de—
-               <lb n="41" />ahau quiche. su primer abuelo, y 
+               <lb n="41" /><rs ana="AJAW_KICHE">ahau quiche</rs>. su primer abuelo, y 
                <choice>
                		<abbr type="superscript">Pe.</abbr>
                		<expan>Padre</expan>
                		</choice>
-               <lb n="42" /><rs ana="MAHUCUTAH">Mahucutah</rs>. el primer hombre.
-               <lb n="43" /><rs ana="COAHAU">Coahau</rs>. de la segunda generaçíon
-               <lb n="44" /><rs ana="CAELACAN">Caelacan</rs>. <num>3</num>
-               <lb n="45" /><rs ana="COCOZOM">Cocozom</rs> . <num>4</num> .
+               <lb n="42" /><rs ana="MAJUKUTAJ_HOMBRE">Mahucutah</rs>. el primer hombre.
+               <lb n="43" /><rs ana="KOAJAW">Coahau</rs>. de la segunda generaçíon
+               <lb n="44" /><rs ana="QAQ_LAQAM">Caelacan</rs>. <num>3</num>
+               <lb n="45" /><rs ana="KOKOSOM">Cocozom</rs> . <num>4</num> .
                </p>
                 </div>
             </div>
