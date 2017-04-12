@@ -40,8 +40,7 @@
         <body>
             <div type="page" n="28.2" xml:id="xom-f28-s2">
                 <div type="col" n="28.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
+               
                 <p>
                 <lb n="1" /> mi xquilo xeqhacut tax quiti –
                 <lb n="2"/>quiba chicut chaahic. hunam
@@ -91,11 +90,12 @@
                 <lb n="46"/>chic chiqaztah quivach quix
                 <lb n="47"/>qha vveba are vtz xachica xe –
                 </p>
+                </div>
+                
                 <div type="col" n="28.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-             
+                
                 <p>
-                <lb n="1" />ron q’esto q’hemos visto? y luego empe –
+                <lb n="1"/>ron q’esto q’hemos visto? y luego empe –
                 <lb n="2"/>zaron a jugar la pelota, ambos a dos
                 <lb n="3"/>estaban jugando a la pelota, y luego
                 <lb n="4"/>fue tirado a la tortuga por xbalan –
@@ -142,6 +142,7 @@
                 <lb n="45"/>taran otravez. y sí díxeren, sí sera bu –
                 <lb n="46"/>eno q’los colguemos enpalos, así mes –
                 </p>
+                </div>
             </div>
         </body>
     </text>
