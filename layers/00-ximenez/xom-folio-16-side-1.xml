@@ -37,7 +37,7 @@
         </profileDesc>
     </teiHeader>
     <text>
-        <body>
+<body>
             <div type="page" n="16.1" xml:id="xom-f16-s1">
                 <div type="col" n="16.1.1" xml:lang="quc">
                 <p>
@@ -120,7 +120,8 @@
                     <lb n="11" />el ser de 
                     <choice>
                     	<abbr type="superscription">Ses.</abbr>
-                    	<expan>Señores</expan> entendido, o sabio, síno 
+                    	<expan>Señores</expan>
+                    	</choice> entendido, o sabio, síno 
                     	<choice>
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
@@ -131,7 +132,7 @@
                     		<abbr>q.</abbr>
                     		<expan>que</expan>
                     		</choice> les engendra. y así ho he hecho con –
-                    <lb n="14" />tigo. y así subid alla a <del rend="strikeout">lo</del> la tíerra, 
+                    <lb n="14" />tigo. y así subid alla a <del rend="overstrike">lo</del> la tíerra, 
                     	<choice>
                     		<abbr>q’</abbr>
                     		<expan>que</expan>

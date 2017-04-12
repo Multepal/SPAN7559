@@ -93,12 +93,11 @@
                 <lb n="43" />quetiou cumaꜩ patachuyub.ta
                 <lb n="44" />xopon puch rivac xqhacachob chu –
                 <lb n="45" />vi v zuꜩil hom quequicot curi
-                <lb n="46" /><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">x<rs ana="XBALAMKE">que</rs> quechaahic
+                <lb n="46" /><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> quechaahic
                 <lb n="47" />taxopon cut ri vac taxoc curi vac
                 </p>
                 </div>
                 <div type="col" n="22.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 <p>
                 <lb n="1" />así víníeron los mensageros antígua men –
                 <lb n="2" />te quando víníeron por sus Padres, dí –
@@ -140,7 +139,8 @@
                 <lb n="17" />do tamazul, 
                 <choice>
                 	<abbr>q’</abbr>
-                	<expan>que</expan>era sapo, y le díxo el sa –
+                	<expan>que</expan>
+                	</choice>era sapo, y le díxo el sa –
                 <lb n="18" />po al píojo: a donde vas? y díxo el pí –
                 <lb n="19" />ojo: voy con <rs ana="HERO_TWINS">los mozos, ó muchachos</rs>, y lle –
                 <lb n="20" />vo en mí víentre el mensage. esta bíen
@@ -186,11 +186,12 @@
                 <lb n="44" />míendose a las culebras enlos montes
                 <lb n="45" />y llegando el vac separo sobre las al –
                 <lb n="46" />menas de el zementerío. y estaban hol –
-                <lb n="47" />gandose el <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">x<rs ana="XBALAMKE">
+                <lb n="47" />gandose el <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalan
                 	<choice>
                 		<abbr>q’</abbr>
                 		<expan>que</expan>
-                		</choice></rs> pelote –
+                		</choice>
+                		</rs> pelote –
                 </p>
                 </div>
             </div>
