@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Maria Esparza</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,104 +40,104 @@
         <body>
             <div type="page" n="30.2" xml:id="xom-f30-s2">
                 <div type="col" n="30.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
+                
                 <p>
-                <lb/>ri xibalba xepulic ecayel ro
-                <lb/>nohel cut xquixaho xquixah
-                <lb/>cux, xquixah puhuy, xquixah
-                <lb/>yboy xqha cu ahau chique
-                <lb/>chipuzu ri nu tzÿ chicaztah chi
-                <lb/>vvach ivvmal xevqhaxic ve
-                <lb/>xeqha. ta xquipuz tzÿ xqaztai
-                <lb/>chi vvach quitzih cu chiquicot
-                <lb/>ri tzÿ ta xqaztah vvach chuzac –
-                <lb/>bizala vhe ta xqaztah v vach
-                <lb/>xqha cuahau chique chiporo –
-                <lb/>h naba vochoch xevqhaxchic
-                <lb/>ta xquiporoh cut rochoch ahau
-                <lb/>e pulinac ahauab pa ha conohel
-                <lb/>maui xecatic libah chichic x –
-                <lb/>cutzinizah mana huzu zachic
-                <lb/>ri rochoch huncame xquimai –
-                <lb/>hah cut conohel ahauab xa
-                <lb/>vi cu xere quexahouic nim
-                <lb/>quequicotic xevqhax chicut
-                <lb/>rumal ahau chicamizah na
-                <lb/>cuhun vinac chipuzu mata
-                <lb/>cu chicamic xevqhaxcut vtz
-                <lb/>bala xeqha taxquichap cut
-                <lb/>hun vinac cate xquipuzu xqui –
-                <lb/>poeoh cu acanoc vquxrihun
-                <lb/>vinac xquicoloba cut chiqui –
-                <lb/>vach ahauab xquimaiha chi
-                <lb/>cut hun came, vvcub came li
-                <lb/>bah chi cut xqazta chi v vach
-                <lb/>rihun vinac cumal nim chi –
-                <lb/>quicot vqux taxqaztah v
-                <lb/>vach xquimaihah cut ahau –
-                <lb/>ab. chipuzuna china cuivib
-				<lb/>chiquiltah quitzih curaih ca
-				<lb/>qux ri ixahoh xeqha chi cu
-				<lb/>ahauab vtzbala at ahau
-				<lb/>xeqhacut cate puch xquipuz
-				<lb/>quib are cu xpuz ri xhun ah –
-				<lb/>pu rumal xbalanque huhu –
-				<lb/>nal cu xperepoxic racan vcab
-				<lb/>xelvholom xcole aponoc chi
-				<lb/>nah xcotix vloc vqux xche –
-				<lb/>que chuvach tzalic quecabar
-				<lb/>curi ronohel rahaual xibal –
-				<lb/>ba chicay xacu hun chi caxa –
-				<lb/>houilabic ri xbalanque cava –
+                <lb n="1"/>ri xibalba xepulic ecayel ro
+                <lb n="2"/>nohel cut xquixaho xquixah
+                <lb n="3"/>cux, xquixah puhuy, xquixah
+                <lb n="4"/>yboy xqha cu ahau chique
+                <lb n="5"/>chipuzu ri nu tzÿ chicaztah chi
+                <lb n="6"/>vvach ivvmal xevqhaxic ve
+                <lb n="7"/>xeqha. ta xquipuz tzÿ xqaztai
+                <lb n="8"/>chi vvach quitzih cu chiquicot
+                <lb n="9"/>ri tzÿ ta xqaztah vvach chuzac –
+                <lb n="10"/>bizala vhe ta xqaztah v vach
+                <lb n="11"/>xqha cuahau chique chiporo –
+                <lb n="12"/>h naba vochoch xevqhaxchic
+                <lb n="13"/>ta xquiporoh cut rochoch ahau
+                <lb n="14"/>e pulinac ahauab pa ha conohel
+                <lb n="15"/>maui xecatic libah chichic x –
+                <lb n="16"/>cutzinizah mana huzu zachic
+                <lb n="17"/>ri rochoch huncame xquimai –
+                <lb n="18"/>hah cut conohel ahauab xa
+                <lb n="19"/>vi cu xere quexahouic nim
+                <lb n="20"/>quequicotic xevqhax chicut
+                <lb n="21"/>rumal ahau chicamizah na
+                <lb n="22"/>cuhun vinac chipuzu mata
+                <lb n="23"/>cu chicamic xevqhaxcut vtz
+                <lb n="24"/>bala xeqha taxquichap cut
+                <lb n="25"/>hun vinac cate xquipuzu xqui –
+                <lb n="26"/>poeoh cu acanoc vquxrihun
+                <lb n="27"/>vinac xquicoloba cut chiqui –
+                <lb n="28"/>vach ahauab xquimaiha chi
+                <lb n="29"/>cut hun came, vvcub came li
+                <lb n="1"/>bah chi cut xqazta chi v vach
+                <lb n="30"/>rihun vinac cumal nim chi –
+                <lb n="31"/>quicot vqux taxqaztah v
+                <lb n="32"/>vach xquimaihah cut ahau –
+                <lb n="33"/>ab. chipuzuna china cuivib
+				<lb n="34"/>chiquiltah quitzih curaih ca
+				<lb n="35"/>qux ri ixahoh xeqha chi cu
+				<lb n="36"/>ahauab vtzbala at ahau
+				<lb n="37"/>xeqhacut cate puch xquipuz
+				<lb n="38"/>quib are cu xpuz ri xhun ah –
+				<lb n="39"/>pu rumal xbalanque huhu –
+				<lb n="40"/>nal cu xperepoxic racan vcab
+				<lb n="41"/>xelvholom xcole aponoc chi
+				<lb n="42"/>nah xcotix vloc vqux xche –
+				<lb n="43"/>que chuvach tzalic quecabar
+				<lb n="44"/>curi ronohel rahaual xibal –
+				<lb n="45"/>ba chicay xacu hun chi caxa –
+				<lb n="46"/>houilabic ri xbalanque cava –
                 </p>
+                </div>
                 <div type="col" n="30.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
-                </div>
+         
                 <p>
-                <lb/>erno se juntaron a díuertírse, y to –
-                <lb/>do lo baílaron, la comadreja, el pu –
-                <lb/>huy, el armado, y les díxo el Sor. a ellos
-                <lb/>ea despedazad aqueste mí perro,
-                <lb/>y volueldo a resuçítar les fue dícho.
-                <lb/>Sí Sor. díxeron, y entonçes despeda –
-                <lb/>zaron al perro, y lo resuçítaron otra vez.
-                <lb/>y se holgo mucho el perro quando lo
-                <lb/>resuçítaron, y meneaba la cola. y
-                <lb/>díxoles el Sor. ea quemad esta mí –
-                <lb/>casa, y quemaron la casa de el Sor.
-                <lb/>y estanto todos los SSes. amontonados
-                <lb/>en la casa no se quemaron, y luego
-                <lb/>en brebe bolbíeron la casa asu ser.
-                <lb/>no vn ínstante estuvo la casa perdí –
-                <lb/>da de hun came. y marauíllandose.
-                <lb/>todos los SSes. y asímesmo baílaban. y
-                <lb/>se alegrauan mucho. y les fue dícho
-                <lb/>por el Sor. ea despedaçad vn hombre
-                <lb/>y q’no muera les fue dícho. esta bíen
-                <lb/>y cogíendo aun hombre lo reuana –
-                <lb/>ron, y leuantaron en alto el corazon
-                <lb/>de aquel hombre, y lo manífestaron
-                <lb/>delante de todos los Señores, y se ma –
-                <lb/>rauíllaron otra vez hun came, y v –
-                <lb/>ucub came, y en vn ínstante lo bol –
-                <lb/>uíeron aresuçitar, y se allegro mu –
-                <lb/>cho quando fue resuçitado, y se
-                <lb/>marauíllaron los SSes. ea agora des –
-                <lb/>pedaçaos a vosotros mesmos q’lo de—
-                <lb/>seamos ver este vuestro bayle les
-                <lb/>díxeron los SSes. esta bíen díxeron
-                <lb/>ellos. y luego se despedazaron, y hun
-                <lb/>ahpu fue reuanado por xbalanque
-                <lb/>y todo lo fue díuídíendo en partes
-                <lb/>sus brazos, y píernas, le corto la ca –
-                <lb/>beza, y la echo lexos, y le saco el cora –
-                <lb/>zon, y fue echado en el zacate, y es –
-                <lb/>taban borrachos todos los Señores
-                <lb/>deel ínfíerno deuer aquello, y solo
-                <lb/>el estaba baylando q’era xbalan –
-                <lb/>que y díxo ealeuantate
+                <lb n="1"/>erno se juntaron a díuertírse, y to –
+                <lb n="2"/>do lo baílaron, la comadreja, el pu –
+                <lb n="3"/>huy, el armado, y les díxo el Sor. a ellos
+                <lb n="4"/>ea despedazad aqueste mí perro,
+                <lb n="5"/>y volueldo a resuçítar les fue dícho.
+                <lb n="6"/>Sí Sor. díxeron, y entonçes despeda –
+                <lb n="7"/>zaron al perro, y lo resuçítaron otra vez.
+                <lb n="8"/>y se holgo mucho el perro quando lo
+                <lb n="9"/>resuçítaron, y meneaba la cola. y
+                <lb n="10"/>díxoles el Sor. ea quemad esta mí –
+                <lb n="11"/>casa, y quemaron la casa de el Sor.
+                <lb n="12"/>y estanto todos los SSes. amontonados
+                <lb n="13"/>en la casa no se quemaron, y luego
+                <lb n="14"/>en brebe bolbíeron la casa asu ser.
+                <lb n="15"/>no vn ínstante estuvo la casa perdí –
+                <lb n="16"/>da de hun came. y marauíllandose.
+                <lb n="17"/>todos los SSes. y asímesmo baílaban. y
+                <lb n="18"/>se alegrauan mucho. y les fue dícho
+                <lb n="19"/>por el Sor. ea despedaçad vn hombre
+                <lb n="20"/>y q’no muera les fue dícho. esta bíen
+                <lb n="21"/>y cogíendo aun hombre lo reuana –
+                <lb n="22"/>ron, y leuantaron en alto el corazon
+                <lb n="23"/>de aquel hombre, y lo manífestaron
+                <lb n="24"/>delante de todos los Señores, y se ma –
+                <lb n="25"/>rauíllaron otra vez hun came, y v –
+                <lb n="26"/>ucub came, y en vn ínstante lo bol –
+                <lb n="27"/>uíeron aresuçitar, y se allegro mu –
+                <lb n="28"/>cho quando fue resuçitado, y se
+                <lb n="29"/>marauíllaron los SSes. ea agora des –
+                <lb n="30"/>pedaçaos a vosotros mesmos q’lo de—
+                <lb n="31"/>seamos ver este vuestro bayle les
+                <lb n="32"/>díxeron los SSes. esta bíen díxeron
+                <lb n="33"/>ellos. y luego se despedazaron, y hun
+                <lb n="34"/>ahpu fue reuanado por xbalanque
+                <lb n="35"/>y todo lo fue díuídíendo en partes
+                <lb n="36"/>sus brazos, y píernas, le corto la ca –
+                <lb n="37"/>beza, y la echo lexos, y le saco el cora –
+                <lb n="38"/>zon, y fue echado en el zacate, y es –
+                <lb n="39"/>taban borrachos todos los Señores
+                <lb n="40"/>deel ínfíerno deuer aquello, y solo
+                <lb n="41"/>el estaba baylando q’era xbalan –
+                <lb n="42"/>que y díxo ealeuantate
                 </p>
+                </div>
             </div>
         </body>
     </text>
