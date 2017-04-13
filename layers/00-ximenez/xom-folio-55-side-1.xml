@@ -52,7 +52,7 @@
 <lb n="8" />puch raxon cubul chactic vpatan
 <lb n="9" />ronohelamac xul chiquivach na –
 <lb n="10" />ual ahauab cucumatz cotuh chu –
-<lb n="11" />vach puch quicab cavizimah ri
+<lb n="11" />vach puch <rs ana="KIKAB">quicab</rs> <rs ana="KAWISIMAJ">cavizimah</rs> ri
 <lb n="12" />ahpop ahpop camha ealel ahzic
 <lb n="13" />vinac mauixachutin xquibano
 <lb n="14" />manai pu xata zcaquin chi amac
@@ -68,8 +68,8 @@
 <lb n="24" />uab xchicabÿh chic.
 <lb n="25" rend="indent"/><hi rend="large">V</hi>ae cute vleel, vtazel aha –
 <lb n="26" />uarem chi ronohel quizaquiri –
-<lb n="27" />hem balam quitze, balam acab
-<lb n="28" />mahucutah iquibalam. nabe ca
+<lb n="27" />hem <rs ana="BALAM_KITZE">balam quitze</rs>, <rs ana="BALAM_AQAB">balam acab</rs>
+<lb n="28" /><rs ana="MAJUKUTAJ">mahucutah</rs> <rs ana="IKIBALAM">iquibalam</rs>. nabe ca
 <lb n="29" />mam nabe ca cahau. ta xvachin
 <lb n="30" />quih xvachin ic, qhumil. vaecute
 <lb n="31" />vleel vtazel ahauarem xchica
@@ -82,9 +82,9 @@
 <lb n="38" />chuhuhunal ahauabva.
 <lb n="39" />cate xchivachin vvach huhun chuhu –
 <lb n="40" />hunal ahauab quiche
-<lb n="41" rend="indent"/><hi rend="large">B</hi>alam quitze vxe nabal cavi
-<lb n="42" rend="hanging"/>quib 
-<lb n="43" /><hi rend="large">Cocauib</hi> vcale chic balam quitze
+<lb n="41" rend="indent"/><rs ana="BALAM_KITZE"><hi rend="large">B</hi>alam quitze</rs> vxe nabal <rs ana="KAWEQ">cavi
+<lb n="42" rend="hanging"/>quib</rs>
+<lb n="43" /><hi rend="large">Cocauib</hi> vcale chic <rs ana="BALAM_KITZE">balam quitze</rs>
 <lb n="44" /><hi rend="large">B</hi>alam conache xtiquiban ahpopol
 <lb n="45" rend="hanging"/>roxle curi 
 <lb n="46" /><hi rend="large">C</hi>otuha ztayub vcahle
@@ -93,13 +93,13 @@
                 </div>
                 <div type="col" n="55.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
-                <p>
-                <note place="margin-right" type="pagination">
+                 <note place="margin-right" type="pagination">
                 	<num rend="large">
                 	<hi rend="handwriting;color:pencil">55
                 		</hi>
                 			</num>
                 				</note>
+                <p>
 <lb n="1" />taron el íperío, y su floría, y gran
 <lb n="2" />deza. y no así nomas fueron sojuzga –
 <lb n="3" />dos los pueblos, chícos y grandes. dí –
@@ -109,7 +109,7 @@
 <lb n="7" />tríbuto de todos los pueblos. y víní –
 <lb n="8" />eron a la presençía de los portento –
 <lb n="9" />sos Reyes. cucumatz cotuha. y a la pre –
-<lb n="10" />sençía de quícab y cauízímah. gran
+<lb n="10" />sençía de <rs ana="KIKAB">quícab</rs> y <rs ana="KAWISIMAJ">cauízímah</rs>. gran
 <lb n="11" />des señores, de trono, y casa, y gran 
 <lb n="12" />des, y altos, hombres no fue poco lo<abbr>q’</abbr>
 <lb n="13" />híçíeron, y no fueron pocos los pue –
@@ -126,8 +126,8 @@
 <lb n="24" />remos agoraotra uez.
 <lb n="25" />y estas fueron las generaçíones, y des –
 <lb n="26" />çendençía de el Reyno, y el esclareçí –
-<lb n="27" />míento de balamquítze, balam acab, ma –
-<lb n="28" />hucutah, y íquíbalam, nuestros prímeros
+<lb n="27" />míento de <rs ana="BALAM_KITZE">balamquítze</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">ma –
+<lb n="28" />hucutah</rs>, y <rs ana="IKIBALAM">íquíbalam</rs>, nuestros prímeros
 <lb n="29" />abuelos, y padres, quando amaneçío el
 <lb n="30" />sol, luna, y estrellas y aquí daremos
 <lb n="31" />príçípío a la decendençía de todos
@@ -140,9 +140,9 @@
 <lb n="38" />de el quiche
 <lb/>
 <lb/>
-<lb n="39" /><hi rend="large">B</hi>alamquítze. elprímero, ytronco de
-<lb n="40" />losde cauíquíb
-<lb n="41" /><hi rend="large">C</hi>ocauíb; segunda generaçíon de balamq’tze
+<lb n="39" /><rs ana="BALAM_KITZE"><hi rend="large">B</hi>alamquítze</rs>. elprímero, ytronco de
+<lb n="40" />losde <rs ana="KAWEQ">cauíquíb</rs>
+<lb n="41" /><hi rend="large">C</hi>ocauíb; segunda generaçíon de <rs ana="BALAM_KITZE">balamq’tze</rs>
 <lb n="42" /><hi rend="large">B</hi>alamconache. la terçera generaçíon
 <lb/>
 <lb n="43" /><hi rend="large">C</hi>otuhaztayub. quarta generaçíon

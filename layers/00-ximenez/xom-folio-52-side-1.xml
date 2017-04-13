@@ -94,13 +94,13 @@
                 </div>
                 <div type="col" n="52.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
-               	<p>
-               	<note place="margin-right" type="pagination">
+         <note place="margin-right" type="pagination">
                 	<num rend="large">
                 	<hi rend="handwriting;color:pencil">52
                 		</hi>
                 			</num>
                 				</note>
+                <p>           	
                 	<lb n="1" />lagroso en su ser. y era espanto ante
                 	<lb n="2" />todos los <abbr>SS<hi rend="superscript">es.</hi></abbr> y se desparçío esta notí –
                 	<lb n="3" />cía, y lo oyeron todos los <abbr>SS<hi rend="superscript">es.</hi></abbr>y los pue –

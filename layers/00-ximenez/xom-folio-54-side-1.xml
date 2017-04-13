@@ -93,13 +93,13 @@
                 </div>
                 <div type="col" n="54.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
-                <p>
-                <note place="margin-right" type="pagination">
+                 <note place="margin-right" type="pagination">
                 	<num rend="large">
                 	<hi rend="handwriting;color:pencil">54
                 		</hi>
                 			</num>
                 				</note>
+                <p>
 <lb n="1" />otrauez le íuan a dar sus tributes al Rey
 <lb n="2" />y a este <abbr>S<hi rend="superscript">or.</hi></abbr> le sustentaban, y alímentabá
 <lb n="3" />los prínçípales, <abbr>q’</abbr>ganaron los pueblos. y
