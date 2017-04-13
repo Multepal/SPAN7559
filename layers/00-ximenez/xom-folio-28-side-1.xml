@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>Maria Esparza</name>
+                <name>María Esparza Rodríguez</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -93,11 +93,21 @@
                 </div>
                 
                 <div type="col" n="28.1.2" xml:lang="spa">
-               
+
+                <note place="margin-right" type="pagination">
+                <numb rend="large">
+                <hi rend="handwriting;color:pencil">28
+                	</hi>
+                		</numb>
+                			</note>
                 <p>
-                <lb n="1" /> cqbeza. y despues seauísaron entresí
-                <lb n="2" />q’no jugasen ala pelota, síno q’te ama –
-                <lb n="3" />gues solo, q’yo solo lo hare díxo xba –
+                <lb n="1" /> cqbeza. y despues seauísaron entresí<
+                <lb n="2" />
+                <choice>
+                <abbr>q’</abbr>
+                <expan>que</expan></choice>no jugasen ala pelota, síno 
+                <choice><abbr>q’</abbr><expan>te ama –
+                <lb n="3" />gues solo, <abbr><expan>q’yo solo lo hare díxo xba –
                 <lb n="4" />lanque ael. y luego mando a vn
                 <lb n="5" />conejo, y le díxo anda estate allí en
                 <lb n="6" />çementerío, y metete allí en el toma –
@@ -107,6 +117,9 @@
                 <lb n="10" />le fue dícho al conejo quando se le
                 <lb n="11" />mando aquella noche y quando a
                 <lb n="12" />maneçío estaban ambos Buenos.
+                <lb>
+                <lb>
+                <lb>
                 <lb n="13" />y echando la pelota estaba la cabe –
                 <lb n="14" />ça de hun ahpu en el çementerío. ya
                 <lb n="15" />fueron ganados, yase hízo, ya te díste
@@ -136,6 +149,9 @@
                 <lb n="39"  />de esta? el vle nuestro e’q’ lo halla –
                 <lb n="40"  />mos, díxeron en su costumbre, y
                 <lb n="41"  />víníendo los de el ínfíerno dixe
+                <lb>
+                <lb>
+                <lb>
                 </p>
                 </div>
             </div>
