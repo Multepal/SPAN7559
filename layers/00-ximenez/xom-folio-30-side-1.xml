@@ -40,8 +40,7 @@
         <body>
             <div type="page" n="30.1" xml:id="xom-f30-s1">
                 <div type="col" n="30.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
+                
                 <p>
                 <lb n="1"/>mabachicah rumal ri quitzih
                 <lb n="2"/>cohxobic maxa mavi cohquix –
@@ -91,9 +90,9 @@
                 <lb n="46"/>cut ta xquitiquiba cut quibix
                 <lb n="47"/>qui xahoh ta xulcut ronohel
                 </p>
-                <div type="col" n="30.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 </div>
+                <div type="col" n="30.1.2" xml:lang="spa">
+                
                 <p>
                 <lb n="1"/>no queremos díxeron porq’tenemos
                 <lb n="2"/>míedo, por ventura no nos agrenta –
@@ -142,6 +141,7 @@
                 <lb n="45"/>empezaron su canto, y su baíle, y luego
                 <lb n="46"/>víníeron a ver todos los de el ínfí –
                 </p>
+                </div>
             </div>
         </body>
     </text>
