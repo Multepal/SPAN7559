@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>Maria Esparza</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -95,20 +95,22 @@
                 <div type="col" n="28.2.2" xml:lang="spa">
                 
                 <p>
-                <lb n="1"/>ron q’esto q’hemos visto? y luego empe –
+                <lb n="1"/>ron <abbr>q’</abbr>esto <abbr>q’</abbr>hemos visto? y luego empe –
                 <lb n="2"/>zaron a jugar la pelota, ambos a dos
                 <lb n="3"/>estaban jugando a la pelota, y luego
-                <lb n="4"/>fue tirado a la tortuga por xbalan –
-                <lb n="5"/>que, y víno haçíendose pedazos al
+                <lb n="4"/>fue tirado a la tortuga por <rs ana="XBALANQUE">xbalan –
+                <lb n="5"/>que</rs>, y víno haçíendose pedazos al
                 <lb n="6"/>çementerio, y desbaratado en pe –
                 <lb n="7"/>pitas en su presençía. y díxeron los
                 <lb n="8"/>de el ínfíerno quíen sera el q’vaya
                 <lb n="9"/>por ella, y la vaya atraer? yasí fue
                 <lb n="10"/>el vençímíento, ó seruençídos los
                 <lb n="11"/>Señores de el ínfíerno por hun ah –
-                <lb n="12"/>pu, y xbalanque. y aunq’ estuuí –
+                <lb n="12"/>pu, y <rs ana="XBALANQUE">xbalanque</rs>. y aunq’ estuuí –
                 <lb n="13"/>eron en gran trabaxo, no muríeron
                 <lb n="14"/>con todo lo q’ con ellos híçíeron.
+                <lb/>
+                <lb/>
                 <lb n="15"/>y agora díremos aquí la memoría de
                 <lb n="16"/>la muerte de hun ahpu, y xbalanque
                 <lb n="17"/>y del modo q’muríeron.
@@ -120,7 +122,7 @@
                 <lb n="23"/>en el ínfíerno, entonçes embíaron dos
                 <lb n="24"/>adíuínos así como espíadores, y mírado –
                 <lb n="25"/>res q’se llamaban xuluppacam, q’eran
-                <lb n="26"/>sabios, y así se os pregunta por los SSes.deel
+                <lb n="26"/>sabios, y así se os pregunta por los <abbr>SS<hi rend="superscript">es</hi></abbr>.deel
                 <lb n="27"/>ínfíerno tocante a nuestra muerte, q’
                 <lb n="28"/>estan juntos en consejo porq’no hemos
                 <lb n="29"/>muerto, y no hemos sído vençídos, y
