@@ -40,8 +40,7 @@
         <body>
             <div type="page" n="29.2" xml:id="xom-f29-s2">
                 <div type="col" n="29.2.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
+               
                 <p>
                 <lb n="1"/>ta xequihin xibalba xhoc qui ba
                 <lb n="2"/>quil xbe tixoc chi racan a macu
@@ -91,9 +90,9 @@
                 <lb n="47"/>pon cut cuq ri xahol ta xqhav
                 <lb n="48"/>cut quitzih ahauab chique
                 </p>
-                <div type="col" n="29.2.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 </div>
+                <div type="col" n="29.2.2" xml:lang="spa">
+             
                 <p>
                 <lb n="1"/>sus guesos, y luego los molíeron, y los
                 <lb n="2"/>hízíeron harína, y los fueron a arro –
@@ -142,6 +141,7 @@
                 <lb n="46"/>ron con los q’baílaban, y les díxo el
                 <lb n="47"/>mensage de los señores a elllos.
                 </p>
+                </div>
             </div>
         </body>
     </text>
