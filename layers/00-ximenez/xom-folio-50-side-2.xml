@@ -72,6 +72,7 @@
                 <lb n="20"/> taxevl chic ahauab <rs ana="KOTUJA">cotuha</rs> ruq
                 <lb n="21"/> <rs ana="AJQUKUMATZ">cucumatz</rs> ruq puchronohel aha –
                 <lb n="22"/> uab xroquexoc xroleapuch vi –
+                <note place="margin-left">+ Vxe am <lb /> ac <lb /> + Vínaquí- <lb /> xem </note>
                 <lb n="23"/> nac vxe zac vxe qazlem chiri1
                 <lb n="24"/> cut qui xquiban vi cuchoch
                 <lb n="25"/> chiri naipuch xquiban vi roch –
@@ -82,20 +83,21 @@
                 <lb n="30"/> chic eputzatz chic ta xquinao –
                 <lb n="31"/> hih chic quiniha xemoloxic xe
                 <lb n="32"/> ha chahox puch rumal xvinaquir
-                <lb n="33"/> qui chaoh xeeacvachin
-                <lb n="34"/> chi quib chuvi rahil canab ra
-                <lb n="35"/> hil qui mial rumal xa maui chi –
+                <lb n="33"/> qui<del>x</del> quichaoh xe<del rend="overwritten">ꜫ</del>acvachin
+                <lb n="34"/> chiquib chuvi rahil canab ra
+                <lb n="35"/> hil quimial rumal xa maui chi –
                 <lb n="36"/> tzacon cuquia chiquivach are
+                <note place="margin-left">+tz<unclear reason="illegible">a</unclear>lbehq-<lb />uíb<lb />+cacbeh</note>
                 <lb n="37"/> chicut vxe chic quihachouic
-                <lb n="38"/> quib ta xqui tzol bac2 vholom ca
-                <lb n="39"/> minac xquicacbeh quib taxqui
-                <lb n="40"/> pax ri beletac chi chinamit x –
+                <lb n="38"/> quib ta xqui tzol bac vholom ca
+                <lb n="39"/> minac xquicacbeh quib ta<del rend="overwritten">x</del>qui
+                <lb n="40"/> pax ri beletac<del rend="scribble">l</del> chi chinamit x –
                 <lb n="41"/> banom oc vqhaohil anam mial
                 <lb n="42"/> taxban vnaohixic ahauarem
                 <lb n="43"/> huvinac cahib chinim ha xuxic
                 <lb n="44"/> xoheroc quevlic conohel chiri
                 <lb n="45"/> chuvi qui tinamit ta xe tzacat hu –
-                <lb n="46"/> vinac cahib nimha chiri pa
+                <lb n="46"/> vinac c<add place="above">o</add>ahib nimha chiri pa
                 <lb n="47"/> tinamit <rs ana="QUMARAQ_AJ">cumarcaah</rs> xutzirizaxic
                 
                 </p>
@@ -103,12 +105,7 @@
                 </div>
                 <div type="col" n="50.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
-                <note place="margin-right" type="pagination">
-                <num rend="large">
-                <hi rend="handwriting;color:pencil">50
-                </hi>
-                </num>
-                </note>
+                
                 <p> 
                 <lb n="1"/> comida, <abbr>q’</abbr>era precío de las captiuas
                 <lb n="2"/> híjas, y solo era por hoganza desus
