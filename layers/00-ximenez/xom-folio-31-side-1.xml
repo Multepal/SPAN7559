@@ -40,8 +40,7 @@
         <body>
             <div type="page" n="31.1" xml:id="xom-f31-s1">
                 <div type="col" n="31.1.1" xml:lang="quc">
-                <!-- K'ICHE' LINES GO HERE -->
-                </div>
+              
                 <p>
                 <lb n="1" />lihoc xqhacut libah chicut xqaz –
                 <lb n="2" />tah vvach. nim quequicotic. xavi
@@ -91,9 +90,9 @@
                 <lb n="47" />cut quechacatahic rahaual
                 <lb n="48" />xibalba, xamaihabal xa pu
                 </p>
-                <div type="col" n="31.1.2" xml:lang="spa">
-                <!-- SPANISH LINES GO HERE -->
                 </div>
+                <div type="col" n="31.1.2" xml:lang="spa">
+              
                 <p>
                 <lb n="1" />y luegoalpunto resuçíto. grande
                 <lb n="2" />mente se alegraron, y se alegraban
@@ -135,6 +134,7 @@
 				<lb n="38" />como ya vençído su Sor. de el ínfí –
 				<lb n="40" />erno, ysolo por marauílla, ymílagro,
                 </p>
+                </div>
             </div>
         </body>
     </text>
