@@ -76,14 +76,12 @@
                 <lb n="26" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>3</num></hi></note>
                 <rs ana="QALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
                 <lb n="27" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>4</num></hi></note>
-                <seg source="mult:995">
                 <rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
                 <lb n="28" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>5</num></hi></note>
                 <rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
                 <lb n="29" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>6</num></hi></note>
                 <rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
                 <lb n="30" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>7</num></hi></note>
-                </seg>
                 <rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
                 <lb n="31" /><note place="margin-left"><hi rend="handwriting;color:pencil"><num>8</num></hi></note>
                 <rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auilix</rs> hun vnim ha.
@@ -197,7 +195,7 @@
                		<abbr type="superscript">grane.</abbr>
                		<expan>grande</expan>
                		</choice>
-               <lb n="28" /><seg source="mult:995"><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs> 
+               <lb n="28" /><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs> 
                <choice>
                		<abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>
@@ -223,8 +221,7 @@
                			<choice>
                				<abbr type="superscript">gre.</abbr>
                				<expan>grande</expan>
-               				</choice>
-               				</seg>
+               				</choice>>
                <lb n="31" /><rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>ímchocoh níhaíb</rs>
                <choice>
                <abbr type="superscript">Sor</abbr>
