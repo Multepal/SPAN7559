@@ -41,14 +41,19 @@
             <div type="page" n="51.2" xml:id="xom-f51-s2">
                 <div type="col" n="51.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
+                <note place="margin-left" type="pagination"> 
+                <num rend="large">
+                <hi rend="handwriting;color:pencil">51
+                </hi>     </num>     </note>
+
                 <p>
                 <lb n="1"/> Quehe cut xtzacat vi huvinac
                 <lb n="2"/> cahib chiahauab, huvinac cahib
                 <lb n="3"/> naipuch chi nimha xuxuxic ta
                 <lb n="4"/> xnimaric eaeal tepeual paqui –
                 <lb n="5"/> che taxeaearic ta xtepeuaric v
-                <lb n="6"/> nimal ralal quiche. ta xchuna –
-                <lb n="7"/> xic taxzahcabix puch zivan tina
+                <lb n="6"/> nimal ralal quiche. ta <hi rend="underline">xchuna –
+                <lb n="7"/> xic</hi> tax<hi rend="underline">zahcabix</hi> puch zivan tina
                 <lb n="8"/> mit xul chutiamac nima amac
                 <lb n="9"/> cocut vbi ahau. xnimarizan
                 <lb n="10"/> quiche taxvinaquiric eaealte –
@@ -57,7 +62,7 @@
                 <lb n="13"/> manaipu are are xebanouic ma –
                 <lb n="14"/> ui xechacuntah mapu xqui –
                 <lb n="15"/> banta cochoch manaipu xa
-                <lb n="16"/> taxquiban rochoch qui cabauil
+                <lb n="16"/> taxquiban rochoch qui caba<hi rend="underline">uil</hi>
                 <lb n="17"/> xarumal xequiric cal quiqa –
                 <lb n="18"/> hol. mana xaquibochi xatapu
                 <lb n="19"/> quelec qui cupun ta puch qui –
@@ -76,15 +81,15 @@
                 <lb n="32"/> ronohel amac ca labal cut
                 <lb n="33"/> xcahvi vzivan vtinamit ca
                 <lb n="34"/> rumal qui naual ahauab xe
-                <lb n="35"/> eaearic rÿ ahau cucumatz a
-                <lb n="36"/> hau cotuha quitzih chinaual a –
-                <lb n="37"/> hau ri cucumatz xuxic hu vvc
+                <lb n="35"/> eaearic rÿ ahau <rs ana="AJQUKUMATZ">cucumatz</rs> a
+                <lb n="36"/> hau <rs ana="KOTUJA">cotuha</rs> quitzih chinaual a –
+                <lb n="37"/> hau ri <rs ana="AJQUKUMATZ">cucumatz</rs> xuxic hu vvc
                 <lb n="38"/> chacan chicah huvvc cut chi –
-                <lb n="39"/> be vbana cahoc chi xibalba
+                <lb n="39"/> be vbana cahoc chi <rs ana="XIBALBA">xibalba</rs>
                 <lb n="40"/> huvvc chicut chiqohe chicu –
                 <lb n="41"/> matzil quitzih chi cumatz chuxic
                 <lb n="42"/> huvvc chinaipuch chuba –
-                <lb n="43"/> no chi cotal hu vvc chic1 chi ba –
+                <lb n="43"/> no chi cotal huvvc<unclear reason="ink blot">chi</unclear>c chi ba –
                 <lb n="44"/> lamil quitzih vi chi cot chi ba –
                 <lb n="45"/> lam v vachibal chuxic huvvc
                 <lb n="46"/> chic chiremeic chiquiquel vtu –
@@ -95,27 +100,27 @@
                 <!-- SPANISH LINES GO HERE -->
                 <p>
                 <lb n="1"/> y así se ajusttaron los veínte, y quatro –
-                <lb n="2"/> SSes. y las veínte, y quatro casas gran –
+                <lb n="2"/> <abbr>SS<hi rend="superscript">es</hi></abbr>. y las veínte, y quatro casas gran –
                 <lb n="3"/> des, quando se engrandecío la glo –
                 <lb n="4"/> ría en el quiche, y se ensalço la gran
                 <lb n="5"/> deza de el peso quiche. y quando de
                 <lb n="6"/> cal, y canto se fabríco el pueblo. y ví –
                 <lb n="7"/> níeron todos los pueblos grandes, y
-                <lb n="8"/> chícos q’estaban a cargo de los SSes
+                <lb n="8"/> chícos <abbr>q’</abbr>estaban a cargo de los <abbr>SS<hi rend="superscript">es</hi></abbr>
                 <lb n="9"/> y se ensalzo, la gloría de el quiche,
                 <lb n="10"/> quando se hízo la casa de el ídolo,
-                <lb n="11"/> y las casas de los SSes y no fueron
-                <lb n="12"/> estos los q’ las hízíeron, ní trabaxaron
+                <lb n="11"/> y las casas de los <abbr>SS<hi rend="superscript">es</hi></abbr> y no fueron
+                <lb n="12"/> estos los <abbr>q’</abbr> las hízíeron, ní trabaxaron
                 <lb n="13"/> ní hízíeron sus casas, ní estos hízíe –
                 <lb n="14"/> ron la casa de el ídolo, y por tanto
                 <lb n="15"/> se multíplícaron los vasallos y no
                 <lb n="16"/> por engaños, ní hurtos ní rapíñas,
-                <lb n="17"/> porq’ deuerdad eran de los SSes cada –
+                <lb n="17"/> <abbr>porq’</abbr> deuerdad eran de los <abbr>SS<hi rend="superscript">es</hi></abbr> cada –
                 <lb n="18"/> vno. y fueron muchos los paréentes
-                <lb n="19"/> q’se juntaron, y amontonaron, a –
-                <lb n="20"/> oyr lo q’cada vno de los SSes. man –
+                <lb n="19"/> <abbr>q’</abbr>se juntaron, y amontonaron, a –
+                <lb n="20"/> oyr lo <abbr>q’</abbr>cada vno de los <abbr>SS<hi rend="superscript">es</hi></abbr>. man –
                 <lb n="21"/> daba. y eran muy amados, y estí –
-                <lb n="22"/> mados todos los SSes, y eran tenídos
+                <lb n="22"/> mados todos los <abbr>SS<hi rend="superscript">es</hi></abbr>, y eran tenídos
                 <lb n="23"/> en grande estíma, y veneraçíon
                 <lb n="24"/> por todos los vasallos. quando se
                 <lb n="25"/> mulíplícaron los de el pueblo. y
@@ -123,19 +128,24 @@
                 <lb n="27"/> eron a dar todos los pueblos, y
                 <lb n="28"/> los enemígos, ní fueron ganados
                 <lb n="29"/> los pueblos en vatalla síno por los
-                <lb n="30"/> mílagros de los SSes se ensalçaron.
-                <lb n="31"/> y el Rey cotuha, y cucumatz. era
-                <lb n="32"/> portentoso el cucumatz. síete días
+                <lb n="30"/> mílagros de los <abbr>SS<hi rend="superscript">es</hi></abbr> se ensalçaron.
+                <lb n="31"/> y el Rey <rs ana="KOTUJA">cotuha</rs>, y <rs ana="AJQUKUMATZ">cucumatz</rs>. era
+                <lb n="32"/> portentoso el <rs ana="AJQUKUMATZ">cucumatz</rs>. síete días
                 <lb n="33"/> se subía al cíelo, y síete días se íba
-                <lb n="34"/> al ínfíerno. y siete días se conuer –
-                <lb n="35"/> tía en culebra, q’ çíertamente pa –
+                <lb n="34"/> al <rs ana="XIBALBA">ínfíerno</rs>. y siete días se conuer –
+                <lb n="35"/> tía en culebra, <abbr>q’</abbr> çíertamente pa –
                 <lb n="36"/> reçía culebra. y síete días se con –
                 <lb n="37"/> uertía en aguíla, y otros síete dí –
-                <lb n="38"/> as se conuertía en tígre. q’çíerta
+                <lb n="38"/> as se conuertía en tígre. <abbr>q’</abbr>çíerta
                 <lb n="39"/> mente era aguíla, y tígre. y otros
                 <lb n="40"/> síete días se vonuertía en sangre
-                <lb n="41"/> cuajada, q’solo era sangre, y çíer –
+                <lb n="41"/> cuajada, <abbr>q’</abbr>solo era sangre, y çíer –
                 <lb n="42"/> tamente era portentoso Rey, y mí –
+                <lb />
+                <lb />
+                <lb />
+                <lb />
+                <lb />
                 </p>
                 </div>
 			</div>

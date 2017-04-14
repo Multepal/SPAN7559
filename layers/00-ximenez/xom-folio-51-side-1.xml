@@ -42,12 +42,13 @@
                 <div type="col" n="51.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p> 
-                <lb n="1"/> rumal Sor. obispo ri ca xtole1 can
+                <lb n="1"/> rumal <abbr>S<hi rend="superscript">or</hi></abbr>. obispo ri <add place="above">+</add>ca xtole1 can
+                <note place="margin-left">+tinamit</note>
                 <lb n="2"/> oc. xeeaear chiri xnuc maihi –
-                <lb n="3"/> nac oc qui tem qui chacat xha
+                <lb n="3"/> nac oc qui tem qui chacat <del rend="overwritten">x</del>ha
                 <lb n="4"/> chatzox qui vach hu tac vi chi
                 <lb n="5"/> eae huhun chi ahauab beleheb
-                <lb n="6"/> tac chi chinamit xucolela rib be –
+                <lb n="6"/> tac chi chinamit x<gap reason="illegible" unit="several characters"/> <add place="above">ucolela</add> rib be –
                 <lb n="7"/> leheb chiahauab belehe tac chi
                 <lb n="8"/> chinamit xucola rib beleheb
                 <lb n="9"/> chi ahauab chi ahauab caviquib.
