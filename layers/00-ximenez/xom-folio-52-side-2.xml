@@ -48,10 +48,10 @@
                 			</num>
                 				</note>
                 <p>               
-<lb n="1" />que chinaht vcamiza quicab huchob
+<lb n="1" />que chinaht vcamiza <rs ana="KIKAB">quicab</rs> huchob
 <lb n="2" />cachob tachic maui cu can vpatan
 <lb n="3" />chirech ronohel xcah vtimamit xucam
-<lb n="4" />vpatan chuvach quicab cauizimah
+<lb n="4" />vpatan chuvach quicab <rs ana="KAWISIMAJ">cauizimah</rs>
 <lb n="5" />xeoc chi munil xelotzic xecacquic chi –
 <lb n="6" />che mahabi qui quih mahabi calaxic
 <lb n="7" />xuxic xa qha mi xqohe paxibal tina –
@@ -62,10 +62,10 @@
 <lb n="12" />rumal vacamic hunhuyub abah
 <lb n="13" />xzcaquin chic maui xcatatahic que –
 <lb n="14" />heri xchoi chiicah rumal chila
-<lb n="15" />qovi patacah petatayub vbi ca –
+<lb n="15" />qovi patacah <rs ana="PETATAYUB">petatayub</rs> vbi ca –
 <lb n="16" />lah vacamic caril ronohel vinac
-<lb n="17" />queico vi retal rachihilal qui
-<lb n="18" />cab. mahabi xcam vi mapu ha –
+<lb n="17" />queico vi retal rachihilal <rs ana="KIKAB">qui
+<lb n="18" />cab</rs>. mahabi xcam vi mapu ha –
 <lb n="19" />bi xchacatah vi quitzih vi chi –
 <lb n="20" />achih xucam cut vpatan rono –
 <lb n="21" />hel amac, taxenaohim cut aha –
@@ -91,7 +91,7 @@
 <lb n="41" />yubal chic mi xibihivib v ve
 <lb n="42" />qo chic ah labal chulchic ivvq ta
 <lb n="43" />camizai ive anim chul ibÿh chi – 
-<lb n="44" />be nu<!--there's a ca on top-->camizah1 xqhacut quicab 
+<lb n="44" />be nu<!--there's a ca on top-->camizah1 xqhacut <rs ana="KIKAB">quicab</rs>
 <lb n="45" />chiquech, ta xepixabaxic cono – 
 <lb n="46" />hel vach ruq ealelatzih vinac
 <lb n="47" />ta xbeiheic ri vchi qha, vchi cam
@@ -101,10 +101,10 @@
                 <!-- SPANISH LINES GO HERE -->
                <p>
 <lb n="1" />y llegaron muy lexos los soldados
-<lb n="2" />de quícab. y vna, o dos parçíalída
+<lb n="2" />de <rs ana="KIKAB">quícab</rs>. y vna, o dos parçíalída
 <lb n="3" />des <abbr>q’</abbr>no traían el tríbuto, fueron so – 
 <lb n="4" />juzgados, cobro los tributes, y los tra –
-<lb n="5" />geron ante el quiche, y cauízímah.
+<lb n="5" />geron ante el quiche, y <rs ana="KAWISIMAJ">cauízímah</rs>.
 <lb n="6" />y fueron puestos en esclauítud, y es – 
 <lb n="7" />trechura, y flechados. y no tenían ya 
 <lb n="8" />poder, y así estuuíeron desparçídos,
@@ -115,9 +115,9 @@
 <lb n="13" />de el pueblo, y agora esta vn zero de pí –
 <lb n="14" />edra <abbr>q’</abbr>casi esta trocado, como sí fuera
 <lb n="15" />con hacha. y esta alla en la costa, <abbr>q’</abbr>se
-<lb n="16" />llama petayub. y agora esta patente a
+<lb n="16" />llama <rs ana="PETATAYUB">petayub</rs>. y agora esta patente a
 <lb n="17" />todos los <abbr>q’</abbr> por allí pasan, y lo uen. en señal
-<lb n="18" />de la fortaleza de quícab. y no lo pu –
+<lb n="18" />de la fortaleza de <rs ana="KIKAB">quícab</rs>. y no lo pu –
 <lb n="19" />díeron matar, ní vençer, <abbr>porq’</abbr> era valí –
 <lb n="20" />ente, yletríbutaron todos los pueblos.
 <lb n="21" />yentonçes díspusíeron todos los <abbr>SS<hi rend="superscript">es.</hi></abbr> el amu –
@@ -142,7 +142,7 @@
 <lb n="39" />otra vez víenen los enemígos, contra
 <lb n="40" />vosotros, <abbr>q’</abbr>os quíeren matar, a toda
 <lb n="41" />prísa venildo a deçir, y los íremos
-<lb n="42" />a matar. les díxo quícab, a ellos los
+<lb n="42" />a matar. les díxo <rs ana="KIKAB">quícab</rs>, a ellos los
 <lb n="43" />soldados, y capítanes, y entonçes fueron
 <lb n="44" />todos los hombres de Guerra, fleche –
 <lb n="45" />ros, yarqueros
