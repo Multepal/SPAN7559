@@ -40,7 +40,7 @@
         <body>
             <div type="page" n="30.1" xml:id="xom-f30-s1">
                 <div type="col" n="30.1.1" xml:lang="quc">
-                
+
                 <p>
                 <lb n="1"/>mabachicah rumal ri quitzih
                 <lb n="2"/>cohxobic maxa mavi cohquix –
@@ -91,7 +91,15 @@
                 <lb n="47"/>qui xahoh ta xulcut ronohel
                 </p>
                 </div>
+                
                 <div type="col" n="30.1.2" xml:lang="spa">
+                	
+                <note place="margin-right" type="pagination">
+                		<num rend="large">
+                		<hi rend="handwriting;color:pencil">30
+                			</hi>
+                				</num>
+                					</note>
                 
                 <p>
                 <lb n="1"/>no queremos díxeron porq’tenemos
@@ -112,6 +120,9 @@
                 <lb n="16"/>sageros de enojo delante de los q’por
                 <lb n="17"/>ellos venían, y fueron entonçes an
                 <lb n="18"/>te ante los Señores.
+                <lb/>
+                </p>
+                <p>
                 <lb n="19"/>y llegaron delante delos Señores
                 <lb n="20"/>eíban trístes, cabízbaxos, y así lle
                 <lb n="21"/>garon, y se humíllaron, y híçíeron

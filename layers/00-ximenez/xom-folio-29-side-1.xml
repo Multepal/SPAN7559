@@ -32,7 +32,7 @@
             </langUsage>
             <creation>
                 <date>Spring 2017</date>
-                <name>YOUR NAME GOES HERE</name>
+                <name>María Esparza Rodríguez</name>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -40,7 +40,7 @@
         <body>
             <div type="page" n="29.1" xml:id="xom-f29-s1">
                 <div type="col" n="29.1.1" xml:lang="quc">
-
+                						
                 <p>
                 <lb n="1"/> queba chuvi che ta queqha chic
                 <lb n="2"/>chive. xax ma vtz vi xavi xere
@@ -91,7 +91,15 @@
                 <lb n="49"/>xtzonox rixbe vi qui ba quil 
                 </p>
                 </div>
+                
                 <div type="col" n="29.1.2" xml:lang="spa">
+                
+                <note place="margin-right" type="pagination">
+                		<num rend="large">
+                		<hi rend="handwriting;color:pencil">29
+                			</hi>
+                				</num>
+                					</note>
                 
                 <p>
                 <lb n="1"/>mo deçíd no sera bueno, porq’boluere –
