@@ -42,63 +42,64 @@
                 <div type="col" n="51.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p> 
-                <lb n="1"/> rumal <abbr>S<hi rend="superscript">or</hi></abbr>. obispo ri <add place="above">+</add>ca xtole1 can
+                <lb n="1"/> rumal <abbr>S<hi rend="superscript">or</hi></abbr>. obispo ri <add place="above">+</add>ca xtole can
                 <note place="margin-left">+tinamit</note>
                 <lb n="2"/> oc. xeeaear chiri xnuc maihi –
                 <lb n="3"/> nac oc qui tem qui chacat <del rend="overwritten">x</del>ha
                 <lb n="4"/> chatzox qui vach hu tac vi chi
                 <lb n="5"/> eae huhun chi ahauab beleheb
-                <lb n="6"/> tac chi chinamit x<gap reason="illegible" unit="several characters"/> <add place="above">ucolela</add> rib be –
-                <lb n="7"/> leheb chiahauab belehe tac chi
+                <lb n="6"/> tac chi <rs ana="SAQIK">chinamit</rs> x<gap reason="illegible" unit="several characters"/> <add place="above">ucolela</add> rib be –
+                <lb n="7"/> leheb chiahauab <del type="strike-through">belehe tac chi
                 <lb n="8"/> chinamit xucola rib beleheb
-                <lb n="9"/> chi ahauab chi ahauab caviquib.
-                <lb n="10"/> beleheb chiahauab nihaibab.
-                <lb n="11"/> cahi chiahauab. ahau quiche+2
+                <lb n="9"/> chi ahauab</del> chi ahauab <rs ana="KAWEQ">caviquib</rs>.
+                <lb n="10"/> beleheb chiahauab <rs ana="NIJAIB">nihaibab</rs>.
+                <lb n="11"/> cahi<gap reason="deletion" unit="character"/>chiahauab. <rs ana="AJAW_KICHE">ahau quiche</rs>+
+                <note place="margin-left">+caibchi' <lb/>ahau zaqui-<lb/>quib.</note>
                 <lb n="12"/> quia tac xuxic qui chinai puch
                 <lb n="13"/> chirih huhun ahauab. xavnabe
                 <lb n="14"/> ri qochivi ralvqahol. tzatz tzatz v
-                <lb n="15"/> chinamital huhun chiahauab chi
+                <lb n="15"/> <rs ana="SAQIK">chinamital</rs> huhun chiahauab chi
                 <lb n="16"/> cabÿh quibi riahauab chuhu –
                 <lb n="17"/> hunal huhun vnim ha.
                 </p>
                 <p> 
-                <lb n="18"/> Vae cute quibi ahauab chu
-                <lb n="19"/> vach caui quib are nabe ahau
-                <lb n="20"/> va, ahpop ahpop camha, ah to –
-                <lb n="21"/> hil, ah cueumatz, nim chocoh ca
-                <lb n="22"/> vec, popol vinac, chituy lolmet,
-                <lb n="23"/> queh nay. popol vinac, pahom
-				<lb n="24"/> tzalatz, vchuch cam ha.
+                <lb n="18"/> <hi rend="large">V</hi>ae cute quibi ahauab chu
+                <lb n="19"/> vach <rs ana="KAWEQ">caui quib</rs> are nabe ahau
+                <lb n="20"/> va, <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpop camha</rs>, <rs ana="AJTOJIL">ah to –
+                <lb n="21"/> hil</rs>, <rs ana="AJQUKUMATZ">ah cueumatz</rs>, <rs ana="NIM_CHOKOJ_KAWEQ">nim chocoh ca
+                <lb n="22"/> vec</rs>, <rs ana="POPOL_WINAQ_CHI_TUY">popol vinac, chituy</rs> <rs ana="LOLMET_KEJNAY">lolmet,
+                <lb n="23"/> queh nay</rs>. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">popol vinac, pahom
+				<lb n="24"/> tzalatz</rs>, vchuch cam ha.
 				</p>
 				<p>
-				<lb n="25"/> Are cut ahauab ri chuvach
-				<lb n="26"/> caviquib beleheb chi ahauab
+				<lb n="25"/> <hi rend="large">A</hi>re cut ahauab ri chuvach
+				<lb n="26"/> <rs ana="KAWEQ">caviquib</rs> beleheb chi ahauab
 				<lb n="27"/> colehe vnimha chuhuhunal ca
 				<lb n="28"/> te chic chivachin v vach.
 				</p>
 				<p> 
-				<lb n="29"/> Are chicu ahavab va chu
-				<lb n="30"/> vach nihaibab are nabe aha – 
-				<lb n="31"/> u va ahau ealel, ahau ahtzic vi –
-				<lb n="32"/> nac, cale camha, nima camha, v
-				<lb n="33"/> chuch camha, nimchocoh nihaib –
-				<lb n="34"/> ab, aulix, yacolatam, vtzam pop
-				<lb n="35"/> zaclatol, nima lolmet yeoltux.
+				<lb n="29"/> <hi rend="large">A</hi>re chicu ahavab va chu
+				<lb n="30"/> vach <rs ana="NIJAIB">nihaibab</rs> are nabe aha – 
+				<lb n="31"/> u va <rs ana="AJAW_QALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahtzic vi –
+				<lb n="32"/> nac</rs>, cale camha, <rs ana="NIMA_KAMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
+				<lb n="33"/> chuch camha</rs>, nimchocoh <rs ana="NIJAIB">nihaib –
+				<lb n="34"/> ab</rs>, aulix, <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam, vtzam pop
+				<lb n="35"/> zaclatol</rs>, <rs ana="NIMA_LOLMET_YEOLTUX">nima lolmet yeoltux</rs>.
 				<lb n="36"/> beleheb cut chi ahauab chuva –
-				<lb n="37"/> ch nihaibab
+				<lb n="37"/> ch <rs ana="NIJAIB">nihaibab</rs>
 				</p>
 				<p> 
-				<lb n="38"/> Are chicut ahau quiche va
+				<lb n="38"/> <hi rend="large">A</hi>re chicut ahau quiche va
 				<lb n="39"/> vae quibi ahauab. ahtzic vinac
-				<lb n="40"/> ahau lolmet, ahau nim chocoh
-				<lb n="41"/> ahau, ahau hacavitz. cahib a –
+				<lb n="40"/> <rs ana="AJAW_LOLMET">ahau lolmet</rs>, <rs ana="AJAW_NIM_CHOKOJ">ahau nim chocoh</rs>
+				<lb n="41"/> ahau, <rs ana="AJAW_JAQAWITZ">ahau hacavitz</rs>. cahib a –
 				<lb n="42"/> hauab chuvach ahau quiche –
 				<lb n="43"/> eb colehe vnim ha.
 				</p>
 				<p>
-				<lb n="44"/> Ca ib chinamit chi naipuch
-				<lb n="45"/> ca quiquib auab3 tzutuha, ealel
-				<lb n="46"/> zaquic xahun chi nim ha ecaib
+				<lb n="44"/> Ca<gap reason="deletion" unit="character"/>ib chinamit chi na ipuch
+				<lb n="45"/> ca quiquib au<add place="above">ha</add>ab tzutuha<unclear reason="illegible">y</unclear> ealel
+				<lb n="46"/> 'zaquic xahun chi nim ha ecaib
 				<lb n="47"/> chiahauab.
                 </p>
                 
