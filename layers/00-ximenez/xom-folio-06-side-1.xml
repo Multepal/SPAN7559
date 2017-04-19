@@ -41,11 +41,11 @@
             <div type="page" n="06.1" xml:id="xom-f06-s1" facs="file:///../../textos/facsimiles/MS1515v2_f06r.jpg">
                 <div type="col" n="06.1.1" xml:lang="quc">
                     <p>
-                        <lb n="1" />vxecah copon vi vvach.maha
+                        <lb n="1" />vxecah copon vi vvach. maha
                         <lb n="2" />cut qui quiloc v vach quih, ic
                         <lb n="3" />chumil mahaoc cazaquiroc
                         <lb n="4" />quehe cut cucobizah vi rib ri
-                        <lb n="5" />vucub caquix chiquihil, chi
+                        <lb n="5" /><rs ana="WUQUB_KAKIX">vucub caquix</rs> chiquihil, chi
                         <lb n="6" />iquil xa maha chicatunoc chi –
                         <lb n="7" />calahoboc vzaquil quih ic xa
                         <lb n="8" />xuraih nimal icouen are ta
@@ -58,11 +58,11 @@
                     <p>
                         <lb n="14" rend="indent" /><hi rend="large">V</hi>ae vxe vchacatahic v yi-
                         <lb n="15" />coxic chi puch v quih vucub
-                        <lb n="16" />ca quix cumal e caib qaholab
-                        <lb n="17" />hun ahpu vbi hun, xbalan-
-                        <lb n="18" />que vbi vcab xavi e caba-
+                        <lb n="16" />ca quix cumal e <rs ana="DOS_MUCHACHOS">caib qaholab</rs>
+                        <lb n="17" /><rs ana="JUNAJPU">hun ahpu</rs> vbi hun, <rs ana="XBALANKE">xbalan -
+                        <lb n="18" />que</rs> vbi vcab xavi e caba -
                         <lb n="19" />uil rumal itzel xquilo ri ni-
-                        <lb n="20" />marizai rib xrah vban chu-
+                        <lb n="20" />marizai rib xrah vban chu -
                         <lb n="21" />vach vqux cah, xqha curi
                         <lb n="22" />qaholab mavi vtz ta chuxoc
                         <lb n="23" />mavi chiqaze vinac varal
@@ -97,12 +97,12 @@
                         <lb n="1" />no alcanzaba su vista a todo el mundo. yaun<note place="margin"><num rend="large">6</num></note>
                         <lb n="2" />todavía no se auía vísto la cara al sol, a la
                         <lb n="3" />luna, ní alas estrellas, ní auía aclarado. ya
-                        <lb n="4" />sí seponía el vvcub caquix por sol, y por luna
+                        <lb n="4" />sí seponía el <rs ana="WUQUB_KAKIX">vvcub caquix</rs> por sol, y por luna
                         <lb n="5" />pero no se auía manífestado la claridad de
                         <lb n="6" />el sol, y la luna. silo deseo lagrandeza, y
                         <lb n="7" />sobrepujar, y esto fue qo se hízo el díluvío por
                         <lb n="8" />la destrucción de los hombres de palo; y ora
-                        <lb n="9" />trataremos qo murío el vvcub caquix, qo fue
+                        <lb n="9" />trataremos qo murío el <rs ana="WUQUB_KAKIX">vvcub caquix</rs>, qo fue
                         <lb n="10" />venzido, y qo fue hecho el hombre por <rs ana="">el
                         <lb n="11" />criador</rs>.
                         <lb />
@@ -110,30 +110,31 @@
                     </p>
                     <p>
                         <lb n="12" />Esta es, o fue la causa, de la destruccíon de
-                        <lb n="13" />vvcubcaquix por los dos muchachos, hun
-                        <lb n="14" /> ahpu, así se llamaba el vno (vn tirador) y
-                        <lb n="15" />el otro llamado. xbalanque (diminutivo de
+                        <lb n="13" /><rs ana="WUQUB_KAKIX">vvcubcaquix</rs> por <rs ana="DOS_MUCHACHOS">los dos muchachos</rs>, <rs ana="">hun
+                        <lb n="14" /> ahpu</rs>, así se llamaba el vno (vn tirador) y
+                        <lb n="15" />el otro llamado. <rs ana="XBALANKE">xbalanque</rs> (diminutivo de
                         <lb n="16" />tigre, y venado) estos tambíen eran díoses
                         <lb n="17" />y por eso les parezío mal, aquella soberbía
-                        <lb n="18" /><abbr>porq’</abbr>la hizo ante el corazon de el zielo. y
-                        <lb n="19" />dixeron los dos muchachos, no sera bíen q’es –
+                        <lb n="18" /><abbr>porq’</abbr> la hizo ante <rs ana="UKUX_KAJ_UKUX_ULEW">el corazon de el zielo</rs>. y
+                        <lb n="19" />dixeron <rs ana="DOS_MUCHACHOS">los dos muchachos</rs>, no sera bíen q’es –
                         <lb n="20" />to pase adelante porq’ no vívíran los hom –
-                        <lb n="21" />1bres aquí en la tierra; y así probaremos a
-                        <lb n="22" />tirarle con la cerbatana, qo coma, le tírare
+                        <lb n="21" />bres aquí en la tierra; y así probaremos a
+                        <lb n="22" />tirarle con la cerbatana, qo coma, le tírare<corr> -</corr>
                         <lb n="23" />mos, y le meteremos una enfermedad, y
                         <lb n="24" />entonzes se a cabará sus ríquezas, sus pi –
                         <lb n="25" />edras preciosas, y sus chalchíguítes, q’es con
                         <lb n="26" />lo q’se engrandeze, y así lo haran todos los
                         <lb n="27" />hombres. no porq’ tenga ríquezas se ha de
-                        <lb n="28" />hazer grande: dixeron los dos muchachos.
+                        <lb n="28" />hazer grande: dixeron <rs ana="DOS_MUCHACHOS">los dos muchachos</rs>.
                         <lb n="29" />y cada uno con su zervatana al hombro. y
-                        <lb n="30" />aqueste vvcubcaquíx tenía dos hijos, el
-                        <lb n="31" />prímero se llamaba zípacna, y el segun<reg> –</reg>
-                        <lb n="32" />do se llamaba cab racan. y su madre de
-                        <lb n="33" />ellos se llamaba chímalmat <abbr>q’era</abbr> la
-                        <lb n="34" />muger de vvcubcaquíx y aqueste su
-                        <lb n="35" />híjo zípacna, su pasto, y comida eran
+                        <lb n="30" />aqueste <rs ana="">vvcubcaquíx</rs> tenía dos hijos, el
+                        <lb n="31" />prímero se llamaba <rs ana="">zípacna</rs>, y el segun<reg> –</reg>
+                        <lb n="32" />do se llamaba <rs ana="">cab racan</rs>. y su madre de
+                        <lb n="33" />ellos se llamaba <rs ana="">chímalmat</rs> <abbr>q’era</abbr> la
+                        <lb n="34" />muger de <rs ana="">vvcubcaquíx</rs> y aqueste su
+                        <lb n="35" />híjo <rs ana="">zípacna,</rs> su pasto, y comida eran
                         <lb n="36" />los grandes montes y esto ademas en vna
+                        <!-- IS THIS A LONG NAME BELOW? -->
                         <lb n="37" />noche amanezío hecho elzerro llamado hun
                         <lb n="38" />ahpu pecul yaxcanul macamob huliznab
                         <lb n="39" /><abbr>porq’</abbr> en vna noche zípacna hazía vn
