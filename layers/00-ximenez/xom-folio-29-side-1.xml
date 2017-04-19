@@ -57,7 +57,7 @@
                 <lb n="13"/>chuti huyub nima huyub quix –
                 <lb n="14"/>qha cut ta chicutunizah ri ca –
                 <lb n="15"/>pixab mi xcabÿh chive xe
-                <lb n="16"/>qha xhunahpu xbalanque
+                <lb n="16"/>qha xhunahpu <rs ana="XBALAMKE">xbalanque</rs>
                 <lb n="17"/>ta xepixabic xquetamah qui
                 <lb n="18"/>camic. are caban rinima chohim
                 <lb n="19"/>abah queheri chohibal qui xqui –
@@ -102,30 +102,35 @@
                 					</note>
                 
                 <p>
-                <lb n="1"/>mo deçíd no sera bueno, porq’boluere –
+                <lb n="1"/>mo deçíd no sera bueno, 
+                	<choice>
+                    		<abbr>porq’</abbr>
+                    		<expan>porque</expan>
+                    		</choice>
+                    		boluere –
                 <lb n="2"/>ís auerles sus caras. y quando terçera
-                <lb n="3"/>vez, sí sera bueno q’echemos su gue –
+                <lb n="3"/>vez, sí sera bueno <abbr>q’</abbr>echemos su gue –
                 <lb n="4"/>sos en el río, y sí otra vez seos fuere dicho
-                <lb n="5"/>por ellos, deçíd q’eso sera bueno q’ se
-                <lb n="6"/>haga pa.q’ mueran, y tambíen q’sean
+                <lb n="5"/>por ellos, deçíd <abbr>q’</abbr>eso sera bueno <abbr>q’</abbr> se
+                <lb n="6"/>haga pa.<abbr>q’</abbr> mueran, y tambíen <abbr>q’</abbr>sean
                 <lb n="7"/>molídos sus guesos, y hechos harina
                 <lb n="8"/>asícomo se muele en la píedra la ma –
-                <lb n="10"/>çorca; q’cada vno sea molído, y q’lu –
+                <lb n="10"/>çorca; <abbr>q’</abbr>cada vno sea molído, y <abbr>q’</abbr>lu –
                 <lb n="11"/>ego sean echados en el arroyo allí
-                <lb n="12"/>donde cae la fuente, para q’se vayan
+                <lb n="12"/>donde cae la fuente, para <abbr>q’</abbr>se vayan
                 <lb n="13"/>por todos los ceros chícos, y grandes,
                 <lb n="14"/>así aueís de deçir, y manífestar este
-                <lb n="15"/>nuestro auíso q’os hemos auísado.
-                <lb n="16"/>esto díxeron hun ahpu, y xbalanque
-                <lb n="17"/>q’ya sabían su muerte. y hízíeron
+                <lb n="15"/>nuestro auíso <abbr>q’</abbr>os hemos auísado.
+                <lb n="16"/>esto díxeron hun ahpu, y <rs ana="XBALAMKE">xbalanque</rs>
+                <lb n="17"/><abbr>q’</abbr>ya sabían su muerte. y hízíeron
                 <lb n="18"/>vna grande hoguera como hoyo en
                 <lb n="19"/>la tíerra, como lade ellos, hízíeron
                 <lb n="20"/>los de el ínfíerno, y pusíeron gran
                 <lb n="21"/>rescoldo, y luego víníeron los
-                <lb n="22"/>mensageros q’les acompañaban
+                <lb n="22"/>mensageros <abbr>q’</abbr>les acompañaban
                 <lb n="23"/>mensageros de hun came, y vucub
-                <lb n="24"/>came q’uengan díxeron, y q’va –
-                <lb n="25"/>mos con los mançebos, q’vayan a
+                <lb n="24"/>came <abbr>q’</abbr>uengan díxeron, y <abbr>q’</abbr>va –
+                <lb n="25"/>mos con los mançebos, <abbr>q’</abbr>vayan a
                 <lb n="26"/>ver como searan os díze el Sor. man
                 <lb n="27"/>çebos esto les fue dícho. esta bíen
                 <lb n="28"/>díxeron, y luego a príssa se fueron
