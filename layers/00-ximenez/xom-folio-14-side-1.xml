@@ -41,16 +41,16 @@
             <div type="page" n="14.1" xml:id="xom-f14-s1">
                 <div type="col" n="14.1.1" xml:lang="quc">
                 	<p>
-                		<lb n="1"/>ivatit. xevqhax cut hun batz
-                		<lb n="2"/>hun choven ta xepixabaxic quz –
-                		<lb n="3"/>quz cut choc qui chuch ri xmu –
-                		<lb n="4"/>cane. hona mahabi cohcamic mi –
-                		<lb n="5"/>xbizonic xeqha ta xebec hun hu –
-                		<lb n="6"/>nahpu, vvcub hun ahpu.
-                		<lb n="7" rend="indent"/>Cate puch ta xebec hun hun –
-                		<lb n="8"/>ahpu, vvcub hun ahpu xcamqui –
+                		<lb n="1"/>ivatit. xevqhax cut <rs ana="JUN_BATZ">hun baꜩ</rs>
+                		<lb n="2"/><rs ana="HUN_CHOWEN">hun choven</rs> ta xepixabaxic quz –
+                		<lb n="3"/>quz cut choc qui chuch ri <rs ana="IXMUKANE">xmu –
+                		<lb n="4"/>cane</rs>. hona mahabi cohcamic mi –
+                		<lb n="5"/>xbizonic xeqha ta xebec <rs ana="JUN_JUNAJPU">hun hu –
+                		<lb n="6"/>nahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs>.
+                		<lb n="7" rend="indent"/>Cate puch ta xebec <rs ana="JUN_JUNAJPU">hun hun –
+                		<lb n="8"/>ahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs> xcamqui –
                 		<lb n="9"/>be cumal ri zamahel, ta xecah –
-                		<lb n="10"/>cut pu beal xibalba, xuluxuh
+                		<lb n="10"/>cut pu beal <rs ana="XIBALBA">xibalba</rs>, xuluxuh
                 		<lb n="11"/>vchi cumuc, xecah cut ta xeel
                 		<lb n="12"/>chicu aponoc chuchihal ha zi –
                 		<lb n="13"/>van ub nuzivan cul, cu ziuan
@@ -71,22 +71,22 @@
                 		<lb n="28"/>vbe ahau xqhau ri be chiricut
                 		<lb n="29"/>xeqhacatah vi are xquitaqueh
                 		<lb n="30"/>ri <rs ana="CAMINO_NEGRO">be xibalba</rs> ta xeopon cut
-                		<lb n="31"/>pa qui popobal rahaual xibal
-                		<lb n="32"/>ba xechacatah chicut chiri. are
+                		<lb n="31"/>pa qui popobal rahaual <rs ana="XIBALBA">xibal
+                		<lb n="32"/>ba</rs> xechacatah chicut chiri. are
                 		<lb n="33"/>nabe cubulel ri. xapoy xa
-                		<lb n="34"/>aham che cautalic cumal xi –
-                		<lb n="35"/>balba. are cut nabe xquiqui –
-                		<lb n="36"/>hila cala hun came, xeqha chi –
-                		<lb n="37"/>re ri poy, cala vvcub came xe
+                		<lb n="34"/>aham che cautalic cumal <rs ana="XIBALBA">xi –
+                		<lb n="35"/>balba</rs>. are cut nabe xquiqui –
+                		<lb n="36"/>hila cala <rs ana="JUN_KAME">hun came</rs>, xeqha chi –
+                		<lb n="37"/>re ri poy, cala <rs ana="WUQUB_KAME">vvcub came</rs> xe
                 		<lb n="38"/>qha chic chire ri aham che ma
                 		<lb n="39"/>cu xeqhacovic. catecut xehu –
-                		<lb n="40"/>muhub rahaual xibalba chi tze
-                		<lb n="41"/>xa quehumin chic chitze conohel
+                		<lb n="40"/>muhub rahaual <rs ana="XIBALBA">xibalba</rs> chi ꜩe
+                		<lb n="41"/>xa quehumin chic chiꜩe conohel
                 		<lb n="42"/>ahauab rumal xechacomahic
-                		<lb n="43"/>chiqui qux xquichac ri hunhu –
-                		<lb n="44"/>nahpu, vvcub hun ahpu xetzeen
-                		<lb n="45"/>na. cate cut xeqhau chic hun
-                		<lb n="46"/>came, vvcub came vtzbala mi x
+                		<lb n="43"/>chiqui qux xquichac ri <rs ana="JUN_JUNAJPU">hunhu –
+                		<lb n="44"/>nahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs> xeꜩeen
+                		<lb n="45"/>na. cate cut xeqhau chic <rs ana="JUN_KAME">hun
+                		<lb n="46"/>came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> vꜩbala mi x
                 		<lb n="47"/>ixulic chuvec chicaza v vach
                 	</p>
                 </div>
@@ -94,50 +94,114 @@
                 	<p>
                 		<lb n="1"/>y auísando esto estaba muy tierno el co
                 			<note place="margin-right" type="pagination"><num rend="large">14</num></note>
-                		<lb n="2"/>razon de su madre xmucane y lloraba
+                		<lb n="2"/>razon de su madre <rs ana="IXMUKANE">xmucane</rs> y lloraba
                 		<lb n="3"/>ea no llores, no te aflixas ledixeron noso
                 		<lb n="4"/>tros vamos no moríremos y entonzes se
-                		<lb n="5"/>fueron hun hunahpu, y vvcub hunah –
-                		<lb n="6"/>pu.
-                		<lb n="7"/>Y luego q’se fueron hunhunahpu, y vv –
-                		<lb n="8"/>cub hunahpu, tomaron la delantera los
+                		<lb n="5"/>fueron <rs ana="JUN_JUNAJPU">hun hunahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vvcub hunah –
+                		<lb n="6"/>pu</rs>.
+                		<lb n="7"/>Y luego q’se fueron <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vv –
+                		<lb n="8"/>cub hunahpu</rs>, tomaron la delantera los
                 		<lb n="9"/>mensageros, y luego baxaron por el
-                		<lb n="10"/>camino de el ífierno, q’ tenía las gradas
+                		<lb n="10"/>camino de <rs ana="XIBALBA">el ífierno</rs>, 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>tenía las gradas
                 		<lb n="11"/>muy ladeadas, y baxaron; y cuando sa –
-                		<lb n="12"/>lieron llegaron alagua violenta, q’
-                		<lb n="13"/>ra vna varranca muy angosta q’ se
+                		<lb n="12"/>lieron llegaron alagua violenta, 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>
+                		<lb n="13"/>ra vna varranca muy angosta 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>se
                 		<lb n="14"/>llamaba fuerte varranca. y pasando
-                		<lb n="15"/>de allí al agua q’ se trueca; y pasaron
+                		<lb n="15"/>de allí al agua 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>se trueca; y pasaron
                 		<lb n="16"/>donde todo era palos puntíagudos, y
                 		<lb n="17"/>no se hirieron, y llegaron ala orílla
-                		<lb n="18"/>de vn río q’ era de sangre, y no bebí –
+                		<lb n="18"/>de vn río 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>era de sangre, y no bebí –
                 		<lb n="19"/>eron en el río, ní pudíeron ser venzí –
-                		<lb n="20"/>dos síno q’pasaron, y llegaron avn
-                		<lb n="21"/>camino q’se díuídía en cuatro camí –
+                		<lb n="20"/>dos síno 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>pasaron, y llegaron avn
+                		<lb n="21"/>camino 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>se díuídía en cuatro camí –
                 		<lb n="22"/>nos, y allí fueron venzídos, en la en
                 		<lb n="23"/>cruzíjada, vno era <rs ana="CAMINO_ROJO">colorado</rs>, otro
                 		<lb n="24"/><rs ana="CAMINO_NEGRO">negro</rs>, otro <rs ana="CAMINO_BLANCO">blanco</rs>, y otro era <rs ana="CAMINO_AMARILLO">ama –
                 		<lb n="25"/>ríllo</rs>. y víendose perplexes hablo
                 		<lb n="26"/><rs ana="CAMINO_NEGRO">el camino negro</rs>, a mí me aueís de
-                		<lb n="27"/>tomar, porq’ yo soy <rs ana="CAMINO_NEGRO">el camíno de los
+                		<lb n="27"/>tomar, por
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>yo soy <rs ana="CAMINO_NEGRO">el camíno de los
                 		<lb n="28"/>SSes</rs> y allí fueron ganados, y síguíen
                 		<lb n="29"/>do este camíno llegaron a los tro –
-                		<lb n="30"/>nos de los SSes de el ínfíerno, y allí fu –
-                		<lb n="31"/>eron ganados. el prímero q’ estaba
+                		<lb n="30"/>nos de los 
+                			<choice>
+                				<abbr type="superscription">SSes</abbr>
+                				<expan>Señores</expan>
+                				</choice>de <rs ana="XIBALBA">el ínfíerno</rs>, y allí fu –
+                		<lb n="31"/>eron ganados. el prímero 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>estaba
                 		<lb n="32"/>sentado, era vn hombre labrado
-                		<lb n="33"/>y compuesto por los de el ínfíerno. y
-                		<lb n="34"/>a este fue el prímero q’ saludaron
+                		<lb n="33"/>y compuesto por los de <rs ana="XIBALBA">el ínfíerno</rs>. y
+                		<lb n="34"/>a este fue el prímero 
+                			<choice>
+                				<abbr>q’</abbr>
+                				<expan>que</expan>
+                				</choice>saludaron
                 		<lb n="35"/>y le dixeron: este es buena hora el
-                		<lb n="36"/>Sor hun came, este muy bíen el Sor
-                		<lb n="37"/>vvcub came, pero no les respondíe –
-                		<lb n="38"/>ron. y luego empezaron los SSes de
-                		<lb n="39"/>el infierno a hazer gran ruído ríendo –
+                		<lb n="36"/>
+                			<choice>
+                				<abbr type="superscription">Sor</abbr>
+                				<expan>Señor</expan>
+                				</choice><rs ana="JUN_KAME">hun came</rs>, este muy bíen el 
+                					<choice>
+                						<abbr type="superscription">Sor</abbr>
+                						<expan>Señor</expan>
+                						</choice>
+                		<lb n="37"/><rs ana="WUQUB_KAME">vvcub came</rs>, pero no les respondíe –
+                		<lb n="38"/>ron. y luego empezaron los 
+                		<choice>
+                			<abbr type="superscription">SSes</abbr>
+                			<expan>Señores</expan>
+                			</choice>de
+                		<lb n="39"/><rs ana="XIBALBA">el infierno</rs> a hazer gran ruído ríendo –
                 		<lb n="40"/>se. y otravez bolbíeron a hazer ruído
-                		<lb n="41"/>ríendose todos los SSes porq’ fueron ga –
+                		<lb n="41"/>ríendose todos los 
+                		<choice>
+                			<abbr type="superscription">SSes</abbr>
+                			<expan>Señores</expan>
+                			</choice>por
+                				<choice>
+                					<abbr>q’</abbr>
+                					<expan>que</expan>
+                					</choice>fueron ga –
                 		<lb n="42"/>nados, y ensu corazon ya los tenían ven –
-                		<lb n="43"/>zídos a hun hun ahpu, y vvcub hunah –
-                		<lb n="44"/>pu, y se ríeron. y luego huncame, y
-                		<lb n="45"/>vvcub came les díxeron esta bíen, ya
+                		<lb n="43"/>zídos a <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vvcub hunah –
+                		<lb n="44"/>pu</rs>, y se ríeron. y luego <rs ana="JUN_KAME">huncame</rs>, y
+                		<lb n="45"/><rs ana="WUQUB_KAME">vvcub came</rs> les díxeron esta bíen, ya
                 		<lb n="46"/>venísteís mañana aderezad la argo—
                 	</p>
                 </div>
