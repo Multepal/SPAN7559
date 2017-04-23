@@ -107,8 +107,10 @@
 </num>
 </note>               
 <p>               
-<lb n="1" />plumas de cola de guacamaya.. y los <choice><abbr>q’</choice></abbr>
-<expan>que</expan>es –
+<lb n="1" />plumas de cola de guacamaya.. y los <choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es –
 <lb n="2" />taban en guarda velando les pareçía ocote
 <lb n="3" />ardiendo, y en los cígarros pusíeron luzíer –
 <lb n="4" />nagas, y toda la noche los tuuíron por vençi –
@@ -119,10 +121,14 @@
 <lb n="9" />y dezían <choice><abbr>q’</choice></abbr>
 <expan>que</expan>es esto? deadonde han venído
 <lb n="10" />estos, quíen los engendro, y quíen los parío?
-<lb n="11" />de uerdad arde nuestro corazon por<choice><abbr>q’</choice></abbr>
-<expan>que</expan>
-<lb n="12" />no es bueno esto <choice><abbr>q’</choice></abbr>
-<expan>que</expan>hacen. díuersa es su
+<lb n="11" />de uerdad arde nuestro corazon por<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>
+<lb n="12" />no es bueno esto <choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>hacen. díuersa es su
 <lb n="13" />cara, y díuersa son sus costumbres. esto
 <lb n="14" />deçían entre sí mesmos. y entonçes en –
 <lb n="15" />bíaronlos todos los <expan>Señores</expan> a llamar, ea va –
@@ -140,8 +146,10 @@
 <lb n="27" />ron los de el ínfíerno de níngun mo –
 <lb n="28" />do esa síno la nuestra. esta bíen, díxe –
 <lb n="29" />ron los <rs ana="mançebos">los gémelos divinos</rs>. ea sea este gusaní –
-<lb n="30" />o, <choice><abbr>q’</choice></abbr>
-<expan>que</expan> se llama chíl. díxeron los de el ínfierno,
+<lb n="30" />o, <choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> se llama chíl. díxeron los de el ínfierno,
 <lb n="31" />no sea díxeron los muchachos,
 <lb n="32" />síno la cabeza de leon. eso no díxe –
 <lb n="33" />ron los del ínfíerno. esta bíen díxo hun
@@ -152,12 +160,12 @@
 <lb n="38" />pala la pelota, se fue saltando sobre
 <lb n="39" />la tíerra. <choice><abbr>q’</choice></abbr>
 <expan>que</expan>es esto <rs ana="JUN_JUNAJPU">díxo</rs>, y
-<lb n="40" /><expan>que</expan>, solo trataís de nuestra
+<lb n="40" />que, solo trataís de nuestra
 <lb n="41" />muerte, por ventura no nos embíaste –
 <lb n="42" />ís a llamar? no fueron vuestros men –
 <lb n="43" />sageros? pobres de nosotros, nos íre –
 <lb n="44" />mos otra vez les díxeron los <rs ana="HERO_TWINS">mançe –
-<lb n="45" />bos</rs> a . y esto lo <expan>que</expan> <expan>que</expan> <rs ana="HERO_TWINS">rían</rs> de
+<lb n="45" />bos</rs> a . y esto lo que <rs ana="HERO_TWINS">rían</rs> de
 <lb n="46" />
 <note rend="margin-left">del cert="high"><num rend>
                 </div>
