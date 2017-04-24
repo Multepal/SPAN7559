@@ -43,12 +43,12 @@
                 <lb n="2" rend="center"/><hi rend="large">TORÍAS DEEL ORÍGEN DE LOS ÍNDÍOS</hi></titlePart>
                 <lb n="3" rend="center"/><hi rend="large"><byline>ESCOLÍADAS POR</hi>
                 <lb n="4" rend="center"/><hi rend="large">EL</hi>
-                <lb n="5" rend="center"/><hi rend="large"><hi rend="bold"><docAuthor>R.P.F.FRANZÍSCO XI -</hi></hi>
-                <lb n="6" rend="center"/><hi rend="large"><hi rend="bold">MENEZ</docAuthor></hi></hi>
+                <lb n="5" rend="center"/><hi rend="large"><hi rend="bold"><docAuthor><rs ana="XIMENEZ">R.P.F.FRANZÍSCO XI -</hi></hi>
+                <lb n="6" rend="center"/><hi rend="large"><hi rend="bold">MENEZ</rs></docAuthor></hi></hi>
                 <lb n="7" rend="center"/><hi rend="large">CVRA DOCTRÍNERO POR EL REALPATRO -</hi>
-                <lb n="8" rend="center"/><hi rend="large">NATO DEL PVEBLO DE <abbr>S<hi rend="superscript">TO.</hi></abbr> THOMAS CHÍ -</hi>
-                <lb n="9" rend="center"/><hi rend="large">CHÍCASTENANGO DEL SAGRADO OR -</hi>
-                <lb n="10" rend="center"/><hi rend="large">DEN DE PRÆDÍCADORES</byline> <titlePart type="sub">PARA MA -</hi>
+                <lb n="8" rend="center"/><hi rend="large">NATO DEL <rs ana="CHICHICASTENANGO"PVEBLO DE <abbr>S<hi rend="superscript">TO.</hi></abbr> THOMAS CHÍ -</hi>
+                <lb n="9" rend="center"/><hi rend="large">CHÍCASTENANGO</rs> DEL <rs ana="ORDEN_DE_PREDICADORES">SAGRADO OR -</hi>
+                <lb n="10" rend="center"/><hi rend="large">DEN DE PRÆDÍCADORES</rs></byline> <titlePart type="sub">PARA MA -</hi>
                 <lb n="11" rend="center"/><hi rend="large">YOR NOTÍCÍA ALOS MÍNÍSTROS</hi>
                 <lb n="12" rend="center"/><hi rend="large">DE LAS COS. DE LOS ÍNDÍOS</titlePart></hi>
             </docTitle>
@@ -64,13 +64,13 @@
             	<lb n="8"/><abbr>q'</abbr>han querído dar aentender el conoçímíento de elíndío en sus escrítos, de
             	<lb n="9"/>hístorías, y sumas, y otros escrítos; pero píenso <abbr>q'</abbr>les ha sucedído lo<abbr>q'</abbr>a mí, me
             	<lb n="10"/>sucedera entodos mís escrítos, <abbr>q'</abbr><abbr>aunq'</abbr> he procurado dar a entender lo <abbr>qu'</abbr>ellos
-            	<lb n="11"/>son, alca bo píenso <abbr>q'</abbr>no aure dícho nada. el Doctor <abbr>P<hi rend="superscript">o</hi>.</abbr> Apíano cosmografo 
-            	<lb n="12"/>de el emperador carlos quínto de marcando la ísla española, los quiere
+            	<lb n="11"/>son, alca bo píenso <abbr>q'</abbr>no aure dícho nada. el Doctor <rs ana="PEDRO_APIANO"><abbr>P<hi rend="superscript">o</hi>.</abbr> Apíano</rs> cosmografo 
+            	<lb n="12"/>de el emperador <rs ana="CARLOS_V">carlos quínto</rs> de marcando <rs ana="LA_ISLA_ESPANOLA">la ísla española</rs>, los quiere
             	<lb n="13"/>dar acononocer al mundo dícíendo: <abbr>q'</abbr>son gente: índando líberalíssímí, ín
             	<lb n="14"/>accípíendo cupídíssímí en el dar muy líberales, en el recíbír muy codícíosos, y <abbr>q'</abbr>
             	<lb n="15"/>consumen todo Un día dando bueltas a un palo. algo díxo en esto, declaro en
             	<lb n="16"/>parte la natural ínclínaçíon de el índío, <abbr>q'</abbr>a ya quíen sea mas lí -
-            	<lb n="17"/>beral en dar, pues quíen abra <abbr>q'</abbr>no este todo poseído de Díos <abbr>q'</abbr>teníendo solo, Un me -
+            	<lb n="17"/>beral en dar, pues quíen abra <abbr>q'</abbr>no este todo poseído de <rs ana="DIOS">Díos</rs> <abbr>q'</abbr>teníendo solo, Un me -
             	</p>
          </titlePage>
         </body>
