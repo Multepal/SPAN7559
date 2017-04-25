@@ -56,7 +56,7 @@
 <lb n="13" />xqha chi roo culel. ahi ahi xqha
 <lb n="14" />na xiquiripat, xqha <rs ana="WUQUB_KAME">vvcub came</rs>
 <lb n="15" />chire naquila mi xitiouic xcha chic
-<lb n="16" />xtiic vvac<rs ana="pájaro">ac culel ahi, na qui
+<lb n="16" />xtiic <rs ana="pájaro">vvacac</rs> culel ahi, na qui
 <lb n="17" />cuchumaquic xqha xiquiripat chi –
 <lb n="18" />re naquila mi xitiouic xqha chic
 <lb n="19" />ta xti vvc culel ahi xqha chic. na
@@ -66,11 +66,19 @@
 <lb n="23" />xqha chic. naqui ahalcana xqha
 <lb n="24" />chi ahalpuh chire, naquila mixi –
 <lb n="25" />tiouic qha chic ta xti chic vbeleh
+<<<<<<< HEAD
 <lb n="26" />culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
 <lb n="27" />xcha ahalcana chire naquila
 <lb n="28" />mi xitiouic xcha chic ta xti chic
 <lb n="29" />lahuh cubulel ahi naqui qha
 <lb n="30" />mia holom xqha <rs ana="CHAMIYABAQ">chamia baca</rs> na
+=======
+<lb n="26" />culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs> 
+<lb n="27" />xcha ahalcana chire naquila
+<lb n="28" />mi xitiouic xcha chic ta xti chic
+<lb n="29" />lahuh cubulel ahi naqui qha
+<lb n="30" />mia holom xqha chamia baca na
+>>>>>>> master
 <lb n="31" />quila mi xitiouic xqha chic ta xti
 <lb n="32" />chic vhulah culel ahi xqha chic
 <lb n="33" />naqui qha chic chamiaholom chi –
@@ -101,6 +109,7 @@
 </note>               
 <p>                
 <lb n="1" />dícho al xan. estabíen díxo el xan. y lue –
+<<<<<<< HEAD
 <lb n="2" />go tomo <rs ana="CAMINO_NEGRO">el camíno negro</rs>, y fuederecho al –
 <lb n="3" />prímero 
 <choice>
@@ -111,10 +120,23 @@
 		<abbr>q’</abbr>
 		<expan>que</expan>
 		</choice>era vn hombre
+=======
+<lb n="2" />go tomo el camíno negro, y fuederecho al –
+<lb n="3" />prímero 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> estaba sentado, 
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>era vn hombre
+>>>>>>> master
 <lb n="4" />hecho de trapos, y compuesto, y le mordío prí –
 <lb n="5" />mero, y no hablo, y luego mordío al Segundo
 <lb n="6" />y tampoco hablo. mordío al terçero, 
 <choice>
+<<<<<<< HEAD
 	<abbr>q’</abbr>
 	<expan>que</expan>
 	</choice>era: <rs ana="JUN_KAME">hun
@@ -264,6 +286,147 @@
 	<abbr>q’</abbr>
 	<expan>que</expan>
 	</choice>te mor
+=======
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>: hun
+<lb n="7" />came, y díxo aquí, que xandose. dixo qdo fue
+<lb n="8" />pícado. 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es eso hun came, le díxo el quarto
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>
+<lb n="9" />estaba sentado, quíente mordío? nose
+<lb n="10" /><choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>me ha mordído. mordío alotro, y díxo ay
+<lb n="11" /><choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es esp vucub came 
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te ha mordído le
+<lb n="12" />díxo el quínto. ayay. díxo
+<lb n="13" />y le díxo vucub came 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>le ha mordido?
+<lb n="14" />y mordío al sexto y díxo: ay. 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es eso, cu –
+<lb n="15" />chu maquíc 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te ha mordído? 
+<lb n="16" />le díxo. 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es eso 
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te ha mordído di –
+<lb n="17" />xo quando mordío al septímo 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>díxo
+<lb n="18" />ay. 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te ha mordído ahalpuh? dixo cu –
+<lb n="19" />chu maquíC. y quando mordío al octauo
+<lb n="20" /><choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>díxo ay, le díxo <rs ana="AJAL_PUJ">ahal puh</rs>. 
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es eso ahal
+<lb n="21" />cana <choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te mordío? y quando mordío al
+<lb n="22" />nono 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>estaba sentado, 
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>díxo: ay. le
+<lb n="23" />díxo <rs ana="AJAL_QANA">ahal cana</rs>, 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te mordío <rs ana="CHAMIYABAQ">chamí baca</rs>?
+<lb n="24" />y quando mordío al deçímo, 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>dixo: ay.
+<lb n="25" />le díxo chamía buc, 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te mordío cha –
+<lb n="26" />mía holom? y mordíendo al vndeçí –
+<lb n="27" />mo, 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>dixo ay. le díxo <rs ana="CHAMIYAJOLOM">chamía holom</rs>
+<lb n="28" />
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te mordío? y mordío al duodeçí –
+<lb n="29" />mo, 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>dixo ay ledixo otra uez. 
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te mor –
+<lb n="30" />dío <rs ana="PATAN">patan</rs>? y mordíendo al terçío de
+<lb n="32" />çímo 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>dixo ay. le dixo otra vez: 
+				<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>te
+<lb n="32" />mordío quíc xíc. le díjo <rs ana="PATAN">patan</rs>. y mor
+<lb n="33" />díendo al quarto deçímo 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>dixo ay
+<lb n="34" />le díxo a quíc ríx eae, quíc re. 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> te mor
+>>>>>>> master
 <lb n="35" />dío.? y así todos díxeron sus nombres
 <lb n="36" />y todos se manífestaron entre sí mes –
 <lb n="37" />mos, díçíendo sus nombres.
