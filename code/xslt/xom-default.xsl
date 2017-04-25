@@ -1,20 +1,67 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="tei">
-    <xsl:output method="html" />
+    <xsl:output
+        method="html"
+        omit-xml-declaration="yes"
+        encoding="UTF-8"
+        indent="yes" 
+    />
     <xsl:variable name="themes_ajax_root">http://multepal.spanitalport.virgina.edu/api/temas/</xsl:variable>
 
     <xsl:template match="/">
-        <xsl:apply-templates select="//tei:text//tei:body"/>
+        <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;
+        </xsl:text>
+        <html>
+            <head>
+            <title>Popol Vuh, Multepal Edition</title>
+            <style type="text/css">
+            div.page {
+                margin-left:1in;
+            }
+            div.col {
+                width: 4.5in;
+                float: left;
+                padding: 1rem;
+                line-height:14.2pt;
+            }
+            div.col.spa {
+                width: 6in;
+            }
+            .note {
+                float:right;
+                color:gray;
+            }
+            .rs {
+                color:red;
+                font-weight:bold;
+            }
+            </style>
+            </head>
+            <body>
+            <xsl:apply-templates select="//tei:text//tei:body"/>
+            </body>
+        </html>
     </xsl:template>
 
-    <xsl:template match="tei:div">
-        <div>
-            <xsl:attribute name="type">
-                <xsl:value-of select="@type" />
-            </xsl:attribute>
+    <xsl:template match="tei:div[@type='page']">
+        <div class="page">
+            <xsl:apply-templates />
+        </div>
+    </xsl:template>
+
+    <xsl:template match="tei:div[@type='col'][@xml:lang='quc']">
+        <div class="col quc" xml:lang="quc">
+            <b>K'iche'</b>
+            <xsl:apply-templates />
+        </div>
+    </xsl:template>
+
+    <xsl:template match="tei:div[@type='col'][@xml:lang='spa']">
+        <div class="col spa" xml:lan="spa">
+            <b>Espanol</b>
             <xsl:apply-templates />
         </div>
     </xsl:template>
@@ -26,20 +73,22 @@
     </xsl:template>
 
     <xsl:template match="tei:note">
-        <div type="note">
+        <span class="note">
             <xsl:apply-templates />
-        </div>
+        </span>
     </xsl:template>
 
     <xsl:template match="tei:rs">
-        <a>
-            <xsl:attribute name="href">
-                <xsl:value-of select="$themes_ajax_root" />
+        <span class="rs">
+            <xsl:attribute name="data-ana">
                 <xsl:value-of select="@ana" />
-                <xsl:text></xsl:text>
             </xsl:attribute>
             <xsl:apply-templates />
-        </a>
+        </span>
+    </xsl:template>
+
+    <xsl:template match="tei:corr">
+        <xsl:apply-templates />
     </xsl:template>
 
     <xsl:template match="tei:pc[@type='line-end-hyphen']">

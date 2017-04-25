@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi que l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -106,7 +106,12 @@
 </num>
 </note>               
 <p>               
+<<<<<<< HEAD
+<lb n="1" />plumas de cola de guacamaya.. y los 
+<choice>
+=======
 <lb n="1" />plumas de cola de guacamaya.. y los <choice>
+>>>>>>> origin/amb8fk
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>es –
