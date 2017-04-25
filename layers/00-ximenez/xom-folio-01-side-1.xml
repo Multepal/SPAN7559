@@ -60,13 +60,9 @@
                 <lb n="15" />xalaε</rs>, <rs ana="LOS_DE_LA_BÓVEDA_AZUL">ah raxaꜩel chu qha –
                 <lb n="16" />xic</rs>, rachbixic, rachꜩihoxic
                 <lb n="17" />rÿ iyom, mamom <rs ana="XPIYAKOK">xpiyacoc</rs>,
-                 <!-- iyom means midwife and mamom means patriarch; Christenson gives these as titles for Xmucane and Xpiyacoc -->
                 <lb n="18" /><rs ana="IXMUKANE">xmucane</rs> vbi, maꜩanel chu –
-                <!-- matzanel is Protector, Xmucane  -->
                 <lb n="19" />quenel camul yiom, camul
-                <!-- chuquenel is Shelterer, Xpiyacoc; camul yiom is Twice Midwife, Xmucane -->
                 <lb n="20" />mamom chuqhaxic pa quiche
-                <!-- camul mamom is Twice Patriarch, Xpiyacoc -->
                 <lb n="21" />ꜩih. ta xquiꜩihoh ronohel
                 	<note place="margin-left"><num rend="large">2</num></note>
                 <lb n="22" />ruq xquiban chic chizaquil
@@ -90,9 +86,6 @@
                 <lb n="39" />cah ꜩuc, cah xu cut chuqha –
                 <lb n="40" />xic rumal ri <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>
                 <lb n="41" /><rs ana="TZAQOL">vchuch</rs>, <rs ana="BITOL">vcahau</rs> qazlem vi –
-                <!-- Christenson gives "vchuch, vcahau" / "chuch-qajaw"
-                as "the Mother and the Father" or perhaps the "mother-father" as titles
-                for Tzaqol Bitol, so I marked them up in here -->
                 <lb n="42" />naquirem, abanel, quxla –
                 <lb n="43" />nel, alay rech, quxlaay
                 <lb n="44" />rech zaquil amaquil, za –
@@ -122,8 +115,6 @@
                 <lb n="17" />de la verde hícara</rs> son llamados. y junta
                 <lb n="18" />mente es dicho, y hablado de aquella <rs ana="IXMUKANE">abu –
                 <lb n="19" />ela</rs>, y <rs ana="XPIYAKOK">abuelo</rs> <abbr>q’</abbr>sellamaban: <rs ana="XPIYAKOK">xpiyacoc</rs>, y
-                <!-- "aquella abuela y abuelo" is his translation of "iyom" and "mamom" meaning midwife and patriarch,
-                should we mark these differently, not just as mentions of Xmucane and Xpiyacoc? -->
                 <lb n="20" /><rs ana="IXMUKANE">xmucane</rs>. nombres propios. <rs ana="IXMUKANE">amparado –
                 <lb n="21" />res</rs>, y <rs ana="XPIYAKOK">cubridores</rs> <rs ana="IXMUKANE">dos vezes abuela</rs>, y <rs ana="XPIYAKOK">dos
                 <lb n="22" />vezes abuelo</rs> son dichos en las historias qui –
@@ -148,9 +139,6 @@
                 <lb n="41" />cuerda en el zielo, y en la tierra; <abbr>q’</abbr>es di –
                 <lb n="42" />cho de cuatro esquinas, y cuatro lados
                 <lb n="43" />por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">criador</rs>. su <rs ana="TZAQOL"><abbr>M<hi rend="superscript">e.</hi></abbr></rs> y su <rs ana="BITOL"><abbr>P<hi rend="superscript">e.</hi></abbr></rs>
-                <!-- Christenson gives "vchuch, vcahau" / "chuch-qajaw"
-                as "the Mother and the Father" or perhaps the "mother-father" as titles
-                for Tzaqol Bitol, so I marked them up in here-->
                 <lb n="44" />de la vida. y de la creazíon. <abbr>q<hi rend="superscript">e</hi></abbr> da respira
                 <lb n="45" />zion, y resuello, paridos, y cuídados, de
                 <lb n="46" />la paz claridad de los híjos, pensador, y en –
