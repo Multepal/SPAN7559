@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi que l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -108,13 +108,23 @@
 </note>                
 <p>                 
 <lb n="1" />como ha sído esto, y ya nose mouía, sí –
+<<<<<<< HEAD
 <lb n="2" />no <choice>
+=======
+<lb n="2" />no 
+<choice>
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice> se estaba acostado, y luego se
 <lb n="3" />espanto el que ay ay desdí –
 <lb n="4" />chado, esto díxo. y luego fueron apo –
+<<<<<<< HEAD
 <lb n="5" />ner la cabeza al cementerío, <choice>
+=======
+<lb n="5" />ner la cabeza al cementerío, 
+<choice>
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>así
@@ -135,7 +145,12 @@
 <lb n="20" />da, otros yeruas, otros píedras, otros
 <lb n="21" />tíerra díferentes fueron las co mídas
 <lb n="22" />delos animals grandes, y chícos. y
+<<<<<<< HEAD
 <lb n="23" />alo vltímo víno. y a vno <choice>
+=======
+<lb n="23" />alo vltímo víno. y a vno 
+<choice>
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>era tortu –
@@ -152,7 +167,12 @@
 <lb n="31" />ron, no así nomas se acabo su cara
 <lb n="33" />estubo muy Buena, y salío muy her –
 <lb n="34" />mosa, y así mesmo hablo. y quando
+<<<<<<< HEAD
 <lb n="35" />que ría ya amanezer, <choice>
+=======
+<lb n="35" />que ría ya amanezer, 
+<choice>
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>seaclaraba
@@ -160,7 +180,12 @@
 <lb n="37" />uez señala, y lobsureze, y díxo el
 <lb n="38" />víejo estabíen, y luego se obscureçío
 <lb n="39" />quarto uezes señalo el víejo zopílo –
+<<<<<<< HEAD
 <lb n="40" />te, y así dícen agora <choice>
+=======
+<lb n="40" />te, y así dícen agora 
+<choice>
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>raya el zo –
