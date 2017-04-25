@@ -107,8 +107,12 @@
 </num>
 </note>               
 <p>               
+<<<<<<< HEAD
 <lb n="1" />plumas de cola de guacamaya.. y los 
 <choice>
+=======
+<lb n="1" />plumas de cola de guacamaya.. y los <choice>
+>>>>>>> origin/amb8fk
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>es –

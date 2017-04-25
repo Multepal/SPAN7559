@@ -41,7 +41,11 @@
             <div type="page" n="23.1" xml:id="xom-f23-s1">
                 <div type="col" n="23.1.1" xml:lang="quc">
                 <p>
+<<<<<<< HEAD
 
+=======
+<!-- Nicole, please check all of these ana tags. There seem to be some problems with pajaro, vbaca, etc.-->
+>>>>>>> origin/amb8fk
 <lb n="1" /><rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs> co
 <lb n="2" />naquipa ri choquic petaca vvb xe
 <lb n="3" />qha.
@@ -118,7 +122,7 @@
 <lb n="8" />nído aquí le díxeron al <rs ana="pájaro">vac</rs>. y dixo el a
 <lb n="9" />quí en mí víentre traígo vn mensage. cu –
 <lb n="10" />radme prímero mí ojo, y luego lo dire
-<lb n="11" />esta bíen díxeron <rs ana="HERO_TWINS">ellos</rs>, y sacando vn poquí –
+<lb n="11" />esta bíen díxeron <rs ana="DOS_MUCHACHOS">ellos</rs>, y sacando vn poquí –
 <lb n="12" />to de el vle de la pelota, lo pusíeron en
 <lb n="13" />el ojo del <rs ana="pájaro">vac</rs>. y llamase lotzquíc, esto es
 <lb n="14" />vle de çíerta yerua) por
@@ -188,7 +192,7 @@
 <lb n="38" />carne delas culebras. eá habla le
 <lb n="39" />díxeron al píojo, y entonçes dío su
 <lb n="40" />mensage. diçe <rs ana="IXMUKANE">vuestra abuela</rs>  mu –
-<lb n="41" />chachos, ó <rs ana="HERO_TWINS">los gémelos divinos</rs> ana amaldos
+<lb n="41" />chachos, ó <rs ana="DOS_MUCHACHOS">los gémelos divinos</rs> ana amaldos
 <lb n="42" />por
 	<choice>
 		<abbr>q’</abbr>
