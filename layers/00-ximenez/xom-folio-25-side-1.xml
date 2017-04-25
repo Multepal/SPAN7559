@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi que l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -54,7 +54,7 @@
 <lb n="4" />chuvi zic hunacab chiyocouic cu –
 <lb n="5" />mal mi xecachaco xeqha varanel
 <lb n="6" />macuhabi xquiz ri chah xavi xe
-<lb n="7" />re <rs ana="pájaro">vvac</rs>h are curi zic mahabi na
+<lb n="7" />re <rs ana="pájaro">vvach</rs> are curi zic mahabi na
 <lb n="8" />quila xquitzih chire; xavi xer e
 <lb n="9" /><rs ana="pájaro">vvach</rs> xbeyaoc cuq ahauab na
 <lb n="10" />quipa que vxic apa xepevi achi –
@@ -67,29 +67,29 @@
 <lb n="17" />qaholab xevqhaxic ta xetzonox
 <lb n="18" />cut rumal hun came, vvcub came
 <lb n="19" />apa quix ixpevi chibÿh tah ixqa –
-<lb n="20" />holab <rs ana="XIBALBA">xqha cut</rs> <del rend="overstrike">mavi que
+<lb n="20" />holab xqha cut <del rend="overstrike">mavi que
 <lb n="21" />tuam xa xeqha</del> chi que alaba
 <lb n="22" />xohpe vilo maui que taam xaxe
 <lb n="23" />qha maui xquibÿ vtzbala xaca
-<lb n="24" />be cacachaah <rs ana="XIBALBA">ixqaholab xe</rs>
+<lb n="24" />be cacachaah ixqaholab xe
 <lb n="25" />qha  chi que vtz xechare
 <lb n="26" />ba chicacoh ri va ca 
-<lb n="27" />quic xeqha<rs ana="XIBALBA"></rs>. matah areta chi coh
+<lb n="27" />quic xeqha. matah areta chi coh
 <lb n="38" />va que xeqha qaholab. maha
-<lb n="29" />bi are chicacoh va que <rs ana="XIBALBA">xeqha
-<lb n="30" />chic</rs>. vtz bala xeqha
-<lb n="32" />qaholab hebala <rs ana="XIBALBA">xahuchil xe</rs>
+<lb n="29" />bi are chicacoh va que xeqha
+<lb n="30" />chic. vtz bala xeqha
+<lb n="32" />qaholab hebala xahuchil xe
 <lb n="32" />qha , mabala xa holom
 <lb n="33" />coh qhachic xeqha qaholab ma
-<lb n="34" /><rs ana="XIBALBA">habi xeqha</rs> <rs ana="JUN_JUNAJPU">vtz bala
+<lb n="34" />habi xeqha vtz bala
 <lb n="35" />xqha</rs> ta xzac cu vloc
-<lb n="36" />rumal <rs ana="XIBALBA"> quicutacal chu
+<lb n="36" />rumal quicutacal chu
 <lb n="37" /><rs ana="pájaro">vach</rs> vbate cate puch
-<lb n="38" />ta <rs ana="XIBALBA">xquil</rs> ri zaquitoc
+<lb n="38" />ta xquil ri zaquitoc
 <lb n="39" />ta xel chupan riquic chitzini –
 <lb n="40" />nic xbe he chua tac vleuh
 <lb n="41" />ri chaa. naquipala 
-<lb n="42" /><rs ana="JUN_JUNAJPU">xqha ri</rs> <expan>que</expan> xa ca –
+<lb n="42" />xqha ri que xa ca –
 <lb n="43" />mic quivah chi que ch mata
 <lb n="44" />xohbe itaca, matapu xbeiza –
 <lb n="45" />mahel quitzih tocob ca <rs ana="pájaro">vach</rs>
@@ -107,29 +107,41 @@
 </num>
 </note>               
 <p>               
-<lb n="1" />plumas de cola de guacamaya.. y los <choice><abbr>q’</choice></abbr>
-<expan>que</expan>es –
+<lb n="1" />plumas de cola de guacamaya.. y los 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es –
 <lb n="2" />taban en guarda velando les pareçía ocote
 <lb n="3" />ardiendo, y en los cígarros pusíeron luzíer –
 <lb n="4" />nagas, y toda la noche los tuuíron por vençi –
 <lb n="5" />dos, y deçían los guardas, ya estan ganados.
 <lb n="6" />y no se acabo elocote, y así mesmo los zígar –
 <lb n="7" />ros nada <rs ana="HERO_TWINS">ençendíeron</rs> de. y luego fu –
-<lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript"><abbr type ="superscript">Ses.</choice></abbr></choice></abbr>
-<lb n="9" />y dezían <choice><abbr>q’</choice></abbr>
-<expan>que</expan>es esto? deadonde han venído
+<lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript"><abbr type ="superscript">Ses.</abbr>
+<lb n="9" />y dezían 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es esto? deadonde han venído
 <lb n="10" />estos, quíen los engendro, y quíen los parío?
-<lb n="11" />de uerdad arde nuestro corazon por<choice><abbr>q’</choice></abbr>
-<expan>que</expan>
-<lb n="12" />no es bueno esto <choice><abbr>q’</choice></abbr>
-<expan>que</expan>hacen. díuersa es su
+<lb n="11" />de uerdad arde nuestro corazon por
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>
+<lb n="12" />no es bueno esto 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>hacen. díuersa es su
 <lb n="13" />cara, y díuersa son sus costumbres. esto
 <lb n="14" />deçían entre sí mesmos. y entonçes en –
-<lb n="15" />bíaronlos todos los <expan>Señores</expan> a llamar, ea va –
+<lb n="15" />bíaronlos todos los Señores a llamar, ea va –
 <lb n="16" />mos a jugar ala pelota, mancebos. y lespre –
 <lb n="17" />guntaron hun came, y vucub came, de
 <lb n="18" />adonde aueís venído? deçildo man –
-<lb n="19" />çebos. y <rs ana="HERO_TWINS"></rs>díxeron nosabemos: de
+<lb n="19" />çebos. y <rs ana="HERO_TWINS">díxeron</rs> nosabemos: de
 <lb n="20" />adonde venímos, y no lo díxeron. esta
 <lb n="21" />bíen <rs ana="HERO_TWINS">díxeron</rs> los de el ínfíerno a 
 <lb n="22" />ea vamos a jugar a la pelota manze –
@@ -140,8 +152,11 @@
 <lb n="27" />ron los de el ínfíerno de níngun mo –
 <lb n="28" />do esa síno la nuestra. esta bíen, díxe –
 <lb n="29" />ron los <rs ana="mançebos">los gémelos divinos</rs>. ea sea este gusaní –
-<lb n="30" />o, <choice><abbr>q’</choice></abbr>
-<expan>que</expan> se llama chíl. díxeron los de el ínfierno,
+<lb n="30" />o, 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> se llama chíl. díxeron los de el ínfierno,
 <lb n="31" />no sea díxeron los muchachos,
 <lb n="32" />síno la cabeza de leon. eso no díxe –
 <lb n="33" />ron los del ínfíerno. esta bíen díxo hun
@@ -150,14 +165,17 @@
 <lb n="36" />te de y <rs ana="JUN_JUNAJPU"> víendo</rs> los de el ín –
 <lb n="37" />fíerno el agudo herír qdo. salía de la
 <lb n="38" />pala la pelota, se fue saltando sobre
-<lb n="39" />la tíerra. <choice><abbr>q’</choice></abbr>
-<expan>que</expan>es esto <rs ana="JUN_JUNAJPU">díxo</rs>, y
-<lb n="40" /><expan>que</expan>, solo trataís de nuestra
+<lb n="39" />la tíerra. 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es esto <rs ana="JUN_JUNAJPU">díxo</rs>, y
+<lb n="40" />que, solo trataís de nuestra
 <lb n="41" />muerte, por ventura no nos embíaste –
 <lb n="42" />ís a llamar? no fueron vuestros men –
 <lb n="43" />sageros? pobres de nosotros, nos íre –
 <lb n="44" />mos otra vez les díxeron los <rs ana="HERO_TWINS">mançe –
-<lb n="45" />bos</rs> a . y esto lo <expan>que</expan> <expan>que</expan> <rs ana="HERO_TWINS">rían</rs> de
+<lb n="45" />bos</rs> a . y esto lo que <rs ana="HERO_TWINS">rían</rs> de
 <lb n="46" />
 <note rend="margin-left">del cert="high"><num rend>
                 </div>
