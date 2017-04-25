@@ -289,13 +289,17 @@
 =======
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>: hun
-<lb n="7" />came, y díxo aquí, que xandose. dixo qdo fue
+				</choice>: <rs ana="JUN_KAME">hun
+<lb n="7" />came</rs>, y díxo aquí, que xandose. dixo 
+<choice>
+	<abbr type="superscription">qdo</abbr>
+	<expan>cuando</expan>
+	</choice>fue
 <lb n="8" />pícado. 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>es eso hun came, le díxo el quarto
+				</choice>es eso <rs ana="JUN_KAME">hun came</rs>, le díxo el quarto
 				<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -308,13 +312,13 @@
 <lb n="11" /><choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>es esp vucub came 
+				</choice>es eso <rs ana="WUQUB_KAME">vucub came</rs> 
 				<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>te ha mordído le
 <lb n="12" />díxo el quínto. ayay. díxo
-<lb n="13" />y le díxo vucub came 
+<lb n="13" />y le díxo <rs ana="WUQUB_KAME">vucub came</rs> 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -323,8 +327,8 @@
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>es eso, cu –
-<lb n="15" />chu maquíc 
+				</choice>es eso, <rs ana="KUCHUMA_KIK">cu –
+<lb n="15" />chu maquíc</rs> 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -347,8 +351,8 @@
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>te ha mordído ahalpuh? dixo cu –
-<lb n="19" />chu maquíC. y quando mordío al octauo
+				</choice>te ha mordído <rs ana="AJAL_PUJ">ahalpuh</rs>? dixo <rs ana="KUCHUMA_KIK">cu –
+<lb n="19" />chu maquí<hi rend="large">C</hi></rs>. y quando mordío al octauo
 <lb n="20" /><choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -356,8 +360,9 @@
 				<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>es eso ahal
-<lb n="21" />cana <choice>
+				</choice>es eso <rs ana="AJAL_QANA">ahal
+<lb n="21" />cana</rs> 
+<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>te mordío? y quando mordío al
@@ -384,8 +389,8 @@
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>te mordío cha –
-<lb n="26" />mía holom? y mordíendo al vndeçí –
+				</choice>te mordío <rs ana="CHAMIYAJOLOM">cha –
+<lb n="26" />mía holom</rs>? y mordíendo al vndeçí –
 <lb n="27" />mo, 
 <choice>
 		<abbr>q’</abbr>
@@ -415,13 +420,13 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>te
-<lb n="32" />mordío quíc xíc. le díjo <rs ana="PATAN">patan</rs>. y mor
+<lb n="32" />mordío <rs ana="KIK_RE">quíc xíc</rs>. le díjo <rs ana="PATAN">patan</rs>. y mor
 <lb n="33" />díendo al quarto deçímo 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>dixo ay
-<lb n="34" />le díxo a quíc ríx eae, quíc re. 
+<lb n="34" />le díxo a <rs ana="KIK_RIXKAQ">quíc ríx ƐaƐ</rs>, <rs ana="KIK_RE">quíc re</rs>. 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
