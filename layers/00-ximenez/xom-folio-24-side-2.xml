@@ -82,8 +82,13 @@
 <lb n="32" />vbala. xabahix paha xevchaxic
 <lb n="33" />cate cut ta xeoc pa que eumaha
 <lb n="34" />maui xechacatahic chiri are
+<<<<<<< HEAD
 <lb n="35" />nabe vtihobal ri xeoc
 <lb n="36" />vi que chi cu vticaric quichaca
+=======
+<lb n="35" />nabe vtihobal</rs> ri xeoc
+<lb n="36" />vi <expan>que</expan>chi cu vticaric quichaca
+>>>>>>> amb8fk
 <lb n="37" />tahic ta chic chiquiqux
 <lb n="38" />nabe xeoc pa que eumaha
 <lb n="39" />cate cut ta xbeyaoc quichah
@@ -142,6 +147,7 @@
 <lb n="13" />ron ese solo es estatua. y saludandolos a
 <lb n="14" />los demas díxeron <abbr type="superscription">Sor.</abbr> came, <abbr type="superscription">Sor.</abbr> vucub
 <lb n="15" />came, <abbr type="superscription">Sor.</abbr>, <abbr type="superscription">Sor.</abbr> cuchumaquíc,
+<<<<<<< HEAD
 <lb n="16" /><abbr type="superscription">Sor.</abbr> <rs ana="AJAL_PUJ">ahal puh</rs>, 
 <abbr type="superscription">Sor.</choice></abbr> 
 <rs ana="AJAL_QANA">ahal cana</rs>, <abbr type="superscription">Sor.</choice></abbr> chamía
@@ -151,6 +157,11 @@
 <rs ana="PATAN">pa –
 <lb n="18" />tan</rs>, <abbr type="superscription">Sor.</abbr> quíc re, <abbr type="superscription">Sor.</abbr> 
 quic rí eae. esto di –
+=======
+<lb n="16" />Sor. <rs ana="AJAL_PUJ">ahal puh</rs>, <abbr type="superscription">Sor.</choice></abbr> <rs ana="AJAL_QANA">ahal cana</rs>, <abbr type="superscription">Sor.</choice></abbr> chamía
+<lb n="17" /><rs ana="CHAMIYABAQ">baca</rs>, <abbr type="superscription">Sor.</abbr> chamía holom<rs ana="CHAMIYAJOLOM">, <abbr type="superscription">Sor.</abbr> xíc, <abbr type="superscription">Sor.</abbr> pa –
+<lb n="18" />tan<rs ana="PATAN">, <abbr type="superscription">Sor.</abbr> quíc re, <abbr type="superscription">Sor.</abbr> quic rí eae. esto di –
+>>>>>>> amb8fk
 <lb n="19" />xeron quando llegaron a todos les ma –
 <lb n="20" />manífestaron sus caras, y díxeron sus
 <lb n="21" />nombres de todos, y de nonguno perdí –
