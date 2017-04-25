@@ -42,10 +42,9 @@
                 <div type="col" n="24.1.1" xml:lang="quc">
                 
 <note place="margin-left" type="pagination">
-<num rend="large">
-<hi rend=handwriting;color:pencil">24
-</hi>
-</num>
+	<num rend="large">
+		<hi rend="handwriting;color:pencil">24</hi>
+	</num>
 </note>              
 <p>                
 <lb n="1" />qha curi xan ta xoc pa que ca be ta
@@ -102,7 +101,7 @@
                 
 <note place="margin-right" type="pagination">
 <num rend="large">
-<hi rend=handwriting;color:pencil">24
+<hi rend="handwriting;color:pencil">24
 </hi>
 </num>
 </note>               
@@ -264,16 +263,17 @@
 <lb n="35" />dío.? y así todos díxeron sus nombres
 <lb n="36" />y todos se manífestaron entre sí mes –
 <lb n="37" />mos, díçíendo sus nombres.
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>   
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+<lb />
+</p>
 </div>
 </div>
 </body>

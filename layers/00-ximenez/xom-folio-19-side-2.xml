@@ -48,7 +48,7 @@
                 				</num>
                 					</note>	
                 <!-- error in line 1 is because of name that begins on previous side -->
-                <lb n="1" />ahpu</rs> coy vbi zu ta xeoc cu vloc ri
+                <lb n="1" /><rs prev="#rs-19.2.1.47" ana="JUNAPU">ahpu</rs> coy vbi zu ta xeoc cu vloc ri
                 <lb n="2" /><rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs> quexahouic
                 <lb n="3" />ta xevlic cate puch ta xmucun ri 
                 <lb n="4" />atit iꜩel qui vach xril atit ta
@@ -195,7 +195,6 @@
                 <lb />
                 <lb />
                 <lb />
-                </p>
                 </p>
                 </div>
             </div>

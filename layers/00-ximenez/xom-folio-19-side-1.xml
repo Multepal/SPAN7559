@@ -88,7 +88,7 @@
                 <lb n="45" />qui cohom ta xcube puch ri catit
                 <lb n="46" />cu q ta xezuanic xeziquix pa
                 <!-- can't close tag on Hunahpu because the folio ends -->
-                <lb n="47" />zu pa bix ta xubinaah ri <rs ana="JUNAJPU">hun
+                <lb n="47" />zu pa bix ta xubinaah ri <rs xml:id="rs-19.2.1.47" ana="JUNAJPU" next="#xom-folio-19-side-2-col">hun</rs>
                 </p>
                 </div>
                 

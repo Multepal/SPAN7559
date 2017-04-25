@@ -4,12 +4,10 @@
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="tei">
     <xsl:output method="html" />
-    <xsl:variable name="themes_ajax_root">http://multepal.spanitalport.virgina.edu/api/temas</xsl:variable>
+    <xsl:variable name="themes_ajax_root">http://multepal.spanitalport.virgina.edu/api/temas/</xsl:variable>
 
     <xsl:template match="/">
-        <html>
-            <xsl:apply-templates select="//tei:text//tei:body"/>
-        </html>
+        <xsl:apply-templates select="//tei:text//tei:body"/>
     </xsl:template>
 
     <xsl:template match="tei:div">
@@ -28,7 +26,9 @@
     </xsl:template>
 
     <xsl:template match="tei:note">
-
+        <div type="note">
+            <xsl:apply-templates />
+        </div>
     </xsl:template>
 
     <xsl:template match="tei:rs">

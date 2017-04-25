@@ -43,7 +43,7 @@
                 
 <note place="margin-left" type="pagination">
 <num rend="large">
-<hi rend=handwriting;color:pencil">25
+<hi rend="handwriting;color:pencil">25
 </hi>
 </num>
 </note>                
@@ -82,7 +82,7 @@
 <lb n="32" />qha , mabala xa holom
 <lb n="33" />coh qhachic xeqha qaholab ma
 <lb n="34" />habi xeqha vtz bala
-<lb n="35" />xqha</rs> ta xzac cu vloc
+<lb n="35" />xqha<!--</rs>--> ta xzac cu vloc
 <lb n="36" />rumal quicutacal chu
 <lb n="37" /><rs ana="pájaro">vach</rs> vbate cate puch
 <lb n="38" />ta xquil ri zaquitoc
@@ -95,14 +95,13 @@
 <lb n="45" />mahel quitzih tocob ca <rs ana="pájaro">vach</rs>
 <lb n="46" />xacohbec xeqha qaholab chi –
 <lb n="47" />que. are tacu xahauax chi que
-
-
+</p>
                 </div>
                 <div type="col" n="25.1.2" xml:lang="spa">
                 
 <note place="margin-right" type="pagination">
 <num rend="large">
-<hi rend=handwriting;color:pencil">25
+<hi rend="handwriting;color:pencil">25
 </hi>
 </num>
 </note>               
@@ -117,7 +116,7 @@
 <lb n="5" />dos, y deçían los guardas, ya estan ganados.
 <lb n="6" />y no se acabo elocote, y así mesmo los zígar –
 <lb n="7" />ros nada <rs ana="HERO_TWINS">ençendíeron</rs> de. y luego fu –
-<lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript"><abbr type ="superscript">Ses.</abbr>
+<lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript">Ses.</abbr>
 <lb n="9" />y dezían 
 <choice>
 		<abbr>q’</abbr>
@@ -176,7 +175,7 @@
 <lb n="44" />mos otra vez les díxeron los <rs ana="HERO_TWINS">mançe –
 <lb n="45" />bos</rs> a . y esto lo que <rs ana="HERO_TWINS">rían</rs> de
 <lb n="46" />
-<note rend="margin-left">del cert="high"><num rend>
+    <!--<note rend="margin-left">del cert="high"><num rend>--></p>
                 </div>
             </div>
         </body>
