@@ -41,12 +41,7 @@
             <div type="page" n="27.1" xml:id="xom-f27-s1">
                 <div type="col" n="27.1.1" xml:lang="quc">
                 
-<note place="margin-left" type="pagination">
-<num rend="large">
-<hi rend=handwriting;color:pencil">27
-</hi>
-</num>
-</note>
+
 <p>                 
 <lb n="1" />varanel conohel qui quiqux chi–
 <lb n="2" />re macuxecamic xavi xere vtz
@@ -102,7 +97,7 @@
                 
 <note place="margin-right" type="pagination">
 <num rend="large">
-<hi rend=handwriting;color:pencil">27
+<hi rend="handwriting;color:pencil">27
 </hi>
 </num>
 </note>                
@@ -179,7 +174,7 @@ que no auía mas
 				</choice>
 <lb n="33" />a . ya aura quízas amane—
 <lb n="34" />çído, veamos, y que ríendo ver sa
-<lb n="35" />co la cabeza <rs ana="WOK">ala</rs> a dela çerua –
+<lb n="35" />co la cabeza a la <rs ana="WOK">boca</rs> de la çerua –
 <lb n="36" />tana, que ría ver sí auía amane—
 <lb n="37" />çído, y luego fue cortada la cabe –
 <lb n="38" />za por el qamazotz. que dando solo
@@ -193,15 +188,17 @@ que no auía mas
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>
-<lb n="41" />pero nose meneaba hunahpu. 
+<lb n="41" />pero nose meneaba <rs ana="JUNAJPU">hunahpu</rs>. 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>
-<lb n="42" />hasído esto díxo sí seacaído hun
-<lb n="43" />ahpu
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
+<lb n="42" />hasído esto díxo sí seacaído <rs ana="JUNAJPU">hun
+<lb n="43" />ahpu</rs>
+<lb />
+<lb />
+
+</p>
                 </div>
             </div>
         </body>

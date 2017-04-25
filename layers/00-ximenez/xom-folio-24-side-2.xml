@@ -43,7 +43,7 @@
                 
 <note place="margin-left" type="pagination">
 <num rend="large">
-<hi rend=handwriting;color:pencil">24
+<hi rend="handwriting;color:pencil">24
 </hi>
 </num>
 </note>               
@@ -53,12 +53,12 @@
 <lb n="3" />xucut mahabi hunoc xquizach v
 <lb n="4" />bi quiz quibÿh quibi conohel ta
 <lb n="5" />xeti rumal rizmal <rs ana="PAJARO">vach</rs> 
-<lb n="6" />vchecxumich vbic mana qui –
+<lb n="6" /><rs ana="JUNAJPU">hun aphu</rs> xumich vbic mana qui –
 <lb n="7" />tzih xan ri xetiovic xbetao quibi
-<lb n="8" />conohel rumal xba –
-<lb n="9" />lan<expan>que</expan>. cate cut ta xebec ta xe
-<lb n="10" />opon puch chila e qovi <rs ana="XIBALBA">
-<lb n="11" />chi quihila</rs> ahau xqhari cubulic
+<lb n="8" />conohel rumal <rs ana="XBALANKE">xba –
+<lb n="9" />lan que</rs>. cate cut ta xebec ta xe
+<lb n="10" />opon puch chila e qovi
+<lb n="11" />chi quihila ahau xqhari cubulic
 <lb n="12" />xqha huntac chiinel maui are
 <lb n="13" />ahau ri xa poy ahamche ri xe
 <lb n="14" />qha ta xeoponic cate cut ta xeca –
@@ -66,9 +66,9 @@
 <lb n="16" />vvcub came, calata xiquiritap
 <lb n="17" />calata cuchumaquic. calata a
 <lb n="18" />hal puh, calata ahalcana, cala
-<lb n="19" />ta <rs ana="CHAMIYABAQ">chamia baca</rs>, calata chamia
+<lb n="19" />ta <rs ana="CHAMIYABAQ">chamia baca</rs>,calata chamia
 <lb n="20" />holom, calata cala xic, cala
-<lb n="21" />ta <rs ana="PATAN">patan</rs>, calata quic re, calata
+<lb n="21" />ta <rs ana="PATAN">patan</rs>, calata quic re,calata
 <lb n="22" />vquic <del rend="overstrike">xic</del> rixcac. xeqha taxeopo –
 <lb n="23" />nic ronohel xquiz cut <rs ana="PAJARO">vvach</rs>
 <lb n="24" />xquibÿh vbi ronohel mahabi
@@ -77,8 +77,8 @@
 <lb n="27" />cumal quixcu vloc xevqhax cut
 <lb n="28" />xerah oc chuvi tem macu xcah
 <lb n="29" />maui are catem ri xa chohim a
-<lb n="30" />bah ri tem  <rs ana="XIBALBA">xeqhaxba</rs>
-<lb n="31" />lan que mavi xechacatahic vtz
+<lb n="30" />bah ri tem xeqha <rs ana="JUNAJPU">hun aphu</rs> <rs ana="XBALANKE">xba
+<lb n="31" />lan que</rs> mavi xechacatahic vtz
 <lb n="32" />vbala. xabahix paha xevchaxic
 <lb n="33" />cate cut ta xeoc pa que eumaha
 <lb n="34" />maui xechacatahic chiri are
@@ -95,17 +95,12 @@
 <lb n="45" />cacha ahau xqha zamahel ta
 <lb n="46" />xoponic vtzbala xeqha cut ma
 <lb n="47" />cu xquitzih richah xa eaeahv
-
+</p>
 
                 </div>
                 <div type="col" n="24.2.2" xml:lang="spa">
                 
-<note place="margin-right" type="pagination">
-<num rend="large">
-<hi rend=handwriting;color:pencil">24
-</hi>
-</num>
-</note>               
+               
 <p>                
 <lb n="1" />de cada vno. y se llamaba holoman, vno
 <lb n="2" />
@@ -113,7 +108,7 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>estaba asentado en vn vanco. y nín –
-<lb n="3" />gun</rs> nombre de  perdío, síno 
+<lb n="3" />gun nombre de perdío, síno 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -137,19 +132,75 @@
 			<expan>que</expan>
 				</choice>llegaron alla á
 <lb n="10" />donde estaban los de el ínfíerno, les díxe –
-<lb n="11" />ron ea saludad aese <abbr type="superscription">Sor.</abbr> y no era <abbr type="superscription">Sor.</abbr>síno
+<lb n="11" />ron ea saludad aese
+<choice>
+<abbr type="superscription">Sor.</abbr>
+<expan>Señor</expan>
+</choice>y no era
+	<choice>
+	<abbr type="superscription">Sor.</abbr>
+	<expan>Señor</expan>
+	</choice>
+	síno
 <lb n="12" />vna estatua para engalñarlos, y díxe
 <lb n="13" />ron ese solo es estatua. y saludandolos a
-<lb n="14" />los demas díxeron <abbr type="superscription">Sor.</abbr> came, <abbr type="superscription">Sor.</abbr> vucub
-<lb n="15" />came, <abbr type="superscription">Sor.</abbr>, <abbr type="superscription">Sor.</abbr> cuchumaquíc,
-<lb n="16" /><abbr type="superscription">Sor.</abbr> <rs ana="AJAL_PUJ">ahal puh</rs>, 
-<abbr type="superscription">Sor.</choice></abbr> 
-<rs ana="AJAL_QANA">ahal cana</rs>, <abbr type="superscription">Sor.</choice></abbr> chamía
-<lb n="17" /><rs ana="CHAMIYABAQ">baca</rs>, <abbr type="superscription">Sor.</abbr> 
+<lb n="14" />los demas díxeron <rs ana="WUQUB_KAME">
+<choice>
+<abbr type="superscription">Sor.</abbr>
+<expan>Señor</expan>
+</choice>
+came</rs>,
+	<rs ana="WUQUB_KAME">
+	<choice>
+	<abbr type="superscription">Sor.</abbr>
+	<expan>Señor</expan>
+</choice>
+	vucub
+<lb n="15" />came</rs>, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr>, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr> cuchumaquíc,
+<lb n="16" />
+<choice>
+<abbr type="superscription">Sor.</abbr> 
+<rs ana="AJAL_PUJ">ahal puh</rs>, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr> 
+<rs ana="AJAL_QANA">ahal cana</rs>, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr>
+</choice> chamía
+<lb n="17" /><rs ana="CHAMIYABAQ">baca</rs>, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr>
+</choice>
 <rs ana="CHAMIYAJOLOM">chamía holom</rs>, 
-<abbr type="superscription">Sor.</abbr> xíc, <abbr type="superscription">Sor.</abbr> 
+<choice>
+<abbr type="superscription">Sor.
+</abbr>
+</choice>
+xíc, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr> 
+</choice>
 <rs ana="PATAN">pa –
-<lb n="18" />tan</rs>, <abbr type="superscription">Sor.</abbr> quíc re, <abbr type="superscription">Sor.</abbr> 
+<lb n="18" />tan</rs>, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr>
+</choice>
+quíc re, 
+<choice>
+<abbr type="superscription">Sor.
+</abbr> 
+</choice>
 quic rí eae. esto di –
 <lb n="19" />xeron quando llegaron a todos les ma –
 <lb n="20" />manífestaron sus caras, y díxeron sus
@@ -174,12 +225,12 @@ quic rí eae. esto di –
 				</choice>
 <lb n="28" />es píedra ardíendo ese asíento díxe –
 <lb n="29" />ron, y que, y no pu –
-<lb n="30" />díeron ser vençídos. esta bíen <rs ana="HERO_TWINS">díxeron</rs>
+<lb n="30" />díeron ser vençídos. esta bíen <rs ana="DOS_MUCHACHOS">díxeron</rs>
 <lb n="31" />, ea vayan a la casa les fue dícho, y
 <lb n="32" />luego entraron en vna casa obscura, y no
 <lb n="33" />fueron allí vencídos. y este era el primer
 <lb n="34" />castígo de el ínfíerno. allí entraron, y allí
-<lb n="35" /><rs ana="HERO_TWINS">pensaban</rs> los de el ínfíerno empezar a
+<lb n="35" /><rs ana="DOS_MUCHACHOS">pensaban</rs> los de el ínfíerno empezar a
 <lb n="36" />tríunfar de . allí entraron en la
 <lb n="37" />casa obscura., y luego les fueron a dar su
 <lb n="38" />ocote, 
@@ -193,7 +244,7 @@ quic rí eae. esto di –
 <lb n="42" />los Señores ala mañana los aueís de bol –
 <lb n="43" />ber, auíendo ardído toda la noche. esto
 <lb n="44" />díxeron los mensageros, quando lle –
-<lb n="45" />garon. esta bíen <rs ana="HERO_TWINS">díxeron</rs>, y no en
+<lb n="45" />garon. esta bíen <rs ana="DOS_MUCHACHOS">díxeron</rs>, y no en
 <lb n="46" />cendíeron el ocote, síno
 <choice>
 		<abbr>q’</abbr>

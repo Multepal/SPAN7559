@@ -41,12 +41,7 @@
             <div type="page" n="26.1" xml:id="xom-f26-s1">
                 <div type="col" n="26.1.1" xml:lang="quc">
                 
-<note place="margin-left" type="pagination">
-<num rend="large">
-<hi rend=handwriting;color:pencil">26
-</hi>
-</num>
-</note>
+
 <p>                 
 <lb n="1" />zanic che que nzanic quixpetoc, quix –
 <lb n="2" />oho ivonohel ohicama ronohel
@@ -95,14 +90,14 @@
 <lb n="45" />lab xahuna cabil xquichap
 <lb n="46" />zanic ta quiya pazel.que he
 <lb n="47" />cut xezac cahe riconohel xi –
-
+</p>
 
                 </div>
                 <div type="col" n="26.1.2" xml:lang="spa">
                 
 <note place="margin-right" type="pagination">
 <num rend="large">
-<hi rend=handwriting;color:pencil">26
+<hi rend="handwriting;color:pencil">26
 </hi>
 </num>
 </note>               
@@ -195,20 +190,17 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>hemos
-<lb n="38" />Ganado. esta bíen <rs ana="HERO_TWINS">díxeron</rs>, y se
+<lb n="38" />Ganado. esta bíen <rs ana="DOS_MUCHACHOS">díxeron</rs>, y se
 <lb n="39" />fueron lleuando las quarto hícaras
 <lb n="40" />colmadas de flores, y llegaron
 <lb n="41" />ante el Sor y los Señores tomaron las
 <lb n="42" />flores, muy suaves. y así fueron ven
 <lb n="43" />çídos los de el ínfíerno. y solas hor –
-<lb n="44" />mígas <rs ana="HERO_TWINS">embíaron</rs> <rs ana="HERO_TWINS">los gémelos divinos</rs>
+<lb n="44" />mígas <rs ana="DOS_MUCHACHOS">embíaron</rs> <rs ana="DOS_MUCHACHOS">los gémelos divinos</rs>
 <lb n="45" />y en una noche cortaron las hormigas
 <lb n="46" />las flores, y las pusieron en las hícaras
 <lb n="47" />y así se espantaron todos los deelínfí –
 
-
-                </div>
-            </div>
         </body>
     </text>
 </TEI>
