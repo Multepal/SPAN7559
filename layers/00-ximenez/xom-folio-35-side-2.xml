@@ -40,8 +40,8 @@
         <body>
             <div type="page" n="35.2" xml:id="xom-f35-s2">
                 <div type="col" n="35.2.1" xml:lang="quc">
-                <note rend="margin-left">
-                <num rend="large">35</num>
+                <note rend="margin-left"><num rend="large">35</num></note>
+                <p>
                 <lb n="1" />pu quila ve qo chi chahin quetala
                 <lb n="2" />chicaric ri cohꜩihon ta chuvach
                 <lb n="3" />xaqui quehe oh qolic mahabi
@@ -51,7 +51,7 @@
                 <lb n="7" />tinamit xebevi
                 </p>
                 <p>
-                <lb n="8" rend="indent"><hi rend="large">A</hi>recut vbi huyub va xebe vi
+                <lb n="8" rend="indent" /><hi rend="large">A</hi>recut vbi huyub va xebe vi
                 <lb n="9" />Balam quiꜩe, Balam acab mahu
                 <lb n="10" />cutah, iqui balam ruq tumub, ilo –
                 <lb n="11" />cab, tulan zuiva vvcub pec, vv –
@@ -59,7 +59,7 @@
                 <lb n="13" />e camolre cabauil
                 </p>
                 <p>
-                <lb n="14" rend="indent">Xeopon cut chila tulan conoh –
+                <lb n="14" rend="indent" />Xeopon cut chila tulan conoh –
                 <lb n="15" />el maui ahilan chivinac xoponic
                 <lb n="16" />ꜩaꜩcut chubinic cholon cut relic
                 <lb n="17" />vloc qui cabavil nabe ri balam
@@ -84,7 +84,7 @@
                 <lb n="36" />ui quetaam va camic
                 </p>
                 <p>
-                <lb n="37" rend="indent">Quehecut vbinaam vi ox –
+                <lb n="37" rend="indent" />Quehecut vbinaam vi ox –
                 <lb n="38" />ib chiquiche xma xuꜩocopih
                 <lb n="39" />virib rumal xa hunam vbi ca –
                 <lb n="40" />bauil tohil quiche, tohil chi ta –
@@ -95,9 +95,10 @@
                 <lb n="45" />hilauilix hacaviꜩ ta xoc chicut
                 <lb n="46" />ronohel amac rabinaleb, ca –
                 <lb n="47" />echequeleb, ahq,iquina ha, ruq
-
+                </p>
                 </div>
                 <div type="col" n="35.2.2" xml:lang="spa">
+                <p>
                 <lb n="1" />ver si ay señal de hallar esto q’ deçímos
                 <lb n="" />y no q’nos estamos aquí, no tenemos quí –
                 <lb n="3" />en cuíde de nosotros, y nos guarde.
@@ -113,6 +114,8 @@
                 <lb n="11" />se llamaba, tulan zu. síete queues, y
                 <lb n="12" />síete barrancas, y así se llamaba el pu –
                 <lb n="13" />eblo á do fueron a traer los ídolos.
+                </p>
+                <p>
                 <lb n="14" />y llegaron a tulan zu todos, y noson
                 <lb n="15" />constables los hombres q’fueron, y eran
                 <lb n="16" />muchos los q’íban todos en orden, fue
@@ -149,6 +152,7 @@
                 <lb n="45" />hacauíꜩ, y entonçes entraron todos los
                 <lb n="46" />pueblos, los de rabínal, los cacchíque –
                 <lb n="47" />les, los de q,íquínaha, condos de yu –
+                </p>
                 </div>
             </div>
         </body>

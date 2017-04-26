@@ -40,8 +40,8 @@
         <body>
             <div type="page" n="34.2" xml:id="xom-f34-s2">
                 <div type="col" n="34.2.1" xml:lang="quc">
-                <note rend="margin-right">
-                <num rend="large">34</num>
+                <note rend="margin-left"><num rend="large">34</num></note>
+                <p>
                 <lb n="1" />cut vxe quech ri oh quiche vinac
                 <lb n="2" />ꜩaꜩ cut xuxic ri ahquix ahcahb
                 <lb n="3" />mana xa e cahib chic xuxic xere
@@ -89,9 +89,10 @@
                 <lb n="45" />nac quivachibal vinac qui vqha –
                 <lb n="46" />bal vinac, cay vxi quin, qoleyuxe –
                 <lb n="47" />cah. qocut huyubal vinac mavi ilo
-
+                </p>
                 </div>
                 <div type="col" n="34.2.2" xml:lang="spa">
+                <p>
                 <lb n="1" />todos los pueblos, chicos y grandes, y estos
                 <lb n="2" />son el orígen de nosotros los quiches, y mu –
                 <lb n="3" />chísímos fueron los poderosos. y no solo fu –
@@ -108,38 +109,38 @@
                 <lb n="14" />víníeron de alla, de el oríente. balam –
                 <lb n="15" />quíꜩe, es el padre de las nueue casas
                 <lb n="16" />grandes de auíquíb. balam acab, es
-                <lb n="17" />el Pe
-                <lb n="18" />. de las nueue casas grande, de
-                <lb n="19" />níhaíbab. mahucutah es el P<abbr type="superscription">e</abbr> de las
-                <lb n="21" />quarto grandes casas de ahau quiche.
-                <lb n="22" />treS<del rend="scribble">a</del> a famílías fueron, y no se perdío
-                <lb n="24" />el nombre de su abuelo, y P<abbr type="superscription">e</abbr> de a do –
-                <lb n="26" />se multíplícaron alla en el oríente y
-                <lb n="27" />así mesmo víno el tumub, e ílocab em
-                <lb n="28" />las treze famílías, q’fueron brazos de
-                <lb n="29" />pueblos. y treçe famílías con los de Ra –
-                <lb n="30" />banal. eaechíque<del rend="scribble">l</del>es, ah q,íquínaha. y
-                <lb n="31" />tambíen con los de zacahíb. y con los de
-                <lb n="32" />lamaquíb, cumaꜩ, tuhalha, vchabaha.
-                <lb n="33" />ah chamílaha, con los de ahquíbaha, y
-                <lb n="34" />ah batenab acul vínac, balamí<del rend="scribble"></del>ha, can
-                <lb n="35" />chaheleb, balam colob. y solo estas eran
-                <lb n="36" />las príncípales ramas de los pueblos, q’
-                <lb n="37" />así les llamamos, y solo hemos referído
-                <lb n="38" />los príçípales. y muchos fueron los q’
-                <lb n="39" />salíeron con cada vna de las famílías
-                <lb n="40" />y q’no escríuímos sus nombres, y q’alla
-                <lb n="41" />se multíplícaron en el oríente, y fue –
-                <lb n="42" />ron muchos los q’se multíplícaron, aun
-                <lb n="43" />todavía en las tíníeblas, antes q’el sol
-                <lb n="44" />aclarase, y vbíese luz. y estuuíeron
-                <lb n="45" />todos juntos, y fueron muchas cosas las
-                <lb n="46" />q’híçíeron alla en el oríente, y no sa –
-                <lb n="47" />bían de sustunto, sino q’leuantaban
-                <lb n="48" />las caras al çíelo, y no se sabían alexar.
-                <lb n="49" />y allí mesmo estuuíeron en aquella dul –
-                <lb n="50" />çura, los hombres blancos, y negra y hu –
-                <lb n="51" />uo muchas lenguas, y de dos orejas, y ay
+                <lb n="17" />el Pe. de las nueue casas grande, de
+                <lb n="18" />níhaíbab. mahucutah es el P<abbr type="superscription">e</abbr> de las
+                <lb n="19" />quarto grandes casas de ahau quiche.
+                <lb n="20" />treS<del rend="scribble">a</del> a famílías fueron, y no se perdío
+                <lb n="21" />el nombre de su abuelo, y P<abbr type="superscription">e</abbr> de a do –
+                <lb n="22" />se multíplícaron alla en el oríente y
+                <lb n="23" />así mesmo víno el tumub, e ílocab em
+                <lb n="24" />las treze famílías, q’fueron brazos de
+                <lb n="25" />pueblos. y treçe famílías con los de Ra –
+                <lb n="26" />banal. eaechíque<del rend="scribble">l</del>es, ah q,íquínaha. y
+                <lb n="27" />tambíen con los de zacahíb. y con los de
+                <lb n="28" />lamaquíb, cumaꜩ, tuhalha, vchabaha.
+                <lb n="29" />ah chamílaha, con los de ahquíbaha, y
+                <lb n="30" />ah batenab acul vínac, balamí<del rend="scribble"></del>ha, can
+                <lb n="31" />chaheleb, balam colob. y solo estas eran
+                <lb n="32" />las príncípales ramas de los pueblos, q’
+                <lb n="33" />así les llamamos, y solo hemos referído
+                <lb n="34" />los príçípales. y muchos fueron los q’
+                <lb n="35" />salíeron con cada vna de las famílías
+                <lb n="36" />y q’no escríuímos sus nombres, y q’alla
+                <lb n="37" />se multíplícaron en el oríente, y fue –
+                <lb n="38" />ron muchos los q’se multíplícaron, aun
+                <lb n="39" />todavía en las tíníeblas, antes q’el sol
+                <lb n="40" />aclarase, y vbíese luz. y estuuíeron
+                <lb n="41" />todos juntos, y fueron muchas cosas las
+                <lb n="42" />q’híçíeron alla en el oríente, y no sa –
+                <lb n="43" />bían de sustunto, sino q’leuantaban
+                <lb n="44" />las caras al çíelo, y no se sabían alexar.
+                <lb n="45" />y allí mesmo estuuíeron en aquella dul –
+                <lb n="46" />çura, los hombres blancos, y negra y hu –
+                <lb n="47" />uo muchas lenguas, y de dos orejas, y ay
+                </p>
                 </div>
             </div>
         </body>

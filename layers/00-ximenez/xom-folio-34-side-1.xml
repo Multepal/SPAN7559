@@ -40,10 +40,11 @@
         <body>
             <div type="page" n="34.1" xml:id="xom-f34-s1">
                 <div type="col" n="34.1.1" xml:lang="quc">
+                <p>
                 <lb n="1" />chutin queqha.
                 </p>
                 <p>
-                <lb n="2" rend="indent">Quehe chicut vcamic chic
+                <lb n="2" rend="indent" />Quehe chicut vcamic chic
                 <lb n="3" />qui naoh alom qaholom hucha
                 <lb n="4" />chic chicaban chique xata nacah
                 <lb n="5" />chopon vi qui mucubal xatazca –
@@ -66,7 +67,7 @@
                 <lb n="22" />cut vqoheic chic quiꜩac qui bit
                 </p>
                 <p>
-                <lb n="23" rend="indent">Xaca xvabax vbac qui vach
+                <lb n="23" rend="indent" />Xaca xvabax vbac qui vach
                 <lb n="24" />rumal ri vqux cah xmoyic quehe –
                 <lb n="25" />ri xuxlabix vvach lemo xmoyo –
                 <lb n="26" />mobic vbac qui vach xanacah chic
@@ -92,11 +93,12 @@
                 <lb n="46" />quil ri e xoccahauab xevxic epo –
                 <lb n="47" />colvinac chutiamac nima a mac are
                 <!--there's also a 23. at the bottom left, not sure how to mark-->
-
+                </p>
                 </div>
                 <div type="col" n="34.1.2" xml:lang="spa">
-                <note rend="margin-right">
-                <num rend="large">34</num><!--there are two of the same number, not sure what to do-->
+                <note rend="margin-right"><num rend="large">34</num></note>
+                <note rend="margin-right"><num rend="large">34</num></note>
+                <p>
                 <lb n="1" />chico, y grande.
                 </p>
                 <p>
@@ -104,6 +106,7 @@
                 <lb n="3" />res, q’haremos otra vez con estos, q’se –
                 <lb n="4" />lo loq’ esta çerca vean?
                 </p>
+                <!-- NOT SURE IF THIS IS A REAL PARAGRAPH BREAK (rca2t) -->
                 <p>
                 <lb n="5" />síno q’ vnpoco de la haz de la tíerra ve –
                 <lb n="6" />an sus ojos, porq’ no es bueno esto q’dí –
@@ -150,6 +153,7 @@
                 <lb n="45" />mugger de íquíbam. y estos fueron los
                 <lb n="46" />nombres de las mugeres, q’ fueron hechas
                 <lb n="47" />Señoras. y estos fueron los q’ multíplícaron
+                </p>
                 </div>
             </div>
         </body>

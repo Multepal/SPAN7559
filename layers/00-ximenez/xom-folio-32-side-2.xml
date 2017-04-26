@@ -40,8 +40,8 @@
         <body>
             <div type="page" n="32.2" xml:id="xom-f32-s2">
                 <div type="col" n="32.2.1" xml:lang="quc">
-                <note rend="margin-left">
-                <num rend="large">32</num>
+                <note rend="margin-left"><num rend="large">32</num></note>
+                <p>
                 <lb n="1" />bÿh chi vbi ri vhunalpuil vchi
                 <lb n="2" />xerepu xchatah chivi quehe
                 <lb n="3" />cut ta xquinimah vi canahoc v
@@ -68,7 +68,7 @@
                 <lb n="24" />xic e vchumilal cah xevxic.
                 </p>
                 <p>
-                <lb n="25" rend="indent"><hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
+                <lb n="25" rend="indent" /><hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
                 <lb n="26" />vinac ta xꜩucux puch ri choc vtio –
                 <lb n="27" />hilvinac xeqha cut ri alom qa –
                 <lb n="28" />holom, e ꜩacol bitol tepeu cucu-
@@ -88,16 +88,17 @@
                 <lb n="42" />qui vi e ꜩacol bitol.
                 </p>
                 <p>
-                <lb n="43" rend="indent"><hi rend="large">P</hi>an paxil, pan cayala vbi xpe
+                <lb n="43" rend="indent" /><hi rend="large">P</hi>an paxil, pan cayala vbi xpe
                 <lb n="44" />vi eanahal zaquihal.
                 </p>
                 <p>
-                <lb n="45" rend="indent"><hi rend="large">A</hi>re cuquibi chicop va camolre
+                <lb n="45" rend="indent" /><hi rend="large">A</hi>re cuquibi chicop va camolre
                 <lb n="46" />cha. yac, vtiu, quel, hoh ecahib
                 <lb n="47" />chi chicop xbÿn vꜩihel ꜫanahal
-
+                </p>
                 </div>
                 <div type="col" n="32.2.2" xml:lang="spa">
+                <p> 
                 <lb n="1" />y so<del rend="scribble">l</del>o nosedíxo el nombre hunalpuíl
                 <lb n="2" />su voca, y solo esto fue díco. y así en
                 <lb n="3" />grandeçíeron antes el corazon desu
@@ -146,9 +147,12 @@
                 <p>
                 <lb n="43" />De paxíl, y de cayala q’así sellamaba; víní –
                 <lb n="44" />ron las maçorcas amarillas, y blancas.
+                </p>
+                <p>
                 <lb n="45" />y estos eran los nombres de los animales q’tra –
                 <lb n="46" />geron la comida. el gato de monte, el lobo,
                 <lb n="47" />el chocoy. y el cueruo. estos quarto animales
+                </p>
                 </div>
             </div>
         </body>

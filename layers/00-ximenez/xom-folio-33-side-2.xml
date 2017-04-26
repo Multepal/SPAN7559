@@ -40,8 +40,8 @@
         <body>
             <div type="page" n="33.2" xml:id="xom-f33-s2">
                 <div type="col" n="33.2.1" xml:lang="quc">
-                <note rend="margin-left">
-                <num rend="large">33</num>
+                <note rend="margin-left"><num rend="large">33</num></note>
+                <p>
                 <lb n="1" />puch xemucunic, xetaon puch
                 <lb n="2" />xebinic, xechapanic, evꜩilah
                 <lb n="3" />vinac e chaom achihil vach qui
@@ -64,7 +64,7 @@
                 <lb n="20" />acab, mahucutah, iquibalam.
                 </p>
                 <p>
-                <lb n="21" rend="indent">Ta xeꜩonox cut rumal ri
+                <lb n="21" rend="indent" />Ta xeꜩonox cut rumal ri
                 <lb n="22" />ahꜩac ahbit huchalic iqohei
                 <lb n="23" />quinao maqui xmucunic ma
                 <lb n="24" />quixtaonic, ma vꜩ ichabal ruq
@@ -91,9 +91,10 @@
                 <lb n="45" />cuvꜩ xquitao riahꜩac ahbit
                 <lb n="46" />mavi vꜩ ri mixquibÿh caꜩac ca
                 <lb n="47" />bit mixquetamah ronohel nim
-
+                </p> 
                 </div>
                 <div type="col" n="33.2.2" xml:lang="spa">
+                <p>
                 <lb n="1" />víeron, y oyeron, anduuíeron, y pal
                 <lb n="2" />paron. eran Buenos hombres, y her –
                 <lb n="3" />mosos, y sus semejanzas fueron de
@@ -114,6 +115,8 @@
                 <lb n="18" />a las píedras, a la laguna, al mar, al
                 <lb n="19" />monte, y al llano. y eran muy preçíosos hom
                 <lb n="20" />bres el balá q’ꜩe, balá acah. mahucu. íquíba.
+                </p>
+                <p>
                 <lb n="21" />y entonçes fueron preguntados por el
                 <lb n="22" />críador como es vuestro estado? oys por
                 <lb n="23" />ventura? veís por ventura? por ventura
@@ -141,6 +144,7 @@
                 <lb n="46" />pareçío bíen esto a los formadores, y crí
                 <lb n="47" />adores, no esta bíen esto q’díxeron nues –
                 <lb n="48" />tras críaturas, q’díçen saber quanto ay
+                </p>
                 </div>
             </div>
         </body>

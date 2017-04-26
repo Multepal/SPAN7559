@@ -60,7 +60,7 @@
                 <lb n="17" /><rs ana="DON_CRISTÓBAL"><hi rend="large">D</hi>on christoual chuchaxic</rs> xa
                 <lb n="18" rend="indent"/>hauaric chuvach caxtilan vi-
                 <lb n="19" rend="indent"/>nac
-                <lb n="20" /><hi rend="large"><rs ana="DON_PEDRO_DE_ROBLES">
+                <lb n="20" /><rs ana="DON_PEDRO_DE_ROBLES"><hi rend="large">z
                 <choice>
                 	<abbr>D</abbr>
                 	<expan>Don</expan>
@@ -136,7 +136,7 @@
                <lb n="13" /><rs ana="BELEJEB_KEJ_NOVENO">Beleheb quíh</rs>. la nona generaçíon.
                <lb n="14" /><rs ana="KEEMA">Quema</rs>. la deçíma generaçíon.
                <lb n="15" /><rs ana="AJAW_KOTUJA_UNDÉCIMO">Ahau cotuha</rs>. la undeçíma generaçíon.
-               <lb n="16" /><rs ana="DON_CRISTÓBAL">Don chrístoual se llamo el 
+               <lb n="16" /><rs ana="DON_CRISTÓBAL">Don chrístoual</rs> se llamo el 
                <choice>
                		<abbr>q’</abbr>
                		<expan>que</expan>
@@ -186,7 +186,7 @@
                				<abbr type="superscript">gre.</abbr>
                				<expan>grande</expan>
                				</choice>
-               <lb n="27" /><rs ana="QALEL_KAMJA"<hi rend="large">A</hi>hau ꜫalel camha</p> 
+               <lb n="27" /><hi rend="large">A</hi>hau <rs ana="QALEL_KAMJA">ꜫalel camha</rs>
                <choice>
                		<abbr type="superscript">Sor</abbr>
                		<expan>Señor</expan>

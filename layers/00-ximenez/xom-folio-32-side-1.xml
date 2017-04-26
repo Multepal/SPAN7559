@@ -82,18 +82,18 @@
                     <lb n="39" />balba. <!--somehow left out of flat, added by me-->
                     </p>
                     <p>
-                    <lb n="40" rend="indent">Vacute vviquic chic qui ca –
+                    <lb n="40" rend="indent" />Vacute vviquic chic qui ca –
                     <lb n="41" />hau cumal are xquivic ri vvcub
                     <lb n="42" />hunahpu chila xbe quivica vi chi
-                    <lb n="43" />pucbal c<del rend="scribble"></del>hah xavi xere vvach x –<!--chah written over c*hah, not sure what was crossed out-->
+                    <lb n="43" />pucbal c<del rend="scribble"></del>hah xavi xere vvach x – <!--chah written over c*hah, not sure what was crossed out-->
                     <lb n="44" />rah vxic xꜩonox cut chire vbi
                     <lb n="45" />ronohel vchi vꜩam vbac vvach
                     <lb n="46" />xuric nabe vbi xacu zcaquin
                     <lb n="47" />chic xchatahvi xere maui xu –  
+                    </p>
                 </div>
                 <div type="col" n="32.1.2" xml:lang="spa">
-                	<note rend="margin-right">
-                	<num rend="large">32</num>
+                	<note rend="margin-right"><num rend="large">32</num></note>
                 	<p> 
                     <lb n="1" />res de las culpas, y pecados y eran tam –
                     <lb n="2" />bíen de doblado corazon, y traídores, ím-
@@ -144,6 +144,7 @@
                     <lb n="45" />cara, quíso alar, y se le fue preguntado su
                     <lb n="46" />nombre, y su voca, y narizes, los ojos, y ha
                     <lb n="47" />llo primero su nombre, y poco fue lo q’ hablo.
+                    </p>
                 </div>
             </div>
         </body>
