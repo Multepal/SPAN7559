@@ -39,15 +39,9 @@
     <text>
         <body>
             <div type="page" n="27.2" xml:id="xom-f27-s2">
-                <div type="col" n="27.2.1" xml:lang="quc">
-                
-<note place="margin-left" type="pagination">
-<num rend="large">
-<hi rend=handwriting;color:pencil">27
-</hi>
-</num>
-</note>              
+                <div type="col" n="27.2.1" xml:lang="quc">                
 <p>                 
+<note place="margin-left" type="pagination"><num rend="large"><hi rend="handwriting;color:pencil">27</hi></num></note>              
 <lb n="1" />hupacha mi xabano mahabi
 <lb n="2" />chic chizilabic xaquichico –
 <lb n="3" />zoz chic cate cut <rs ana="XBALAMKE">xuquixbih</rs>
@@ -95,55 +89,16 @@
 <lb n="45" />tzinic ta xutiquiba vqohic ma
 <lb n="46" />vtz cha chux cut hunahpu he vtz
 <lb n="47" />xqhacut xavi xare chvbaqui –
-
-
+</p>
                 </div>
                 <div type="col" n="27.2.2" xml:lang="spa">
                 
-<note place="margin-right" type="pagination">
-<num rend="large">
-<hi rend=handwriting;color:pencil">27
-</hi>
-</num>
-</note>                
 <p>                 
 <lb n="1" />como ha sído esto, y ya nose mouía, sí –
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lb n="2" />no 
-<choice>
-=======
-<lb n="2" />no <choice>
->>>>>>> origin/amb8fk
-=======
-<lb n="2" />no <choice>
-=======
-<lb n="2" />no 
-<choice>
->>>>>>> master
->>>>>>> amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> se estaba acostado, y luego se
+<lb n="2" />no <choice><abbr>q’</abbr><expan>que</expan></choice> se estaba acostado, y luego se
 <lb n="3" />espanto el que ay ay desdí –
 <lb n="4" />chado, esto díxo. y luego fueron apo –
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lb n="5" />ner la cabeza al cementerío, 
-<choice>
-=======
-<lb n="5" />ner la cabeza al cementerío, <choice>
->>>>>>> origin/amb8fk
-=======
-<lb n="5" />ner la cabeza al cementerío, <choice>
-=======
-<lb n="5" />ner la cabeza al cementerío, 
-<choice>
->>>>>>> master
->>>>>>> amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>así
+<lb n="5" />ner la cabeza al cementerío, <choice><abbr>q’</abbr><expan>que</expan></choice> así
 <lb n="6" />lo auía ordenado el hun came. y v –
 <lb n="7" />ucub came. y alegrandose todos los
 <lb n="8" />de el ínfierno por la cabeza de hun
@@ -161,27 +116,8 @@
 <lb n="20" />da, otros yeruas, otros píedras, otros
 <lb n="21" />tíerra díferentes fueron las co mídas
 <lb n="22" />delos animals grandes, y chícos. y
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lb n="23" />alo vltímo víno. y a vno 
-<choice>
-=======
-<lb n="23" />alo vltímo víno. y a vno <choice>
->>>>>>> origin/amb8fk
-=======
-<lb n="23" />alo vltímo víno. y a vno <choice>
-=======
-<lb n="23" />alo vltímo víno. y a vno 
-<choice>
->>>>>>> master
->>>>>>> amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>era tortu –
-<lb n="24" />ga <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> venía dando bueltas atomar
+<lb n="23" />alo vltímo víno. y a vno <choice><abbr>q’</abbr><expan>que</expan></choice>era tortu –
+<lb n="24" />ga <choice><abbr>q’</abbr><expan>que</expan></choice> venía dando bueltas atomar
 <lb n="25" />sucomída, y este se puso en lugar
 <lb n="26" />de la cabeza de , y luego
 <lb n="27" />le labraron los ojos, y muchíssímos
@@ -191,52 +127,21 @@
 <lb n="31" />ron, no así nomas se acabo su cara
 <lb n="33" />estubo muy Buena, y salío muy her –
 <lb n="34" />mosa, y así mesmo hablo. y quando
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lb n="35" />que ría ya amanezer, 
-<choice>
-=======
-<lb n="35" />que ría ya amanezer, <choice>
->>>>>>> origin/amb8fk
-=======
-<lb n="35" />que ría ya amanezer, <choice>
-=======
-<lb n="35" />que ría ya amanezer, 
-<choice>
->>>>>>> master
->>>>>>> amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>seaclaraba
+<lb n="35" />que ría ya amanezer, <choice><abbr>q’</abbr><expan>que</expan></choice>seaclaraba
 <lb n="36" />el çíelo, le fue dícho al çopílote, otra. –
 <lb n="37" />uez señala, y lobsureze, y díxo el
 <lb n="38" />víejo estabíen, y luego se obscureçío
 <lb n="39" />quarto uezes señalo el víejo zopílo –
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lb n="40" />te, y así dícen agora 
-<choice>
-=======
-<lb n="40" />te, y así dícen agora <choice>
->>>>>>> origin/amb8fk
-=======
-<lb n="40" />te, y así dícen agora <choice>
-=======
-<lb n="40" />te, y así dícen agora 
-<choice>
->>>>>>> master
->>>>>>> amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>raya el zo –
+<lb n="40" />te, y así dícen agora <choice><abbr>q’</abbr><expan>que</expan></choice>raya el zo –
 <lb n="41" />pílote quando quíere amanezer.
 <lb n="42" />y así estaua fresco quando se empezo
 <lb n="43" />ahazer, síestara bueno díxeron quan
 <lb n="44" />do sea hecho el , y díxo bíen
 <lb n="45" />estara, y así mesmo sera gueso su ca –
 <lb n="46" />beza, y fuehecho como sífuera su
-<note rend="margin-left">del cert="high"><num rend>
-<note rend="margin-left">del cert="high"><num rend>
+<lb />
+<lb />
+</p>
                 </div>
             </div>
         </body>
