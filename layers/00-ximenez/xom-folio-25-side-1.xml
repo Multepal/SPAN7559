@@ -82,7 +82,11 @@
 <lb n="32" />qha , mabala xa holom
 <lb n="33" />coh qhachic xeqha qaholab ma
 <lb n="34" />habi xeqha vtz bala
+<<<<<<< HEAD
 <lb n="35" />xqha<!--</rs>--> ta xzac cu vloc
+=======
+<lb n="35" />xqha</rs> ta xzac cu vloc
+>>>>>>> amb8fk
 <lb n="36" />rumal quicutacal chu
 <lb n="37" /><rs ana="pájaro">vach</rs> vbate cate puch
 <lb n="38" />ta xquil ri zaquitoc
@@ -107,11 +111,19 @@
 </note>               
 <p>               
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="1" />plumas de cola de guacamaya.. y los 
 <choice>
 =======
 <lb n="1" />plumas de cola de guacamaya.. y los <choice>
 >>>>>>> origin/amb8fk
+=======
+<lb n="1" />plumas de cola de guacamaya.. y los <choice>
+=======
+<lb n="1" />plumas de cola de guacamaya.. y los 
+<choice>
+>>>>>>> master
+>>>>>>> amb8fk
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>es –
@@ -121,7 +133,11 @@
 <lb n="5" />dos, y deçían los guardas, ya estan ganados.
 <lb n="6" />y no se acabo elocote, y así mesmo los zígar –
 <lb n="7" />ros nada <rs ana="HERO_TWINS">ençendíeron</rs> de. y luego fu –
+<<<<<<< HEAD
 <lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript">Ses.</abbr>
+=======
+<lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript"><abbr type ="superscript">Ses.</abbr>
+>>>>>>> amb8fk
 <lb n="9" />y dezían 
 <choice>
 		<abbr>q’</abbr>
