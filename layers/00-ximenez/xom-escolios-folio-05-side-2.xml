@@ -37,43 +37,41 @@
     </teiHeader>
     <text>
         <body>
-        <!-- almost everything in here is super unclear and needs review -->
         	<p>
-            	<lb n="1"/><hi rend="large">C</hi>ontígo hablo Oltt<hi rend="superscript">e</hi> Religíon de Domíngo 
+            	<lb n="1"/><hi rend="large">C</hi>ontígo hablo O <choice><abbr>itt<hi rend="superscript">e</hi></abbr><expan>illustre</expan></choice> Religíon de Domíngo 
             	<lb n="2"/>Eres un cíelo tachonado demas Sanctos <abbr>q<hi rend="superscript">e</hi></abbr> estrellas el fírmamenta
-            	<lb n="3"/>un Monte Coronado de Mítras, Capelos y Fíeras, el torreon de
-            	<lb n="4"/>la Yglesia Contra sus enemígos, <abbr>q<hi rend="superscript">e</hi></abbr> hidna, <abbr>q<hi rend="superscript">e</hi></abbr> monstruo mortuõ
-            	<lb n="5"/>Damas Cabeza, <abbr>q<hi rend="superscript">e</hi></abbr> no hallase hercules fuego y cuchillo enqualqui
+            	<lb n="3"/>un Monte Coronado de Mítras, Capelos y Tíaras, el torreon de
+            	<lb n="4"/>la Yglesia Contra sus enemígos, <abbr>q<hi rend="superscript">e</hi></abbr> hidra, <abbr>q<hi rend="superscript">e</hi></abbr> monstruo mostró
+            	<lb n="5"/>Jamas Cabeza, <abbr>q<hi rend="superscript">e</hi></abbr> no hallase hercules fuego y cuchillo enqualqui -
             	<lb n="6"/>era de tus hijos? el Baluarte dela <hi rend="strikethrough">Yglesia</hi> dela fee opuesto a las
-            	<lb n="7"/>hescópas, <abbr>q</abbr> pretenden ofuscar la Razon? la cara dela Sabiduría
-            	<lb n="8"/>fundada sobre los siete montes, el atlante <abbr>q<hi rend="superscript">e</hi></abbr> mantíene en susom
-            	<lb n="9"/>bros ínfleccible todo el Babe Catholico. tu eres el paraízo don
-            	<lb n="10"/>de Se Sembro el arbor de la Sabiduria. la fuente <abbr>q<hi rend="superscript">e</hi></abbr> repartida
-            	<lb n="11"/>en trazos fecunda las Cicuelas mas sabia oaquella que
-            	<lb n="12"/>pasandose a luz ha llegado a ser Sol. todas las gracías te asístíe
-            	<lb n="13"/>ron al nacer. todas las vintades te adornan al vívía, <abbr>q<hi rend="superscript">e</hi></abbr> honrra
+            	<lb n="7"/>herejías, <abbr>q'</abbr> pretenden ofuscar la Razon? la casa dela Sabiduría
+            	<lb n="8"/>fundada sobre los siete montes, el atlante <abbr>q<hi rend="superscript">e</hi></abbr> mantíene en sus om -
+            	<lb n="9"/>bros ínfleccible todo el Orbe Catholico. tu eres el paraízo don -
+            	<lb n="10"/>de Se Sembro el arbol de la Sabiduria. la fuente <abbr>q<hi rend="superscript">e</hi></abbr> repartida
+            	<lb n="11"/>en brazos fecunda las Escuelas mas sabia oaquella que
+            	<lb n="12"/>pasandose a luz ha llegado a ser Sol. todas las gracías te asístíe -
+            	<lb n="13"/>ron al nacer. todas las virtudes te adornan al vívír, <abbr>q<hi rend="superscript">e</hi></abbr> honrra
             	<lb n="14"/>note rueda. eres Madre de los Sabíos, en tus Campos no crezen
-            	<lb n="15"/>sino Cedros íncoruptibles de <abbr>q<hi rend="superscript">e</hi></abbr> se forman las Cathedras y pol
-            	<lb n="16"/>pitos, palmas <abbr>q<hi rend="superscript">e</hi></abbr> coronan el líbano, y rosas <abbr>q<hi rend="superscript">e</hi></abbr> adornan los al
-            	<lb n="17"/>taner. Connanse alla las fabulas, <abbr>q<hi rend="superscript">e</hi></abbr> en tus nidos no es ave<corr/>ana.
-            	<lb n="18"/>el phenix. de aquellas Cenizas Bethanas se animas - por
+            	<lb n="15"/>sino Cedros íncoruptibles de <abbr>q<hi rend="superscript">e</hi></abbr> se forman las Cathedras y pul -
+            	<lb n="16"/>pitos, palmas <abbr>q<hi rend="superscript">e</hi></abbr> coronan el líbano, y rosas <abbr>q<hi rend="superscript">e</hi></abbr> adornan los al -
+            	<lb n="17"/>taner. Corranse alla las fabulas, <abbr>q<hi rend="superscript">e</hi></abbr> en tus nidos no es ave <corr/>rara.
+            	<lb n="18"/>el phenix. de aquellas Cenizas de Thomas se animan por
             	<lb n="19"/>instantes los portentos, en tu Sacro Caystro son vulgares
-            	<lb n="20"/>los Cunes <abbr>q<hi rend="superscript">e</hi></abbr> aprendieron otre Domgo AeThomas ode terre
-            	<lb n="21"/>el punto, eres norte de los <abbr>q<hi rend="superscript">e</hi></abbr> han errados y quieren aleutar
-            	<lb n="22"/>azíaca los <abbr>q<hi rend="superscript">e</hi></abbr> navegarí al cielo <abbr>q<hi rend="superscript">e</hi></abbr> aqui viva la estrella <abbr>q<hi rend="superscript">e</hi></abbr> guía
-            	<lb n="23"/>encamína a tan serena playa. finalmente a ti se acífe el
-            	<lb n="24"/>pobre <abbr>p<hi rend="superscript">r</hi></abbr> remedio el errado <abbr>p<hi rend="superscript">r</hi></abbr> guía <abbr>p<hi rend="superscript">r</hi></abbr> amparo el desvalido ley
-            	<lb n="25"/>cabezas de la Yglesía <abbr>p<hi rend="superscript">r</hi></abbr> hom <rs ana="DIOS">Dios</rs>. la fe <abbr>p<hi rend="superscript">r</hi></abbr> brazos, <abbr>p<hi rend="superscript">r</hi></abbr> ojos la igno
-            	<lb n="26"/>rancía, los Sabíos <abbr>p<hi rend="superscript">r</hi></abbr> luz las Universidades <abbr>p<hi rend="superscript">r</hi></abbr> mños las Ygle
-            	<lb n="27"/>cias <abbr>p<hi rend="superscript">r</hi></abbr> prínzipes los altares <abbr>p<hi rend="superscript">r</hi></abbr> Sanctos, los Sanctos <abbr>p<hi rend="superscript">r</hi></abbr> mira las mi
+            	<lb n="20"/>los Cisnes <abbr>q<hi rend="superscript">e</hi></abbr> aprendieron o de Domgo o de Thomas o de Ferrer
+            	<lb n="21"/>el punto, eres norte de los <abbr>q<hi rend="superscript">e</hi></abbr> han errados y quieren acertar
+            	<lb n="22"/><choice><abbr>azíaca</abbr><expan>azia acá</expan></choice> los <abbr>q<hi rend="superscript">e</hi></abbr> navegais al cielo <abbr>q<hi rend="superscript">e</hi></abbr> aqui vive la estrella <abbr>q<hi rend="superscript">e</hi></abbr> guía
+            	<lb n="23"/>encamína a tan serena playa. finalmente a ti se acoje el
+            	<lb n="24"/>pobre <abbr>p<hi rend="superscript">r</hi></abbr> remedio el errado <abbr>p<hi rend="superscript">r</hi></abbr> guía <abbr>p<hi rend="superscript">r</hi></abbr> amparo el desvalido las
+            	<lb n="25"/>cabezas de la Yglesía <abbr>p<hi rend="superscript">r</hi></abbr> hombros. la fe <abbr>p<hi rend="superscript">r</hi></abbr> brazos, <abbr>p<hi rend="superscript">r</hi></abbr> ojos la igno -
+            	<lb n="26"/>rancía, los Sabíos <abbr>p<hi rend="superscript">r</hi></abbr> luz las Universidades <abbr>p<hi rend="superscript">r</hi></abbr> <choice><abbr>m˜ros</abbr><expan>maestros</expan></choice> las Ygle -
+            	<lb n="27"/>cias, <abbr>p<hi rend="superscript">r</hi></abbr> prínzipes los altares <abbr>p<hi rend="superscript">r</hi></abbr> Sanctos, los Sanctos <abbr>p<hi rend="superscript">r</hi></abbr> onrra las mi -
             	<lb n="28"/>tras, <abbr>p<hi rend="superscript">r</hi></abbr> cabezas <abbr>p<hi rend="superscript">r</hi></abbr> confesores los reyes y lo<abbr>q<hi rend="superscript">e</hi></abbr> mas es el <rs ana="ESPIRITU_SANTO">Spiritu <abbr>S<hi rend="superscript">to</hi></abbr></rs>
-            	<lb n="29"/>en los Concilios <abbr>p<hi rend="superscript">r</hi></abbr> organos de los luzes en los palpatos p lenguas
-            	<lb n="30"/>de su enseñanza en las sillas <abbr>p<hi rend="superscript">r</hi></abbr> vozes de sus dictamesus, y enso
-            	<lb n="31"/>jo <unclear/> instrumentos ínmediatos dispensadores de la gracía
+            	<lb n="29"/>en los Concilios <abbr>p<hi rend="superscript">r</hi></abbr> organos de los luzes en los pulpitos <abbr>pr</abbr> lenguas
+            	<lb n="30"/>de su enseñanza en las sillas <abbr>p<hi rend="superscript">r</hi></abbr> vozes de sus dictamenes, y en to -
+            	<lb n="31"/>do <abbr>pr</abbr> instrumentos ínmediatos dispensadores de la gracía
             	<lb n="32" rend="right"/>Rabinal es <abbr>Ag<hi rend="superscript">to</hi>. <num>24</num> de <num>34</num> años. Echave
             		<add place="below" hand="pencil" rend="underline">1734</add>
             	<lb n="33"/>
-            		
             	<lb n="34"/>
             	<lb n="35"/>
             	<lb n="36"/>
