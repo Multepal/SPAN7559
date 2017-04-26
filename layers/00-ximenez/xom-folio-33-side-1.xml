@@ -40,6 +40,7 @@
         <body>
             <div type="page" n="33.1" xml:id="xom-f33-s1">
                 <div type="col" n="33.1.1" xml:lang="quc">
+                <p>
                 <lb n="1" />zaquihal chique chila quepe vi
                 <lb n="2" />pan paxil xcut vbeel paxil are
                 <lb n="3" />cut xquirico rÿ echa arecut xoc
@@ -72,7 +73,7 @@
                 <lb n="30" />echa oquinac quitiohil.
                 </p>
                 <p>
-                <lb n="31" rend="indent">"><hi rend="large">V</hi>ae quibi naabe vinac xeꜩa –
+                <lb n="31" rend="indent" /><hi rend="large">V</hi>ae quibi naabe vinac xeꜩa –
                 <lb n="32" />quic xebitic. are nabe vinac ri
                 <lb n="33" />Balam qui ꜩe. vcab chicut Ba –
                 <lb n="34" />lam acab. roxchi cut Mahucutah.
@@ -80,7 +81,7 @@
                 <lb n="36" />quibi ri canabe chuch cahau.
                 </p>
                 <p>
-                <lb n="37" rend="indent">Xa ꜩac xa bit que vqhaxic
+                <lb n="37" rend="indent" />Xa ꜩac xa bit que vqhaxic
                 <lb n="38" />mahabi quichuch mahabi qui –
                 <lb n="39" />cahau xa vtuquel achih chica –
                 <lb n="40" />bÿh mana ixoc xealanic ma
@@ -91,11 +92,11 @@
                 <lb n="45" />qaholom, tepeu cucumaꜩ. ta
                 <lb n="46" />xevinac vachin cut evinac
                 <lb n="47" />xevxic xeqhavic, xe ꜩihon
-
+                </p>
                 </div>
                 <div type="col" n="33.1.2" xml:lang="spa">
-                <note rend="margin-right">
-                <num rend="large">33</num>
+                <note rend="margin-right"><num rend="large">33</num></note>
+                <p>
                 <lb n="1" />manifestaron las maçorcas amarillas, y blan
                 <lb n="2" />cas a ellos. y como se traían de paxíl q’era
                 <lb n="3" />el paraíso. y enseñaron el camino para, pa –
@@ -144,6 +145,7 @@
                 <lb n="44" />fueron hechos hombres, ó asu ímagen
                 <lb n="45" />fueron hombres q’hablaron, y parla –
                 <lb n="46" />ron,
+                </p>
                 </div>
             </div>
         </body>

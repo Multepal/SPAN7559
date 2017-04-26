@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> 
     <teiHeader>
@@ -48,7 +48,7 @@
                 	<note place="margin-left"><num rend="large">1.</num></note>
                 <lb n="4" />tiquiba vi oher ꜩih, vticaribal,
                 <lb n="5" />vxenabal puch ronohel xban,
-                <lb n="6" />pa <rs ana="TINAMIT_KICHE" type="toponym">tinamit quiche, ramac qui – 
+                <lb n="6" />pa <rs ana="TINAMIT_KICHE" type="toponym">tinamit quiche</rs>, ramac qui – 
                 <lb n="7" />che vinac; arecut xchicacam
                 <lb n="8" />vi vcutunizaxic, vcalahobiza –
                 <lb n="9" />xic, vꜩihoxic puch euaxibal
