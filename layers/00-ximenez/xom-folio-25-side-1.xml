@@ -82,11 +82,7 @@
 <lb n="32" />qha , mabala xa holom
 <lb n="33" />coh qhachic xeqha qaholab ma
 <lb n="34" />habi xeqha vtz bala
-<<<<<<< HEAD
-<lb n="35" />xqha<!--</rs>--> ta xzac cu vloc
-=======
-<lb n="35" />xqha</rs> ta xzac cu vloc
->>>>>>> amb8fk
+<lb n="35" />xqha ta xzac cu vloc
 <lb n="36" />rumal quicutacal chu
 <lb n="37" /><rs ana="pájaro">vach</rs> vbate cate puch
 <lb n="38" />ta xquil ri zaquitoc
@@ -110,50 +106,18 @@
 </num>
 </note>               
 <p>               
-<<<<<<< HEAD
-<<<<<<< HEAD
-<lb n="1" />plumas de cola de guacamaya.. y los 
-<choice>
-=======
-<lb n="1" />plumas de cola de guacamaya.. y los <choice>
->>>>>>> origin/amb8fk
-=======
-<lb n="1" />plumas de cola de guacamaya.. y los <choice>
-=======
-<lb n="1" />plumas de cola de guacamaya.. y los 
-<choice>
->>>>>>> master
->>>>>>> amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>es –
+<lb n="1" />plumas de cola de guacamaya.. y los <choice><abbr>q’</abbr><expan>que</expan></choice>es –
 <lb n="2" />taban en guarda velando les pareçía ocote
 <lb n="3" />ardiendo, y en los cígarros pusíeron luzíer –
 <lb n="4" />nagas, y toda la noche los tuuíron por vençi –
 <lb n="5" />dos, y deçían los guardas, ya estan ganados.
 <lb n="6" />y no se acabo elocote, y así mesmo los zígar –
 <lb n="7" />ros nada <rs ana="HERO_TWINS">ençendíeron</rs> de. y luego fu –
-<<<<<<< HEAD
 <lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript">Ses.</abbr>
-=======
-<lb n="8" />eron a dar el ocote, y los zígarros alos <abbr type ="superscript"><abbr type ="superscript">Ses.</abbr>
->>>>>>> amb8fk
-<lb n="9" />y dezían 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>es esto? deadonde han venído
+<lb n="9" />y dezían <choice><abbr>q’</abbr><expan>que</expan></choice>es esto? deadonde han venído
 <lb n="10" />estos, quíen los engendro, y quíen los parío?
-<lb n="11" />de uerdad arde nuestro corazon por
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>
-<lb n="12" />no es bueno esto 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>hacen. díuersa es su
+<lb n="11" />de uerdad arde nuestro corazon por <choice><abbr>q’</abbr><expan>que</expan></choice>
+<lb n="12" />no es bueno esto <choice><abbr>q’</abbr><expan>que</expan></choice>hacen. díuersa es su
 <lb n="13" />cara, y díuersa son sus costumbres. esto
 <lb n="14" />deçían entre sí mesmos. y entonçes en –
 <lb n="15" />bíaronlos todos los Señores a llamar, ea va –
@@ -184,11 +148,7 @@
 <lb n="36" />te de y <rs ana="JUN_JUNAJPU"> víendo</rs> los de el ín –
 <lb n="37" />fíerno el agudo herír qdo. salía de la
 <lb n="38" />pala la pelota, se fue saltando sobre
-<lb n="39" />la tíerra. 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>es esto <rs ana="JUN_JUNAJPU">díxo</rs>, y
+<lb n="39" />la tíerra. <choice><abbr>q’</abbr><expan>que</expan></choice>es esto <rs ana="JUN_JUNAJPU">díxo</rs>, y
 <lb n="40" />que, solo trataís de nuestra
 <lb n="41" />muerte, por ventura no nos embíaste –
 <lb n="42" />ís a llamar? no fueron vuestros men –
@@ -196,7 +156,7 @@
 <lb n="44" />mos otra vez les díxeron los <rs ana="HERO_TWINS">mançe –
 <lb n="45" />bos</rs> a . y esto lo que <rs ana="HERO_TWINS">rían</rs> de
 <lb n="46" />
-    <!--<note rend="margin-left">del cert="high"><num rend>--></p>
+</p>
                 </div>
             </div>
         </body>
