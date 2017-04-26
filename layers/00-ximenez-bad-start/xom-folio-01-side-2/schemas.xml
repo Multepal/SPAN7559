@@ -1,3 +1,0 @@
-<?xml version="1.0" ?>
-<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
-<uri resource="file:/Users/cla316/Google%20Drive/school/UVA/Learning/Digital%20Humanities/SPAN7559/layers/00-ximenez/xom-folio-01-side-2/xom-folio-01-side-2.xml" uri="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng"/><include rules="file:/Users/cla316/Library/jEdit/plugins/xml.XmlPlugin/schemas.xml" /></locatingRules>
