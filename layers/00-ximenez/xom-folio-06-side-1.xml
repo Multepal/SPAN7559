@@ -76,20 +76,20 @@
                         <lb n="31" />ronohel vinac. maui are
                         <lb n="32" />chivinaquir vi εaεal ri xa
                         <lb n="33" />puvac ta chuxoc xeqha ri
-                        <lb n="34" />qaholab huhun chi vb qui<pc type="line-end-hyphen"> -</pc>
-                        <lb n="35" />telen qui cabichal are cu<pc type="line-end-hyphen"> -</pc>
-                        <lb n="36" />ri <rs ana="WUQUB_KAKIX">vvcub caquix</rs> e caib v qa<pc type="line-end-hyphen"> -</pc>
-                        <lb n="37" />hol are nabe al ri <rs ana="SIPAKNA">zipac<pc type="line-end-hyphen"> -</pc>
-                        <lb n="38" />na</rs>, vcab al chicut ri cab<pc type="line-end-hyphen"> -</pc>
-                        <lb n="39" />racan <rs ana="CHIMALMAT">chimalmat</rs> cut vbi
-                        <lb n="40" />qui chuch rixoquil ri v<pc type="line-end-hyphen"> -</pc>
-                        <lb n="41" /><rs ana="WUQUB_KAKIX">vcub caquix</rs> are curi <rs ana="SIPAKNA">zi<pc type="line-end-hyphen"> -</pc>
-                        <lb n="42" />pacna</rs> are chirechaah ri
-                        <lb n="43" />nimac huiub. ri chicac <rs ana="JUNAJPU">hun
-                        <lb n="44" />ahpu</rs> pe cul ya xcanul ma<pc type="line-end-hyphen"> -</pc>
-                        <lb n="45" />camob huliznab chuchaxic
-                        <lb n="46" />vbi huiub xqolic ta chi za<pc type="line-end-hyphen"> -</pc>
-                        <lb n="47" />quiric xa hun aεab chi vi<pc type="line-end-hyphen"> -</pc>
+                        <lb n="34" />qaholab huhun chi vb qui-
+                        <lb n="35" />telen qui cabichal are cu-
+                        <lb n="36" />ri vvcub caquix e caib v qa-
+                        <lb n="37" />hol are nabe al ri zipac-
+                        <lb n="38" />na, vcab al chicut ri cab-
+                        <lb n="39" />racan chimalmat cut vbi
+                        <lb n="40" />qui chuch rixoquil ri v-
+                        <lb n="41" />vcub caquix are curi zi-
+                        <lb n="42" />pacna are chirechaah ri
+                        <lb n="43" />nimac huiub. ri <rs ana="VOLCAN_DE_FUEGO" type="toponym">chicac</rs> <rs type="toponym" ana="VOLCAN_DE_ACATENANGO">hun
+                        <lb n="44" />ahpu</rs> <rs ana="PEKUL" type="toponym">pe cul</rs> <rs ana="YA_XKANUL" type="toponym">ya xcanul</rs> <rs ana="MAKAMOB" type="toponym">ma-
+                        <lb n="45" />camob</rs> huliznab chuchaxic
+                        <lb n="46" />vbi huiub xqolic ta chi za-
+                        <lb n="47" />quiric xa hun aεab chi vi-                    
                     </p>
                 </div>
                 <div type="col" n="06.1.2" xml:lang="spa">
@@ -134,10 +134,9 @@
                         <lb n="34" />muger de <rs ana="WUQUB_KAKIX">vvcubcaquíx</rs> y aqueste su
                         <lb n="35" />híjo <rs ana="SIPAKNA">zípacna</rs>, su pasto, y comida eran
                         <lb n="36" />los grandes montes y esto ademas en vna
-                        <!-- IS THIS A LONG NAME BELOW? -->
-                        <lb n="37" />noche amanezío hecho elzerro llamado <rs ana="JUNAJPU">hun
-                        <lb n="38" />ahpu</rs> pecul yaxcanul macamob huliznab
-                        <lb n="39" /><abbr>porq’</abbr> en vna noche <rs ana="SIPAKNA">zípacna</rs> hazía vn
+                        <lb n="37" />noche amanezío hecho elzerro llamado <rs ana="VOLCAN_DE_ACATENANGO">hun
+                        <lb n="38" />ahpu</rs> <rs ana="PEKUL" type="toponym">pecul</rs> <rs ana="YA_XKANUL" type="toponym">yaxcanul</rs> <rs ana="MAKAMOB" type="toponym">macamob</rs> huliznab
+                        <lb n="39" /><abbr>porq’</abbr> en vna noche zípacna hazía vn
                     </p>
                 </div>
             </div>
