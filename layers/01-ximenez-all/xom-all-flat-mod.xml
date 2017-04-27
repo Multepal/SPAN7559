@@ -165,8 +165,7 @@
 					<lb n="37"/>qha cut, ta xenaohinic, ta xe
 					<lb n="38"/>bizonic, xerico quib, xquicuch
 					<lb n="39"/>qui ꜩih, qui naoh, ta xcalah
-					<lb n="40"/>ta xquiquxlaah quib .<unclear reason="illegible" instant="false">+</unclear> zac ta
-					<add place="above" instant="false" status="unremarkable">xevi</add>
+					<lb n="40"/>ta xquiquxlaah quib .<unclear reason="illegible" instant="false">+</unclear> zac ta<add place="above" instant="false" status="unremarkable">xevi</add>
                     <lb n="41"/>xcalah puch vinac, ta xqui -
 					<lb n="42"/>naohih v ꜩuquic v vinaqui -
 					<lb n="43"/>ric che, caam, v ꜩucuquic pu -
@@ -176,7 +175,7 @@
 
 					<pb xml:id="xom-f02-s1"/>
 
-                    <lb n="1"/>rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
+                    <lb n="1"/><rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
                     <lb n="2"/>cut <rs ana="CHIPI_KAQULJA">chipa caculha</rs>, roxchic 
                     <lb n="3"/><rs ana="RAXA_KAQULJA">raxa caculha</rs> chi e cu oxib
                     <lb n="4"/>rÿ <rs ana="UKUX_KAJ">vqux cah</rs> ta xeul cuq ri
@@ -2250,1189 +2249,1147 @@
                         </num>
                     </note>
                     <lb n="1"/>chire cho nim xquicot quiquxtav
-                <lb n="2"/>xquitao vꜩihel quic taxubÿh
-                <lb n="3"/>cho ta xquiya cut recha cho are
-                <lb n="4"/>curi recha ri ixim zaquilic, qui – 
-                <lb n="5"/>nac, pec, cacou, arecut avech
-                <lb n="6"/>ri uve naquila cuvvn chimezcu – 
-                <lb n="7"/>tahinac auech cut chacuxu. xu  
-                <lb n="8"/>qhax curicho cumal <rs ana="JUNAJPU">hun ahpu</rs>
-                    <lb n="9"/>
-                    <rs ana="XBALAMKE">xbalanque</rs>. vꜩbala ixqaholab
-                <lb n="10"/>naquila cu quinvvchah vve
-                <lb n="11"/>quirilri ivatit xghacut maui 
-                <lb n="12"/>chiꜩac aqux oh qolic cohnohi —
-                <lb n="13"/>nic goruqhaxic ricatit, xahu
-                <lb n="14"/>zu cacaya acanoc xiquin ha ta 
-                <lb n="15"/>cuho co apanoc huzu cat opon
-                <lb n="16"/>chiri xequel vi chiri cut caquil 
-                <lb n="17"/>vi putumha xapa cati caquil
-                <lb n="18"/>vi xeqhacut chire cho, taxqui –
-                <lb n="19"/>pixabah hunacab xcam qui na –
-                <lb n="20"/>oh ri <rs ana="JUNAJPU">hun ahpu</rs>
-                    <rs ana="XBALAMKE">xbalanque</rs> qui
-                <lb n="21"/>cutiquil quih xeoponic.
-                <lb n="22" rend="indent"/>
-                    <hi rend="large">M</hi>acu calah richo cucaam
-                <lb n="23"/>taxeoponic hunriyacalic xoc
-                <lb n="24"/>paha, huncu xoc xiquinha libah 
-                <lb n="25"/>chi xuya acanoc richo ta xqui- 
-                <lb n="26"/>ꜩonoh cut quiva chire catit xa
-                <lb n="27"/>chicutu cati cacaraihri cutum ic ix
-                <lb n="28"/>catit xeqha cut. cate cut xcut qui
-                <lb n="29"/>ti hun lac vvaal xtiquibax chiquivach
-                <lb n="30"/>xavi quimichbal re catit quichuchpu – 
-                <lb n="31"/>ch xquiꜩahizah cuha paquebalqui
-                <lb n="32"/>ꜩih chaquih cachi chicama cu quia
-                <lb n="33"/>xeqha chire catit ve xqha cut ta 
-                <lb n="34"/>xbec are cut queva canoc macu qui 
-                <lb n="35"/>ꜩih ta quenumic xaqui moyvachibal
-                <lb n="36"/>xquibano ta xquil cut ri cho chupan
-                <lb n="37"/>cutum ic colon vloc richo chirih
-                <lb n="38"/>quic xequelvi puvi ha taxquilo pa
-                <lb n="39"/>cutumic ta xquitac cut b
-                <!-- Not sure how to show this. OSU writes: "The h is overwritten with black ink in an unknown hand; all transcriptions say hun." 
-                "La h está sobrescrita con tinta negra; todas las transcripciones dicen hun."-->
-                    <corr instant="false">
-                        <hi rend="handwriting;color:black">h</hi>
-                    </corr>un xan ri
-                <lb n="40"/>chicop rixan queheri uz xopon chi 
-                <lb n="41"/>a. are cu xvoro vvach quebal a –
-                <lb n="42"/>tit xa yacal ha chel chuvach vque
-                <lb n="43"/>bal chutiho xma chiꜩapitah vi v
-                <lb n="44"/>vach quebal. na quipa mi xuban ri
-                <lb n="45"/>catit ohhizabah chiya cohvꜩin rumal
-                <lb n="46"/>chaquih chi xeqhachic chire qui
-                <lb n="47"/>chuch ta xquitac vbic. catecut xu
+                    <lb n="2"/>xquitao vꜩihel quic taxubÿh
+                    <lb n="3"/>cho ta xquiya cut recha cho are
+                    <lb n="4"/>curi recha ri ixim zaquilic, qui – 
+                    <lb n="5"/>nac, pec, cacou, arecut avech
+                    <lb n="6"/>ri uve naquila cuvvn chimezcu – 
+                    <lb n="7"/>tahinac auech cut chacuxu. xu  
+                    <lb n="8"/>qhax curicho cumal <rs ana="JUNAJPU">hun ahpu</rs>
+                    <lb n="9"/><rs ana="XBALAMKE">xbalanque</rs>. vꜩbala ixqaholab
+                    <lb n="10"/>naquila cu quinvvchah vve
+                    <lb n="11"/>quirilri ivatit xghacut maui 
+                    <lb n="12"/>chiꜩac aqux oh qolic cohnohi —
+                    <lb n="13"/>nic goruqhaxic ricatit, xahu
+                    <lb n="14"/>zu cacaya acanoc xiquin ha ta 
+                    <lb n="15"/>cuho co apanoc huzu cat opon
+                    <lb n="16"/>chiri xequel vi chiri cut caquil 
+                    <lb n="17"/>vi putumha xapa cati caquil
+                    <lb n="18"/>vi xeqhacut chire cho, taxqui –
+                    <lb n="19"/>pixabah hunacab xcam qui na –
+                    <lb n="20"/>oh ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> qui
+                    <lb n="21"/>cutiquil quih xeoponic.
                 </p>
-                <pb xml:id="xom-f22-s1"/>
                 <p>
+                    <lb n="22" rend="indent"/><hi rend="large">M</hi>acu calah richo cucaam
+                    <lb n="23"/>taxeoponic hunriyacalic xoc
+                    <lb n="24"/>paha, huncu xoc xiquinha libah 
+                    <lb n="25"/>chi xuya acanoc richo ta xqui- 
+                    <lb n="26"/>ꜩonoh cut quiva chire catit xa
+                    <lb n="27"/>chicutu cati cacaraihri cutum ic ix
+                    <lb n="28"/>catit xeqha cut. cate cut xcut qui
+                    <lb n="29"/>ti hun lac vvaal xtiquibax chiquivach
+                    <lb n="30"/>xavi quimichbal re catit quichuchpu – 
+                    <lb n="31"/>ch xquiꜩahizah cuha paquebalqui
+                    <lb n="32"/>ꜩih chaquih cachi chicama cu quia
+                    <lb n="33"/>xeqha chire catit ve xqha cut ta 
+                    <lb n="34"/>xbec are cut queva canoc macu qui 
+                    <lb n="35"/>ꜩih ta quenumic xaqui moyvachibal
+                    <lb n="36"/>xquibano ta xquil cut ri cho chupan
+                    <lb n="37"/>cutum ic colon vloc richo chirih
+                    <lb n="38"/>quic xequelvi puvi ha taxquilo pa
+                    <!-- Not sure how to show this. OSU writes: "The h is overwritten with black ink in an unknown hand; all transcriptions say hun." 
+                    "La h está sobrescrita con tinta negra; todas las transcripciones dicen hun."-->
+                    <lb n="39"/>cutumic ta xquitac cut b<corr instant="false"><hi rend="handwriting;color:black">h</hi></corr>un xan ri                          
+                    <lb n="40"/>chicop rixan queheri uz xopon chi 
+                    <lb n="41"/>a. are cu xvoro vvach quebal a –
+                    <lb n="42"/>tit xa yacal ha chel chuvach vque
+                    <lb n="43"/>bal chutiho xma chiꜩapitah vi v
+                    <lb n="44"/>vach quebal. na quipa mi xuban ri
+                    <lb n="45"/>catit ohhizabah chiya cohvꜩin rumal
+                    <lb n="46"/>chaquih chi xeqhachic chire qui
+                    <lb n="47"/>chuch ta xquitac vbic. catecut xu
+                
+                    <pb xml:id="xom-f22-s1"/>
+                
                     <note place="margin-left" type="pagination" anchored="true">
-                        <num rend="large">
-                            <hi rend="handwriting;color:pencil">22
-                			</hi>
-                        </num>
+                        <num rend="large"><hi rend="handwriting;color:pencil">22</hi></num>
                     </note>
                     <lb n="1"/>cacat vlacho riquic xcah vla pu
-                <!-- Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? -->
-                    <lb n="2"/>tum ha ruc bate pachcab <abbr><hi rend="subscript">q'</hi>
-                    </abbr>uum x–
-                <lb n="3"/>quimahixtah cut cate xbe quevah
-                <lb n="4"/>pabe vbeel hom cate cut xebe chic 
-                <lb n="5"/>ruq catit chiya catahin curi catit
-                <lb n="6"/>qui chuch ꜩapi vvach quebal hu – 
-                <lb n="7"/>hun catecut ta xeoponic huhun chi
-                <lb n="8"/>cu chivvb ta xeoponic chiya,na
-                <lb n="9"/>quipa mixibano xamixcoz caqux
-                <lb n="10"/>xohpetic xeqha. chivila na vvach
-                <lb n="11"/>nuquebal maui caꜩapitahic xqha
-                <lb n="12"/>catit. libah chicut xquiꜩapihchic
-                <lb n="13"/>hunam cut xepe chic, enabe chu –
-                <lb n="14"/>vach catit quehe cut vcanaic quic 
-                <lb n="15"/>ri.
-                <lb n="16" rend="indent"/>
-                    <hi rend="large">Q</hi>uequicot chicut xebec echaa
-                <lb n="17"/>hel, pahom nahtcu xechaahic qui
-                <lb n="18"/>tuquel xquimez rihom quicahau
-                <lb n="19"/>ta xquita cu vloc rahaual <rs ana="XIBALBA">xibalba</rs>
-                    <lb n="20"/>apa china chiri mixutiquiba chic
-                <lb n="21"/>eꜩanem pacavi mapu quequixbic
-                <lb n="22"/>quenicnot vl oc. mapu xecam ri
-                <lb n="23"/>
-                    <rs ana="JUN_JUNAJPU">hun hunahpu</rs>
-                    <rs ana="WUQUB_JUNAJPU">vvcubhunahpu</rs> xr –
-                <lb n="24"/>ah quinimarizah quib chicavach
-                <!-- How to show this note from OSU? "S.J.: he cu; A.V.: he cu i; A.I.CH., A.Ch.: hecu." Basically, I need to show that the ꜫ below is written over a "c", but the "c" isn't crossed out-->
-                    <lb n="25"/>he<hi rend="large">ꜫ</hi>u itacachic xeqha chic rihun
-                <lb n="26"/>came, vvcubcame conohel ahauab
-                <lb n="27"/>xetaca vloc xeqhacut chire qui
-                <lb n="28"/>zamahel quixqha quixoponic que
-                <lb n="29"/>petoc queqha ahauab varal tah
-                <lb n="30"/>cohchaah vi cuq vvcubix coheꜩanic 
-                <lb n="31"/>quecha ahauab quixqha quixopo –
-                <lb n="32"/>nic xevqhax cut ri zamahel ta
-                <lb n="33"/>xepecut nimahoc cuquibe riga – 
-                <lb n="34"/>holab chicochoch ca tocol chico – 
-                <lb n="35"/>choch xacuyacal ri zamahel xo –
-                <lb n="36"/>pon ruq catit arecut quechahic
-                <lb n="37"/>taxul canoc vzamahel <rs ana="XIBALBA">xibalba</rs>
-                    <lb n="38"/>quiꜩih quepetic quecha riahauab
-                <lb n="39"/>xeqha cut ri vzamahel <rs ana="XIBALBA">xibalba</rs> ta
-                <lb n="40"/>xchoye cu canoc quiquih cumal ri 
-                <lb n="41"/>vzamahel <rs ana="XIBALBA">xibalba</rs> vvcubix que –
-                <lb n="42"/>ꜩelavachixic xuqhax canoc xmu –
-                <lb n="43"/>cane vꜩbala. xquebe tac oc ixza –
-                <lb n="44"/>mahel xqhari atit, xebe curi za –
-                <lb n="45"/>mahel xezalihic ta xquiz cut v
-                <lb n="46"/>gux ri atit naqui xchiuvchah
-                <lb n="47"/>qui taquic ri vÿ, mavi quiꜩih ri
+                    <!-- Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? -->
+                    <lb n="2"/>tum ha ruc bate pachcab <abbr><hi rend="subscript">q'</hi></abbr>uum x–
+                    <lb n="3"/>quimahixtah cut cate xbe quevah
+                    <lb n="4"/>pabe vbeel hom cate cut xebe chic 
+                    <lb n="5"/>ruq catit chiya catahin curi catit
+                    <lb n="6"/>qui chuch ꜩapi vvach quebal hu – 
+                    <lb n="7"/>hun catecut ta xeoponic huhun chi
+                    <lb n="8"/>cu chivvb ta xeoponic chiya,na
+                    <lb n="9"/>quipa mixibano xamixcoz caqux
+                    <lb n="10"/>xohpetic xeqha. chivila na vvach
+                    <lb n="11"/>nuquebal maui caꜩapitahic xqha
+                    <lb n="12"/>catit. libah chicut xquiꜩapihchic
+                    <lb n="13"/>hunam cut xepe chic, enabe chu –
+                    <lb n="14"/>vach catit quehe cut vcanaic quic 
+                    <lb n="15"/>ri.
                 </p>
-                <pb xml:id="xom-f22-s2"/>
                 <p>
+                    <lb n="16" rend="indent"/><hi rend="large">Q</hi>uequicot chicut xebec echaa
+                    <lb n="17"/>hel, pahom nahtcu xechaahic qui
+                    <lb n="18"/>tuquel xquimez rihom quicahau
+                    <lb n="19"/>ta xquita cu vloc rahaual <rs ana="XIBALBA">xibalba</rs>
+                    <lb n="20"/>apa china chiri mixutiquiba chic
+                    <lb n="21"/>eꜩanem pacavi mapu quequixbic
+                    <lb n="22"/>quenicnot vl oc. mapu xecam ri
+                    <lb n="23"/><rs ana="JUN_JUNAJPU">hun hunahpu</rs> <rs ana="WUQUB_JUNAJPU">vvcubhunahpu</rs> xr –
+                    <lb n="24"/>ah quinimarizah quib chicavach
+                    <!-- How to show this note from OSU? "S.J.: he cu; A.V.: he cu i; A.I.CH., A.Ch.: hecu." Basically, I need to show that the ꜫ below is written over a "c", but the "c" isn't crossed out-->
+                    <lb n="25"/>he<hi rend="large">ꜫ</hi>u itacachic xeqha chic rihun
+                    <lb n="26"/>came, vvcubcame conohel ahauab
+                    <lb n="27"/>xetaca vloc xeqhacut chire qui
+                    <lb n="28"/>zamahel quixqha quixoponic que
+                    <lb n="29"/>petoc queqha ahauab varal tah
+                    <lb n="30"/>cohchaah vi cuq vvcubix coheꜩanic 
+                    <lb n="31"/>quecha ahauab quixqha quixopo –
+                    <lb n="32"/>nic xevqhax cut ri zamahel ta
+                    <lb n="33"/>xepecut nimahoc cuquibe riga – 
+                    <lb n="34"/>holab chicochoch ca tocol chico – 
+                    <lb n="35"/>choch xacuyacal ri zamahel xo –
+                    <lb n="36"/>pon ruq catit arecut quechahic
+                    <lb n="37"/>taxul canoc vzamahel <rs ana="XIBALBA">xibalba</rs>
+                    <lb n="38"/>quiꜩih quepetic quecha riahauab
+                    <lb n="39"/>xeqha cut ri vzamahel <rs ana="XIBALBA">xibalba</rs> ta
+                    <lb n="40"/>xchoye cu canoc quiquih cumal ri 
+                    <lb n="41"/>vzamahel <rs ana="XIBALBA">xibalba</rs> vvcubix que –
+                    <lb n="42"/>ꜩelavachixic xuqhax canoc xmu –
+                    <lb n="43"/>cane vꜩbala. xquebe tac oc ixza –
+                    <lb n="44"/>mahel xqhari atit, xebe curi za –
+                    <lb n="45"/>mahel xezalihic ta xquiz cut v
+                    <lb n="46"/>gux ri atit naqui xchiuvchah
+                    <lb n="47"/>qui taquic ri vÿ, mavi quiꜩih ri
+                
+                    <pb xml:id="xom-f22-s2"/>
+                
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
                             <hi rend="handwriting;color:pencil">22
                 			</hi>
                         </num>
                     </note>	
-                <!-- NB: The OSU transcription includes space between letters and line-end -; my other pages weren't like that -->
-                    <lb n="1"/>
-                    <rs ana="XIBALBA">xibalba</rs> xaquehe rulic zamahel
-                <lb n="2"/>oher taxebe camoc ri quicahau
-                <lb n="3"/>xqhari catit quz choc paha vtuquel
-                <lb n="4"/>cate cut xcah vlo hun ug chuca – 
-                <lb n="5"/>yac cate cu xuchap acanoc ta xuya
-                <lb n="6"/>cut pu cab chimalmatib curi ug
-                <lb n="7"/>xbinic at vÿ chauahtah canutaco
-                <lb n="8"/>quebeta ataca ri vÿ pahom xu –
-                <lb n="9"/>chaxrivq ta xbec taconel mixul
-                <lb n="10"/>zamahel ruqivatit caqha catopo –
-                <lb n="11"/>nic vvcubix cut queoponic ca –
-                <lb n="12"/>cha vzamahel <rs ana="XIBALBA">xibalba</rs> caqha iv –
-                <lb n="13"/>atit caqha xuqhax ri uq ta xbec
-                <lb n="14"/>chimalmat cut xbec, cubul curi 
-                <lb n="15"/>qahol pabe tamazul vbi ri xpec
-                <lb n="16"/>apa catbe vi qha curi xpec chire
-                <lb n="17"/>uq qoba nu ꜩih chinupam quinbe
-                <lb n="18"/>cuq qaholab xqha ri uq chire tama
-                <lb n="19"/>zul vꜩbala maba catanaic cavilo
-                <lb n="20"/>xuqhax cu uq rumal xpec macha –
-                <lb n="21"/>uah canubico chauilana pe quin –
-                <lb n="22"/>anic va xcohopon chanim. vꜩba
-                <lb n="23"/>la xqha ri vq chirech xpec cate
-                <lb n="24"/>cut ta xrictaxic rumal xpec chi –
-                <lb n="25"/>becnah curi xpec ta xbec chi ma –
-                <lb n="26"/>ui caanic, catecut taxucul chicut
-                <lb n="27"/>hunnima cumaꜩ zaquicaz ubi a
-                <lb n="28"/>pa catbe vi at tamazul qahol xu
-                <lb n="29"/>qhax chic ri xpec rumal zaqui –
-                <lb n="30"/>caz? inzamahel qonuꜩih chinu 
-                <lb n="31"/>pam xqha chicut xpec chire
-                <lb n="32"/>cumaꜩ maba catanic cavilo in
-                <lb n="33"/>taon xquinopon chanim xqha cu 
-                <lb n="34"/>cumaꜩ chire xpec. catoho xuqha – 
-                <lb n="35"/>xic catecu xbic chic rixpec rum –
-                <lb n="36"/>al zaquicaz, ta xucam ri recha cu –
-                <lb n="37"/>maꜩ quebico u xpec vacamic. chan
-                <lb n="38"/>curi cumaꜩ ta xbec xculutah chi –
-                <lb n="39"/>vicut ricumaꜩ rumal vac ni –
-                <lb n="40"/>ma ꜩiquin xbic chivi ri cumaꜩ
-                <lb n="41"/>rumal vac cate pu xopon ri chu –
-                <lb n="42"/>vi hom ta xucam recha ri xic
-                <lb n="43"/>quetiou cumaꜩ patachuyub.ta
-                <lb n="44"/>xopon puch rivac xqhacachob chu –
-                <lb n="45"/>vi v zuꜩil hom quequicot curi
-                <lb n="46"/>
-                    <rs ana="JUNAJPU">hun ahpu</rs>
-                    <rs ana="XBALAMKE">xbalanque</rs> quechaahic
-                <lb n="47"/>taxopon cut ri vac taxoc curi vac
+                    <!-- NB: The OSU transcription includes space between letters and line-end -; my other pages weren't like that -->
+                    <lb n="1"/><rs ana="XIBALBA">xibalba</rs> xaquehe rulic zamahel
+                    <lb n="2"/>oher taxebe camoc ri quicahau
+                    <lb n="3"/>xqhari catit quz choc paha vtuquel
+                    <lb n="4"/>cate cut xcah vlo hun ug chuca – 
+                    <lb n="5"/>yac cate cu xuchap acanoc ta xuya
+                    <lb n="6"/>cut pu cab chimalmatib curi ug
+                    <lb n="7"/>xbinic at vÿ chauahtah canutaco
+                    <lb n="8"/>quebeta ataca ri vÿ pahom xu –
+                    <lb n="9"/>chaxrivq ta xbec taconel mixul
+                    <lb n="10"/>zamahel ruqivatit caqha catopo –
+                    <lb n="11"/>nic vvcubix cut queoponic ca –
+                    <lb n="12"/>cha vzamahel <rs ana="XIBALBA">xibalba</rs> caqha iv –
+                    <lb n="13"/>atit caqha xuqhax ri uq ta xbec
+                    <lb n="14"/>chimalmat cut xbec, cubul curi 
+                    <lb n="15"/>qahol pabe tamazul vbi ri xpec
+                    <lb n="16"/>apa catbe vi qha curi xpec chire
+                    <lb n="17"/>uq qoba nu ꜩih chinupam quinbe
+                    <lb n="18"/>cuq qaholab xqha ri uq chire tama
+                    <lb n="19"/>zul vꜩbala maba catanaic cavilo
+                    <lb n="20"/>xuqhax cu uq rumal xpec macha –
+                    <lb n="21"/>uah canubico chauilana pe quin –
+                    <lb n="22"/>anic va xcohopon chanim. vꜩba
+                    <lb n="23"/>la xqha ri vq chirech xpec cate
+                    <lb n="24"/>cut ta xrictaxic rumal xpec chi –
+                    <lb n="25"/>becnah curi xpec ta xbec chi ma –
+                    <lb n="26"/>ui caanic, catecut taxucul chicut
+                    <lb n="27"/>hunnima cumaꜩ zaquicaz ubi a
+                    <lb n="28"/>pa catbe vi at tamazul qahol xu
+                    <lb n="29"/>qhax chic ri xpec rumal zaqui –
+                    <lb n="30"/>caz? inzamahel qonuꜩih chinu 
+                    <lb n="31"/>pam xqha chicut xpec chire
+                    <lb n="32"/>cumaꜩ maba catanic cavilo in
+                    <lb n="33"/>taon xquinopon chanim xqha cu 
+                    <lb n="34"/>cumaꜩ chire xpec. catoho xuqha – 
+                    <lb n="35"/>xic catecu xbic chic rixpec rum –
+                    <lb n="36"/>al zaquicaz, ta xucam ri recha cu –
+                    <lb n="37"/>maꜩ quebico u xpec vacamic. chan
+                    <lb n="38"/>curi cumaꜩ ta xbec xculutah chi –
+                    <lb n="39"/>vicut ricumaꜩ rumal vac ni –
+                    <lb n="40"/>ma ꜩiquin xbic chivi ri cumaꜩ
+                    <lb n="41"/>rumal vac cate pu xopon ri chu –
+                    <lb n="42"/>vi hom ta xucam recha ri xic
+                    <lb n="43"/>quetiou cumaꜩ patachuyub.ta
+                    <lb n="44"/>xopon puch rivac xqhacachob chu –
+                    <lb n="45"/>vi v zuꜩil hom quequicot curi
+                    <lb n="46"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> quechaahic
+                    <lb n="47"/>taxopon cut ri vac taxoc curi vac
+                
+                    <pb xml:id="xom-f23-s1"/>
+                
+                    <!-- Nicole, please check all of these ana tags. There seem to be some problems with pajaro, vbaca, etc.-->
+                    <lb n="1"/><rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs> co
+                    <lb n="2"/>naquipa ri choquic petaca vvb xe
+                    <lb n="3"/>qha.
                 </p>
-                <pb xml:id="xom-f23-s1"/>
                 <p>
-<!-- Nicole, please check all of these ana tags. There seem to be some problems with pajaro, vbaca, etc.-->
-                    <lb n="1"/>
-                    <rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs> co
-<lb n="2"/>naquipa ri choquic petaca vvb xe
-<lb n="3"/>qha.
-<lb n="4" rend="indent"/>
-                    <hi rend="large">/&gt;C</hi>atepuch xquivvbah ri <rs ana="pájaro">vac</rs> qui –
-<lb n="5"/>cutacal <rs ana="CHAMIYABAQ">vbaca</rs> vvb <rs ana="CHAMIYABAQ">chu baca</rs>
-                    <rs ana="pájaro">vvach</rs>
+                    <lb n="4" rend="indent" /><hi rend="large">C</hi>atepuch xquivvbah ri <rs ana="pájaro">vac</rs> qui –                  
+                    <lb n="5"/>cutacal <rs ana="CHAMIYABAQ">vbaca</rs> vvb <rs ana="CHAMIYABAQ">chu baca</rs> <rs ana="pájaro">vvach</rs>
                     <lb n="6"/>chizetet cut xcah vloc quitzih vi
-<lb n="7"/>cut xbe qui chapa cate xquitzo
-<lb n="8"/>noh hupa apetic xeqha chire
-<lb n="9"/>
-                    <rs ana="pájaro">vac</rs> qoba nutzih chinupam chi –
-<lb n="10"/>cunah tana <rs ana="CHAMIYABAQ">vbacanu</rs>
-                    <rs ana="pájaro">vach</rs> nabe
-<lb n="11"/>cate cut xchinbÿh xqhari <rs ana="pájaro">vac</rs>
+                    <lb n="7"/>cut xbe qui chapa cate xquitzo
+                    <lb n="8"/>noh hupa apetic xeqha chire
+                    <lb n="9"/><rs ana="pájaro">vac</rs> qoba nutzih chinupam chi –
+                    <lb n="10"/>cunah tana <rs ana="CHAMIYABAQ">vbacanu</rs> <rs ana="pájaro">vach</rs> nabe
+                    <lb n="11"/>cate cut xchinbÿh xqhari <rs ana="pájaro">vac</rs>
                     <lb n="12"/>vtz bala xeqhacut cate xquelezah
-<lb n="13"/>zcaquin rih quic ri chaah xquicoh
-<lb n="14"/>chiv <rs ana="pájaro">vach</rs> ri <rs ana="pájaro">vac</rs> lotz quic xubi –
-<lb n="15"/>naah cumal libah chicut xca –
-<lb n="16"/>choh cumal vtz chic vmucubal ri
-<lb n="17"/>
-                    <rs ana="pájaro">vac</rs> xuxic, chabÿh cut xeqha
-<lb n="18"/>chire <rs ana="pájaro">vac</rs> cate cut xuxavah
-<lb n="19"/>nima cumatz, caqhauoc xeqha
-<lb n="20"/>chic chire cumatz ve xqha chi –
-<lb n="21"/>cut ta xuxauah chi xpec naqui –
-<lb n="22"/>pa ata qui quil catzihonoc xu –
-<lb n="23"/>chax chicuri xpec qobanutzih
-<lb n="24"/>chinupam xqha chicuri xpec
-<lb n="25"/>catecut xutih xabic mahabixu –
-<lb n="26"/>xauah xe que he chuca<hi rend="superscript">x</hi>
-                    <del rend="overstrike" instant="false" status="unremarkable">g</del>h vchi
-<lb n="27"/>chutiho xmaqo vi chuxauah ca –
-<lb n="28"/>tecut xrah chaii<unclear reason="illegible" instant="false">'</unclear>c cumal qaho –
-<lb n="29"/>lab at qaxtoq xuqhaxic ta xiic
-<lb n="30"/>v varachac chiacan, xcahcu ba –
-<lb n="31"/>quil v varachac chi acan xutih
-<lb n="32"/>chicut xa que he chuch<del rend="overstrike" instant="false" status="unremarkable">u</del>
-                    <corr instant="false">a</corr>b vchi
-<lb n="33"/>cate puch xquirech vchi ri xp –
-<lb n="34"/>ec xrech cumal qaholab xqui –
-<lb n="35"/>zucuh pu chi xa cu nacal ri uq
-<lb n="36"/>chuvare xpec xapuchi qo vi
-<lb n="37"/>mana xubico xaquehe xabic
-<lb n="38"/>quehe cut xchacatah vi rixpec
-<lb n="39"/>maui calah <rs ana="pájaro">vvach</rs> recha xqui –
-<lb n="41"/>yao ruq maui qhanic xa v
-<lb n="42"/>chac cumatz xuxic. catzihonoc
-<lb n="43"/>xuqhax chicut ri uq ta xubÿh
-<lb n="44"/>cu vtzih caqha ri ivatit ixqa –
-<lb n="45"/>holab he ataca xultacolque
-<lb n="46"/>cape chi <rs ana="XIBALBA">xibalba</rs> vzamahel 
-<lb n="47"/>
-                    <rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcubcame</rs>
-                    <rs ana="WUQUB_KAKIX">vvcu –
-<lb n="48"/>bix</rs> quevlic varal cohchaah –
-             </p>
-                <pb xml:id="xom-f23-s2"/>
-                <p>
+                    <lb n="13"/>zcaquin rih quic ri chaah xquicoh
+                    <lb n="14"/>chiv <rs ana="pájaro">vach</rs> ri <rs ana="pájaro">vac</rs> lotz quic xubi –
+                    <lb n="15"/>naah cumal libah chicut xca –
+                    <lb n="16"/>choh cumal vtz chic vmucubal ri
+                    <lb n="17"/><rs ana="pájaro">vac</rs> xuxic, chabÿh cut xeqha
+                    <lb n="18"/>chire <rs ana="pájaro">vac</rs> cate cut xuxavah
+                    <lb n="19"/>nima cumatz, caqhauoc xeqha
+                    <lb n="20"/>chic chire cumatz ve xqha chi –
+                    <lb n="21"/>cut ta xuxauah chi xpec naqui –
+                    <lb n="22"/>pa ata qui quil catzihonoc xu –
+                    <lb n="23"/>chax chicuri xpec qobanutzih
+                    <lb n="24"/>chinupam xqha chicuri xpec
+                    <lb n="25"/>catecut xutih xabic mahabixu –
+                    <lb n="26"/>xauah xe que he chuca<hi rend="superscript">x</hi> <del rend="overstrike" instant="false" status="unremarkable">g</del>h vchi
+                    <lb n="27"/>chutiho xmaqo vi chuxauah ca –
+                    <lb n="28"/>tecut xrah chaii<unclear reason="illegible" instant="false">'</unclear>c cumal qaho –
+                    <lb n="29"/>lab at qaxtoq xuqhaxic ta xiic
+                    <lb n="30"/>v varachac chiacan, xcahcu ba –
+                    <lb n="31"/>quil v varachac chi acan xutih
+                    <lb n="32"/>chicut xa que he chuch<del rend="overstrike" instant="false" status="unremarkable">u</del> <corr instant="false">a</corr>b vchi
+                    <lb n="33"/>cate puch xquirech vchi ri xp –
+                    <lb n="34"/>ec xrech cumal qaholab xqui –
+                    <lb n="35"/>zucuh pu chi xa cu nacal ri uq
+                    <lb n="36"/>chuvare xpec xapuchi qo vi
+                    <lb n="37"/>mana xubico xaquehe xabic
+                    <lb n="38"/>quehe cut xchacatah vi rixpec
+                    <lb n="39"/>maui calah <rs ana="pájaro">vvach</rs> recha xqui –
+                    <lb n="41"/>yao ruq maui qhanic xa v
+                    <lb n="42"/>chac cumatz xuxic. catzihonoc
+                    <lb n="43"/>xuqhax chicut ri uq ta xubÿh
+                    <lb n="44"/>cu vtzih caqha ri ivatit ixqa –
+                    <lb n="45"/>holab he ataca xultacolque
+                    <lb n="46"/>cape chi <rs ana="XIBALBA">xibalba</rs> vzamahel 
+                    <lb n="47"/><rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcubcame</rs> <rs ana="WUQUB_KAKIX">vvcu –
+                    <lb n="48"/>bix</rs> quevlic varal cohchaah –
+             
+                    <pb xml:id="xom-f23-s2"/>
+                
                     <note place="margin-right" type="pagination" anchored="true">
-                        <num rend="large">
-                            <hi rend="handwriting;color:pencil">23
-</hi>
-                        </num>
+                        <num rend="large"><hi rend="handwriting;color:pencil">23</hi></num>
                     </note>
                     <lb n="1"/>vi chipe ri que tzabal quic bate
-<lb n="2"/>pachcab, q,uum are chicaztahv
-<lb n="3"/>vach varal que qha ahauab
-<lb n="4"/>xul quitzih cacha ri ivatit ta
-<lb n="5"/>xipetic qui tzih caqha ri ivatit
-<lb n="6"/>coquic caziquinic ivatit xipetic
-<lb n="7"/>maquitzih xeqha cut qaholab
-<lb n="8"/>chiquiqux ta xquitao huzu xe –
-<lb n="9"/>petic xeopon cut ruq catit xa
-<lb n="10"/>e pixabai chire catit xebec.
-<lb n="11"/>ho na ixcatit xaohpixabay
-<lb n="12"/>ive vae cute retal catzih xchicacanah
-<lb n="13"/>huhun xchicatic chire
-<lb n="14"/>va ah chunicahal cochoch xchi
-<lb n="15"/>catic vi are retal ca camic ve
-<lb n="16"/>chichaquihic mipa xecamic quix
-<lb n="17"/>qha ta chichaquihic ve cut ta
-<lb n="18"/>chipe vtux epa cazlic quixqha
-<lb n="19"/>cut ixcatit ix pu ca chuch mixo –
-<lb n="20"/>quic qo retal catzih cacanahic
-<lb n="21"/>ivvq xeqha. ta xebec hun xu
-<lb n="22"/>tic <rs ana="JUNAJPU">hun nahpu</rs>, hun chicu xti –
-<lb n="23"/>cou que xa paha xutic
-<lb n="24"/>vi mana pa huyub tah manaipu
-<lb n="25"/>para x vleu tah xa pa chaquih
-<lb n="26"/>vleu chunicahal vpa cochoch
-<lb n="27"/>xquitic vi canoc. ta xebe cut hu –
-<lb n="28"/>hun chi vvb chi que xecah chi
-<lb n="29"/>libah chi xecah chua
-<lb n="30"/>cumuc xeicou. chivicut chupan
-<lb n="31"/>hal ha zivan xachu xol <abbr><hi rend="subscript">q'</hi>
-                    </abbr>iquin
-<lb n="32"/>xeicou vi are ri <abbr><hi rend="subscript">q'</hi>
-                    </abbr>iquin molai
-<lb n="33"/>quibi xeicou chicut pa puhia
-<lb n="34"/>pa quiquia chacbal ta que chi –
-<lb n="35"/>qui qux maui xqui –
-<lb n="36"/>yicou xa chirihvvb xeicou vi
-<lb n="37"/>xeel chicu apanoc pa cahib xal –
-<lb n="38"/>cat be xa x que taam vi cut qui
-<lb n="39"/>be <rs ana="CAMINO_NEGRO">que ca be</rs>
-                    <rs ana="CAMINO_BLANCO">zaqui be</rs>, <rs ana="CAMINO_ROJO">ca
-<lb n="40"/>ca be</rs>, <rs ana="CAMINO_VERDE">raxa be</rs> chiri cut xquitac
-<lb n="41"/>vi hun chicop xan vbi are ca –
-<lb n="42"/>mol quita xquitac vbic huhu –
-<lb n="43"/>nalque atio nabe chati ri na
-<lb n="44"/>be cubulel chatzaconizah qui 
-<lb n="45"/>tic conohel xa vech vi cut cha –
-<lb n="46"/>tzubahvi vqui que l vinac pa –
-<lb n="47"/>be xuqhaxic ri xan vtzbala.
-</p>
-                <pb xml:id="xom-f24-s1"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">24</hi>
-                    </num>
-                </note>
-                <p>
+                    <lb n="2"/>pachcab, q,uum are chicaztahv
+                    <lb n="3"/>vach varal que qha ahauab
+                    <lb n="4"/>xul quitzih cacha ri ivatit ta
+                    <lb n="5"/>xipetic qui tzih caqha ri ivatit
+                    <lb n="6"/>coquic caziquinic ivatit xipetic
+                    <lb n="7"/>maquitzih xeqha cut qaholab
+                    <lb n="8"/>chiquiqux ta xquitao huzu xe –
+                    <lb n="9"/>petic xeopon cut ruq catit xa
+                    <lb n="10"/>e pixabai chire catit xebec.
+                </p>
+                <p> 
+                    <lb n="11"/>ho na ixcatit xaohpixabay
+                    <lb n="12"/>ive vae cute retal catzih xchicacanah
+                    <lb n="13"/>huhun xchicatic chire
+                    <lb n="14"/>va ah chunicahal cochoch xchi
+                    <lb n="15"/>catic vi are retal ca camic ve
+                    <lb n="16"/>chichaquihic mipa xecamic quix
+                    <lb n="17"/>qha ta chichaquihic ve cut ta
+                    <lb n="18"/>chipe vtux epa cazlic quixqha
+                    <lb n="19"/>cut ixcatit ix pu ca chuch mixo –
+                    <lb n="20"/>quic qo retal catzih cacanahic
+                    <lb n="21"/>ivvq xeqha. ta xebec hun xu
+                    <lb n="22"/>tic <rs ana="JUNAJPU">hun nahpu</rs>, hun chicu xti –
+                    <lb n="23"/>cou que xa paha xutic
+                    <lb n="24"/>vi mana pa huyub tah manaipu
+                    <lb n="25"/>para x vleu tah xa pa chaquih
+                    <lb n="26"/>vleu chunicahal vpa cochoch
+                    <lb n="27"/>xquitic vi canoc. ta xebe cut hu –
+                    <lb n="28"/>hun chi vvb chi que xecah chi
+                    <lb n="29"/>libah chi xecah chua
+                    <lb n="30"/>cumuc xeicou. chivicut chupan
+                    <lb n="31"/>hal ha zivan xachu xol <abbr><hi rend="subscript">q'</hi></abbr>iquin
+                    <lb n="32"/>xeicou vi are ri <abbr><hi rend="subscript">q'</hi></abbr>iquin molai
+                    <lb n="33"/>quibi xeicou chicut pa puhia
+                    <lb n="34"/>pa quiquia chacbal ta que chi –
+                    <lb n="35"/>qui qux maui xqui –
+                    <lb n="36"/>yicou xa chirihvvb xeicou vi
+                    <lb n="37"/>xeel chicu apanoc pa cahib xal –
+                    <lb n="38"/>cat be xa x que taam vi cut qui
+                    <lb n="39"/>be <rs ana="CAMINO_NEGRO">que ca be</rs> <rs ana="CAMINO_BLANCO">zaqui be</rs>, <rs ana="CAMINO_ROJO">ca
+                    <lb n="40"/>ca be</rs>, <rs ana="CAMINO_VERDE">raxa be</rs> chiri cut xquitac
+                    <lb n="41"/>vi hun chicop xan vbi are ca –
+                    <lb n="42"/>mol quita xquitac vbic huhu –
+                    <lb n="43"/>nalque atio nabe chati ri na
+                    <lb n="44"/>be cubulel chatzaconizah qui 
+                    <lb n="45"/>tic conohel xa vech vi cut cha –
+                    <lb n="46"/>tzubahvi vqui que l vinac pa –
+                    <lb n="47"/>be xuqhaxic ri xan vtzbala.
+
+                    <pb xml:id="xom-f24-s1"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
+                        <num rend="large"><hi rend="handwriting;color:pencil">24</hi></num>
+                    </note>
                     <lb n="1"/>qha curi xan ta xoc pa <rs ana="CAMINO_NEGRO">que ca be</rs> ta
-<lb n="2"/>cal cu chirih ri poy ahamche na
-<lb n="3"/>be culel e cautalic nabe cut xqui –
-<lb n="4"/>tio maui xqhavic xuti chicu. ta
-<lb n="5"/>xuti chi vcab culel machivi x
-<lb n="6"/>qhavic. xuti chicu rox cachirox
-<lb n="7"/>culel qovi huncame aqui, xqha
-<lb n="8"/>cut hun ta xtiic <del rend="overstrike" instant="false" status="unremarkable">naqui</del> ahi xqha
-<lb n="9"/>hun came naqui hun came naquila
-<lb n="10"/>mi xitiouic xahina quichila mixi –
-<lb n="11"/>tiouic xqha chic vcah culel. naqui
-<lb n="12"/>vvcub came naquila mi xitiouic
-<lb n="13"/>xqha chi roo culel. ahi ahi xqha
-<lb n="14"/>na xiquiripat, xqha <rs ana="WUQUB_KAME">vvcub came</rs>
+                    <lb n="2"/>cal cu chirih ri poy ahamche na
+                    <lb n="3"/>be culel e cautalic nabe cut xqui –
+                    <lb n="4"/>tio maui xqhavic xuti chicu. ta
+                    <lb n="5"/>xuti chi vcab culel machivi x
+                    <lb n="6"/>qhavic. xuti chicu rox cachirox
+                    <lb n="7"/>culel qovi huncame aqui, xqha
+                    <lb n="8"/>cut hun ta xtiic <del rend="overstrike" instant="false" status="unremarkable">naqui</del> ahi xqha
+                    <lb n="9"/>hun came naqui hun came naquila
+                    <lb n="10"/>mi xitiouic xahina quichila mixi –
+                    <lb n="11"/>tiouic xqha chic vcah culel. naqui
+                    <lb n="12"/>vvcub came naquila mi xitiouic
+                    <lb n="13"/>xqha chi roo culel. ahi ahi xqha
+                    <lb n="14"/>na xiquiripat, xqha <rs ana="WUQUB_KAME">vvcub came</rs>
                     <lb n="15"/>chire naquila mi xitiouic xcha chic
-<lb n="16"/>xtiic <rs ana="pájaro">vvacac</rs> culel ahi, na qui
-<lb n="17"/>cuchumaquic xqha xiquiripat chi –
-<lb n="18"/>re naquila mi xitiouic xqha chic
-<lb n="19"/>ta xti vvc culel ahi xqha chic. na
-<lb n="20"/>qui <rs ana="AJAL_PUJ">ahal puh</rs> xqha cuchumaquic
-<lb n="21"/>chire naquila mi xitiouic xqha
-<lb n="22"/>chic ta xti chic v vahxac culel ahi
-<lb n="23"/>xqha chic. naqui ahalcana xqha
-<lb n="24"/>chi ahalpuh chire, naquila mixi –
-<lb n="25"/>tiouic qha chic ta xti chic vbeleh
-<lb n="26"/>culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
+                    <lb n="16"/>xtiic <rs ana="pájaro">vvacac</rs> culel ahi, na qui
+                    <lb n="17"/>cuchumaquic xqha xiquiripat chi –
+                    <lb n="18"/>re naquila mi xitiouic xqha chic
+                    <lb n="19"/>ta xti vvc culel ahi xqha chic. na
+                    <lb n="20"/>qui <rs ana="AJAL_PUJ">ahal puh</rs> xqha cuchumaquic
+                    <lb n="21"/>chire naquila mi xitiouic xqha
+                    <lb n="22"/>chic ta xti chic v vahxac culel ahi
+                    <lb n="23"/>xqha chic. naqui ahalcana xqha
+                    <lb n="24"/>chi ahalpuh chire, naquila mixi –
+                    <lb n="25"/>tiouic qha chic ta xti chic vbeleh
+                    <lb n="26"/>culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
                     <lb n="27"/>xcha ahalcana chire naquila
-<lb n="28"/>mi xitiouic xcha chic ta xti chic
-<lb n="29"/>lahuh cubulel ahi naqui qha
-<lb n="30"/>mia holom xqha <rs ana="CHAMIYABAQ">chamia baca</rs> na
-<lb n="26"/>culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
+                    <lb n="28"/>mi xitiouic xcha chic ta xti chic
+                    <lb n="29"/>lahuh cubulel ahi naqui qha
+                    <lb n="30"/>mia holom xqha <rs ana="CHAMIYABAQ">chamia baca</rs> na
+                    <lb n="26"/>culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
                     <lb n="27"/>xcha ahalcana chire naquila
-<lb n="28"/>mi xitiouic xcha chic ta xti chic
-<lb n="29"/>lahuh cubulel ahi naqui qha
-<lb n="30"/>mia holom xqha chamia baca na
-<lb n="31"/>quila mi xitiouic xqha chic ta xti
-<lb n="32"/>chic vhulah culel ahi xqha chic
-<lb n="33"/>naqui qha chic chamiaholom chi –
-<lb n="34"/>re na quila mi xitiouic xqha chic
-<lb n="35"/>ta xti chic vcablahuh culel a –
-<lb n="36"/>hi xqha qhic naqui <rs ana="PATAN">patan</rs> xqha
-<lb n="37"/>chic chire naquila mixitiouic
-<lb n="38"/>xqha chic ta xti chic roxlahuh
-<lb n="39"/>culel ahi naqui, quic xic qha –
-<lb n="40"/>
-                    <rs ana="PATAN">patan</rs> chirech naquila mi xitio
-<lb n="41"/>vic xqha chic ta xti chic vcah –
-<lb n="42"/>lahuh culel ahi naquila mixitiovic
-<lb n="43"/>xqha chic quic ri xcac
-<lb n="44"/>xqha quic re chirech que he
-<lb n="45"/>cut vbixic quibi ri xquibÿh
-<lb n="46"/>conohel chiquibil quib xqui
-<lb n="47"/>cut <rs ana="pájaro">vvach</rs> xquibÿh qui bi
-</p>
-                <pb xml:id="xom-f24-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">24
-</hi>
-                    </num>
-                </note>
-                <p>
+                    <lb n="28"/>mi xitiouic xcha chic ta xti chic
+                    <lb n="29"/>lahuh cubulel ahi naqui qha
+                    <lb n="30"/>mia holom xqha chamia baca na
+                    <lb n="31"/>quila mi xitiouic xqha chic ta xti
+                    <lb n="32"/>chic vhulah culel ahi xqha chic
+                    <lb n="33"/>naqui qha chic chamiaholom chi –
+                    <lb n="34"/>re na quila mi xitiouic xqha chic
+                    <lb n="35"/>ta xti chic vcablahuh culel a –
+                    <lb n="36"/>hi xqha qhic naqui <rs ana="PATAN">patan</rs> xqha
+                    <lb n="37"/>chic chire naquila mixitiouic
+                    <lb n="38"/>xqha chic ta xti chic roxlahuh
+                    <lb n="39"/>culel ahi naqui, quic xic qha –
+                    <lb n="40"/><rs ana="PATAN">patan</rs> chirech naquila mi xitio
+                    <lb n="41"/>vic xqha chic ta xti chic vcah –
+                    <lb n="42"/>lahuh culel ahi naquila mixitiovic
+                    <lb n="43"/>xqha chic quic ri xcac
+                    <lb n="44"/>xqha quic re chirech que he
+                    <lb n="45"/>cut vbixic quibi ri xquibÿh
+                    <lb n="46"/>conohel chiquibil quib xqui
+                    <lb n="47"/>cut <rs ana="pájaro">vvach</rs> xquibÿh qui bi
+
+                    <pb xml:id="xom-f24-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
+                        <num rend="large"><hi rend="handwriting;color:pencil">24</hi></num>
+                    </note>
                     <lb n="1"/>huhun chiholoman vbixic cumal
-<lb n="2"/>are chibÿn vbi hun ri cubul chu –
-<lb n="3"/>xucut mahabi hunoc xquizach v
-<lb n="4"/>bi quiz quibÿh quibi conohel ta
-<lb n="5"/>xeti rumal rizmal <rs ana="pájaro">vach</rs>
+                    <lb n="2"/>are chibÿn vbi hun ri cubul chu –
+                    <lb n="3"/>xucut mahabi hunoc xquizach v
+                    <lb n="4"/>bi quiz quibÿh quibi conohel ta
+                    <lb n="5"/>xeti rumal rizmal <rs ana="pájaro">vach</rs>
                     <lb n="6"/>vchecxumich vbic mana qui –
-<lb n="7"/>tzih xan ri xetiovic xbetao quibi
-<lb n="8"/>conohel rumal xba –
-<lb n="9"/>lan<expan instant="false">que</expan>. cate cut ta xebec ta xe
-<lb n="10"/>opon puch chila e qovi <rs ana="XIBALBA">
-<lb n="11"/>chi quihila</rs> ahau xqhari cubulic
-<lb n="12"/>xqha huntac chiinel maui are
-<lb n="13"/>ahau ri xa poy ahamche ri xe
-<lb n="14"/>qha ta xeoponic cate cut ta xeca –
-<lb n="15"/>lainic calata hun came, calata
-<lb n="16"/>vvcub came, calata xiquiritap
-<lb n="17"/>calata cuchumaquic. calata a
-<lb n="18"/>hal puh, calata ahalcana, cala
-<lb n="19"/>ta <rs ana="CHAMIYABAQ">chamia baca</rs>, calata chamia
-<lb n="20"/>holom, calata cala xic, cala
-<lb n="21"/>ta <rs ana="PATAN">patan</rs>, calata quic re, calata
-<lb n="22"/>vquic <del rend="overstrike" instant="false" status="unremarkable">xic</del> rixcac. xeqha taxeopo –
-<lb n="23"/>nic ronohel xquiz cut <rs ana="pájaro">vvach</rs>
+                    <lb n="7"/>tzih xan ri xetiovic xbetao quibi
+                    <lb n="8"/>conohel rumal xba –
+                    <lb n="9"/>lan<expan instant="false">que</expan>. cate cut ta xebec ta xe
+                    <lb n="10"/>opon puch chila e qovi <rs ana="XIBALBA">
+                    <lb n="11"/>chi quihila</rs> ahau xqhari cubulic
+                    <lb n="12"/>xqha huntac chiinel maui are
+                    <lb n="13"/>ahau ri xa poy ahamche ri xe
+                    <lb n="14"/>qha ta xeoponic cate cut ta xeca –
+                    <lb n="15"/>lainic calata hun came, calata
+                    <lb n="16"/>vvcub came, calata xiquiritap
+                    <lb n="17"/>calata cuchumaquic. calata a
+                    <lb n="18"/>hal puh, calata ahalcana, cala
+                    <lb n="19"/>ta <rs ana="CHAMIYABAQ">chamia baca</rs>, calata chamia
+                    <lb n="20"/>holom, calata cala xic, cala
+                    <lb n="21"/>ta <rs ana="PATAN">patan</rs>, calata quic re, calata
+                    <lb n="22"/>vquic <del rend="overstrike" instant="false" status="unremarkable">xic</del> rixcac. xeqha taxeopo –
+                    <lb n="23"/>nic ronohel xquiz cut <rs ana="pájaro">vvach</rs>
                     <lb n="24"/>xquibÿh vbi ronohel mahabi
-<lb n="25"/>hun xquizach vbi are ta xaha –
-<lb n="26"/>uax chi que ch mata xcanai vbi
-<lb n="27"/>cumal quixcu vloc xevqhax cut
-<lb n="28"/>xerah oc chuvi tem macu xcah
-<lb n="29"/>maui are catem ri xa chohim a
-<lb n="30"/>bah ri tem  <rs ana="XIBALBA">xeqhaxba</rs>
+                    <lb n="25"/>hun xquizach vbi are ta xaha –
+                    <lb n="26"/>uax chi que ch mata xcanai vbi
+                    <lb n="27"/>cumal quixcu vloc xevqhax cut
+                    <lb n="28"/>xerah oc chuvi tem macu xcah
+                    <lb n="29"/>maui are catem ri xa chohim a
+                    <lb n="30"/>bah ri tem  <rs ana="XIBALBA">xeqhaxba</rs>
                     <lb n="31"/>lan que mavi xechacatahic vtz
-<lb n="32"/>vbala. xabahix paha xevchaxic
-<lb n="33"/>cate cut ta xeoc pa que eumaha
-<lb n="34"/>maui xechacatahic chiri are
-<lb n="35"/>nabe vtihobal ri xeoc
-<lb n="36"/>vi que chi cu vticaric quichaca
-<lb n="37"/>tahic ta chic chiquiqux
-<lb n="38"/>nabe xeoc pa que eumaha
-<lb n="39"/>cate cut ta xbeyaoc quichah
-<lb n="40"/>catilovic ta xoponic ruq huhun
-<lb n="41"/>qui zic rumal vzamahel hun
-<lb n="42"/>came, vae quichahe cacha aha –
-<lb n="43"/>u chul quiya chic ri chah zaca –
-<lb n="44"/>ric ruq ri zic chul qui moloba
-<lb n="45"/>cacha ahau xqha zamahel ta
-<lb n="46"/>xoponic vtzbala xeqha cut ma
-<lb n="47"/>cu xquitzih richah xa eaeahv
-</p>
-                <pb xml:id="xom-f25-s1"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">25
-</hi>
-                    </num>
-                </note>
-                <p>
+                    <lb n="32"/>vbala. xabahix paha xevchaxic
+                    <lb n="33"/>cate cut ta xeoc pa que eumaha
+                    <lb n="34"/>maui xechacatahic chiri are
+                    <lb n="35"/>nabe vtihobal ri xeoc
+                    <lb n="36"/>vi que chi cu vticaric quichaca
+                    <lb n="37"/>tahic ta chic chiquiqux
+                    <lb n="38"/>nabe xeoc pa que eumaha
+                    <lb n="39"/>cate cut ta xbeyaoc quichah
+                    <lb n="40"/>catilovic ta xoponic ruq huhun
+                    <lb n="41"/>qui zic rumal vzamahel hun
+                    <lb n="42"/>came, vae quichahe cacha aha –
+                    <lb n="43"/>u chul quiya chic ri chah zaca –
+                    <lb n="44"/>ric ruq ri zic chul qui moloba
+                    <lb n="45"/>cacha ahau xqha zamahel ta
+                    <lb n="46"/>xoponic vtzbala xeqha cut ma
+                    <lb n="47"/>cu xquitzih richah xa eaeahv
+                
+                    <pb xml:id="xom-f25-s1"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
+                        <num rend="large"><hi rend="handwriting;color:pencil">25</hi></num>
+                    </note>
                     <lb n="1"/>que <rs ana="pájaro">xvach</rs> xoquic, are vhe caquix
-<lb n="2"/>que heri chah xquilo varanel. are
-<lb n="3"/>chicuri zic xa eaea chicop xquicoho
-<lb n="4"/>chuvi zic hunacab chiyocouic cu –
-<lb n="5"/>mal mi xecachaco xeqha varanel
-<lb n="6"/>macuhabi xquiz ri chah xavi xe
-<lb n="7"/>re <rs ana="pájaro">vvach</rs> are curi zic mahabi na
-<lb n="8"/>quila xquitzih chire; xavi xer e
-<lb n="9"/>
-                    <rs ana="pájaro">vvach</rs> xbeyaoc cuq ahauab na
-<lb n="10"/>quipa que vxic apa xepevi achi –
-<lb n="11"/>nac xeqaholanic xealanic qui –
-<lb n="12"/>tzih cacatat caqux rumal ma
-<lb n="13"/>vtz caquibano chi que, halan qui
-<lb n="14"/>
-                    <rs ana="pájaro">vach</rs> halan naipu qui qoheic xe
-<lb n="15"/>qha chiquibil quib. ta xetacon cut
-<lb n="16"/>conohel ahauab oho chahoc ix
-<lb n="17"/>qaholab xevqhaxic ta xetzonox
-<lb n="18"/>cut rumal hun came, vvcub came
-<lb n="19"/>apa quix ixpevi chibÿh tah ixqa –
-<lb n="20"/>holab xqha cut <del rend="overstrike" instant="false" status="unremarkable">mavi que
-<lb n="21"/>tuam xa xeqha</del> chi que alaba
-<lb n="22"/>xohpe vilo maui que taam xaxe
-<lb n="23"/>qha maui xquibÿ vtzbala xaca
-<lb n="24"/>be cacachaah ixqaholab xe
-<lb n="25"/>qha  chi que vtz xechare
-<lb n="26"/>ba chicacoh ri va ca 
-<lb n="27"/>quic xeqha. matah areta chi coh
-<lb n="38"/>va que xeqha qaholab. maha
-<lb n="29"/>bi are chicacoh va que xeqha
-<lb n="30"/>chic. vtz bala xeqha
-<lb n="32"/>qaholab hebala xahuchil xe
-<lb n="32"/>qha , mabala xa holom
-<lb n="33"/>coh qhachic xeqha qaholab ma
-<lb n="34"/>habi xeqha vtz bala
-<lb n="35"/>xqha ta xzac cu vloc
-<lb n="36"/>rumal quicutacal chu
-<lb n="37"/>
-                    <rs ana="pájaro">vach</rs> vbate cate puch
-<lb n="38"/>ta xquil ri zaquitoc
-<lb n="39"/>ta xel chupan riquic chitzini –
-<lb n="40"/>nic xbe he chua tac vleuh
-<lb n="41"/>ri chaa. naquipala 
-<lb n="42"/>xqha ri que xa ca –
-<lb n="43"/>mic quivah chi que ch mata
-<lb n="44"/>xohbe itaca, matapu xbeiza –
-<lb n="45"/>mahel quitzih tocob ca <rs ana="pájaro">vach</rs>
+                    <lb n="2"/>que heri chah xquilo varanel. are
+                    <lb n="3"/>chicuri zic xa eaea chicop xquicoho
+                    <lb n="4"/>chuvi zic hunacab chiyocouic cu –
+                    <lb n="5"/>mal mi xecachaco xeqha varanel
+                    <lb n="6"/>macuhabi xquiz ri chah xavi xe
+                    <lb n="7"/>re <rs ana="pájaro">vvach</rs> are curi zic mahabi na
+                    <lb n="8"/>quila xquitzih chire; xavi xer e
+                    <lb n="9"/><rs ana="pájaro">vvach</rs> xbeyaoc cuq ahauab na
+                    <lb n="10"/>quipa que vxic apa xepevi achi –
+                    <lb n="11"/>nac xeqaholanic xealanic qui –
+                    <lb n="12"/>tzih cacatat caqux rumal ma
+                    <lb n="13"/>vtz caquibano chi que, halan qui
+                    <lb n="14"/><rs ana="pájaro">vach</rs> halan naipu qui qoheic xe
+                    <lb n="15"/>qha chiquibil quib. ta xetacon cut
+                    <lb n="16"/>conohel ahauab oho chahoc ix
+                    <lb n="17"/>qaholab xevqhaxic ta xetzonox
+                    <lb n="18"/>cut rumal hun came, vvcub came
+                    <lb n="19"/>apa quix ixpevi chibÿh tah ixqa –
+                    <lb n="20"/>holab xqha cut <del rend="overstrike" instant="false" status="unremarkable">mavi que
+                    <lb n="21"/>tuam xa xeqha</del> chi que alaba
+                    <lb n="22"/>xohpe vilo maui que taam xaxe
+                    <lb n="23"/>qha maui xquibÿ vtzbala xaca
+                    <lb n="24"/>be cacachaah ixqaholab xe
+                    <lb n="25"/>qha  chi que vtz xechare
+                    <lb n="26"/>ba chicacoh ri va ca 
+                    <lb n="27"/>quic xeqha. matah areta chi coh
+                    <lb n="38"/>va que xeqha qaholab. maha
+                    <lb n="29"/>bi are chicacoh va que xeqha
+                    <lb n="30"/>chic. vtz bala xeqha
+                    <lb n="32"/>qaholab hebala xahuchil xe
+                    <lb n="32"/>qha , mabala xa holom
+                    <lb n="33"/>coh qhachic xeqha qaholab ma
+                    <lb n="34"/>habi xeqha vtz bala
+                    <lb n="35"/>xqha ta xzac cu vloc
+                    <lb n="36"/>rumal quicutacal chu
+                    <lb n="37"/><rs ana="pájaro">vach</rs> vbate cate puch
+                    <lb n="38"/>ta xquil ri zaquitoc
+                    <lb n="39"/>ta xel chupan riquic chitzini –
+                    <lb n="40"/>nic xbe he chua tac vleuh
+                    <lb n="41"/>ri chaa. naquipala 
+                    <lb n="42"/>xqha ri que xa ca –
+                    <lb n="43"/>mic quivah chi que ch mata
+                    <lb n="44"/>xohbe itaca, matapu xbeiza –
+                    <lb n="45"/>mahel quitzih tocob ca <rs ana="pájaro">vach</rs>
                     <lb n="46"/>xacohbec xeqha qaholab chi –
-<lb n="47"/>que. are tacu xahauax chi que
-</p>
-                <pb xml:id="xom-f25-s2"/>
-                <p>
+                    <lb n="47"/>que. are tacu xahauax chi que
+
+                    <pb xml:id="xom-f25-s2"/>
+                
                     <note place="margin-left" type="pagination" anchored="true">
-                        <num rend="large">
-                            <hi rend="handwriting;color:pencil">25</hi>
-                        </num>
+                        <num rend="large"><hi rend="handwriting;color:pencil">25</hi></num>
                     </note>
                     <lb n="1"/>qaholab huzu ta xcam rihun chi
-<lb n="2"/>ri chiri chi cha xechacatah tah
-<lb n="3"/>maui que he xa xecha –
-<lb n="4"/>catah chic cumal qaholab maba
-<lb n="5"/>quixbec ixqaholab cohchah na
-<lb n="6"/>xa are cacacoho ri ivech xvq –
-<lb n="7"/>hax cut qaholab vtzbala xeqha
-<lb n="8"/>cut are cu xocri qui quic ta
-<lb n="9"/>xcah cuchaah. cate cut ta xqui –
-<lb n="10"/>choi quichacon; naqui pa chica –
-<lb n="11"/>chaco xeqha he na quicut
-<lb n="12"/>xa xeqha qaholab xa cacha cacah
-<lb n="13"/>cahzel coq,ih xeqha vtzba
-<lb n="14"/>la naquipa chi coq,ihal xeqha
-<lb n="15"/>qaholab chi que xïbalba huticab
-<lb n="16"/>cacamuchih huticab zaqui muchit
-<lb n="17"/>huticab cana muchit. huticab cu
-<lb n="18"/>ri nimac xeqha. vtzbala
-<lb n="19"/>xeqhacut qaholab ta xcah cut
-<lb n="20"/>qui cha <del rend="overstrike" instant="false" status="unremarkable">ah</del> hunam qui chucab tzatz
-<lb n="21"/>pu qui cha ri qaholab, xacu qui rutz
-<lb n="22"/>qui qux ta xquiya quib chicha
-<lb n="23"/>catahic ri qaholab. que quicot
-<lb n="24"/>cut ri  ta xechacatahic
-<lb n="25"/>vtz mi xcabano nabe mixecacha
-<lb n="26"/>co xeqha  apa xchibe
-<lb n="27"/>qui camavi ri coq,ih xeqha chi –
-<lb n="28"/>qui qux. qui tzih ta acab chiia
-<lb n="29"/>ri ca coq,ih cachacom puch xe
-<lb n="30"/>vqhax puch qaholab 
-<lb n="31"/>que rumal
-<lb n="32"/>vtzbala acaba chicut cohcha –
-<lb n="33"/>ahic xeqha cut ta xepixaban
-<lb n="34"/>quib cate chicut ta xeoc chi
-<lb n="35"/>qaholab pachaim ha vcabti –
-<lb n="36"/>hobal are ta cut xa –
-<lb n="37"/>hauaxchic xecatacoxtah ru –
-<lb n="38"/>mal cha chanim tah chiqui –
-<lb n="39"/>qux xecam tah chiquiqux
-<lb n="40"/>macu xecamic ta xeqha chi –
-<lb n="41"/>re cha, ta xquipixabah are
-<lb n="42"/>ive ri ronohel v tiohil chi –
-<lb n="43"/>cop xeqha chire cha macu
-<lb n="44"/>xezilab chic, xa hun cah chi –
-<lb n="45"/>vi cha ronohel are cut e qo
-<lb n="46"/>chichiri pachaim ha chacab ta
-<lb n="47"/>xquiziquih ronoh el zanic. chai
-
-</p>
-                <pb xml:id="xom-f26-s1"/>
-                <p>
+                    <lb n="2"/>ri chiri chi cha xechacatah tah
+                    <lb n="3"/>maui que he xa xecha –
+                    <lb n="4"/>catah chic cumal qaholab maba
+                    <lb n="5"/>quixbec ixqaholab cohchah na
+                    <lb n="6"/>xa are cacacoho ri ivech xvq –
+                    <lb n="7"/>hax cut qaholab vtzbala xeqha
+                    <lb n="8"/>cut are cu xocri qui quic ta
+                    <lb n="9"/>xcah cuchaah. cate cut ta xqui –
+                    <lb n="10"/>choi quichacon; naqui pa chica –
+                    <lb n="11"/>chaco xeqha he na quicut
+                    <lb n="12"/>xa xeqha qaholab xa cacha cacah
+                    <lb n="13"/>cahzel coq,ih xeqha vtzba
+                    <lb n="14"/>la naquipa chi coq,ihal xeqha
+                    <lb n="15"/>qaholab chi que xïbalba huticab
+                    <lb n="16"/>cacamuchih huticab zaqui muchit
+                    <lb n="17"/>huticab cana muchit. huticab cu
+                    <lb n="18"/>ri nimac xeqha. vtzbala
+                    <lb n="19"/>xeqhacut qaholab ta xcah cut
+                    <lb n="20"/>qui cha <del rend="overstrike" instant="false" status="unremarkable">ah</del> hunam qui chucab tzatz
+                    <lb n="21"/>pu qui cha ri qaholab, xacu qui rutz
+                    <lb n="22"/>qui qux ta xquiya quib chicha
+                    <lb n="23"/>catahic ri qaholab. que quicot
+                    <lb n="24"/>cut ri  ta xechacatahic
+                    <lb n="25"/>vtz mi xcabano nabe mixecacha
+                    <lb n="26"/>co xeqha  apa xchibe
+                    <lb n="27"/>qui camavi ri coq,ih xeqha chi –
+                    <lb n="28"/>qui qux. qui tzih ta acab chiia
+                    <lb n="29"/>ri ca coq,ih cachacom puch xe
+                    <lb n="30"/>vqhax puch qaholab 
+                    <lb n="31"/>que rumal
+                    <lb n="32"/>vtzbala acaba chicut cohcha –
+                    <lb n="33"/>ahic xeqha cut ta xepixaban
+                    <lb n="34"/>quib cate chicut ta xeoc chi
+                    <lb n="35"/>qaholab pachaim ha vcabti –
+                    <lb n="36"/>hobal are ta cut xa –
+                    <lb n="37"/>hauaxchic xecatacoxtah ru –
+                    <lb n="38"/>mal cha chanim tah chiqui –
+                    <lb n="39"/>qux xecam tah chiquiqux
+                    <lb n="40"/>macu xecamic ta xeqha chi –
+                    <lb n="41"/>re cha, ta xquipixabah are
+                    <lb n="42"/>ive ri ronohel v tiohil chi –
+                    <lb n="43"/>cop xeqha chire cha macu
+                    <lb n="44"/>xezilab chic, xa hun cah chi –
+                    <lb n="45"/>vi cha ronohel are cut e qo
+                    <lb n="46"/>chichiri pachaim ha chacab ta
+                    <lb n="47"/>xquiziquih ronoh el zanic. chai
+                
+                    <pb xml:id="xom-f26-s1"/>
+                
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
                             <hi rend="handwriting;color:pencil">26</hi>
                         </num>
                     </note>
                     <lb n="1"/>zanic che que nzanic quixpetoc, quix –
-<lb n="2"/>oho ivonohel ohicama ronohel
-<lb n="3"/>
-                    <rs ana="pájaro">vvach</rs> cotzih qui chacon ahauab
-<lb n="4"/>vtzbala xeqha cut ta xebe curi
-<lb n="5"/>zanic conohel e camol cotzih v
-<lb n="6"/>ticon hun came, vvcub came mier
-<lb n="7"/>oc cut chiquipixabah chahal qui
-<lb n="8"/>cotzih ri  laqui chivila ca
-<lb n="9"/>cotzih miya chi elecaxic rumal
-<lb n="10"/>ri mi xecachaco ri qaholab a
-<lb n="11"/>navi xpevi rilo cachacon cu―
-<lb n="12"/>mal mahabi chivarah hun a
-<lb n="13"/>cab vtzbala xeqha cut macu
-<lb n="14"/>xquina ri chahal ticon xaloc
-<lb n="15"/>chiquiracuh qui chi chucab tac
-<lb n="16"/>che ticon puch que bechacala chi –
-<lb n="17"/>ri xavi xere chiquiqhabeh ri
-<lb n="18"/>quibix xpurpuvec, xpurpu –
-<lb n="19"/>uec qhari hun ta choquic pu
-<lb n="20"/>huyu, puhuyu chachic ta cho –
-<lb n="21"/>quic ri puhuyu vbi e caib chi –
-<lb n="22"/>chahal ticon vticon hun came
-<lb n="23"/>vvcub came macu caquina ri
-<lb n="24"/>zanic elecai qui chahem cabolo –
-<lb n="25"/>vic catucuvic erai cotzih ri cabe
-<lb n="26"/>catova vloc cotzih chuviche re ca
-<lb n="27"/>zicou cuq chuxeche ri coq,ih xa
-<lb n="28"/>que he chiquiracuh qui chi ri cha –
-<lb n="29"/>halib mana re caquinao ca
-<lb n="30"/>qux quihe ca qux quixic are
-<lb n="31"/>caquirixic coq,ih cacacah vloc
-<lb n="32"/>re cazicouic, re cabe catoua vloc
-<lb n="33"/>libah chicut xnoh cahib zel co –
-<lb n="34"/>q,ih tiquitoh chicut taxzaqui –
-<lb n="35"/>ric. cate cut ta xul zamahel ta –
-<lb n="36"/>conel que petoc caqha ahau hu –
-<lb n="37"/>zuc chiquicam vlari cachacon
-<lb n="38"/>xevqhax cut qaholab. vtz bala
-<lb n="39"/>xeqha cut qui ti que laon curi co –
-<lb n="40"/>tzih cahib zel ta xebec ta xeo –
-<lb n="41"/>pon cu chiqui <rs ana="pájaro">vach</rs> ahau aha
-<lb n="42"/>vab cu caam cotzih quz v <rs ana="pájaro">vach</rs>
+                    <lb n="2"/>oho ivonohel ohicama ronohel
+                    <lb n="3"/><rs ana="pájaro">vvach</rs> cotzih qui chacon ahauab
+                    <lb n="4"/>vtzbala xeqha cut ta xebe curi
+                    <lb n="5"/>zanic conohel e camol cotzih v
+                    <lb n="6"/>ticon hun came, vvcub came mier
+                    <lb n="7"/>oc cut chiquipixabah chahal qui
+                    <lb n="8"/>cotzih ri  laqui chivila ca
+                    <lb n="9"/>cotzih miya chi elecaxic rumal
+                    <lb n="10"/>ri mi xecachaco ri qaholab a
+                    <lb n="11"/>navi xpevi rilo cachacon cu―
+                    <lb n="12"/>mal mahabi chivarah hun a
+                    <lb n="13"/>cab vtzbala xeqha cut macu
+                    <lb n="14"/>xquina ri chahal ticon xaloc
+                    <lb n="15"/>chiquiracuh qui chi chucab tac
+                    <lb n="16"/>che ticon puch que bechacala chi –
+                    <lb n="17"/>ri xavi xere chiquiqhabeh ri
+                    <lb n="18"/>quibix xpurpuvec, xpurpu –
+                    <lb n="19"/>uec qhari hun ta choquic pu
+                    <lb n="20"/>huyu, puhuyu chachic ta cho –
+                    <lb n="21"/>quic ri puhuyu vbi e caib chi –
+                    <lb n="22"/>chahal ticon vticon hun came
+                    <lb n="23"/>vvcub came macu caquina ri
+                    <lb n="24"/>zanic elecai qui chahem cabolo –
+                    <lb n="25"/>vic catucuvic erai cotzih ri cabe
+                    <lb n="26"/>catova vloc cotzih chuviche re ca
+                    <lb n="27"/>zicou cuq chuxeche ri coq,ih xa
+                    <lb n="28"/>que he chiquiracuh qui chi ri cha –
+                    <lb n="29"/>halib mana re caquinao ca
+                    <lb n="30"/>qux quihe ca qux quixic are
+                    <lb n="31"/>caquirixic coq,ih cacacah vloc
+                    <lb n="32"/>re cazicouic, re cabe catoua vloc
+                    <lb n="33"/>libah chicut xnoh cahib zel co –
+                    <lb n="34"/>q,ih tiquitoh chicut taxzaqui –
+                    <lb n="35"/>ric. cate cut ta xul zamahel ta –
+                    <lb n="36"/>conel que petoc caqha ahau hu –
+                    <lb n="37"/>zuc chiquicam vlari cachacon
+                    <lb n="38"/>xevqhax cut qaholab. vtz bala
+                    <lb n="39"/>xeqha cut qui ti que laon curi co –
+                    <lb n="40"/>tzih cahib zel ta xebec ta xeo –
+                    <lb n="41"/>pon cu chiqui <rs ana="pájaro">vach</rs> ahau aha
+                    <lb n="42"/>vab cu caam cotzih quz v <rs ana="pájaro">vach</rs>
                     <lb n="43"/>que he cut xechacatah vi xibal –
-<lb n="44"/>ba, xa zanic xquitac ri qaho –
-<lb n="45"/>lab xahuna cabil xquichap
-<lb n="46"/>zanic ta quiya pazel.que he
-<lb n="47"/>cut xezac cahe riconohel xi –
-</p>
-                <pb xml:id="xom-f26-s2"/>
-                <p>
+                    <lb n="44"/>ba, xa zanic xquitac ri qaho –
+                    <lb n="45"/>lab xahuna cabil xquichap
+                    <lb n="46"/>zanic ta quiya pazel.que he
+                    <lb n="47"/>cut xezac cahe riconohel xi –
+
+                    <pb xml:id="xom-f26-s2"/>
+                
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
                             <hi rend="handwriting;color:pencil">26</hi>
                         </num>
                     </note>
                     <lb n="1"/>balba zacbuc qui <rs ana="pájaro">vach</rs> rumal
-<lb n="2"/>ri cotzih catecut xquitac ri cha –
-<lb n="3"/>hal coq,ih na qui pa rumal mi –
-<lb n="4"/>xia ca cotzih chi elecaxic are
-<lb n="5"/>ca coq,ih vae cauilo xevqhr
-<lb n="6"/>axchahal maba xcanao at
-<lb n="7"/>ahau minare xcuyu cahe xe
-<lb n="8"/>qha cut cate puch xhix quichi
-<lb n="9"/>quitohbal quichahin chicle –
-<lb n="10"/>caxic <expan instant="false">que</expan>he cut quichacatahic
-<lb n="11"/>hun came vvcub came cu –
-<lb n="12"/>mal que
-<lb n="13"/>v xe ribanoh ri. ta xquicam ri
-<lb n="14"/>qui chi herebaca quichi purpuec
-<lb n="15"/>herebaca <rs ana="pájaro">vac</rs> amic cate chi –
-<lb n="16"/>cut ta xcahchaah xaui xe
-<lb n="17"/>re hunam que chaahic x que
-<lb n="18"/>leh chicu chaah ta xepixaban
-<lb n="19"/>chicu quib zacaric chic xeqha–
-<lb n="20"/> vzbala xeqha qaho –
-<lb n="21"/>lab ta x que leh.
-<lb n="22"/>Xeoc chicut pateuh ha ma –
-<lb n="23"/>ui ahilan teu tzatz chi zacbocom
-<lb n="24"/>chupan ha rochoch teu huzu
-<lb n="25"/>cu ztzah teu rumal cutz mama –
-<lb n="26"/>ina xzach ri teu cumal qaho –
-<lb n="27"/>lab maui xecamic xavi e
-<lb n="28"/>qazlic ta xzaquiric areta cu
-<lb n="29"/>xcah chirita xecam
-<lb n="30"/>vi maui que he xavi qutz qui
-<lb n="31"/>
-                    <rs ana="pájaro">vach</rs> ta xzaquiric xe que l chi –
-<lb n="32"/>vla tacol que xebe chic e
-<lb n="33"/>chahal na quipala maui mi –
-<lb n="34"/>xecamic xqha chi rahaual xi –
-<lb n="35"/>balba xquimaihah chic qui –
-<lb n="36"/>banoh qaholab xba –
-<lb n="37"/>lan que
-</p>
+                    <lb n="2"/>ri cotzih catecut xquitac ri cha –
+                    <lb n="3"/>hal coq,ih na qui pa rumal mi –
+                    <lb n="4"/>xia ca cotzih chi elecaxic are
+                    <lb n="5"/>ca coq,ih vae cauilo xevqhr
+                    <lb n="6"/>axchahal maba xcanao at
+                    <lb n="7"/>ahau minare xcuyu cahe xe
+                    <lb n="8"/>qha cut cate puch xhix quichi
+                    <lb n="9"/>quitohbal quichahin chicle –
+                    <lb n="10"/>caxic <expan instant="false">que</expan>he cut quichacatahic
+                    <lb n="11"/>hun came vvcub came cu –
+                    <lb n="12"/>mal que
+                    <lb n="13"/>v xe ribanoh ri. ta xquicam ri
+                    <lb n="14"/>qui chi herebaca quichi purpuec
+                    <lb n="15"/>herebaca <rs ana="pájaro">vac</rs> amic cate chi –
+                    <lb n="16"/>cut ta xcahchaah xaui xe
+                    <lb n="17"/>re hunam que chaahic x que
+                    <lb n="18"/>leh chicu chaah ta xepixaban
+                    <lb n="19"/>chicu quib zacaric chic xeqha–
+                    <lb n="20"/> vzbala xeqha qaho –
+                    <lb n="21"/>lab ta x que leh.
+                </p>
                 <p>
-                    <lb n="38"/>Cate xeoc chicut pabala
-<lb n="39"/>mi ha tzatz chibalam balam
-<lb n="40"/>rochoch maui cohitio qo ivech
-<lb n="41"/>chuxic xevqhaxic balam cate
-<lb n="42"/>cut <rs ana="CHAMIYABAQ">xquipuquih</rs> baca chi quiva –
-<lb n="43"/>ch chicop cate cut que pa –
-<lb n="44"/>caquic ch <del rend="overstrike" instant="false" status="unremarkable">irichuvi</del> baca micu
-<lb n="45"/>xevtzinic mi xutih qui qux ca –
-<lb n="46"/>teviri mix xquia quib are qui –
-<lb n="47"/>baquil ri caxuxic xeqha ri
-</p>
-                <pb xml:id="xom-f27-s1"/>
+                    <lb n="22"/>Xeoc chicut pateuh ha ma –
+                    <lb n="23"/>ui ahilan teu tzatz chi zacbocom
+                    <lb n="24"/>chupan ha rochoch teu huzu
+                    <lb n="25"/>cu ztzah teu rumal cutz mama –
+                    <lb n="26"/>ina xzach ri teu cumal qaho –
+                    <lb n="27"/>lab maui xecamic xavi e
+                    <lb n="28"/>qazlic ta xzaquiric areta cu
+                    <lb n="29"/>xcah chirita xecam
+                    <lb n="30"/>vi maui que he xavi qutz qui
+                    <lb n="31"/><rs ana="pájaro">vach</rs> ta xzaquiric xe que l chi –
+                    <lb n="32"/>vla tacol que xebe chic e
+                    <lb n="33"/>chahal na quipala maui mi –
+                    <lb n="34"/>xecamic xqha chi rahaual xi –
+                    <lb n="35"/>balba xquimaihah chic qui –
+                    <lb n="36"/>banoh qaholab xba –
+                    <lb n="37"/>lan que
+                </p>
                 <p>
+                    <lb n="38" rend="indent" />Cate xeoc chicut pabala
+                    <lb n="39"/>mi ha tzatz chibalam balam
+                    <lb n="40"/>rochoch maui cohitio qo ivech
+                    <lb n="41"/>chuxic xevqhaxic balam cate
+                    <lb n="42"/>cut <rs ana="CHAMIYABAQ">xquipuquih</rs> baca chi quiva –
+                    <lb n="43"/>ch chicop cate cut que pa –
+                    <lb n="44"/>caquic ch <del rend="overstrike" instant="false" status="unremarkable">irichuvi</del> baca micu
+                    <lb n="45"/>xevtzinic mi xutih qui qux ca –
+                    <lb n="46"/>teviri mix xquia quib are qui –
+                    <lb n="47"/>baquil ri caxuxic xeqha ri
+
+                    <pb xml:id="xom-f27-s1"/>
+                
                     <lb n="1"/>varanel conohel qui quiqux chi–
-<lb n="2"/>re macuxecamic xavi xere vtz
-<lb n="3"/>
-                    <rs ana="pájaro">quivach</rs> xeel vloc pabalami ha
-<lb n="4"/>naquipa quichi e vinaquil apa
-<lb n="5"/>qui xepe vi xeqha ri  co –
-<lb n="6"/>nohel
-</p>
+                    <lb n="2"/>re macuxecamic xavi xere vtz
+                    <lb n="3"/><rs ana="pájaro">quivach</rs> xeel vloc pabalami ha
+                    <lb n="4"/>naquipa quichi e vinaquil apa
+                    <lb n="5"/>qui xepe vi xeqha ri  co –
+                    <lb n="6"/>nohel
+                </p>
                 <p>
                     <lb n="7"/>Cate chic xeoc chupam eae
-<lb n="8"/>hun ha chieae, xa vtu que l eae v
-<lb n="9"/>pam maui xecatic rumal, xa
-<lb n="10"/>bolol, xa tzimah vi xavi xere
-<lb n="11"/>vtz <rs ana="pájaro">chi quivac</rs>h ta xzaquiric a
-<lb n="12"/>reta cahauaxic huzuc ta que –
-<lb n="13"/>camic chupan ri, que icou vi ma–
-<lb n="14"/>ui que he xavi 
-<lb n="15"/>cazach quiqux rumal.
-</p>
+                    <lb n="8"/>hun ha chieae, xa vtu que l eae v
+                    <lb n="9"/>pam maui xecatic rumal, xa
+                    <lb n="10"/>bolol, xa tzimah vi xavi xere
+                    <lb n="11"/>vtz <rs ana="pájaro">chi quivac</rs>h ta xzaquiric a
+                    <lb n="12"/>reta cahauaxic huzuc ta que –
+                    <lb n="13"/>camic chupan ri, que icou vi ma–
+                    <lb n="14"/>ui que he xavi 
+                    <lb n="15"/>cazach quiqux rumal.
+                </p>
                 <p>
                     <lb n="16"/>Xecoh chic chupan zotzin ha
-<lb n="17"/>vtu que l zotz chupam chiha
-<lb n="18"/>hun ha chi camazotz nimac chi –
-<lb n="19"/>cop que heri cha quitzam quica –
-<lb n="20"/>mizabal huzu chutzinic chopon
-<lb n="21"/>chi <rs ana="pájaro">quivach</rs>. xeqohe cu chiri chu –
-<lb n="22"/>pam xa pa vvb xevar vi ma
-<lb n="23"/>vi xetÿc rumal ri e qo pa ha
-<lb n="24"/>chiri cut xquiya vi quib hun vi
-<lb n="25"/>rumal hun chicama zotz chica –
-<lb n="26"/>h xpevi <del rend="overstrike" instant="false" status="unremarkable">carah cu mucum vloc
-<lb n="27"/>chu tzam vvb xavi</del> vcutbal rib
-<lb n="28"/>ta xquibano rumal qo caqui –
-<lb n="29"/>tzonoh vi quinaoh hun acab
-<lb n="30"/>curi zotz que buhuhic quilitz
-<lb n="31"/>quilitz que qha, que qha hun –
-<lb n="32"/>acab. xtane curi zcaquin ma –
-<lb n="33"/>habi chic que zilobic ri zotz chi –
-<lb n="34"/>ri cu chacal viri hun tzam v –
-<lb n="35"/>vb. xchacuri que hu –
-<lb n="36"/>nahpu cahanic pa vzaquiric
-<lb n="37"/>cauilo cahanican labalo vila
-<lb n="38"/>na xqha cut qui cu are carah
-<lb n="39"/>mucum vloc chuchi vvb
-<lb n="40"/>carah ril vloc vzaquiric ca –
-<lb n="41"/>te puch ta xcupix vholom
-<lb n="42"/>rumal cama zotz cupul chi
-<lb n="43"/>canoc vnimal ri hu
-<lb n="44"/>chalic ma mixzaquiric xqha –
-<lb n="45"/>ri que mahabi chic chi –
-<lb n="46"/>zilobic rihupacha
-<lb n="47"/>maxaon mi xbec hunahpu
-</p>
-                <pb xml:id="xom-f27-s2"/>
-                <p>
+                    <lb n="17"/>vtu que l zotz chupam chiha
+                    <lb n="18"/>hun ha chi camazotz nimac chi –
+                    <lb n="19"/>cop que heri cha quitzam quica –
+                    <lb n="20"/>mizabal huzu chutzinic chopon
+                    <lb n="21"/>chi <rs ana="pájaro">quivach</rs>. xeqohe cu chiri chu –
+                    <lb n="22"/>pam xa pa vvb xevar vi ma
+                    <lb n="23"/>vi xetÿc rumal ri e qo pa ha
+                    <lb n="24"/>chiri cut xquiya vi quib hun vi
+                    <lb n="25"/>rumal hun chicama zotz chica –
+                    <lb n="26"/>h xpevi <del rend="overstrike" instant="false" status="unremarkable">carah cu mucum vloc
+                    <lb n="27"/>chu tzam vvb xavi</del> vcutbal rib
+                    <lb n="28"/>ta xquibano rumal qo caqui –
+                    <lb n="29"/>tzonoh vi quinaoh hun acab
+                    <lb n="30"/>curi zotz que buhuhic quilitz
+                    <lb n="31"/>quilitz que qha, que qha hun –
+                    <lb n="32"/>acab. xtane curi zcaquin ma –
+                    <lb n="33"/>habi chic que zilobic ri zotz chi –
+                    <lb n="34"/>ri cu chacal viri hun tzam v –
+                    <lb n="35"/>vb. xchacuri que hu –
+                    <lb n="36"/>nahpu cahanic pa vzaquiric
+                    <lb n="37"/>cauilo cahanican labalo vila
+                    <lb n="38"/>na xqha cut qui cu are carah
+                    <lb n="39"/>mucum vloc chuchi vvb
+                    <lb n="40"/>carah ril vloc vzaquiric ca –
+                    <lb n="41"/>te puch ta xcupix vholom
+                    <lb n="42"/>rumal cama zotz cupul chi
+                    <lb n="43"/>canoc vnimal ri hu
+                    <lb n="44"/>chalic ma mixzaquiric xqha –
+                    <lb n="45"/>ri que mahabi chic chi –
+                    <lb n="46"/>zilobic rihupacha
+                    <lb n="47"/>maxaon mi xbec hunahpu
+
+                    <pb xml:id="xom-f27-s2"/>
+                
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
                             <hi rend="handwriting;color:pencil">27</hi>
                         </num>
                     </note>
                     <lb n="1"/>hupacha mi xabano mahabi
-<lb n="2"/>chic chizilabic xaquichico –
-<lb n="3"/>zoz chic cate cut <rs ana="XBALAMKE">xuquixbih</rs>
+                    <lb n="2"/>chic chizilabic xaquichico –
+                    <lb n="3"/>zoz chic cate cut <rs ana="XBALAMKE">xuquixbih</rs>
                     <lb n="4"/>que araroc mixcaya
-<lb n="5"/>yan xcha cut chila cut xbe
-<lb n="6"/>colana vi vholom chuvi hom
-<lb n="7"/>xavi vtzih hun came vvcub
-<lb n="8"/>came que quicot curi xibal –
-<lb n="9"/>ba conohel rumal vholom
-<lb n="10"/>cate cut ta xutac
-<lb n="11"/>chicop ronohel ziz, ae. rono –
-<lb n="12"/>hel chuti chicop, nima chicop
-<lb n="13"/>chacab xavi xare racabal
-<lb n="14"/>ta xutzonoh cut que cha na
-<lb n="15"/>qui tac pa ivecha chi huhunal
-<lb n="16"/>are quixnutac vi chicam vl
-<lb n="17"/>oc ri ivecha xqha cut xba –
-<lb n="18"/>lan que chi que vtzbala xe
-<lb n="19"/>qha cut ta xebec e camol rech
-<lb n="20"/>ta xevl he cut conohel qo xa
-<lb n="21"/>cumar rech xbevcama, qo
-<lb n="22"/>xa tzalic xbevcama, qo xa a –
-<lb n="23"/>bah xbevcama, qo xavleu
-<lb n="24"/>xbe vcama halahoh que cha
-<lb n="25"/>ri chicop, nimachicop quipu
-<lb n="26"/>ca v xambe canahoc ri tziz coc
-<lb n="27"/>xbe vcama cubalcatih chutzam
-<lb n="28"/>capetic are cut xoc <rs ana="pájaro">halvac</rs> hi –
-<lb n="29"/>bal vholom hunahpu libahchi
-<lb n="30"/>xcotox vbaca v <rs ana="pájaro">vac</rs> tzatz chi ahna –
-<lb n="31"/>oh chicah xpevi arev quxcah
-<lb n="32"/>huracan xulcoloc xuluculoc chi –
-<lb n="33"/>ri pa zotziha macuatan xutzi –
-<lb n="34"/>nic v <rs ana="pájaro">vach</rs> vtz chic xuxic xa
-<lb n="35"/>uixare vchuuc hebel hi –
-<lb n="36"/>nic xavi xare xqhauic are
-<lb n="37"/>cut ta chirah zaquiric chi
-<lb n="38"/>cactarin vxe cah caxaqui –
-<lb n="39"/>nachic ama xuchax ri vuch
-<lb n="40"/>ve xqhari mama ta chixa –
-<lb n="41"/>quinic cate ta chi que ea mar
-<lb n="42"/>chic cahmul xaquin ri mama.
-<lb n="43"/>caxaquinvvch caqha vi –
-<lb n="44"/>nac <rs ana="pájaro">vac</rs> amic. xa cu cac raxu –
-<lb n="45"/>tzinic ta xutiquiba vqohic ma
-<lb n="46"/>vtz cha chux cut hunahpu he vtz
-<lb n="47"/>xqhacut xavi xare chvbaqui –
-</p>
-                <pb xml:id="xom-f28-s1"/>
-                <p>
-                    <lb n="1"/>tila vholom quehe ri quitzih v
-                <lb n="2"/>holom xuxic. cate cut ta xqui –
-                <lb n="3"/>ban quitzih xepixaban quib
-                <lb n="4"/>mana qui catchaahic xa quichaye
-                <lb n="5"/>cuh auib xainhun quiquibanouic
-                <lb n="6"/>xqha <rs ana="XBALAMKE">xbalanque</rs> chire cate cut
-                <lb n="7"/>taxupixabah hun vmul catqole
-                <lb n="8"/>tachiri chuvihom chivi catqohe
-                <lb n="9"/>vi chupan pixc xuqhax vmul
-                <lb n="10"/>rumal <rs ana="XBALAMKE">xbalanque</rs> chopon na
-                <lb n="11"/>quic avq cate catelic ca inqui –
-                <lb n="12"/>banouic xuqhax ri vmul ta x –
-                <lb n="13"/>pixabaxic chacab cate cut ta
-                <lb n="14"/>xzaquiric xavi xare vtzqui –
-                <lb n="15"/>vach qui cabichal.
-                <lb n="16"/>xcah chicu quichaah colan
-                <lb n="17"/>chicu vholom <rs ana="JUNAJPU">hun ahpu</rs> chuvi
-                <lb n="18"/>hom. mi xcachacoyan, mixibano
-                <lb n="19"/>quiyan mi xiyao xevqhaxic xa
-                <lb n="20"/>vi cu xere chiziquin <rs ana="JUNAJPU">hun ahpu</rs>
-                    <lb n="21"/>chacaca ri holom chi quic que –
-                <lb n="22"/>vqhaxic macu chiqui ca caxou
-                <lb n="23"/>chic chiyecoub quib. are cu xe –
-                <lb n="24"/>tzacou quic rahaual <rs ana="XIBALBA">xibalba</rs>
-                    <lb n="25"/>xucul cut <rs ana="XBALAMKE">xbalanque</rs> tacal
-                <lb n="26"/>curi quic chuvach bate chita –
-                <lb n="27"/>nenic ta xelic huzu cu xicou
-                <lb n="28"/>quic chuvihom xahun xaca –
-                <lb n="29"/>nab vi tacal pa pix taxel cu –
-                <lb n="30"/>ri vmul chicoxcotic ta xbec
-                <lb n="30"/>ocotal cut. ta xbe cumal ri xi –
-                <lb n="31"/>balba quehuminic, que chani –
-                <lb n="32"/>nic xebe chirih ri vmul xe
-                <lb n="33"/>quiz be conohel <rs ana="XIBALBA">xibalba</rs> cate –
-                <lb n="34"/>cut xquicamix tah ri vho –
-                <lb n="35"/>lom <rs ana="JUNAJPU">hun ahpu</rs>. xtiquixtah chic
-                <lb n="36"/>vcoc <rs ana="XBALAMKE">xbalanque</rs> are chicut
-                <lb n="37"/>xbe quicuba ri coc chuvi hom
-                <lb n="38"/>quitzih holom chicu vholom
-                <lb n="39"/>ri <rs ana="JUNAJPU">hunahpu</rs> quequicot chicu
-                <lb n="40"/>qui cabichal. are cut quebe
-                <lb n="41"/>tzucuna quic rixibalba cate
-                <lb n="42"/>cut xquicamixtah chiri quic
-                <lb n="43"/>pa pix, ta xeziquin chicut quix
-                <lb n="44"/>petoc vae quic que mix cari –
-                <lb n="45"/>co. xeqha quicolem chicut
-                <lb n="46"/>ta xeul <rs ana="XIBALBA">xibalba</rs> na qui pa ri
-                </p>
-                <pb xml:id="xom-f28-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">28
-                			</hi>
-                    </num>
-                </note>
-                <p>
-                    <lb n="1"/> mi xquilo xeqhacut tax quiti –
-                <lb n="2"/>quiba chicut chaahic. hunam
-                <lb n="3"/>chaahic chicut xquiban chic
-                <lb n="4"/>qui cabichal cate cut xcaca –
-                <lb n="5"/>tah ri coc rumal <rs ana="XBALAMKE">xbalanque</rs>
-                    <lb n="6"/>chi pucabin ri coc xcah pa ho –
-                <lb n="7"/>m zaquiram curi vzaquilal
-                <lb n="8"/>chiqui vach. na qui pa ri chibe
-                <lb n="9"/>icama apa qo vi ri camol re
-                <lb n="10"/>xqha <rs ana="XIBALBA">xibalba</rs>. quehe cut qui
-                <lb n="11"/>chacatahic rahal <rs ana="XIBALBA">xibalba</rs>
-                    <lb n="12"/>rumal <rs ana="JUNAJPU">hun ahpu</rs>
-                    <rs ana="XBALAMKE">xbalanque</rs>
-                    <lb n="13"/>nima caxcol xecohevi ma –
-                <lb n="14"/>ui are xecam vi ri ronohel
-                <lb n="15"/>xban chique. 
-                <lb n="16"/>
-                    <hi rend="large">A</hi>Are cut vae quinabal qui –
-                <lb n="17"/>camic <rs ana="JUNAJPU">hun ahpu</rs>
-                    <rs ana="XBALAMKE">xbalanque</rs> are
-                <lb n="18"/>va qui nabal qui camic xchica
-                <lb n="19"/>bÿh chic. ta xepixabah cut xqui –
-                <lb n="20"/>bano ronohel caxcol rail xban
-                <lb n="21"/>chique maui xecamic rumal
-                <lb n="22"/>vtihobal <rs ana="XIBALBA">xibalba</rs> maui xecha –
-                <lb n="23"/>catahic rumal ronohel tionel
-                <lb n="24"/>chicopo qo chi <rs ana="XIBALBA">xibalba</rs> cate
-                <lb n="25"/>cut ta xquitac chi caib nic vachi –
-                <lb n="26"/>nel queheri e ilol are qui bi
-                <lb n="27"/>va <rs ana="XULU">xulupacam</rs> e etamanel
-                <lb n="28"/>v ve cohtzonoxic chive cumal
-                <lb n="29"/>rahaual <rs ana="XIBALBA">xibalba</rs> rumal ri ca
-                <lb n="30"/>camic quinaoh caquinuc ru
-                <lb n="31"/>mal ri maui mi xohcamic, ma
-                <lb n="32"/>pu mi xohchacatahic mixcaza –
-                <lb n="33"/>ch quitihobal, maxa chicopch –
-                <lb n="34"/>oc chique, are cu retal va chi
-                <lb n="35"/>caqux chohim abah camiza –
-                <lb n="36"/>bal que cumal mi xecuchu
-                <lb n="37"/>quib ronohel <rs ana="XIBALBA">xibalba</rs> macu
-                <lb n="38"/>quitzih ta cohcamic. are cuina
-                <lb n="39"/>oh va xchicabÿh v ve quix
-                <lb n="40"/>vl tzonobex xoc cumal chire
-                <lb n="41"/>ch cacamic ta cohcatoc naqui
-                <lb n="42"/>xchicuchah ix xulu, ix pacam
-                <lb n="43"/>v ve queqha chive ma vtz lo
-                <lb n="44"/>chicatix ta quibaquil pazi –
-                <lb n="45"/>van v ve maba vtz xavi xere
-                <lb n="46"/>chic chiqaztah quivach quix
-                <lb n="47"/>qha vveba are vtz xachica xe –
-                </p>
-                <pb xml:id="xom-f29-s1"/>
-                <p>
-                    <lb n="1"/> queba chuvi che ta queqha chic
-                <lb n="2"/>chive. xax ma vtz vi xavi xere
-                <lb n="3"/>chivil chiquivach quixqha ta
-                <lb n="4"/>quecha chicut chiroxmul xa
-                <lb n="5"/>bare rutzil xachicatix quiba –
-                <lb n="6"/>quil pa racan ha ve cut quix
-                <lb n="7"/>vchax chic cumal are vtz bala
-                <lb n="8"/>quecamic cate cu vtz chihoc qui
-                <lb n="9"/>baquil chuvach abah que heri
-                <lb n="10"/>chiqueex cahim hal huhunal
-                <lb n="11"/>cu chiqueic cate cu chitix vbic
-                <lb n="12"/>chiracan a chiri cahcua chibe
-                <lb n="13"/>chuti huyub nima huyub quix –
-                <lb n="14"/>qha cut ta chicutunizah ri ca –
-                <lb n="15"/>pixab mi xcabÿh chive xe
-                <lb n="16"/>qha xhunahpu <rs ana="XBALAMKE">xbalanque</rs>
-                    <lb n="17"/>ta xepixabic xquetamah qui
-                <lb n="18"/>camic. are caban rinima chohim
-                <lb n="19"/>abah queheri chohibal qui xqui –
-                <lb n="20"/>ban xibalba nimac xac xquico –
-                <lb n="21"/>ho. cate cut xul zamahel achbi –
-                <lb n="22"/>lai que vzamahel hun came
-                <lb n="23"/>vvcub came quepetoc coh be.
-                <lb n="24"/>ta cuq qaholab chibeta qui –
-                <lb n="25"/>la caquixcachohih caqha aha –
-                <lb n="26"/>u ixqaholab xevqhaxic vtz
-                <lb n="27"/>bala xeqha cut anim xebec
-                <lb n="28"/>xeopon cut chuchi choh chiri
-                <lb n="29"/>cut xerah chih vi chi etzanem.
-                <lb n="30"/>cachopih vae ri ca qui cah –
-                <lb n="31"/>tacmul tah chica xicah chica
-                <lb n="32"/>huhunal ixqaholab xeqhax
-                <lb n="33"/>cut rumal hun came. maui a
-                <lb n="34"/>re cohimich vi ri mapa queta –
-                <lb n="35"/>am cacamic ixahauab chivi –
-                <lb n="36"/>la na xeqha cut ta xquicula –
-                <lb n="37"/>vachih qui vach xqui rip qui
-                <lb n="40"/>cab qui cabichal epu hupu –
-                <lb n="41"/>huh ta xebec pa choh chiri
-                <lb n="42"/>cut xecam vi qui cabichal que
-                <lb n="43"/>quicot chicut ronohel xibalba.
-                <lb n="44"/>tacal quiyuyub tacal qui xul
-                <lb n="45"/>cab mixecachaco quitzih mavi
-                <lb n="46"/>a tan xquiya quib xeqha. cate
-                <lb n="47"/>cut qui taquic ri xulu pacam
-                <lb n="48"/>xcanahvi quitzih xavi xare
-                <lb n="49"/>xtzonox rixbe vi qui ba quil 
-                </p>
-                <pb xml:id="xom-f29-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">29
-                				</hi>
-                    </num>
-                </note>
-                <p>
-                    <lb n="1"/>ta xequihin xibalba xhoc qui ba
-                <lb n="2"/>quil xbe tixoc chi racan a macu
-                <lb n="3"/>xebeta chinah xa huzu xecah
-                <lb n="4"/>chuxe a chaom qaholab xe
-                <lb n="5"/>vxic xavi xere qui vach xuxic
-                <lb n="6"/>xecutun chicut.
-                <lb n="7"/>Chi robix cut xecutun chix xe
-                <lb n="8"/>il chi ya rumal vinac e caib que
-                <lb n="9"/>heri xavinac car xevachinic
-                <lb n="10"/>ta xil qui vach cumal xibalba
-                <lb n="11"/>xetzucux cut chitac ya xchu
-                <lb n="12"/>eca cut quecutunoc e caib chi
-                <lb n="13"/>meba atziyac quivach atziiac
-                <lb n="14"/>pu quih atziiac cut qui cu mana
-                <lb n="15"/>chibanan ta qui vach ta
-                <lb n="16"/>qui xeilic rumal xibalba hala
-                <lb n="17"/>chicut xquibano xa xahoh puhuy
-                <lb n="18"/>xahoh cux xayboy xqui xa
-                <lb n="19"/>ho xa xtzul, xa chitic xqui xah
-                <lb n="20"/>chic quiia maihabal xquiban
-                <lb n="21"/>chic xquiporoh ha queheri qui
-                <lb n="22"/>tzih chicatic libah chicut chivi –
-                <lb n="23"/>naquir chic. tzatz chi xibalba chica –
-                <lb n="24"/>yic cate chiquipuz quib chicam
-                <lb n="25"/>hun chique chipune na chicami
-                <lb n="26"/>naquil nabe chiquicamizah quib
-                <lb n="27"/>xaui xere libah chicaztah vi chi
-                <lb n="28"/>vvach xa quicay xibalba ta chi –
-                <lb n="29"/>quibano ronohel xquiban chic
-                <lb n="30"/>v xenaahic chic chacbal quech
-                <lb n="31"/>xibalba cumal.
-                <lb n="32"/>Cate chi puch roponic chic v
-                <lb n="33"/>tzihel quixahoh chi xiquin aha –
-                <lb n="34"/>uab huncame, vvcub came xch –
-                <lb n="35"/>a ta xquitao naqui ri caibme –
-                <lb n="36"/>ba la quitzih vi chi quz. quitzih
-                <lb n="37"/>vi pu chihebelic quixahouic
-                <lb n="38"/>ronohel caquibano xqha cut
-                <lb n="40"/>quitzihoxic xoponic cuq ahauab
-                <lb n="41"/>quz xquitao ta xbochi cut qui
-                <lb n="42"/>zamahel tacol chique petoc ch –
-                <lb n="43"/>vl ta quibana cacay queca ma –
-                <lb n="44"/>ihah tah quecacayih ta puch
-                <lb n="45"/>quecha ahauab quixqha chi –
-                <lb n="46"/>que xuqhax ri zamahel xeo –
-                <lb n="47"/>pon cut cuq ri xahol ta xqhav
-                <lb n="48"/>cut quitzih ahauab chique
-                </p>
-                <pb xml:id="xom-f30-s1"/>
-                <p>
-                    <lb n="1"/>mabachicah rumal ri quitzih
-                <lb n="2"/>cohxobic maxa mavi cohquix –
-                <lb n="3"/>bic cohoc apanoc chi ahaual ha
-                <lb n="4"/>rumal qui itzel cavach maxa –
-                <lb n="5"/>qui nimac vbac cavach chi meba
-                <lb n="6"/>maxaon ril chire xaoh xahol
-                <lb n="7"/>naquita chicabÿh chique cach
-                <lb n="8"/>meba qo cam curaih naypu ri
-                <lb n="9"/>ca xahoh caquicaztah quivach
-                <lb n="10"/>cuq maquehela cu xchicaban
-                <lb n="11"/>chique ri ahauab quehe cu ma
-                <lb n="12"/>vi cacah vi ixzamahel xeq –
-                <lb n="13"/>ha cut ri hun ahpu xbalanque
-                <lb n="14"/>xelehebex na qui vach chuvi
-                <lb n="15"/>ra chuvi cax cacrail xebec
-                <lb n="16"/>maui atan xcah benam quia
-                <lb n="17"/>mul xchihic xa chimachcay
-                <lb n="18"/>zamahel chiquivach camol que
-                <lb n="19"/>ta xebe cut ruq ahau.
-                <lb n="20"/>Xeopon puch cuq ahauab
-                <lb n="21"/>Quemocho chic chiqui xule la
-                <lb n="22"/>qui vach xeoponic xqui que –
-                <lb n="23"/>melah quib chiquiluc quib
-                <lb n="24"/>chiquipach quib chimayoquih
-                <lb n="25"/>chiatziac quitzih vi chimeba qui
-                <lb n="26"/>vachibal xeoponic ta xtzonox
-                <lb n="27"/>cut quihuyubal camac puch
-                <lb n="28"/>xtzonox naipuch qui chuch qui
-                <lb n="29"/>cahau apa quixpevi xevqha –
-                <lb n="30"/>xic. maba quetaon at ahau ma
-                <lb n="31"/>ui xquetaamah vvach ca chuch
-                <lb n="32"/>cacahau ca oh chutic oc ta xe –
-                <lb n="33"/>camic xa xeqha maui naquila
-                <lb n="34"/>xquibÿh. vtzbala chiban ta ba
-                <lb n="35"/>ca cay naqui chivah yvahil chi –
-                <lb n="36"/>cayao xevqhaxic. maba cacah
-                <lb n="37"/>quitzih chicacaxibih quib xeqha
-                <lb n="38"/>chic chire ahau. mi xibih ivib
-                <lb n="39"/>mix xobic quixxahouoc. are
-                <lb n="40"/>ta nabe chixah ri quixpuzu ta
-                <lb n="41"/>ivib chiporoh ta curi vochoch
-                <lb n="42"/>chibana ronohel ri ivetaam
-                <lb n="43"/>cohcay tah cacah are vma ca
-                <lb n="44"/>qux quixbetacoc rumal ixme –
-                <lb n="45"/>ba chicaya ivahil xevqhax
-                <lb n="46"/>cut ta xquitiquiba cut quibix
-                <lb n="47"/>qui xahoh ta xulcut ronohel
-                </p>
-                <pb xml:id="xom-f30-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">30
-                			</hi>
-                    </num>
-                </note>
-                <p>
-                    <lb n="1"/>ri xibalba xepulic ecayel ro
-                <lb n="2"/>nohel cut xquixaho xquixah
-                <lb n="3"/>cux, xquixah puhuy, xquixah
-                <lb n="4"/>yboy xqha cu ahau chique
-                <lb n="5"/>chipuzu ri nu tzÿ chicaztah chi
-                <lb n="6"/>vvach ivvmal xevqhaxic ve
-                <lb n="7"/>xeqha. ta xquipuz tzÿ xqaztai
-                <lb n="8"/>chi vvach quitzih cu chiquicot
-                <lb n="9"/>ri tzÿ ta xqaztah vvach chuzac –
-                <lb n="10"/>bizala vhe ta xqaztah v vach
-                <lb n="11"/>xqha cuahau chique chiporo –
-                <lb n="12"/>h naba vochoch xevqhaxchic
-                <lb n="13"/>ta xquiporoh cut rochoch ahau
-                <lb n="14"/>e pulinac ahauab pa ha conohel
-                <lb n="15"/>maui xecatic libah chichic x –
-                <lb n="16"/>cutzinizah mana huzu zachic
-                <lb n="17"/>ri rochoch huncame xquimai –
-                <lb n="18"/>hah cut conohel ahauab xa
-                <lb n="19"/>vi cu xere quexahouic nim
-                <lb n="20"/>quequicotic xevqhax chicut
-                <lb n="21"/>rumal ahau chicamizah na
-                <lb n="22"/>cuhun vinac chipuzu mata
-                <lb n="23"/>cu chicamic xevqhaxcut vtz
-                <lb n="24"/>bala xeqha taxquichap cut
-                <lb n="25"/>hun vinac cate xquipuzu xqui –
-                <lb n="26"/>poeoh cu acanoc vquxrihun
-                <lb n="27"/>vinac xquicoloba cut chiqui –
-                <lb n="28"/>vach ahauab xquimaiha chi
-                <lb n="29"/>cut hun came, vvcub came li
-                <lb n="1"/>bah chi cut xqazta chi v vach
-                <lb n="30"/>rihun vinac cumal nim chi –
-                <lb n="31"/>quicot vqux taxqaztah v
-                <lb n="32"/>vach xquimaihah cut ahau –
-                <lb n="33"/>ab. chipuzuna china cuivib
-				<lb n="34"/>chiquiltah quitzih curaih ca
-				<lb n="35"/>qux ri ixahoh xeqha chi cu
-				<lb n="36"/>ahauab vtzbala at ahau
-				<lb n="37"/>xeqhacut cate puch xquipuz
-				<lb n="38"/>quib are cu xpuz ri xhun ah –
-				<lb n="39"/>pu rumal xbalanque huhu –
-				<lb n="40"/>nal cu xperepoxic racan vcab
-				<lb n="41"/>xelvholom xcole aponoc chi
-				<lb n="42"/>nah xcotix vloc vqux xche –
-				<lb n="43"/>que chuvach tzalic quecabar
-				<lb n="44"/>curi ronohel rahaual xibal –
-				<lb n="45"/>ba chicay xacu hun chi caxa –
-				<lb n="46"/>houilabic ri xbalanque cava –
-                </p>
-                <pb xml:id="xom-f31-s1"/>
-                <p>
-                    <lb n="1"/>lihoc xqhacut libah chicut xqaz –
-                <lb n="2"/>tah vvach. nim quequicotic. xavi
-                <lb n="3"/>quehe quequicot ahauab. xavi
-                <lb n="4"/>are quebanovic caquicot quiqux
-                <lb n="5"/>huncame vvcub came queheri
-                <lb n="6"/>are quexahovic caquinao.
-                <lb n="7"/>Cate puch vrainic vmalinic
-                <lb n="8"/>pu quiqux ahauab chire qui
-                <lb n="9"/>xahoh xhun ahpu xbalanque
-                <lb n="10"/>taxelcu quitzih hun came, v –
-                <lb n="11"/>vcub came chibana chique cohipuzu
-                <lb n="12"/>xeqha cut hunal tah
-                <lb n="13"/>cohipuzu xecha cut hun ca –
-                <lb n="14"/>me vvcubcame chiquerix –
-                <lb n="15"/>hunahpu xbalanque vtzbala
-                <lb n="16"/>chiqaztah ivach mapaixqo
-                <lb n="17"/>cam, oh pu quicotirizai ive ix
-                <lb n="18"/>pu rahaual iv al iqahol xe
-                <lb n="19"/>qha cut chique ahauab. are
-                <lb n="20"/>cu nabe xpuzri quivholom
-                <lb n="21"/>ahau hun came vbi rahaual
-                <lb n="22"/>xibalba. caminac chicut hun
-                <lb n="23"/>came taxchap chic vvcub ca –
-                <lb n="24"/>me maui xqaztah chi qui vach
-                <lb n="25"/>cate pu quelic xibalba chica –
-                <lb n="26"/>can are xquil ri ahauab xe
-                <lb n="27"/>camic e xaraxoh chubic epu
-                <lb n="28"/>xaraxoxinac qui cabichal xa
-                <lb n="29"/>cu cahizabal qui vach xbanic
-                <lb n="30"/>huzuc xucamibeh rihun aha –
-                <lb n="31"/>u mana xquiqaztah chi vvach
-                <lb n="32"/>are curi hun ahau xelahna
-                <lb n="33"/>xoc na chiquivach ri e xahol
-                <lb n="34"/>maui xuculu mapu xurico to –
-                <lb n="35"/>cob nu vach xqha ta xuna rib
-                <lb n="36"/>xequiz cubec ronohel cal qui
-                <lb n="37"/>qahol panima zivan xa hun
-                <lb n="38"/>xquibalih vi quib panima
-                <lb n="40"/>xolobachan chiri cut etubul
-                <lb n="41"/>vi ta xculun cut maui ahi –
-                <lb n="42"/>lan chi zanic tuculÿ vla que
-                <lb n="43"/>pa zivan quehe ri xebeyox
-                <lb n="44"/>vloc ta xevl cut xquixul
-                <lb n="45"/>quiya chiquib conohel xeul
-                <lb n="46"/>elahoc xeul pu ococ quehe
-                <lb n="47"/>cut quechacatahic rahaual
-                <lb n="48"/>xibalba, xamaihabal xa pu
-                </p>
-                <pb xml:id="xom-f31-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">31
-                			</hi>
-                    </num>
-                </note>
-                <p>
-                    <lb n="1"/>qui halvachibal quib ta xqui –
-                <lb n="2"/>bano. cate puch ta xquibÿh
-                <lb n="3"/>qui bi, xquicobizah quib chi –
-                <lb n="4"/>qui vach conohel xibalba.
+                    <lb n="5"/>yan xcha cut chila cut xbe
+                    <lb n="6"/>colana vi vholom chuvi hom
+                    <lb n="7"/>xavi vtzih hun came vvcub
+                    <lb n="8"/>came que quicot curi xibal –
+                    <lb n="9"/>ba conohel rumal vholom
+                    <lb n="10"/>cate cut ta xutac
+                    <lb n="11"/>chicop ronohel ziz, ae. rono –
+                    <lb n="12"/>hel chuti chicop, nima chicop
+                    <lb n="13"/>chacab xavi xare racabal
+                    <lb n="14"/>ta xutzonoh cut que cha na
+                    <lb n="15"/>qui tac pa ivecha chi huhunal
+                    <lb n="16"/>are quixnutac vi chicam vl
+                    <lb n="17"/>oc ri ivecha xqha cut xba –
+                    <lb n="18"/>lan que chi que vtzbala xe
+                    <lb n="19"/>qha cut ta xebec e camol rech
+                    <lb n="20"/>ta xevl he cut conohel qo xa
+                    <lb n="21"/>cumar rech xbevcama, qo
+                    <lb n="22"/>xa tzalic xbevcama, qo xa a –
+                    <lb n="23"/>bah xbevcama, qo xavleu
+                    <lb n="24"/>xbe vcama halahoh que cha
+                    <lb n="25"/>ri chicop, nimachicop quipu
+                    <lb n="26"/>ca v xambe canahoc ri tziz coc
+                    <lb n="27"/>xbe vcama cubalcatih chutzam
+                    <lb n="28"/>capetic are cut xoc <rs ana="pájaro">halvac</rs> hi –
+                    <lb n="29"/>bal vholom hunahpu libahchi
+                    <lb n="30"/>xcotox vbaca v <rs ana="pájaro">vac</rs> tzatz chi ahna –
+                    <lb n="31"/>oh chicah xpevi arev quxcah
+                    <lb n="32"/>huracan xulcoloc xuluculoc chi –
+                    <lb n="33"/>ri pa zotziha macuatan xutzi –
+                    <lb n="34"/>nic v <rs ana="pájaro">vach</rs> vtz chic xuxic xa
+                    <lb n="35"/>uixare vchuuc hebel hi –
+                    <lb n="36"/>nic xavi xare xqhauic are
+                    <lb n="37"/>cut ta chirah zaquiric chi
+                    <lb n="38"/>cactarin vxe cah caxaqui –
+                    <lb n="39"/>nachic ama xuchax ri vuch
+                    <lb n="40"/>ve xqhari mama ta chixa –
+                    <lb n="41"/>quinic cate ta chi que ea mar
+                    <lb n="42"/>chic cahmul xaquin ri mama.
+                    <lb n="43"/>caxaquinvvch caqha vi –
+                    <lb n="44"/>nac <rs ana="pájaro">vac</rs> amic. xa cu cac raxu –
+                    <lb n="45"/>tzinic ta xutiquiba vqohic ma
+                    <lb n="46"/>vtz cha chux cut hunahpu he vtz
+                    <lb n="47"/>xqhacut xavi xare chvbaqui –
+
+                    <pb xml:id="xom-f28-s1"/>
                 
-                <lb n="5"/>Chitaa cabi xchicabÿh. xch –
-                <lb n="6"/>icabÿh naipuch vbi cacahau
-                <lb n="7"/>chive ohva, oh xhun ahpu
-                <lb n="8"/>xbalanque cabi arecu ca ca –
-                <lb n="9"/>hau ri xicamizah hun hunah –
-                <lb n="10"/>pu vvcub hun ahpu quibi oh
-                <lb n="11"/>cu pacol re vae quirail qui ca –
-                <lb n="12"/>xcol ri cacahau quehe cut mix –
-                <lb n="13"/>cacuyu vi ronohel caxcol mi –
-                <lb n="14"/>xiban chique. quehe cut quix
-                <lb n="15"/>cazach vi ivonohel quixcami –
-                <lb n="16"/>zah mahabi chic colotahel chi –
-                <lb n="17"/>ve xevqhax cut cate puch que
-                <lb n="18"/>lahic coquic conohel xibalba
-                <lb n="19"/>tocob ca vach ixhunahpu xba –
-                <lb n="20"/>lanque quitzih vi xohmacunic
-                <lb n="21"/>chique ri icahau quibÿh la
-                <lb n="22"/>cute e mucul chi pucbal chah
-                <lb n="23"/>xeqha cut. vtzbala areba ri
-                <lb n="24"/>catzih xchicabÿh chive chitaa
-                <lb n="25"/>ivonohel ix xibalba rumal
-                <lb n="26"/>mana nim chiiquih ivalaxic
-                <lb n="27"/>chuxic ruq naipuch mavi ni –
-                <lb n="28"/>m chi icochibal xzcaquin chic
-                <lb n="29"/>chi quic holomax mavi chahom
-                <lb n="30"/>quic ive xa xot, xaacam, xa
-                <lb n="31"/>chuch chire xheraxic xa naipu
-                <lb n="32"/>ral quim ral tolob chivechah
-                <lb n="33"/>macu ivech ri ronohel zaquil
-                <lb n="34"/>al zaquil qahol xanoh chitza –
-                <lb n="35"/>co rib chivach. are ri ahmac
-                <lb n="36"/>ah labal, ah biz, ah moquen
-                <lb n="37"/>chac na vmac quixoc vi mana
-                <lb n="38"/>xa rax chapom ronohel vinac
-                <lb n="39"/>chibano quixtaon puch chuvi
-                <lb n="40"/>ri quic holomax, xevqhax cut
-                <lb n="41"/>conohel xibalba, quehe cut ti –
-                <lb n="42"/>carinac qui zachic vmaixic na –
-                <lb n="43"/>ipuch quiziquixic. maui nim
-                <lb n="44"/>qui quih oher xa xrah tza vi vi –
-                <lb n="45"/>nac oher quitzih mana cabavil1
-                <lb n="46"/>quibi oher xavi xibal oher itzel
-                <lb n="47"/>quivach e ahtza ahtucur, e tac –
+                    <lb n="1"/>tila vholom quehe ri quitzih v
+                    <lb n="2"/>holom xuxic. cate cut ta xqui –
+                    <lb n="3"/>ban quitzih xepixaban quib
+                    <lb n="4"/>mana qui catchaahic xa quichaye
+                    <lb n="5"/>cuh auib xainhun quiquibanouic
+                    <lb n="6"/>xqha <rs ana="XBALAMKE">xbalanque</rs> chire cate cut
+                    <lb n="7"/>taxupixabah hun vmul catqole
+                    <lb n="8"/>tachiri chuvihom chivi catqohe
+                    <lb n="9"/>vi chupan pixc xuqhax vmul
+                    <lb n="10"/>rumal <rs ana="XBALAMKE">xbalanque</rs> chopon na
+                    <lb n="11"/>quic avq cate catelic ca inqui –
+                    <lb n="12"/>banouic xuqhax ri vmul ta x –
+                    <lb n="13"/>pixabaxic chacab cate cut ta
+                    <lb n="14"/>xzaquiric xavi xare vtzqui –
+                    <lb n="15"/>vach qui cabichal.
                 </p>
-                <pb xml:id="xom-f32-s1"/>
                 <p>
+                    <lb n="16" rend="indent" />xcah chicu quichaah colan
+                    <lb n="17"/>chicu vholom <rs ana="JUNAJPU">hun ahpu</rs> chuvi
+                    <lb n="18"/>hom. mi xcachacoyan, mixibano
+                    <lb n="19"/>quiyan mi xiyao xevqhaxic xa
+                    <lb n="20"/>vi cu xere chiziquin <rs ana="JUNAJPU">hun ahpu</rs>
+                    <lb n="21"/>chacaca ri holom chi quic que –
+                    <lb n="22"/>vqhaxic macu chiqui ca caxou
+                    <lb n="23"/>chic chiyecoub quib. are cu xe –
+                    <lb n="24"/>tzacou quic rahaual <rs ana="XIBALBA">xibalba</rs>
+                    <lb n="25"/>xucul cut <rs ana="XBALAMKE">xbalanque</rs> tacal
+                    <lb n="26"/>curi quic chuvach bate chita –
+                    <lb n="27"/>nenic ta xelic huzu cu xicou
+                    <lb n="28"/>quic chuvihom xahun xaca –
+                    <lb n="29"/>nab vi tacal pa pix taxel cu –
+                    <lb n="30"/>ri vmul chicoxcotic ta xbec
+                    <lb n="30"/>ocotal cut. ta xbe cumal ri xi –
+                    <lb n="31"/>balba quehuminic, que chani –
+                    <lb n="32"/>nic xebe chirih ri vmul xe
+                    <lb n="33"/>quiz be conohel <rs ana="XIBALBA">xibalba</rs> cate –
+                    <lb n="34"/>cut xquicamix tah ri vho –
+                    <lb n="35"/>lom <rs ana="JUNAJPU">hun ahpu</rs>. xtiquixtah chic
+                    <lb n="36"/>vcoc <rs ana="XBALAMKE">xbalanque</rs> are chicut
+                    <lb n="37"/>xbe quicuba ri coc chuvi hom
+                    <lb n="38"/>quitzih holom chicu vholom
+                    <lb n="39"/>ri <rs ana="JUNAJPU">hunahpu</rs> quequicot chicu
+                    <lb n="40"/>qui cabichal. are cut quebe
+                    <lb n="41"/>tzucuna quic rixibalba cate
+                    <lb n="42"/>cut xquicamixtah chiri quic
+                    <lb n="43"/>pa pix, ta xeziquin chicut quix
+                    <lb n="44"/>petoc vae quic que mix cari –
+                    <lb n="45"/>co. xeqha quicolem chicut
+                    <lb n="46"/>ta xeul <rs ana="XIBALBA">xibalba</rs> na qui pa ri
+                
+                    <pb xml:id="xom-f28-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
+                        <num rend="large"><hi rend="handwriting;color:pencil">28</hi></num>
+                    </note>                
+                    <lb n="1"/> mi xquilo xeqhacut tax quiti –
+                    <lb n="2"/>quiba chicut chaahic. hunam
+                    <lb n="3"/>chaahic chicut xquiban chic
+                    <lb n="4"/>qui cabichal cate cut xcaca –
+                    <lb n="5"/>tah ri coc rumal <rs ana="XBALAMKE">xbalanque</rs>
+                    <lb n="6"/>chi pucabin ri coc xcah pa ho –
+                    <lb n="7"/>m zaquiram curi vzaquilal
+                    <lb n="8"/>chiqui vach. na qui pa ri chibe
+                    <lb n="9"/>icama apa qo vi ri camol re
+                    <lb n="10"/>xqha <rs ana="XIBALBA">xibalba</rs>. quehe cut qui
+                    <lb n="11"/>chacatahic rahal <rs ana="XIBALBA">xibalba</rs>
+                    <lb n="12"/>rumal <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>
+                    <lb n="13"/>nima caxcol xecohevi ma –
+                    <lb n="14"/>ui are xecam vi ri ronohel
+                    <lb n="15"/>xban chique. 
+                </p>
+                <p>
+                    <lb n="16" rend="indent" /><hi rend="large">A</hi>Are cut vae quinabal qui –
+                    <lb n="17"/>camic <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> are
+                    <lb n="18"/>va qui nabal qui camic xchica
+                    <lb n="19"/>bÿh chic. ta xepixabah cut xqui –
+                    <lb n="20"/>bano ronohel caxcol rail xban
+                    <lb n="21"/>chique maui xecamic rumal
+                    <lb n="22"/>vtihobal <rs ana="XIBALBA">xibalba</rs> maui xecha –
+                    <lb n="23"/>catahic rumal ronohel tionel
+                    <lb n="24"/>chicopo qo chi <rs ana="XIBALBA">xibalba</rs> cate
+                    <lb n="25"/>cut ta xquitac chi caib nic vachi –
+                    <lb n="26"/>nel queheri e ilol are qui bi
+                    <lb n="27"/>va <rs ana="XULU">xulupacam</rs> e etamanel
+                    <lb n="28"/>v ve cohtzonoxic chive cumal
+                    <lb n="29"/>rahaual <rs ana="XIBALBA">xibalba</rs> rumal ri ca
+                    <lb n="30"/>camic quinaoh caquinuc ru
+                    <lb n="31"/>mal ri maui mi xohcamic, ma
+                    <lb n="32"/>pu mi xohchacatahic mixcaza –
+                    <lb n="33"/>ch quitihobal, maxa chicopch –
+                    <lb n="34"/>oc chique, are cu retal va chi
+                    <lb n="35"/>caqux chohim abah camiza –
+                    <lb n="36"/>bal que cumal mi xecuchu
+                    <lb n="37"/>quib ronohel <rs ana="XIBALBA">xibalba</rs> macu
+                    <lb n="38"/>quitzih ta cohcamic. are cuina
+                    <lb n="39"/>oh va xchicabÿh v ve quix
+                    <lb n="40"/>vl tzonobex xoc cumal chire
+                    <lb n="41"/>ch cacamic ta cohcatoc naqui
+                    <lb n="42"/>xchicuchah ix xulu, ix pacam
+                    <lb n="43"/>v ve queqha chive ma vtz lo
+                    <lb n="44"/>chicatix ta quibaquil pazi –
+                    <lb n="45"/>van v ve maba vtz xavi xere
+                    <lb n="46"/>chic chiqaztah quivach quix
+                    <lb n="47"/>qha vveba are vtz xachica xe –
+
+                    <pb xml:id="xom-f29-s1"/>
+    
+                    <lb n="1"/> queba chuvi che ta queqha chic
+                    <lb n="2"/>chive. xax ma vtz vi xavi xere
+                    <lb n="3"/>chivil chiquivach quixqha ta
+                    <lb n="4"/>quecha chicut chiroxmul xa
+                    <lb n="5"/>bare rutzil xachicatix quiba –
+                    <lb n="6"/>quil pa racan ha ve cut quix
+                    <lb n="7"/>vchax chic cumal are vtz bala
+                    <lb n="8"/>quecamic cate cu vtz chihoc qui
+                    <lb n="9"/>baquil chuvach abah que heri
+                    <lb n="10"/>chiqueex cahim hal huhunal
+                    <lb n="11"/>cu chiqueic cate cu chitix vbic
+                    <lb n="12"/>chiracan a chiri cahcua chibe
+                    <lb n="13"/>chuti huyub nima huyub quix –
+                    <lb n="14"/>qha cut ta chicutunizah ri ca –
+                    <lb n="15"/>pixab mi xcabÿh chive xe
+                    <lb n="16"/>qha xhunahpu <rs ana="XBALAMKE">xbalanque</rs>
+                    <lb n="17"/>ta xepixabic xquetamah qui
+                    <lb n="18"/>camic. are caban rinima chohim
+                    <lb n="19"/>abah queheri chohibal qui xqui –
+                    <lb n="20"/>ban xibalba nimac xac xquico –
+                    <lb n="21"/>ho. cate cut xul zamahel achbi –
+                    <lb n="22"/>lai que vzamahel hun came
+                    <lb n="23"/>vvcub came quepetoc coh be.
+                    <lb n="24"/>ta cuq qaholab chibeta qui –
+                    <lb n="25"/>la caquixcachohih caqha aha –
+                    <lb n="26"/>u ixqaholab xevqhaxic vtz
+                    <lb n="27"/>bala xeqha cut anim xebec
+                    <lb n="28"/>xeopon cut chuchi choh chiri
+                    <lb n="29"/>cut xerah chih vi chi etzanem.
+                    <lb n="30"/>cachopih vae ri ca qui cah –
+                    <lb n="31"/>tacmul tah chica xicah chica
+                    <lb n="32"/>huhunal ixqaholab xeqhax
+                    <lb n="33"/>cut rumal hun came. maui a
+                    <lb n="34"/>re cohimich vi ri mapa queta –
+                    <lb n="35"/>am cacamic ixahauab chivi –
+                    <lb n="36"/>la na xeqha cut ta xquicula –
+                    <lb n="37"/>vachih qui vach xqui rip qui
+                    <lb n="40"/>cab qui cabichal epu hupu –
+                    <lb n="41"/>huh ta xebec pa choh chiri
+                    <lb n="42"/>cut xecam vi qui cabichal que
+                    <lb n="43"/>quicot chicut ronohel xibalba.
+                    <lb n="44"/>tacal quiyuyub tacal qui xul
+                    <lb n="45"/>cab mixecachaco quitzih mavi
+                    <lb n="46"/>a tan xquiya quib xeqha. cate
+                    <lb n="47"/>cut qui taquic ri xulu pacam
+                    <lb n="48"/>xcanahvi quitzih xavi xare
+                    <lb n="49"/>xtzonox rixbe vi qui ba quil 
+                
+                    <pb xml:id="xom-f29-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
+                        <num rend="large"><hi rend="handwriting;color:pencil">29</hi></num>
+                    </note>
+                    <lb n="1"/>ta xequihin xibalba xhoc qui ba
+                    <lb n="2"/>quil xbe tixoc chi racan a macu
+                    <lb n="3"/>xebeta chinah xa huzu xecah
+                    <lb n="4"/>chuxe a chaom qaholab xe
+                    <lb n="5"/>vxic xavi xere qui vach xuxic
+                    <lb n="6"/>xecutun chicut.
+                </p>
+                <p>
+                    <lb n="7" rend="indent" />Chi robix cut xecutun chix xe
+                    <lb n="8"/>il chi ya rumal vinac e caib que
+                    <lb n="9"/>heri xavinac car xevachinic
+                    <lb n="10"/>ta xil qui vach cumal xibalba
+                    <lb n="11"/>xetzucux cut chitac ya xchu
+                    <lb n="12"/>eca cut quecutunoc e caib chi
+                    <lb n="13"/>meba atziyac quivach atziiac
+                    <lb n="14"/>pu quih atziiac cut qui cu mana
+                    <lb n="15"/>chibanan ta qui vach ta
+                    <lb n="16"/>qui xeilic rumal xibalba hala
+                    <lb n="17"/>chicut xquibano xa xahoh puhuy
+                    <lb n="18"/>xahoh cux xayboy xqui xa
+                    <lb n="19"/>ho xa xtzul, xa chitic xqui xah
+                    <lb n="20"/>chic quiia maihabal xquiban
+                    <lb n="21"/>chic xquiporoh ha queheri qui
+                    <lb n="22"/>tzih chicatic libah chicut chivi –
+                    <lb n="23"/>naquir chic. tzatz chi xibalba chica –
+                    <lb n="24"/>yic cate chiquipuz quib chicam
+                    <lb n="25"/>hun chique chipune na chicami
+                    <lb n="26"/>naquil nabe chiquicamizah quib
+                    <lb n="27"/>xaui xere libah chicaztah vi chi
+                    <lb n="28"/>vvach xa quicay xibalba ta chi –
+                    <lb n="29"/>quibano ronohel xquiban chic
+                    <lb n="30"/>v xenaahic chic chacbal quech
+                    <lb n="31"/>xibalba cumal.
+                </p>
+                <p>
+                    <lb n="32" rend="indent" />Cate chi puch roponic chic v
+                    <lb n="33"/>tzihel quixahoh chi xiquin aha –
+                    <lb n="34"/>uab huncame, vvcub came xch –
+                    <lb n="35"/>a ta xquitao naqui ri caibme –
+                    <lb n="36"/>ba la quitzih vi chi quz. quitzih
+                    <lb n="37"/>vi pu chihebelic quixahouic
+                    <lb n="38"/>ronohel caquibano xqha cut
+                    <lb n="40"/>quitzihoxic xoponic cuq ahauab
+                    <lb n="41"/>quz xquitao ta xbochi cut qui
+                    <lb n="42"/>zamahel tacol chique petoc ch –
+                    <lb n="43"/>vl ta quibana cacay queca ma –
+                    <lb n="44"/>ihah tah quecacayih ta puch
+                    <lb n="45"/>quecha ahauab quixqha chi –
+                    <lb n="46"/>que xuqhax ri zamahel xeo –
+                    <lb n="47"/>pon cut cuq ri xahol ta xqhav
+                    <lb n="48"/>cut quitzih ahauab chique
+                
+                    <pb xml:id="xom-f30-s1"/>
+                
+                    <lb n="1"/>mabachicah rumal ri quitzih
+                    <lb n="2"/>cohxobic maxa mavi cohquix –
+                    <lb n="3"/>bic cohoc apanoc chi ahaual ha
+                    <lb n="4"/>rumal qui itzel cavach maxa –
+                    <lb n="5"/>qui nimac vbac cavach chi meba
+                    <lb n="6"/>maxaon ril chire xaoh xahol
+                    <lb n="7"/>naquita chicabÿh chique cach
+                    <lb n="8"/>meba qo cam curaih naypu ri
+                    <lb n="9"/>ca xahoh caquicaztah quivach
+                    <lb n="10"/>cuq maquehela cu xchicaban
+                    <lb n="11"/>chique ri ahauab quehe cu ma
+                    <lb n="12"/>vi cacah vi ixzamahel xeq –
+                    <lb n="13"/>ha cut ri hun ahpu xbalanque
+                    <lb n="14"/>xelehebex na qui vach chuvi
+                    <lb n="15"/>ra chuvi cax cacrail xebec
+                    <lb n="16"/>maui atan xcah benam quia
+                    <lb n="17"/>mul xchihic xa chimachcay
+                    <lb n="18"/>zamahel chiquivach camol que
+                    <lb n="19"/>ta xebe cut ruq ahau.
+                </p>
+                <p>
+                    <lb n="20" rend="indent" />Xeopon puch cuq ahauab
+                    <lb n="21"/>Quemocho chic chiqui xule la
+                    <lb n="22"/>qui vach xeoponic xqui que –
+                    <lb n="23"/>melah quib chiquiluc quib
+                    <lb n="24"/>chiquipach quib chimayoquih
+                    <lb n="25"/>chiatziac quitzih vi chimeba qui
+                    <lb n="26"/>vachibal xeoponic ta xtzonox
+                    <lb n="27"/>cut quihuyubal camac puch
+                    <lb n="28"/>xtzonox naipuch qui chuch qui
+                    <lb n="29"/>cahau apa quixpevi xevqha –
+                    <lb n="30"/>xic. maba quetaon at ahau ma
+                    <lb n="31"/>ui xquetaamah vvach ca chuch
+                    <lb n="32"/>cacahau ca oh chutic oc ta xe –
+                    <lb n="33"/>camic xa xeqha maui naquila
+                    <lb n="34"/>xquibÿh. vtzbala chiban ta ba
+                    <lb n="35"/>ca cay naqui chivah yvahil chi –
+                    <lb n="36"/>cayao xevqhaxic. maba cacah
+                    <lb n="37"/>quitzih chicacaxibih quib xeqha
+                    <lb n="38"/>chic chire ahau. mi xibih ivib
+                    <lb n="39"/>mix xobic quixxahouoc. are
+                    <lb n="40"/>ta nabe chixah ri quixpuzu ta
+                    <lb n="41"/>ivib chiporoh ta curi vochoch
+                    <lb n="42"/>chibana ronohel ri ivetaam
+                    <lb n="43"/>cohcay tah cacah are vma ca
+                    <lb n="44"/>qux quixbetacoc rumal ixme –
+                    <lb n="45"/>ba chicaya ivahil xevqhax
+                    <lb n="46"/>cut ta xquitiquiba cut quibix
+                    <lb n="47"/>qui xahoh ta xulcut ronohel
+                
+                    <pb xml:id="xom-f30-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
+                        <num rend="large"><hi rend="handwriting;color:pencil">30</hi></num>
+                    </note>
+                    <lb n="1"/>ri xibalba xepulic ecayel ro
+                    <lb n="2"/>nohel cut xquixaho xquixah
+                    <lb n="3"/>cux, xquixah puhuy, xquixah
+                    <lb n="4"/>yboy xqha cu ahau chique
+                    <lb n="5"/>chipuzu ri nu tzÿ chicaztah chi
+                    <lb n="6"/>vvach ivvmal xevqhaxic ve
+                    <lb n="7"/>xeqha. ta xquipuz tzÿ xqaztai
+                    <lb n="8"/>chi vvach quitzih cu chiquicot
+                    <lb n="9"/>ri tzÿ ta xqaztah vvach chuzac –
+                    <lb n="10"/>bizala vhe ta xqaztah v vach
+                    <lb n="11"/>xqha cuahau chique chiporo –
+                    <lb n="12"/>h naba vochoch xevqhaxchic
+                    <lb n="13"/>ta xquiporoh cut rochoch ahau
+                    <lb n="14"/>e pulinac ahauab pa ha conohel
+                    <lb n="15"/>maui xecatic libah chichic x –
+                    <lb n="16"/>cutzinizah mana huzu zachic
+                    <lb n="17"/>ri rochoch huncame xquimai –
+                    <lb n="18"/>hah cut conohel ahauab xa
+                    <lb n="19"/>vi cu xere quexahouic nim
+                    <lb n="20"/>quequicotic xevqhax chicut
+                    <lb n="21"/>rumal ahau chicamizah na
+                    <lb n="22"/>cuhun vinac chipuzu mata
+                    <lb n="23"/>cu chicamic xevqhaxcut vtz
+                    <lb n="24"/>bala xeqha taxquichap cut
+                    <lb n="25"/>hun vinac cate xquipuzu xqui –
+                    <lb n="26"/>poeoh cu acanoc vquxrihun
+                    <lb n="27"/>vinac xquicoloba cut chiqui –
+                    <lb n="28"/>vach ahauab xquimaiha chi
+                    <lb n="29"/>cut hun came, vvcub came li
+                    <lb n="30"/>bah chi cut xqazta chi v vach
+                    <lb n="31"/>rihun vinac cumal nim chi –
+                    <lb n="32"/>quicot vqux taxqaztah v
+                    <lb n="33"/>vach xquimaihah cut ahau –
+                    <lb n="34"/>ab. chipuzuna china cuivib
+                    <lb n="35"/>chiquiltah quitzih curaih ca
+                    <lb n="36"/>qux ri ixahoh xeqha chi cu
+                    <lb n="37"/>ahauab vtzbala at ahau
+                    <lb n="38"/>xeqhacut cate puch xquipuz
+                    <lb n="39"/>quib are cu xpuz ri xhun ah –
+                    <lb n="40"/>pu rumal xbalanque huhu –
+                    <lb n="41"/>nal cu xperepoxic racan vcab
+                    <lb n="42"/>xelvholom xcole aponoc chi
+                    <lb n="43"/>nah xcotix vloc vqux xche –
+                    <lb n="44"/>que chuvach tzalic quecabar
+                    <lb n="45"/>curi ronohel rahaual xibal –
+                    <lb n="46"/>ba chicay xacu hun chi caxa –
+                    <lb n="47"/>houilabic ri xbalanque cava –
+                
+                    <pb xml:id="xom-f31-s1"/>
+                
+                    <lb n="1"/>lihoc xqhacut libah chicut xqaz –
+                    <lb n="2"/>tah vvach. nim quequicotic. xavi
+                    <lb n="3"/>quehe quequicot ahauab. xavi
+                    <lb n="4"/>are quebanovic caquicot quiqux
+                    <lb n="5"/>huncame vvcub came queheri
+                    <lb n="6"/>are quexahovic caquinao.
+                </p>
+                <p>
+                    <lb n="7" rend="indent" />Cate puch vrainic vmalinic
+                    <lb n="8"/>pu quiqux ahauab chire qui
+                    <lb n="9"/>xahoh xhun ahpu xbalanque
+                    <lb n="10"/>taxelcu quitzih hun came, v –
+                    <lb n="11"/>vcub came chibana chique cohipuzu
+                    <lb n="12"/>xeqha cut hunal tah
+                    <lb n="13"/>cohipuzu xecha cut hun ca –
+                    <lb n="14"/>me vvcubcame chiquerix –
+                    <lb n="15"/>hunahpu xbalanque vtzbala
+                    <lb n="16"/>chiqaztah ivach mapaixqo
+                    <lb n="17"/>cam, oh pu quicotirizai ive ix
+                    <lb n="18"/>pu rahaual iv al iqahol xe
+                    <lb n="19"/>qha cut chique ahauab. are
+                    <lb n="20"/>cu nabe xpuzri quivholom
+                    <lb n="21"/>ahau hun came vbi rahaual
+                    <lb n="22"/>xibalba. caminac chicut hun
+                    <lb n="23"/>came taxchap chic vvcub ca –
+                    <lb n="24"/>me maui xqaztah chi qui vach
+                    <lb n="25"/>cate pu quelic xibalba chica –
+                    <lb n="26"/>can are xquil ri ahauab xe
+                    <lb n="27"/>camic e xaraxoh chubic epu
+                    <lb n="28"/>xaraxoxinac qui cabichal xa
+                    <lb n="29"/>cu cahizabal qui vach xbanic
+                    <lb n="30"/>huzuc xucamibeh rihun aha –
+                    <lb n="31"/>u mana xquiqaztah chi vvach
+                    <lb n="32"/>are curi hun ahau xelahna
+                    <lb n="33"/>xoc na chiquivach ri e xahol
+                    <lb n="34"/>maui xuculu mapu xurico to –
+                    <lb n="35"/>cob nu vach xqha ta xuna rib
+                    <lb n="36"/>xequiz cubec ronohel cal qui
+                    <lb n="37"/>qahol panima zivan xa hun
+                    <lb n="38"/>xquibalih vi quib panima
+                    <lb n="40"/>xolobachan chiri cut etubul
+                    <lb n="41"/>vi ta xculun cut maui ahi –
+                    <lb n="42"/>lan chi zanic tuculÿ vla que
+                    <lb n="43"/>pa zivan quehe ri xebeyox
+                    <lb n="44"/>vloc ta xevl cut xquixul
+                    <lb n="45"/>quiya chiquib conohel xeul
+                    <lb n="46"/>elahoc xeul pu ococ quehe
+                    <lb n="47"/>cut quechacatahic rahaual
+                    <lb n="48"/>xibalba, xamaihabal xa pu
+                
+                    <pb xml:id="xom-f31-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
+                        <num rend="large"><hi rend="handwriting;color:pencil">31</hi></num>
+                    </note>
+                    <lb n="1"/>qui halvachibal quib ta xqui –
+                    <lb n="2"/>bano. cate puch ta xquibÿh
+                    <lb n="3"/>qui bi, xquicobizah quib chi –
+                    <lb n="4"/>qui vach conohel xibalba.                
+                </p>
+                <p>
+                    <lb n="5" rend="indent" />Chitaa cabi xchicabÿh. xch –
+                    <lb n="6"/>icabÿh naipuch vbi cacahau
+                    <lb n="7"/>chive ohva, oh xhun ahpu
+                    <lb n="8"/>xbalanque cabi arecu ca ca –
+                    <lb n="9"/>hau ri xicamizah hun hunah –
+                    <lb n="10"/>pu vvcub hun ahpu quibi oh
+                    <lb n="11"/>cu pacol re vae quirail qui ca –
+                    <lb n="12"/>xcol ri cacahau quehe cut mix –
+                    <lb n="13"/>cacuyu vi ronohel caxcol mi –
+                    <lb n="14"/>xiban chique. quehe cut quix
+                    <lb n="15"/>cazach vi ivonohel quixcami –
+                    <lb n="16"/>zah mahabi chic colotahel chi –
+                    <lb n="17"/>ve xevqhax cut cate puch que
+                    <lb n="18"/>lahic coquic conohel xibalba
+                    <lb n="19"/>tocob ca vach ixhunahpu xba –
+                    <lb n="20"/>lanque quitzih vi xohmacunic
+                    <lb n="21"/>chique ri icahau quibÿh la
+                    <lb n="22"/>cute e mucul chi pucbal chah
+                    <lb n="23"/>xeqha cut. vtzbala areba ri
+                    <lb n="24"/>catzih xchicabÿh chive chitaa
+                    <lb n="25"/>ivonohel ix xibalba rumal
+                    <lb n="26"/>mana nim chiiquih ivalaxic
+                    <lb n="27"/>chuxic ruq naipuch mavi ni –
+                    <lb n="28"/>m chi icochibal xzcaquin chic
+                    <lb n="29"/>chi quic holomax mavi chahom
+                    <lb n="30"/>quic ive xa xot, xaacam, xa
+                    <lb n="31"/>chuch chire xheraxic xa naipu
+                    <lb n="32"/>ral quim ral tolob chivechah
+                    <lb n="33"/>macu ivech ri ronohel zaquil
+                    <lb n="34"/>al zaquil qahol xanoh chitza –
+                    <lb n="35"/>co rib chivach. are ri ahmac
+                    <lb n="36"/>ah labal, ah biz, ah moquen
+                    <lb n="37"/>chac na vmac quixoc vi mana
+                    <lb n="38"/>xa rax chapom ronohel vinac
+                    <lb n="39"/>chibano quixtaon puch chuvi
+                    <lb n="40"/>ri quic holomax, xevqhax cut
+                    <lb n="41"/>conohel xibalba, quehe cut ti –
+                    <lb n="42"/>carinac qui zachic vmaixic na –
+                    <lb n="43"/>ipuch quiziquixic. maui nim
+                    <lb n="44"/>qui quih oher xa xrah tza vi vi –
+                    <lb n="45"/>nac oher quitzih mana cabavil1
+                    <lb n="46"/>quibi oher xavi xibal oher itzel
+                    <lb n="47"/>quivach e ahtza ahtucur, e tac –
+                
+                    <pb xml:id="xom-f32-s1"/>
+                
                     <lb n="1"/>chinel chimac chilabal; enaipu 
                     <lb n="2"/>ah muculic qux, e quecail za -
                     <lb n="3"/>quiilah moxvach, ahlaꜩab que
@@ -3453,10 +3410,8 @@
                     <lb n="18"/>ri chu camul xpe vtux ri ah
                     <lb n="19"/>ta xcabauilax rumal catit ta
                     <lb n="20"/>xubinatizah cut nicah ha, ni
-                    <lb n="21"/>cah bi choc. <u>cazamah</u>
-                    <u>chatam</u>
-                    <lb n="22"/>
-                    <u>vleu</u> vbi xuxic are cut xu –
+                    <lb n="21"/>cah bi choc. <u>cazamah</u> <u>chatam</u>
+                    <lb n="22"/><u>vleu</u> vbi xuxic are cut xu –
                     <lb n="23"/>binaah vi <u>nicah</u> ha, <u>nicah</u> bichoc
                     <lb n="24"/>rumal xa chunicahal vpa co-
                     <lb n="25"/>choch xquitic ah. are chi cu
@@ -3473,7 +3428,7 @@
                     <lb n="36"/>xquil chicut vvachri qui cahau
                     <lb n="37"/>chila chi xibalba. xqhau chic qui
                     <lb n="38"/>cahau chiquetax xquichac xi –
-                    <lb n="39"/>balba. <!--somehow left out of flat, added by me-->
+                    <lb n="39"/>balba. <!--somehow left out of flat, added by me -->
                 </p>
                 <p>
                     <lb n="40" rend="indent"/>Vacute vviquic chic qui ca –
@@ -3484,450 +3439,448 @@
                     <lb n="45"/>ronohel vchi vꜩam vbac vvach
                     <lb n="46"/>xuric nabe vbi xacu zcaquin
                     <lb n="47"/>chic xchatahvi xere maui xu –  
-                    </p>
-                <pb xml:id="xom-f32-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
-                    <num rend="large">32</num>
-                </note>
-                <p>
+                    
+                    <pb xml:id="xom-f32-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
+                        <num rend="large">32</num>
+                    </note>
                     <lb n="1"/>bÿh chi vbi ri vhunalpuil vchi
-                <lb n="2"/>xerepu xchatah chivi quehe
-                <lb n="3"/>cut ta xquinimah vi canahoc v
-                <lb n="4"/>qux qui cahau xaui xcanah chi
-                <lb n="5"/>pucbachah chiri quixziquix vi
-                <lb n="6"/>chuxic xeqha chivqahol chirech
-                <lb n="7"/>ta xcubax vquxnabe chel ive
-                <lb n="8"/>nabe naipuch. quixquihiloxic
-                <lb n="9"/>rumal zaquil al zaquil ꜭahol
-                <lb n="10"/>maui chizachic ibita chuxoc xe
-                <lb n="11"/>qha chirech qui cahau ta xqui –
-                <lb n="12"/>cuba vqux xa oh pacolica –
-                <lb n="13"/>mic izachic caxcol rail xban
-                <lb n="14"/>chiue quehe cut quipixabic
-                <lb n="15"/>ri xchacatahinac oc ronohel
-                <lb n="16"/>xibalba taxeacan culoc vara –
-                <lb n="17"/>le nicahzaC huzu cu xeacan <!--not sure how to deal with big C-->
+                    <lb n="2"/>xerepu xchatah chivi quehe
+                    <lb n="3"/>cut ta xquinimah vi canahoc v
+                    <lb n="4"/>qux qui cahau xaui xcanah chi
+                    <lb n="5"/>pucbachah chiri quixziquix vi
+                    <lb n="6"/>chuxic xeqha chivqahol chirech
+                    <lb n="7"/>ta xcubax vquxnabe chel ive
+                    <lb n="8"/>nabe naipuch. quixquihiloxic
+                    <lb n="9"/>rumal zaquil al zaquil ꜭahol
+                    <lb n="10"/>maui chizachic ibita chuxoc xe
+                    <lb n="11"/>qha chirech qui cahau ta xqui –
+                    <lb n="12"/>cuba vqux xa oh pacolica –
+                    <lb n="13"/>mic izachic caxcol rail xban
+                    <lb n="14"/>chiue quehe cut quipixabic
+                    <lb n="15"/>ri xchacatahinac oc ronohel
+                    <lb n="16"/>xibalba taxeacan culoc vara –
+                    <lb n="17"/>le nicahzaC huzu cu xeacan <!--not sure how to deal with big C-->
                     <lb n="18"/>chicah. hun cu quih hun naipu
-                <lb n="19"/>ic chique ta xzaquiric vpam
-                <lb n="20"/>cah v vach vleu chi cah xeqo – <!--this q looks like a ꜭ to me-->
+                    <lb n="19"/>ic chique ta xzaquiric vpam
+                    <lb n="20"/>cah v vach vleu chi cah xeqo – <!--this q looks like a ꜭ to me-->
                     <lb n="21"/>heui are cut cachacanic ri o-
-                <lb n="22"/>much qaholab xecam rumal
-                <lb n="23"/>zipacna are cut cachbil xu –
-                <lb n="24"/>xic e vchumilal cah xevxic.
+                    <lb n="22"/>much qaholab xecam rumal
+                    <lb n="23"/>zipacna are cut cachbil xu –
+                    <lb n="24"/>xic e vchumilal cah xevxic.
                 </p>
                 <p>
-                    <lb n="25" rend="indent"/>
-                    <hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
-                <lb n="26"/>vinac ta xꜩucux puch ri choc vtio –
-                <lb n="27"/>hilvinac xeqha cut ri alom qa –
-                <lb n="28"/>holom, e ꜩacol bitol tepeu cucu-
-                <lb n="29"/>maꜩ quibi mi xyopihic vzaqui –
-                <lb n="30"/>ric mi xꜩac vꜩinic, mi pu xcaleic
-                <lb n="31"/>ꜩucul cool zaquil al zaquilqa-
-                <lb n="32"/>hol mixeale vinac v vinaquil
-                <lb n="33"/>v vach vleu xeqha, xmolomanic
-                <lb n="34"/>xulic xbe quinaoh chi queꜫumal
-                <lb n="35"/>chiaeabal ta xquiꜩucuh xqui –
-                <lb n="36"/>pucuh puch xenaohinic xebizon
-                <lb n="37"/>puch varal quehecut xelvia
-                <lb n="38"/>ponoc qui naoh zaquil calal xqui –
-                <lb n="39"/>rico xquicanaizah puch ri xoc
-                <lb n="40"/>vtiohil vinac xazcaquin chic ma
-                <lb n="41"/>ui cauachin quih ic chumil pa
-                <lb n="42"/>qui vi e ꜩacol bitol.
+                    <lb n="25" rend="indent"/><hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
+                    <lb n="26"/>vinac ta xꜩucux puch ri choc vtio –
+                    <lb n="27"/>hilvinac xeqha cut ri alom qa –
+                    <lb n="28"/>holom, e ꜩacol bitol tepeu cucu-
+                    <lb n="29"/>maꜩ quibi mi xyopihic vzaqui –
+                    <lb n="30"/>ric mi xꜩac vꜩinic, mi pu xcaleic
+                    <lb n="31"/>ꜩucul cool zaquil al zaquilqa-
+                    <lb n="32"/>hol mixeale vinac v vinaquil
+                    <lb n="33"/>v vach vleu xeqha, xmolomanic
+                    <lb n="34"/>xulic xbe quinaoh chi queꜫumal
+                    <lb n="35"/>chiaeabal ta xquiꜩucuh xqui –
+                    <lb n="36"/>pucuh puch xenaohinic xebizon
+                    <lb n="37"/>puch varal quehecut xelvia
+                    <lb n="38"/>ponoc qui naoh zaquil calal xqui –
+                    <lb n="39"/>rico xquicanaizah puch ri xoc
+                    <lb n="40"/>vtiohil vinac xazcaquin chic ma
+                    <lb n="41"/>ui cauachin quih ic chumil pa
+                    <lb n="42"/>qui vi e ꜩacol bitol.
                 </p>
                 <p>
-                    <lb n="43" rend="indent"/>
-                    <hi rend="large">P</hi>an paxil, pan cayala vbi xpe
-                <lb n="44"/>vi eanahal zaquihal.
+                    <lb n="43" rend="indent"/><hi rend="large">P</hi>an paxil, pan cayala vbi xpe
+                    <lb n="44"/>vi eanahal zaquihal.
                 </p>
                 <p>
-                    <lb n="45" rend="indent"/>
-                    <hi rend="large">A</hi>re cuquibi chicop va camolre
-                <lb n="46"/>cha. yac, vtiu, quel, hoh ecahib
-                <lb n="47"/>chi chicop xbÿn vꜩihel ꜫanahal
-                </p>
-                <pb xml:id="xom-f33-s1"/>
-                <p>
+                    <lb n="45" rend="indent"/><hi rend="large">A</hi>re cuquibi chicop va camolre
+                    <lb n="46"/>cha. yac, vtiu, quel, hoh ecahib
+                    <lb n="47"/>chi chicop xbÿn vꜩihel ꜫanahal
+                
+                    <pb xml:id="xom-f33-s1"/>
+                
                     <lb n="1"/>zaquihal chique chila quepe vi
-                <lb n="2"/>pan paxil xcut vbeel paxil are
-                <lb n="3"/>cut xquirico rÿ echa arecut xoc
-                <lb n="4"/>vtiohil vinac ꜩac, vinac bit ha cut
-                <lb n="5"/>vquiquel vquiquel vinac xuxic are
-                <lb n="6"/>xoc cumal alom qaholom ri hal.
-                <lb n="7"/>quehe cut xequicot vi rumal ri
-                <lb n="8"/>vriquitahic vꜩilah huyub no –
-                <lb n="9"/>hinac chi quz ꜩaꜩ chi eana hal za
-                <lb n="10"/>quihal ꜩaꜩ naipuch chipec chi
-                <lb n="11"/>caco maui ahilan tulul cauex
-                <lb n="12"/>quinom tapal, ahache cab nohi –
-                <lb n="13"/>nac quilah echa chupan ritina –
-                <lb n="14"/>mit pan paxil pan cayala vbi
-                <lb n="15"/>qo vi echa v vachinel ronohel chu –
-                <lb n="16"/>tiecha, nima echa, chuti ticon, ni –
-                <lb n="17"/>ma ticon xcut vbeel cuma chicop
-                <lb n="18"/>ta xqueex cut ri cana hal zaqui –
-                <lb n="19"/>hal beleheb cu vcaal xuban
-                <lb n="20"/>xmucane echa xoquic ruqha
-                <lb n="21"/>ropenal xvinaquir veabchial
-                <lb n="22"/>v eanaal vinac xuxic ta xqui –
-                <lb n="23"/>ban ri alom qaholom, tepeuh
-                <lb n="24"/>cucumaꜩ quevqhaxic cate cut
-                <lb n="25"/>xquicoh paꜩih vꜩaquic vbitic
-                <lb n="26"/>canabe chuch cahau xaꜫana
-                <lb n="27"/>hal zaquihal vtiohil xa echa ra –
-                <lb n="28"/>can veab vinac ri e canabe ca –
-                <lb n="29"/>hau e cahib chivinac ꜩac xa
-                <lb n="30"/>echa oquinac quitiohil.
+                    <lb n="2"/>pan paxil xcut vbeel paxil are
+                    <lb n="3"/>cut xquirico rÿ echa arecut xoc
+                    <lb n="4"/>vtiohil vinac ꜩac, vinac bit ha cut
+                    <lb n="5"/>vquiquel vquiquel vinac xuxic are
+                    <lb n="6"/>xoc cumal alom qaholom ri hal.
+                    <lb n="7"/>quehe cut xequicot vi rumal ri
+                    <lb n="8"/>vriquitahic vꜩilah huyub no –
+                    <lb n="9"/>hinac chi quz ꜩaꜩ chi eana hal za
+                    <lb n="10"/>quihal ꜩaꜩ naipuch chipec chi
+                    <lb n="11"/>caco maui ahilan tulul cauex
+                    <lb n="12"/>quinom tapal, ahache cab nohi –
+                    <lb n="13"/>nac quilah echa chupan ritina –
+                    <lb n="14"/>mit pan paxil pan cayala vbi
+                    <lb n="15"/>qo vi echa v vachinel ronohel chu –
+                    <lb n="16"/>tiecha, nima echa, chuti ticon, ni –
+                    <lb n="17"/>ma ticon xcut vbeel cuma chicop
+                    <lb n="18"/>ta xqueex cut ri cana hal zaqui –
+                    <lb n="19"/>hal beleheb cu vcaal xuban
+                    <lb n="20"/>xmucane echa xoquic ruqha
+                    <lb n="21"/>ropenal xvinaquir veabchial
+                    <lb n="22"/>v eanaal vinac xuxic ta xqui –
+                    <lb n="23"/>ban ri alom qaholom, tepeuh
+                    <lb n="24"/>cucumaꜩ quevqhaxic cate cut
+                    <lb n="25"/>xquicoh paꜩih vꜩaquic vbitic
+                    <lb n="26"/>canabe chuch cahau xaꜫana
+                    <lb n="27"/>hal zaquihal vtiohil xa echa ra –
+                    <lb n="28"/>can veab vinac ri e canabe ca –
+                    <lb n="29"/>hau e cahib chivinac ꜩac xa
+                    <lb n="30"/>echa oquinac quitiohil.
                 </p>
                 <p>
-                    <lb n="31" rend="indent"/>
-                    <hi rend="large">V</hi>ae quibi naabe vinac xeꜩa –
-                <lb n="32"/>quic xebitic. are nabe vinac ri
-                <lb n="33"/>Balam qui ꜩe. vcab chicut Ba –
-                <lb n="34"/>lam acab. roxchi cut Mahucutah.
-                <lb n="35"/>vcah cut Iquibalam. are cu
-                <lb n="36"/>quibi ri canabe chuch cahau.
+                    <lb n="31" rend="indent"/><hi rend="large">V</hi>ae quibi naabe vinac xeꜩa –
+                    <lb n="32"/>quic xebitic. are nabe vinac ri
+                    <lb n="33"/>Balam qui ꜩe. vcab chicut Ba –
+                    <lb n="34"/>lam acab. roxchi cut Mahucutah.
+                    <lb n="35"/>vcah cut Iquibalam. are cu
+                    <lb n="36"/>quibi ri canabe chuch cahau.
                 </p>
                 <p>
                     <lb n="37" rend="indent"/>Xa ꜩac xa bit que vqhaxic
-                <lb n="38"/>mahabi quichuch mahabi qui –
-                <lb n="39"/>cahau xa vtuquel achih chica –
-                <lb n="40"/>bÿh mana ixoc xealanic ma
-                <lb n="41"/>naipu xeqaholaxic rumal ri
-                <lb n="42"/>ah ꜩac ahbit ri alom qaholom
-                <lb n="43"/>xapuz xa naual quiꜩaquic qui
-                <lb n="44"/>bitic rumal ri ꜩacol bitol alom
-                <lb n="45"/>qaholom, tepeu cucumaꜩ. ta
-                <lb n="46"/>xevinac vachin cut evinac
-                <lb n="47"/>xevxic xeqhavic, xe ꜩihon
-                </p>
-                <pb xml:id="xom-f33-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
-                    <num rend="large">33</num>
-                </note>
-                <p>
+                    <lb n="38"/>mahabi quichuch mahabi qui –
+                    <lb n="39"/>cahau xa vtuquel achih chica –
+                    <lb n="40"/>bÿh mana ixoc xealanic ma
+                    <lb n="41"/>naipu xeqaholaxic rumal ri
+                    <lb n="42"/>ah ꜩac ahbit ri alom qaholom
+                    <lb n="43"/>xapuz xa naual quiꜩaquic qui
+                    <lb n="44"/>bitic rumal ri ꜩacol bitol alom
+                    <lb n="45"/>qaholom, tepeu cucumaꜩ. ta
+                    <lb n="46"/>xevinac vachin cut evinac
+                    <lb n="47"/>xevxic xeqhavic, xe ꜩihon
+                
+                    <pb xml:id="xom-f33-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
+                        <num rend="large">33</num>
+                    </note>
                     <lb n="1"/>puch xemucunic, xetaon puch
-                <lb n="2"/>xebinic, xechapanic, evꜩilah
-                <lb n="3"/>vinac e chaom achihil vach qui
-                <lb n="4"/>vachibal qo quxlab xuxic xe
-                <lb n="5"/>mucum naipuch huzuc xopon
-                <lb n="6"/>qui mucubal xquiz quilo, xquiz
-                <lb n="7"/>quetamah ronohel xecah vue
-                <lb n="8"/>quemucunic libah chi chiqui –
-                <lb n="9"/>zol vachih chizolmucuh puch
-                <lb n="10"/>vpam cah upam vleu mahu –
-                <lb n="11"/>catahil na chiquilixtah rono –
-                <lb n="12"/>hel maquebin tanaon nabe
-                <lb n="13"/>cate ta chiquil ri vxecah xavi
-                <lb n="14"/>chire e qovi ta quemucunic
-                <lb n="15"/>ꜩaꜩ quetamabal xuxic xicou
-                <lb n="16"/>qui vachibal pache, pa abah
-                <lb n="17"/>pa cho, pa palo, pa huyub, pa
-                <lb n="18"/>tacah. quiꜩih vi chi eloeolah
-                <lb n="19"/>vinac ri balam quiꜩe, Balam –
-                <lb n="20"/>acab, mahucutah, iquibalam.
+                    <lb n="2"/>xebinic, xechapanic, evꜩilah
+                    <lb n="3"/>vinac e chaom achihil vach qui
+                    <lb n="4"/>vachibal qo quxlab xuxic xe
+                    <lb n="5"/>mucum naipuch huzuc xopon
+                    <lb n="6"/>qui mucubal xquiz quilo, xquiz
+                    <lb n="7"/>quetamah ronohel xecah vue
+                    <lb n="8"/>quemucunic libah chi chiqui –
+                    <lb n="9"/>zol vachih chizolmucuh puch
+                    <lb n="10"/>vpam cah upam vleu mahu –
+                    <lb n="11"/>catahil na chiquilixtah rono –
+                    <lb n="12"/>hel maquebin tanaon nabe
+                    <lb n="13"/>cate ta chiquil ri vxecah xavi
+                    <lb n="14"/>chire e qovi ta quemucunic
+                    <lb n="15"/>ꜩaꜩ quetamabal xuxic xicou
+                    <lb n="16"/>qui vachibal pache, pa abah
+                    <lb n="17"/>pa cho, pa palo, pa huyub, pa
+                    <lb n="18"/>tacah. quiꜩih vi chi eloeolah
+                    <lb n="19"/>vinac ri balam quiꜩe, Balam –
+                    <lb n="20"/>acab, mahucutah, iquibalam.
                 </p>
                 <p>
                     <lb n="21" rend="indent"/>Ta xeꜩonox cut rumal ri
-                <lb n="22"/>ahꜩac ahbit huchalic iqohei
-                <lb n="23"/>quinao maqui xmucunic ma
-                <lb n="24"/>quixtaonic, ma vꜩ ichabal ruq
-                <lb n="25"/>ibinibal quixmucuna na cut
-                <lb n="26"/>chiuila vxecah maealah hu –
-                <lb n="27"/>yub tacah quivilo chitiha na
-                <lb n="28"/>cut xevqhaxic cate puch xqu –
-                <lb n="29"/>iz quil ronohel vxe cah cate
-                <lb n="30"/>cut qui camouanic ri chire
-                <lb n="31"/>ꜩacol bitol quiꜩih vi chi cam –
-                <lb n="32"/>ul camo oxmul camo mi xohvi –
-                <lb n="33"/>naquiric mi pu xohchiinic, xoh
-                <lb n="34"/>vachinic cohqhauic, cohtaonic
-                <lb n="35"/>cohbizonic cohzilabic vꜩ caca –
-                <lb n="36"/>nao xquetamah nah nacah mi –
-                <lb n="37"/>pu xquilo nim chutin vpa cah
-                <lb n="38"/>vpa vleu camo cut chive mi –
-                <lb n="39"/>xohvinaquiric ohꜩac, oh bit mi –
-                <lb n="40"/>xohvxic at catit, at camam xe
-                <lb n="41"/>qha taxquicamouah quiꜩaquic
-                <lb n="42"/>quibitic. xquiz quetamah rono –
-                <lb n="43"/>hel xquimucuh cah ꜩuc cah xu
-                <lb n="44"/>cut vpam cah vpam vleu ma –
-                <lb n="45"/>cuvꜩ xquitao riahꜩac ahbit
-                <lb n="46"/>mavi vꜩ ri mixquibÿh caꜩac ca
-                <lb n="47"/>bit mixquetamah ronohel nim
-                </p>
-                <pb xml:id="xom-f34-s1"/>
-                <p>
+                    <lb n="22"/>ahꜩac ahbit huchalic iqohei
+                    <lb n="23"/>quinao maqui xmucunic ma
+                    <lb n="24"/>quixtaonic, ma vꜩ ichabal ruq
+                    <lb n="25"/>ibinibal quixmucuna na cut
+                    <lb n="26"/>chiuila vxecah maealah hu –
+                    <lb n="27"/>yub tacah quivilo chitiha na
+                    <lb n="28"/>cut xevqhaxic cate puch xqu –
+                    <lb n="29"/>iz quil ronohel vxe cah cate
+                    <lb n="30"/>cut qui camouanic ri chire
+                    <lb n="31"/>ꜩacol bitol quiꜩih vi chi cam –
+                    <lb n="32"/>ul camo oxmul camo mi xohvi –
+                    <lb n="33"/>naquiric mi pu xohchiinic, xoh
+                    <lb n="34"/>vachinic cohqhauic, cohtaonic
+                    <lb n="35"/>cohbizonic cohzilabic vꜩ caca –
+                    <lb n="36"/>nao xquetamah nah nacah mi –
+                    <lb n="37"/>pu xquilo nim chutin vpa cah
+                    <lb n="38"/>vpa vleu camo cut chive mi –
+                    <lb n="39"/>xohvinaquiric ohꜩac, oh bit mi –
+                    <lb n="40"/>xohvxic at catit, at camam xe
+                    <lb n="41"/>qha taxquicamouah quiꜩaquic
+                    <lb n="42"/>quibitic. xquiz quetamah rono –
+                    <lb n="43"/>hel xquimucuh cah ꜩuc cah xu
+                    <lb n="44"/>cut vpam cah vpam vleu ma –
+                    <lb n="45"/>cuvꜩ xquitao riahꜩac ahbit
+                    <lb n="46"/>mavi vꜩ ri mixquibÿh caꜩac ca
+                    <lb n="47"/>bit mixquetamah ronohel nim
+                
+                    <pb xml:id="xom-f34-s1"/>
+                
                     <lb n="1"/>chutin queqha.
                 </p>
                 <p>
                     <lb n="2" rend="indent"/>Quehe chicut vcamic chic
-                <lb n="3"/>qui naoh alom qaholom hucha
-                <lb n="4"/>chic chicaban chique xata nacah
-                <lb n="5"/>chopon vi qui mucubal xatazca –
-                <lb n="6"/>quin v vach vvach vleu chiqui
-                <lb n="7"/>lo mavi vꜩ ri caquibÿh mapa
-                <lb n="8"/>xaꜩac xabit quibi xalabe eca –
-                <lb n="9"/>bauil quevxi chic vve maui
-                <lb n="10"/>quepocotahic quequiritahic ta
-                <lb n="11"/>chauaxoc ta zaquiroc vve ma –
-                <lb n="12"/>vi chiquiiaric ta chuxoc? xa cayo –
-                <lb n="13"/>ho chi zcaquin chic qo chi carah
-                <lb n="14"/>mavi vꜩ cacanao. xapa xchihu –
-                <lb n="15"/>namatah quibanoh cuq ri naht
-                <lb n="16"/>copon vi quetamabl quilon ro –
-                <lb n="17"/>nohel xevqhaxic rumal vqux
-                <lb n="18"/>cah huracan, chipicaculha, raxa –
-                <lb n="19"/>caculha tepeu cucumaꜩ alom
-                <lb n="20"/>qaholom, xpiyacoc, xmucane ꜩa –
-                <lb n="21"/>col bitol quevqhaxic ta xquiban
-                <lb n="22"/>cut vqoheic chic quiꜩac qui bit
+                    <lb n="3"/>qui naoh alom qaholom hucha
+                    <lb n="4"/>chic chicaban chique xata nacah
+                    <lb n="5"/>chopon vi qui mucubal xatazca –
+                    <lb n="6"/>quin v vach vvach vleu chiqui
+                    <lb n="7"/>lo mavi vꜩ ri caquibÿh mapa
+                    <lb n="8"/>xaꜩac xabit quibi xalabe eca –
+                    <lb n="9"/>bauil quevxi chic vve maui
+                    <lb n="10"/>quepocotahic quequiritahic ta
+                    <lb n="11"/>chauaxoc ta zaquiroc vve ma –
+                    <lb n="12"/>vi chiquiiaric ta chuxoc? xa cayo –
+                    <lb n="13"/>ho chi zcaquin chic qo chi carah
+                    <lb n="14"/>mavi vꜩ cacanao. xapa xchihu –
+                    <lb n="15"/>namatah quibanoh cuq ri naht
+                    <lb n="16"/>copon vi quetamabl quilon ro –
+                    <lb n="17"/>nohel xevqhaxic rumal vqux
+                    <lb n="18"/>cah huracan, chipicaculha, raxa –
+                    <lb n="19"/>caculha tepeu cucumaꜩ alom
+                    <lb n="20"/>qaholom, xpiyacoc, xmucane ꜩa –
+                    <lb n="21"/>col bitol quevqhaxic ta xquiban
+                    <lb n="22"/>cut vqoheic chic quiꜩac qui bit
                 </p>
                 <p>
                     <lb n="23" rend="indent"/>Xaca xvabax vbac qui vach
-                <lb n="24"/>rumal ri vqux cah xmoyic quehe –
-                <lb n="25"/>ri xuxlabix vvach lemo xmoyo –
-                <lb n="26"/>mobic vbac qui vach xanacah chic
-                <lb n="27"/>xemucun vi xere chi calah ri e
-                <lb n="28"/>qo vi quehe cut vzachic queta –
-                <lb n="29"/>mabal ruq ronohel qui naobal e
-                <lb n="30"/>cahib chi vinac, vxe vticaribal que –
-                <lb n="31"/>he cut qui ꜩaquic quibitic nabe
-                <lb n="32"/>ca mam ca cahau rumal vqux cah v
-                <lb n="33"/>quxvleu taxqohe chi cut quiculel qui –
-                <lb n="34"/>xoquil puch xuxic xavi ca bauil xnao –
-                <lb n="35"/>hinchic quehe ri xapa varam <del rend="scribble" instant="false" status="unremarkable">xquicam</del>
+                    <lb n="24"/>rumal ri vqux cah xmoyic quehe –
+                    <lb n="25"/>ri xuxlabix vvach lemo xmoyo –
+                    <lb n="26"/>mobic vbac qui vach xanacah chic
+                    <lb n="27"/>xemucun vi xere chi calah ri e
+                    <lb n="28"/>qo vi quehe cut vzachic queta –
+                    <lb n="29"/>mabal ruq ronohel qui naobal e
+                    <lb n="30"/>cahib chi vinac, vxe vticaribal que –
+                    <lb n="31"/>he cut qui ꜩaquic quibitic nabe
+                    <lb n="32"/>ca mam ca cahau rumal vqux cah v
+                    <lb n="33"/>quxvleu taxqohe chi cut quiculel qui –
+                    <lb n="34"/>xoquil puch xuxic xavi ca bauil xnao –
+                    <lb n="35"/>hinchic quehe ri xapa varam <del rend="scribble" instant="false" status="unremarkable">xquicam</del>
                     <lb n="36"/>xquicam vi quiꜩih e hebel chi ixoc qo
-                <lb n="37"/>ruq balam quiꜩe balam acab, mahu –
-                <lb n="38"/>cutah iquibalam, qo chi quixoquil ta
-                <lb n="39"/>qui xeqaztahic anim xquicot chic qui
-                <lb n="40"/>qux rumal qui culel are cu qui bi
-                <lb n="41"/>quixoquil va. caha paluna vbi rixo-
-                <lb n="42"/>quil balam quiꜩe chomiha vbi rixo –
-                <lb n="43"/>quil balam acab. ꜩununiha vbi ri xo –
-                <lb n="44"/>quil mahucutah. caquixaha vbi rixo –
-                <lb n="45"/>quil iquibalam. are cut vbi quixo –
-                <lb n="46"/>quil ri e xoccahauab xevxic epo –
-                <lb n="47"/>colvinac chutiamac nima a mac are
-                <!--there's also a 23. at the bottom left, not sure how to mark-->
-                </p>
-                <pb xml:id="xom-f34-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
-                    <num rend="large">34</num>
-                </note>
-                <p>
+                    <lb n="37"/>ruq balam quiꜩe balam acab, mahu –
+                    <lb n="38"/>cutah iquibalam, qo chi quixoquil ta
+                    <lb n="39"/>qui xeqaztahic anim xquicot chic qui
+                    <lb n="40"/>qux rumal qui culel are cu qui bi
+                    <lb n="41"/>quixoquil va. caha paluna vbi rixo-
+                    <lb n="42"/>quil balam quiꜩe chomiha vbi rixo –
+                    <lb n="43"/>quil balam acab. ꜩununiha vbi ri xo –
+                    <lb n="44"/>quil mahucutah. caquixaha vbi rixo –
+                    <lb n="45"/>quil iquibalam. are cut vbi quixo –
+                    <lb n="46"/>quil ri e xoccahauab xevxic epo –
+                    <lb n="47"/>colvinac chutiamac nima a mac are
+                    <!--there's also a 23. at the bottom left, not sure how to mark-->
+                
+                    <pb xml:id="xom-f34-s2"/>
+                    
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
+                        <num rend="large">34</num>
+                    </note>
                     <lb n="1"/>cut vxe quech ri oh quiche vinac
-                <lb n="2"/>ꜩaꜩ cut xuxic ri ahquix ahcahb
-                <lb n="3"/>mana xa e cahib chic xuxic xere
-                <lb n="4"/>cahib ri qui chuch oh quiche vinac
-                <lb n="5"/>halahoh chi quibi chi qui huhunal
-                <lb n="6"/>ta xpocotahic chila chirelebal quih
-                <lb n="7"/>qui vbi xuxic ri vinac tepeu, olo –
-                <lb n="8"/>man, cohah, quenech, ahau chuch –
-                <lb n="9"/>ax chic vbi vinac chila relebal
-                <lb n="10"/>quih xpocotahic retaam cut vtica –
-                <lb n="11"/>ric chic rech tamub, rech ilocab xa
-                <lb n="12"/>hun xpevi chila relebal quih ba –
-                <lb n="13"/>lam quiꜩe vmam vcahau beleheb
-                <lb n="14"/>nimha ch<del rend="scribble" instant="false" status="unremarkable">i</del>caui quib balam acab
-                <lb n="15"/>vmam vcahau beleheb nim ha chi –
-                <lb n="16"/>nimhaibab. mahutah vmam v
-                <lb n="17"/>cahau cahib nim ha chi ahau qui –
-                <lb n="18"/>che oxchob chinamit chi vqoheic
-                <lb n="19"/>mavi zachel vbi vmam vcahau
-                <lb n="20"/>are pocol quirol chila relebal
-                <lb n="21"/>quih xavi xere xpevi tamub ilo –
-                <lb n="22"/>cab ruq oxlahuh vca amac. oxla –
-                <lb n="23"/>hun tecpan ruq<rs ana="RABINAL" type="toponym">rabinaleb</rs>, caechi –
-                <lb n="24"/>queleb, ah q,inquina ha, ruq puch
-                <lb n="25"/>zacahib, ruq naipuch lamaquib,
-                <lb n="26"/>cumaꜩ, tuhal ha vchabaha, ah chu-
-                <lb n="27"/>mila ha ruq ahquibaha, ah batenaba
-                <lb n="28"/>acul vinac balamiha canchahe leb –
-                <lb n="29"/>balam colob. xere cut vnimaquil
-                <lb n="30"/>amac ri vca amac qohqha chirech
-                <lb n="31"/>xavnimaquil ri mi xcacholo. qui
-                <lb n="32"/>chic elenac chirih ri hutac chob
-                <lb n="33"/>chitinamit maui mi xcaꜩibah qui
-                <lb n="34"/>bi xavi cu chila xpocotah vi vloc
-                <lb n="35"/>relebal quih quia vinac xuxic
-                <lb n="36"/>chique cumal ta xquiaric maha
-                <lb n="37"/>chalaxoc quih zac ta xequiaric
-                <lb n="38"/>xa hun xeqohe vi conohel e ꜩaꜩ
-                <lb n="39"/>chiquiqoheic quibinovic chila
-                <lb n="40"/>relebal quih are mahabi chiꜩu –
-                <lb n="41"/>cun quicoon xavi chicah q<del rend="scribble" instant="false" status="unremarkable">ui</del> chiqui
-                <lb n="42"/>pacaba qui vach mavi quetaam
-                <lb n="43"/>xebevi naht xquibano ta xqohe
-                <lb n="44"/>pa qui chiri queca vinac zaqui vi –
-                <lb n="45"/>nac quivachibal vinac qui vqha –
-                <lb n="46"/>bal vinac, cay vxi quin, qoleyuxe –
-                <lb n="47"/>cah. qocut huyubal vinac mavi ilo
-                </p>
-                <pb xml:id="xom-f35-s1"/>
-                <p>
+                    <lb n="2"/>ꜩaꜩ cut xuxic ri ahquix ahcahb
+                    <lb n="3"/>mana xa e cahib chic xuxic xere
+                    <lb n="4"/>cahib ri qui chuch oh quiche vinac
+                    <lb n="5"/>halahoh chi quibi chi qui huhunal
+                    <lb n="6"/>ta xpocotahic chila chirelebal quih
+                    <lb n="7"/>qui vbi xuxic ri vinac tepeu, olo –
+                    <lb n="8"/>man, cohah, quenech, ahau chuch –
+                    <lb n="9"/>ax chic vbi vinac chila relebal
+                    <lb n="10"/>quih xpocotahic retaam cut vtica –
+                    <lb n="11"/>ric chic rech tamub, rech ilocab xa
+                    <lb n="12"/>hun xpevi chila relebal quih ba –
+                    <lb n="13"/>lam quiꜩe vmam vcahau beleheb
+                    <lb n="14"/>nimha ch<del rend="scribble" instant="false" status="unremarkable">i</del>caui quib balam acab
+                    <lb n="15"/>vmam vcahau beleheb nim ha chi –
+                    <lb n="16"/>nimhaibab. mahutah vmam v
+                    <lb n="17"/>cahau cahib nim ha chi ahau qui –
+                    <lb n="18"/>che oxchob chinamit chi vqoheic
+                    <lb n="19"/>mavi zachel vbi vmam vcahau
+                    <lb n="20"/>are pocol quirol chila relebal
+                    <lb n="21"/>quih xavi xere xpevi tamub ilo –
+                    <lb n="22"/>cab ruq oxlahuh vca amac. oxla –
+                    <lb n="23"/>hun tecpan ruq<rs ana="RABINAL" type="toponym">rabinaleb</rs>, caechi –
+                    <lb n="24"/>queleb, ah q,inquina ha, ruq puch
+                    <lb n="25"/>zacahib, ruq naipuch lamaquib,
+                    <lb n="26"/>cumaꜩ, tuhal ha vchabaha, ah chu-
+                    <lb n="27"/>mila ha ruq ahquibaha, ah batenaba
+                    <lb n="28"/>acul vinac balamiha canchahe leb –
+                    <lb n="29"/>balam colob. xere cut vnimaquil
+                    <lb n="30"/>amac ri vca amac qohqha chirech
+                    <lb n="31"/>xavnimaquil ri mi xcacholo. qui
+                    <lb n="32"/>chic elenac chirih ri hutac chob
+                    <lb n="33"/>chitinamit maui mi xcaꜩibah qui
+                    <lb n="34"/>bi xavi cu chila xpocotah vi vloc
+                    <lb n="35"/>relebal quih quia vinac xuxic
+                    <lb n="36"/>chique cumal ta xquiaric maha
+                    <lb n="37"/>chalaxoc quih zac ta xequiaric
+                    <lb n="38"/>xa hun xeqohe vi conohel e ꜩaꜩ
+                    <lb n="39"/>chiquiqoheic quibinovic chila
+                    <lb n="40"/>relebal quih are mahabi chiꜩu –
+                    <lb n="41"/>cun quicoon xavi chicah q<del rend="scribble" instant="false" status="unremarkable">ui</del> chiqui
+                    <lb n="42"/>pacaba qui vach mavi quetaam
+                    <lb n="43"/>xebevi naht xquibano ta xqohe
+                    <lb n="44"/>pa qui chiri queca vinac zaqui vi –
+                    <lb n="45"/>nac quivachibal vinac qui vqha –
+                    <lb n="46"/>bal vinac, cay vxi quin, qoleyuxe –
+                    <lb n="47"/>cah. qocut huyubal vinac mavi ilo
+                
+                    <pb xml:id="xom-f35-s1"/>
+                
                     <lb n="1"/>vvach mahabi rochoch xachuti hu –
-                <lb n="2"/>yub nima huyub quebec queheri e
-                <lb n="3"/>chuh xeqha ta xqui yahobeh ri hu –
-                <lb n="4"/>yubal vinac xeqha chila xquil vi
-                <lb n="5"/>relebal quih xa cu hun quiqhabal
-                <lb n="6"/>conohel maha chiquiziquihoc che
-                <lb n="7"/>abah are natal chiquech ri vꜩih
-                <lb n="8"/>ꜩacol bitol vqux cah, vqux vleu
-                <lb n="9"/>xeqha xere qui quxlaan ri re
-                <lb n="10"/>vaxic vzaquiric. xaꜩononic chi –
-                <lb n="11"/>quibano e ahloe ꜩihe ahloe eah –
-                <lb n="12"/>nim, e ahxob chiquipacaba qui –
-                <lb n="13"/>vach chicah ta chiqui ꜩonoh qui
-                <lb n="14"/>meal qui qahol acaroc at ꜩacol
-                <lb n="15"/>at bitol cohauila, cohata moha
-                <lb n="16"/>zaco, mohapizcalih at cabauil
-                <lb n="17"/>chicah chivleuh vqux cah v
-                <lb n="18"/>quxvleu chatah quetal caꜩihol
-                <lb n="19"/>chi be quih chi be zac ta chauaxoc
-                <lb n="20"/>ta zaquiroc quita raxalbe raxal
-                <lb n="21"/>hoc cohaya vi lianic zaclianic a
-                <lb n="22"/>mac tah vꜩilah zac, vꜩilah amac
-                <lb n="23"/>tah, vꜩilah qazlem, vinaquirem
-                <lb n="24"/>ta puch cohaia vi at huracan
-                <lb n="25"/>chipa caculha, raxa caculha
-                <lb n="26"/>chipina navac raxa nana vac
-                <lb n="27"/>voc hunahpu tepeu cucumaꜩ
-                <lb n="28"/>alom qaholom xpiyacoc, xmu –
-                <lb n="29"/>cane ratit quih ratit zac tacha –
-                <lb n="30"/>uaxoc, ta zaquiroc. xeqha ta xe –
-                <lb n="31"/>quilonic xeziquinic xazelava –
-                <lb n="32"/>chin vzaquiric xavi chila que –
-                <lb n="33"/>mucun vi relebal quih quila va –
-                <lb n="34"/>chin ri iqoquih nima chu mil <del rend="scribble" instant="false" status="unremarkable">xa</del>
+                    <lb n="2"/>yub nima huyub quebec queheri e
+                    <lb n="3"/>chuh xeqha ta xqui yahobeh ri hu –
+                    <lb n="4"/>yubal vinac xeqha chila xquil vi
+                    <lb n="5"/>relebal quih xa cu hun quiqhabal
+                    <lb n="6"/>conohel maha chiquiziquihoc che
+                    <lb n="7"/>abah are natal chiquech ri vꜩih
+                    <lb n="8"/>ꜩacol bitol vqux cah, vqux vleu
+                    <lb n="9"/>xeqha xere qui quxlaan ri re
+                    <lb n="10"/>vaxic vzaquiric. xaꜩononic chi –
+                    <lb n="11"/>quibano e ahloe ꜩihe ahloe eah –
+                    <lb n="12"/>nim, e ahxob chiquipacaba qui –
+                    <lb n="13"/>vach chicah ta chiqui ꜩonoh qui
+                    <lb n="14"/>meal qui qahol acaroc at ꜩacol
+                    <lb n="15"/>at bitol cohauila, cohata moha
+                    <lb n="16"/>zaco, mohapizcalih at cabauil
+                    <lb n="17"/>chicah chivleuh vqux cah v
+                    <lb n="18"/>quxvleu chatah quetal caꜩihol
+                    <lb n="19"/>chi be quih chi be zac ta chauaxoc
+                    <lb n="20"/>ta zaquiroc quita raxalbe raxal
+                    <lb n="21"/>hoc cohaya vi lianic zaclianic a
+                    <lb n="22"/>mac tah vꜩilah zac, vꜩilah amac
+                    <lb n="23"/>tah, vꜩilah qazlem, vinaquirem
+                    <lb n="24"/>ta puch cohaia vi at huracan
+                    <lb n="25"/>chipa caculha, raxa caculha
+                    <lb n="26"/>chipina navac raxa nana vac
+                    <lb n="27"/>voc hunahpu tepeu cucumaꜩ
+                    <lb n="28"/>alom qaholom xpiyacoc, xmu –
+                    <lb n="29"/>cane ratit quih ratit zac tacha –
+                    <lb n="30"/>uaxoc, ta zaquiroc. xeqha ta xe –
+                    <lb n="31"/>quilonic xeziquinic xazelava –
+                    <lb n="32"/>chin vzaquiric xavi chila que –
+                    <lb n="33"/>mucun vi relebal quih quila va –
+                    <lb n="34"/>chin ri iqoquih nima chu mil <del rend="scribble" instant="false" status="unremarkable">xa</del>
                     <lb n="35"/>chalaxic quih ꜩihol re vpa cah
-                <lb n="36"/>vpavleu vbinibal vinac ꜩac vi
-                <lb n="37"/>nac bit xeqha e balam quiꜩe
-                <lb n="38"/>balam acab, mahucutah, iqui –
-                <lb n="39"/>balam coyobeh na vzaquiric
-                <lb n="40"/>xeqha e nimac etamanel enao –
-                <lb n="41"/>nel e ahquixb, e ah nim quevqha
-                <lb n="42"/>xic mahabi cuhabioc che abah
-                <lb n="43"/>chichahin e canabe chuch cahau.
-                <lb n="44"/>e xacu xcoz qui qux chiri chiro
-                <lb n="45"/>yobexic quih e quÿ chic rono –
-                <lb n="46"/>hel amac ruq ya qui vinac ah
-                <lb n="47"/>quix ahcab xaho oh caꜩu cuhoh –
-                          </p>
-                <pb xml:id="xom-f35-s2"/>
-                <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
-                    <num rend="large">35</num>
-                </note>
-                <p>
+                    <lb n="36"/>vpavleu vbinibal vinac ꜩac vi
+                    <lb n="37"/>nac bit xeqha e balam quiꜩe
+                    <lb n="38"/>balam acab, mahucutah, iqui –
+                    <lb n="39"/>balam coyobeh na vzaquiric
+                    <lb n="40"/>xeqha e nimac etamanel enao –
+                    <lb n="41"/>nel e ahquixb, e ah nim quevqha
+                    <lb n="42"/>xic mahabi cuhabioc che abah
+                    <lb n="43"/>chichahin e canabe chuch cahau.
+                    <lb n="44"/>e xacu xcoz qui qux chiri chiro
+                    <lb n="45"/>yobexic quih e quÿ chic rono –
+                    <lb n="46"/>hel amac ruq ya qui vinac ah
+                    <lb n="47"/>quix ahcab xaho oh caꜩu cuhoh –
+                          
+                    <pb xml:id="xom-f35-s2"/>
+                
+                    <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rend="margin-left" anchored="true">
+                        <num rend="large">35</num>
+                    </note>
                     <lb n="1"/>pu quila ve qo chi chahin quetala
-                <lb n="2"/>chicaric ri cohꜩihon ta chuvach
-                <lb n="3"/>xaqui quehe oh qolic mahabi
-                <lb n="4"/>chahal que xeqha cut e balam
-                <lb n="5"/>quiꜩe, balam acab, mahucutah
-                <lb n="6"/>iqui balam xquitao vꜩihol hun
-                <lb n="7"/>tinamit xebevi
+                    <lb n="2"/>chicaric ri cohꜩihon ta chuvach
+                    <lb n="3"/>xaqui quehe oh qolic mahabi
+                    <lb n="4"/>chahal que xeqha cut e balam
+                    <lb n="5"/>quiꜩe, balam acab, mahucutah
+                    <lb n="6"/>iqui balam xquitao vꜩihol hun
+                    <lb n="7"/>tinamit xebevi
                 </p>
                 <p>
-                    <lb n="8" rend="indent"/>
-                    <hi rend="large">A</hi>recut vbi huyub va xebe vi
-                <lb n="9"/>Balam quiꜩe, Balam acab mahu
-                <lb n="10"/>cutah, iqui balam ruq tumub, ilo –
-                <lb n="11"/>cab, <rs ana="TULAN" type="toponym">tulan</rs>
-                    <rs ana="SUYWA" type="toponym">zuiva</rs> vvcub pec, vv –
-                <lb n="12"/>cubzivan vbi tinamit xeopon vi
-                <lb n="13"/>e camolre cabauil
+                    <lb n="8" rend="indent"/><hi rend="large">A</hi>recut vbi huyub va xebe vi
+                    <lb n="9"/>Balam quiꜩe, Balam acab mahu
+                    <lb n="10"/>cutah, iqui balam ruq tumub, ilo –
+                    <lb n="11"/>cab, <rs ana="TULAN" type="toponym">tulan</rs><rs ana="SUYWA" type="toponym">zuiva</rs> vvcub pec, vv –
+                    <lb n="12"/>cubzivan vbi tinamit xeopon vi
+                    <lb n="13"/>e camolre cabauil
                 </p>
                 <p>
                     <lb n="14" rend="indent"/>Xeopon cut chila tulan conoh –
-                <lb n="15"/>el maui ahilan chivinac xoponic
-                <lb n="16"/>ꜩaꜩcut chubinic cholon cut relic
-                <lb n="17"/>vloc qui cabavil nabe ri balam
-                <lb n="18"/>quiꜩe, Balam acaab, mahucutah
-                <lb n="19"/>iqui balam quequicotic are ca ꜩu
-                <lb n="20"/>cum va mi xcarico xeqha are
-                <lb n="21"/>cut nabe xel ri tohil vbicaba –
-                <lb n="22"/>uil . xequel vcoc ri caxic rumal
-                <lb n="23"/>balam quiꜩe. xel chicu vloc avi –
-                <lb n="24"/>lix vbi cabauil xrucah Balam
-                <lb n="25"/>acab<del rend="scribble" instant="false" status="unremarkable">al</del> hacauiꜩ chic vbi caba
-                <lb n="26"/>vil xucamo Mahucutah. nica –
-                <lb n="27"/>cahtacah vbi cabavil xucamo i –
-                <lb n="28"/>qui Balam. xere cut rach queche
-                <lb n="29"/>vinac ri xucaam chicut reta –
-                <lb n="30"/>mub xaui xere tohil chitamub
-                <lb n="31"/>qo vbi xcamouic vmam vcaha –
-                <lb n="32"/>u tamub ahauab quetaan cut
-                <lb n="33"/>vacamic, roxchicut ilocab xa –
-                <lb n="34"/>ui tohil vbi cabavil xucamo
-                <lb n="35"/>quimam quicahau ahauab xa
-                <lb n="36"/>ui quetaam va camic
+                    <lb n="15"/>el maui ahilan chivinac xoponic
+                    <lb n="16"/>ꜩaꜩcut chubinic cholon cut relic
+                    <lb n="17"/>vloc qui cabavil nabe ri balam
+                    <lb n="18"/>quiꜩe, Balam acaab, mahucutah
+                    <lb n="19"/>iqui balam quequicotic are ca ꜩu
+                    <lb n="20"/>cum va mi xcarico xeqha are
+                    <lb n="21"/>cut nabe xel ri tohil vbicaba –
+                    <lb n="22"/>uil . xequel vcoc ri caxic rumal
+                    <lb n="23"/>balam quiꜩe. xel chicu vloc avi –
+                    <lb n="24"/>lix vbi cabauil xrucah Balam
+                    <lb n="25"/>acab<del rend="scribble" instant="false" status="unremarkable">al</del> hacauiꜩ chic vbi caba
+                    <lb n="26"/>vil xucamo Mahucutah. nica –
+                    <lb n="27"/>cahtacah vbi cabavil xucamo i –
+                    <lb n="28"/>qui Balam. xere cut rach queche
+                    <lb n="29"/>vinac ri xucaam chicut reta –
+                    <lb n="30"/>mub xaui xere tohil chitamub
+                    <lb n="31"/>qo vbi xcamouic vmam vcaha –
+                    <lb n="32"/>u tamub ahauab quetaan cut
+                    <lb n="33"/>vacamic, roxchicut ilocab xa –
+                    <lb n="34"/>ui tohil vbi cabavil xucamo
+                    <lb n="35"/>quimam quicahau ahauab xa
+                    <lb n="36"/>ui quetaam va camic
                 </p>
                 <p>
                     <lb n="37" rend="indent"/>Quehecut vbinaam vi ox –
-                <lb n="38"/>ib chiquiche xma xuꜩocopih
-                <lb n="39"/>virib rumal xa hunam vbi ca –
-                <lb n="40"/>bauil tohil quiche, tohil chi ta –
-                <lb n="41"/>mub, chi ilocab xa hun vbi v
-                <lb n="42"/>cabavil que cu mavi xuhach
-                <lb n="43"/>vi rib roxichal queche oxib
-                <lb n="44"/>ri quiꜩih nimac qui qoheic to
-                <lb n="45"/>hilauilix hacaviꜩ ta xoc chicut
-                <lb n="46"/>ronohel amac rabinaleb, ca –
-                <lb n="47"/>echequeleb, ahq,iquina ha, ruq
-                </p>
-                <pb xml:id="xom-f36-s1"/>
-                <p>
+                    <lb n="38"/>ib chiquiche xma xuꜩocopih
+                    <lb n="39"/>virib rumal xa hunam vbi ca –
+                    <lb n="40"/>bauil tohil quiche, tohil chi ta –
+                    <lb n="41"/>mub, chi ilocab xa hun vbi v
+                    <lb n="42"/>cabavil que cu mavi xuhach
+                    <lb n="43"/>vi rib roxichal queche oxib
+                    <lb n="44"/>ri quiꜩih nimac qui qoheic to
+                    <lb n="45"/>hilauilix hacaviꜩ ta xoc chicut
+                    <lb n="46"/>ronohel amac rabinaleb, ca –
+                    <lb n="47"/>echequeleb, ahq,iquina ha, ruq
+
+                    <pb xml:id="xom-f36-s1"/>
+                
                     <lb n="1"/>yaquivinac vbi vacamic. chiri
-<lb n="2"/>cut xhalcatih v qhabal ri a –
-<lb n="3"/>mac halahoh qui qhabal xuxic
-<lb n="4"/>maui calah chic xquitao chi qui –
-<lb n="5"/>bilquib ta xepetic chitulan chi –
-<lb n="6"/>ri cut xquipaxih vi quib qo
-<lb n="7"/>xbechila relebal quih, tzatz cu
-<lb n="8"/>ri xpe varal. xa cuha mahtzu –
-<lb n="9"/>um quicu, mahabi ri vtzilah
-<lb n="10"/> tac cul tah quicohom xa v ‘q,u –
-<lb n="11"/>mal chicop qui cauvbal eme –
-<lb n="12"/>ba mahabi quech xa enaual
-<lb n="13"/>vinac chiquiqoheic. taxepe chi –
-<lb n="14"/>la tulan zu va vvcub pec vvcub
-<lb n="15"/>zivan qha chupan oher tzih tzatz
-<lb n="16"/>chubinic xopon chitulan macu
-<lb n="17"/>habi eae xaqui e co ri tohil are
-<lb n="18"/>curi vcabauil amac nabe xvi –
-<lb n="19"/>naquir veae maui calah vvina
-<lb n="20"/>quiric canicou chic qui eae ta
-<lb n="21"/>xquil ri Balam quitze Balam a
-<lb n="22"/>cab acaroc mahabi ca eae mi –
-<lb n="23"/>xuxic xcohcam rumal tu xe
-<lb n="24"/>qha cut ta xqhau cut ritohil
-<lb n="25"/>mixbizonic qoivech chizach ri
-<lb n="26"/>􀁳􀁳􀀃eae+ 􀁳 xqha cut1 tohil chi –
-<lb n="27"/>que. ma quitzih at cabauil at
-<lb n="28"/>catzucuh at pu ca coon at ca –
-<lb n="29"/>cabauil xeqha chire ta xquica –
-<lb n="30"/>movah ri xubÿh tohil. utzbala
-<lb n="31"/>quitzih in icabauil ta chuxoc in
-<lb n="32"/>ivahaual ta chuxoc xevqhax
-<lb n="33"/>ri ahquixb ahcah rumal to –
-<lb n="34"/>hil arecut queeaeal ria
-<lb n="35"/>mac quequicotic rumal qui
-<lb n="36"/>eae
-<lb n="37"/>Catepuch ta xticaric nima hab
-<lb n="38"/>are catilo veae amac tzatz cut
-<lb n="39"/>chi zacboch xachic pa qui vi ro
-<lb n="40"/> nohel amac ta xchup cut qui
-<lb n="41"/>eae rumal zacboch mahabi
-<lb n="42"/>chic quieae xuxic. ta xquizo –
-<lb n="43"/>noh chi cut quieae ri Balam –
-<lb n="44"/>quitze Balam acab, at tohil qui –
-<lb n="45"/>tzih cohvtzinic rumal tu xe
-<lb n="46"/>qhacut chire tohil vtz mixbi –
-<lb n="47"/>zonic xqha tohil. cate ta xre –
-</p>
-                <pb xml:id="xom-f36-s2"/>
+                    <lb n="2"/>cut xhalcatih v qhabal ri a –
+                    <lb n="3"/>mac halahoh qui qhabal xuxic
+                    <lb n="4"/>maui calah chic xquitao chi qui –
+                    <lb n="5"/>bilquib ta xepetic chitulan chi –
+                    <lb n="6"/>ri cut xquipaxih vi quib qo
+                    <lb n="7"/>xbechila relebal quih, tzatz cu
+                    <lb n="8"/>ri xpe varal. xa cuha mahtzu –
+                    <lb n="9"/>um quicu, mahabi ri vtzilah
+                    <lb n="10"/> tac cul tah quicohom xa v ‘q,u –
+                    <lb n="11"/>mal chicop qui cauvbal eme –
+                    <lb n="12"/>ba mahabi quech xa enaual
+                    <lb n="13"/>vinac chiquiqoheic. taxepe chi –
+                    <lb n="14"/>la tulan zu va vvcub pec vvcub
+                    <lb n="15"/>zivan qha chupan oher tzih tzatz
+                    <lb n="16"/>chubinic xopon chitulan macu
+                    <lb n="17"/>habi eae xaqui e co ri tohil are
+                    <lb n="18"/>curi vcabauil amac nabe xvi –
+                    <lb n="19"/>naquir veae maui calah vvina
+                    <lb n="20"/>quiric canicou chic qui eae ta
+                    <lb n="21"/>xquil ri Balam quitze Balam a
+                    <lb n="22"/>cab acaroc mahabi ca eae mi –
+                    <lb n="23"/>xuxic xcohcam rumal tu xe
+                    <lb n="24"/>qha cut ta xqhau cut ritohil
+                    <lb n="25"/>mixbizonic qoivech chizach ri
+                    <!-- ADD MARGINAL INSERTION BELOW -->
+                    <lb n="26"/><del><unclear></unclear></del> eae+ <del><unclear></unclear></del> xqha cut tohil chi –
+                    <lb n="27"/>que. ma quitzih at cabauil at
+                    <lb n="28"/>catzucuh at pu ca coon at ca –
+                    <lb n="29"/>cabauil xeqha chire ta xquica –
+                    <lb n="30"/>movah ri xubÿh tohil. utzbala
+                    <lb n="31"/>quitzih in icabauil ta chuxoc in
+                    <lb n="32"/>ivahaual ta chuxoc xevqhax
+                    <lb n="33"/>ri ahquixb ahcah rumal to –
+                    <lb n="34"/>hil arecut queeaeal ria
+                    <lb n="35"/>mac quequicotic rumal qui
+                    <lb n="36"/>eae
+                </p>
                 <p>
+                    <lb n="37" rend="indent" />Catepuch ta xticaric nima hab
+                    <lb n="38"/>are catilo veae amac tzatz cut
+                    <lb n="39"/>chi zacboch xachic pa qui vi ro
+                    <lb n="40"/> nohel amac ta xchup cut qui
+                    <lb n="41"/>eae rumal zacboch mahabi
+                    <lb n="42"/>chic quieae xuxic. ta xquizo –
+                    <lb n="43"/>noh chi cut quieae ri Balam –
+                    <lb n="44"/>quitze Balam acab, at tohil qui –
+                    <lb n="45"/>tzih cohvtzinic rumal tu xe
+                    <lb n="46"/>qhacut chire tohil vtz mixbi –
+                    <lb n="47"/>zonic xqha tohil. cate ta xre –
+
+                    <!-- STOPPED -->
+                    <pb xml:id="xom-f36-s2"/>
+                
                     <lb n="1"/>lezah eae xubac uloc chupan v xa –
 <lb n="2"/>hab cate cut xequicot ri Balam
 <lb n="3"/>quitze Balam acab, mahucutah
