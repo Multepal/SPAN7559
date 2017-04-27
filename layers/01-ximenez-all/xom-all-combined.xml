@@ -54,7 +54,7 @@
     </teiHeader>
     <text xml:id="MS1515v2" n="1515.2">
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="01.1" xml:id="xom-f01-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="01.1" xml:id="xom-f01-s1" xml:base="../00-ximenez/xom-folio-01-side-1.xml">
             <div type="col" n="01.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/><hi rend="large">ARE V XE OHER</hi>
@@ -161,7 +161,7 @@
                 </p>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="01.2" xml:id="xom-f01-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="01.2" xml:id="xom-f01-s2" xml:base="../00-ximenez/xom-folio-01-side-2.xml">
             <div type="col" n="01.2.1" xml:lang="quc">
                 	<p>
 					<lb n="1"/>ato qol vi cah vleu cho palo
@@ -269,7 +269,7 @@
 				</p>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="02.1" xml:id="xom-f02-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="02.1" xml:id="xom-f02-s1" xml:base="../00-ximenez/xom-folio-02-side-1.xml">
             <div type="col" n="02.1.1" xml:lang="quc">
             	<p>
             	<lb n="1"/><rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
@@ -374,7 +374,7 @@
             	<lb/>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="02.2" xml:id="xom-f02-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="02.2" xml:id="xom-f02-s2" xml:base="../00-ximenez/xom-folio-02-side-2.xml">
             <div type="col" n="02.2.1" xml:lang="quc">
             	<p>
             	<lb n="1"/>tahic cumal.
@@ -478,7 +478,7 @@
             	<lb/>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="03.1" xml:id="xom-f03-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="03.1" xml:id="xom-f03-s1" xml:base="../00-ximenez/xom-folio-03-side-1.xml">
             <div type="col" n="03.1.1" xml:lang="quc">
             	<p>
             	<lb n="1"/>quixqhaoc cohiziquih, cohiqui –
@@ -586,7 +586,7 @@
             	<lb/>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="03.2" xml:id="xom-f03-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="03.2" xml:id="xom-f03-s2" xml:base="../00-ximenez/xom-folio-03-side-2.xml">
             <div type="col" n="03.2.1" xml:lang="quc">
             	<p>
             	<lb n="1"/>bit maui mi xuꜩinic ca quihilo – 
@@ -695,7 +695,7 @@
             	</p>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="04.1" xml:id="xom-f04-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="04.1" xml:id="xom-f04-s1" xml:base="../00-ximenez/xom-folio-04-side-1.xml">
             <div type="col" n="04.1.1" xml:lang="quc">
             	<p>
             	<lb n="1"/>nabaxic rumal vinac ꜩac, vinac
@@ -805,7 +805,7 @@
             	</p>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="04.2" xml:id="xom-f04-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="04.2" xml:id="xom-f04-s2" xml:base="../00-ximenez/xom-folio-04-side-2.xml">
             <div type="col" n="04.2.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>canic maui xquinatah chic ri v –
@@ -907,7 +907,7 @@
                 </p>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="05.1" xml:id="xom-f05-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="05.1" xml:id="xom-f05-s1" xml:base="../00-ximenez/xom-folio-05-side-1.xml">
                 <div type="col" n="05.1.1" xml:lang="quc">
                     <p>
                         <lb n="1"/>quixot, qui lac, qui boh, qui ꜩi
@@ -1009,7 +1009,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="05.2" xml:id="xom-f05-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="05.2" xml:id="xom-f05-s2" xml:base="../00-ximenez/xom-folio-05-side-2.xml">
                 <div type="col" n="05.2.1" xml:lang="quc">
                     <p>
                         <lb n="1"/>querah oc pahul xa chiyuch
@@ -1110,7 +1110,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="06.1" xml:id="xom-f06-s1" facs="file:///../../textos/facsimiles/MS1515v2_f06r.jpg">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="06.1" xml:id="xom-f06-s1" facs="file:///../../textos/facsimiles/MS1515v2_f06r.jpg" xml:base="../00-ximenez/xom-folio-06-side-1.xml">
                 <div type="col" n="06.1.1" xml:lang="quc">
                     <p>
                         <lb n="1"/>vxecah copon vi vvach. maha
@@ -1212,7 +1212,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="06.2" xml:id="xom-f06-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="06.2" xml:id="xom-f06-s2" xml:base="../00-ximenez/xom-folio-06-side-2.xml">
                 <div type="col" n="06.2.1" xml:lang="quc">
                     <p>
                         <!-- The number 6 in the margin is in a different hand and ink (pencil?) -->
@@ -1317,7 +1317,7 @@
                    </p>
                 </div>
              </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="07.1" xml:id="xom-f07-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="07.1" xml:id="xom-f07-s1" xml:base="../00-ximenez/xom-folio-07-side-1.xml">
             <div type="col" n="07.1.1" xml:lang="quc">
                 <p>
                     <lb n="1"/>quix, huzuc xtzac vloc, xme –
@@ -1411,7 +1411,7 @@
               </p>
             </div>
           </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="07.2" xml:id="xom-f07-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="07.2" xml:id="xom-f07-s2" xml:base="../00-ximenez/xom-folio-07-side-2.xml">
                 <div type="col" n="07.2.1" xml:lang="quc">
                     <p>
                         <lb n="1"/>cut. cate cut ta xebec tzamal
@@ -1509,7 +1509,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="08.1" xml:id="xom-f08-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="08.1" xml:id="xom-f08-s1" xml:base="../00-ximenez/xom-folio-08-side-1.xml">
                 <div type="col" n="08.1.1" xml:lang="quc">
                     <p>
                         <lb n="1"/>re vvcub caquix. xa zaqui ixim
@@ -1616,7 +1616,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="08.2" xml:id="xom-f08-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="08.2" xml:id="xom-f08-s2" xml:base="../00-ximenez/xom-folio-08-side-2.xml">
                 <div type="col" n="08.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                     <p>
@@ -1714,7 +1714,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="09.1" xml:id="xom-f09-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="09.1" xml:id="xom-f09-s1" xml:base="../00-ximenez/xom-folio-09-side-1.xml">
                 <div type="col" n="09.1.1" xml:lang="quc">
                 <p>
                         <lb n="1"/>cototahic xcha vloc zipacna
@@ -1804,7 +1804,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="09.2" xml:id="xom-f09-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="09.2" xml:id="xom-f09-s2" xml:base="../00-ximenez/xom-folio-09-side-2.xml">
                 <div type="col" n="09.2.1" xml:lang="quc">
                     <p>
                         <note place="margin-left"><num>9</num></note>
@@ -1894,7 +1894,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="10.1" xml:id="xom-f10-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="10.1" xml:id="xom-f10-s1" xml:base="../00-ximenez/xom-folio-10-side-1.xml">
                 <div type="col" n="10.1.1" xml:lang="quc">
                     <p>
                         <lb n="1"/>recah huyub cate cut vhal –
@@ -1986,7 +1986,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="10.2" xml:id="xom-f10-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="10.2" xml:id="xom-f10-s2" xml:base="../00-ximenez/xom-folio-10-side-2.xml">
                 <div type="col" n="10.2.1" xml:lang="quc">
                     <p>
                         <note place="margin-left"><num>10</num></note>
@@ -2092,7 +2092,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="11.1" xml:id="xom-f11-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="11.1" xml:id="xom-f11-s1" xml:base="../00-ximenez/xom-folio-11-side-1.xml">
                 <div type="col" n="11.1.1" xml:lang="quc">
                     <p>
                         <lb n="1"/>rihuracan, chipi caculha, raxa 
@@ -2194,7 +2194,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="11.2" xml:id="xom-f11-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="11.2" xml:id="xom-f11-s2" xml:base="../00-ximenez/xom-folio-11-side-2.xml">
                 <div type="col" n="11.2.1" xml:lang="quc">
                     <p>
                         <note place="margin-left"><num>11</num></note>
@@ -2297,7 +2297,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="12.1" xml:id="xom-f12-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="12.1" xml:id="xom-f12-s1" xml:base="../00-ximenez/xom-folio-12-side-1.xml">
                 <div type="col" n="12.1.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>vleu xcul chirih q,iquin xu –
@@ -2407,7 +2407,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="12.2" xml:id="xom-f12-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="12.2" xml:id="xom-f12-s2" xml:base="../00-ximenez/xom-folio-12-side-2.xml">
                 <div type="col" n="12.2.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>cot, eahxit, e ah puvac xevxic
@@ -2513,7 +2513,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="13.1" xml:id="xom-f13-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="13.1" xml:id="xom-f13-s1" xml:base="../00-ximenez/xom-folio-13-side-1.xml">
                 <div type="col" n="13.1.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>mÿa bac chamÿaholom quibi. are
@@ -2616,7 +2616,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="13.2" xml:id="xom-f13-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="13.2" xml:id="xom-f13-s2" xml:base="../00-ximenez/xom-folio-13-side-2.xml">
                 <div type="col" n="13.2.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>cab chipe naipuch riqui quiqque
@@ -2722,7 +2722,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="14.1" xml:id="xom-f14-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="14.1" xml:id="xom-f14-s1" xml:base="../00-ximenez/xom-folio-14-side-1.xml">
                 <div type="col" n="14.1.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>ivatit. xevqhax cut <rs ana="JUN_BATZ">hun baꜩ</rs>
@@ -2874,7 +2874,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="14.2" xml:id="xom-f14-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="14.2" xml:id="xom-f14-s2" xml:base="../00-ximenez/xom-folio-14-side-2.xml">
                 <div type="col" n="14.2.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>ibate, ipachcab xevqhax cut
@@ -2978,7 +2978,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="15.1" xml:id="xom-f15-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="15.1" xml:id="xom-f15-s1" xml:base="../00-ximenez/xom-folio-15-side-1.xml">
                 <div type="col" n="15.1.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>queeuma ha vtuquel queeum
@@ -3083,7 +3083,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="15.2" xml:id="xom-f15-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="15.2" xml:id="xom-f15-s2" xml:base="../00-ximenez/xom-folio-15-side-2.xml">
                 <div type="col" n="15.2.1" xml:lang="quc">
                 	<p>
                 		<lb n="1"/>chic vvach ruq vvach zima carilo
@@ -3188,7 +3188,7 @@
                 	</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="16.1" xml:id="xom-f16-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="16.1" xml:id="xom-f16-s1" xml:base="../00-ximenez/xom-folio-16-side-1.xml">
                 <div type="col" n="16.1.1" xml:lang="quc">
                 <p>
                     <lb n="1"/>bac pucab xaretal mi xnuya cha -
@@ -3377,7 +3377,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="16.2" xml:id="xom-f16-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="16.2" xml:id="xom-f16-s2" xml:base="../00-ximenez/xom-folio-16-side-2.xml">
                 <div type="col" n="16.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
@@ -3549,7 +3549,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="17.1" xml:id="xom-f17-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="17.1" xml:id="xom-f17-s1" xml:base="../00-ximenez/xom-folio-17-side-1.xml">
                 <div type="col" n="17.1.1" xml:lang="quc">
                 <p>
                         <lb n="1"/>are curi quic xubinaah rumal quic
@@ -3728,7 +3728,7 @@
                         		</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="17.2" xml:id="xom-f17-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="17.2" xml:id="xom-f17-s2" xml:base="../00-ximenez/xom-folio-17-side-2.xml">
                 <div type="col" n="17.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
@@ -3920,7 +3920,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="18.1" xml:id="xom-f18-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="18.1" xml:id="xom-f18-s1" xml:base="../00-ximenez/xom-folio-18-side-1.xml">
                 <div type="col" n="18.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>xberilari a bix xavixere qovi ri
@@ -4073,7 +4073,7 @@
                </p>
                </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="18.2" xml:id="xom-f18-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="18.2" xml:id="xom-f18-s2" xml:base="../00-ximenez/xom-folio-18-side-2.xml">
                 <div type="col" n="18.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
@@ -4231,7 +4231,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="19.1" xml:id="xom-f19-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="19.1" xml:id="xom-f19-s1" xml:base="../00-ximenez/xom-folio-19-side-1.xml">
                 <div type="col" n="19.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>vꜩbala xeqha cut. cate puch xeaca –
@@ -4388,7 +4388,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="19.2" xml:id="xom-f19-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="19.2" xml:id="xom-f19-s2" xml:base="../00-ximenez/xom-folio-19-side-2.xml">
                 <div type="col" n="19.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
@@ -4548,7 +4548,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="20.1" xml:id="xom-f20-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="20.1" xml:id="xom-f20-s1" xml:base="../00-ximenez/xom-folio-20-side-1.xml">
                 <div type="col" n="20.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>quevqhaxic xeqha ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xba –
@@ -4720,7 +4720,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="20.2" xml:id="xom-f20-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="20.2" xml:id="xom-f20-s2" xml:base="../00-ximenez/xom-folio-20-side-2.xml">
                 <div type="col" n="20.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
@@ -4893,7 +4893,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="21.1" xml:id="xom-f21-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="21.1" xml:id="xom-f21-s1" xml:base="../00-ximenez/xom-folio-21-side-1.xml">
                 <div type="col" n="21.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>vi e mucumuxinacchic chiritaxe
@@ -5072,7 +5072,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="21.2" xml:id="xom-f21-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="21.2" xml:id="xom-f21-s2" xml:base="../00-ximenez/xom-folio-21-side-2.xml">
                 <div type="col" n="21.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
@@ -5251,7 +5251,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="22.1" xml:id="xom-f22-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="22.1" xml:id="xom-f22-s1" xml:base="../00-ximenez/xom-folio-22-side-1.xml">
                 <div type="col" n="22.1.1" xml:lang="quc">
                 <!-- NB: The OSU transcription adds space (after the first case) between letters and word-final -. This is not like my other sections. -->
                 <p>
@@ -5438,7 +5438,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="22.2" xml:id="xom-f22-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="22.2" xml:id="xom-f22-s2" xml:base="../00-ximenez/xom-folio-22-side-2.xml">
                 <div type="col" n="22.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
@@ -5595,7 +5595,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="23.1" xml:id="xom-f23-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="23.1" xml:id="xom-f23-s1" xml:base="../00-ximenez/xom-folio-23-side-1.xml">
                 <div type="col" n="23.1.1" xml:lang="quc">
                 <p>
 <!-- Nicole, please check all of these ana tags. There seem to be some problems with pajaro, vbaca, etc.-->
@@ -5766,7 +5766,7 @@
 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="23.2" xml:id="xom-f23-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="23.2" xml:id="xom-f23-s2" xml:base="../00-ximenez/xom-folio-23-side-2.xml">
                 <div type="col" n="23.2.1" xml:lang="quc">
                 <p>
 <note place="margin-right" type="pagination">
@@ -5926,7 +5926,7 @@
 </p>
 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="24.1" xml:id="xom-f24-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="24.1" xml:id="xom-f24-s1" xml:base="../00-ximenez/xom-folio-24-side-1.xml">
                 <div type="col" n="24.1.1" xml:lang="quc">
                 
 <note place="margin-left" type="pagination">
@@ -6172,7 +6172,7 @@
 </p>
 </div>
 </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="24.2" xml:id="xom-f24-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="24.2" xml:id="xom-f24-s2" xml:base="../00-ximenez/xom-folio-24-side-2.xml">
                 <div type="col" n="24.2.1" xml:lang="quc">
                 
 <note place="margin-left" type="pagination">
@@ -6319,7 +6319,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="25.1" xml:id="xom-f25-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="25.1" xml:id="xom-f25-s1" xml:base="../00-ximenez/xom-folio-25-side-1.xml">
                 <div type="col" n="25.1.1" xml:lang="quc">
                 
 <note place="margin-left" type="pagination">
@@ -6440,7 +6440,7 @@
 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="25.2" xml:id="xom-f25-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="25.2" xml:id="xom-f25-s2" xml:base="../00-ximenez/xom-folio-25-side-2.xml">
                 <div type="col" n="25.2.1" xml:lang="quc">
 <p>                
 <note place="margin-left" type="pagination"><num rend="large"><hi rend="handwriting;color:pencil">25</hi></num></note>
@@ -6554,7 +6554,7 @@
 
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="26.1" xml:id="xom-f26-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="26.1" xml:id="xom-f26-s1" xml:base="../00-ximenez/xom-folio-26-side-1.xml">
                 <div type="col" n="26.1.1" xml:lang="quc">
                 <p>                 
 <note place="margin-left" type="pagination"><num rend="large"><hi rend="handwriting;color:pencil">26</hi></num></note>
@@ -6659,7 +6659,7 @@
 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="26.2" xml:id="xom-f26-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="26.2" xml:id="xom-f26-s2" xml:base="../00-ximenez/xom-folio-26-side-2.xml">
                 <div type="col" n="26.2.1" xml:lang="quc">            
 <p>                 
 <note place="margin-left" type="pagination"><num rend="large"><hi rend="handwriting;color:pencil">26</hi></num></note>                
@@ -6769,7 +6769,7 @@
 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="27.1" xml:id="xom-f27-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="27.1" xml:id="xom-f27-s1" xml:base="../00-ximenez/xom-folio-27-side-1.xml">
                 <div type="col" n="27.1.1" xml:lang="quc">
                 
 <p>                 
@@ -6884,7 +6884,7 @@
 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="27.2" xml:id="xom-f27-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="27.2" xml:id="xom-f27-s2" xml:base="../00-ximenez/xom-folio-27-side-2.xml">
                 <div type="col" n="27.2.1" xml:lang="quc">                
 <p>                 
 <note place="margin-left" type="pagination"><num rend="large"><hi rend="handwriting;color:pencil">27</hi></num></note>              
@@ -6990,7 +6990,7 @@
 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="28.1" xml:id="xom-f28-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="28.1" xml:id="xom-f28-s1" xml:base="../00-ximenez/xom-folio-28-side-1.xml">
                 <div type="col" n="28.1.1" xml:lang="quc">
              
                 <p>
@@ -7106,7 +7106,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="28.2" xml:id="xom-f28-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="28.2" xml:id="xom-f28-s2" xml:base="../00-ximenez/xom-folio-28-side-2.xml">
                 <div type="col" n="28.2.1" xml:lang="quc">
                 
                 <note place="margin-left" type="pagination">
@@ -7233,7 +7233,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="29.1" xml:id="xom-f29-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="29.1" xml:id="xom-f29-s1" xml:base="../00-ximenez/xom-folio-29-side-1.xml">
                 <div type="col" n="29.1.1" xml:lang="quc">
                 						
                 <p>
@@ -7352,7 +7352,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="29.2" xml:id="xom-f29-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="29.2" xml:id="xom-f29-s2" xml:base="../00-ximenez/xom-folio-29-side-2.xml">
                 <div type="col" n="29.2.1" xml:lang="quc">
                 	
                 	<note place="margin-left" type="pagination">
@@ -7463,7 +7463,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="30.1" xml:id="xom-f30-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="30.1" xml:id="xom-f30-s1" xml:base="../00-ximenez/xom-folio-30-side-1.xml">
                 <div type="col" n="30.1.1" xml:lang="quc">
 
                 <p>
@@ -7579,7 +7579,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="30.2" xml:id="xom-f30-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="30.2" xml:id="xom-f30-s2" xml:base="../00-ximenez/xom-folio-30-side-2.xml">
                 <div type="col" n="30.2.1" xml:lang="quc">
                 
                 	<note place="margin-left" type="pagination">
@@ -7692,7 +7692,7 @@
                 </p>                
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="31.1" xml:id="xom-f31-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="31.1" xml:id="xom-f31-s1" xml:base="../00-ximenez/xom-folio-31-side-1.xml">
                 <div type="col" n="31.1.1" xml:lang="quc">
               
                 <p>
@@ -7805,7 +7805,7 @@
 				</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="31.2" xml:id="xom-f31-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="31.2" xml:id="xom-f31-s2" xml:base="../00-ximenez/xom-folio-31-side-2.xml">
                 <div type="col" n="31.2.1" xml:lang="quc">
                 
                 <note place="margin-left" type="pagination">
@@ -7921,7 +7921,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="32.1" xml:id="xom-f32-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="32.1" xml:id="xom-f32-s1" xml:base="../00-ximenez/xom-folio-32-side-1.xml">
                 <div type="col" n="32.1.1" xml:lang="quc">
                 <p>
                 	<lb n="1"/>chinel chimac chilabal; enaipu 
@@ -8030,7 +8030,7 @@
                     </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="32.2" xml:id="xom-f32-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="32.2" xml:id="xom-f32-s2" xml:base="../00-ximenez/xom-folio-32-side-2.xml">
                 <div type="col" n="32.2.1" xml:lang="quc">
                 <note rend="margin-left"><num rend="large">32</num></note>
                 <p>
@@ -8147,7 +8147,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="33.1" xml:id="xom-f33-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="33.1" xml:id="xom-f33-s1" xml:base="../00-ximenez/xom-folio-33-side-1.xml">
                 <div type="col" n="33.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>zaquihal chique chila quepe vi
@@ -8257,7 +8257,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="33.2" xml:id="xom-f33-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="33.2" xml:id="xom-f33-s2" xml:base="../00-ximenez/xom-folio-33-side-2.xml">
                 <div type="col" n="33.2.1" xml:lang="quc">
                 <note rend="margin-left"><num rend="large">33</num></note>
                 <p>
@@ -8366,7 +8366,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="34.1" xml:id="xom-f34-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="34.1" xml:id="xom-f34-s1" xml:base="../00-ximenez/xom-folio-34-side-1.xml">
                 <div type="col" n="34.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>chutin queqha.
@@ -8484,7 +8484,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="34.2" xml:id="xom-f34-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="34.2" xml:id="xom-f34-s2" xml:base="../00-ximenez/xom-folio-34-side-2.xml">
                 <div type="col" n="34.2.1" xml:lang="quc">
                 <note rend="margin-left"><num rend="large">34</num></note>
                 <p>
@@ -8589,7 +8589,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="35.1" xml:id="xom-f35-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="35.1" xml:id="xom-f35-s1" xml:base="../00-ximenez/xom-folio-35-side-1.xml">
                 <div type="col" n="35.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>vvach mahabi rochoch xachuti hu –
@@ -8694,7 +8694,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="35.2" xml:id="xom-f35-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="35.2" xml:id="xom-f35-s2" xml:base="../00-ximenez/xom-folio-35-side-2.xml">
                 <div type="col" n="35.2.1" xml:lang="quc">
                 <note rend="margin-left"><num rend="large">35</num></note>
                 <p>
@@ -8811,7 +8811,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="36.1" xml:id="xom-f36-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="36.1" xml:id="xom-f36-s1" xml:base="../00-ximenez/xom-folio-36-side-1.xml">
                 <div type="col" n="36.1.1" xml:lang="quc">
                 <p>
                 	<lb n="1"/>yaquivinac vbi vacamic. chiri
@@ -8914,7 +8914,7 @@
 </p>
             </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="36.2" xml:id="xom-f36-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="36.2" xml:id="xom-f36-s2" xml:base="../00-ximenez/xom-folio-36-side-2.xml">
                 <div type="col" n="36.2.1" xml:lang="quc">
                 <p>
                <lb n="1"/>lezah eae xubac uloc chupan v xa –
@@ -9017,7 +9017,7 @@
 </p>
                   </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="37.1" xml:id="xom-f37-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="37.1" xml:id="xom-f37-s1" xml:base="../00-ximenez/xom-folio-37-side-1.xml">
                 <div type="col" n="37.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>vl chicut ri amac quevtzin chic
@@ -9120,7 +9120,7 @@
 </p>
       </div>      
 </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="37.2" xml:id="xom-f37-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="37.2" xml:id="xom-f37-s2" xml:base="../00-ximenez/xom-folio-37-side-2.xml">
                 <div type="col" n="37.2.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>chocobeh xquiculuba puch u tzih to
@@ -9224,7 +9224,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="38.1" xml:id="xom-f38-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="38.1" xml:id="xom-f38-s1" xml:base="../00-ximenez/xom-folio-38-side-1.xml">
                 <div type="col" n="38.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>quech balam quitze, balam
@@ -9328,7 +9328,7 @@
                 </p>
                 </div>     
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="38.2" xml:id="xom-f38-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="38.2" xml:id="xom-f38-s2" xml:base="../00-ximenez/xom-folio-38-side-2.xml">
                 <div type="col" n="38.2.1" xml:lang="quc">
                <p>
                 <lb n="1"/>vlachumil are nabe chuvach quih
@@ -9432,7 +9432,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="39.1" xml:id="xom-f39-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="39.1" xml:id="xom-f39-s1" xml:base="../00-ximenez/xom-folio-39-side-1.xml">
                 <div type="col" n="39.1.1" xml:lang="quc">
              <p>
                 <lb n="1"/>xeqhacut ta xeqhauic. vtz ba –
@@ -9536,7 +9536,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="39.2" xml:id="xom-f39-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="39.2" xml:id="xom-f39-s2" xml:base="../00-ximenez/xom-folio-39-side-2.xml">
                 <div type="col" n="39.2.1" xml:lang="quc">
                <p>
                 <lb n="1"/>nima amac xa hun xtacatob vi
@@ -9640,7 +9640,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="40.1" xml:id="xom-f40-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="40.1" xml:id="xom-f40-s1" xml:base="../00-ximenez/xom-folio-40-side-1.xml">
                 <div type="col" n="40.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>chinic puch quih, ic, qhumil
@@ -9745,7 +9745,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="40.2" xml:id="xom-f40-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="40.2" xml:id="xom-f40-s2" xml:base="../00-ximenez/xom-folio-40-side-2.xml">
                 <div type="col" n="40.2.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>rib catan vvach are xchaquih
@@ -9847,7 +9847,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="41.1" xml:id="xom-f41-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="41.1" xml:id="xom-f41-s1" xml:base="../00-ximenez/xom-folio-41-side-1.xml">
                 <div type="col" n="41.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>chic caꜩ cachac avi mixquil vi quih
@@ -9951,7 +9951,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="41.2" xml:id="xom-f41-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="41.2" xml:id="xom-f41-s2" xml:base="../00-ximenez/xom-folio-41-side-2.xml">
                 <div type="col" n="41.2.1" xml:lang="quc">
                  <p>
                 <lb n="1"/>hichah <rs ana="BALAM_KITZE">balam quiꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>,
@@ -10057,7 +10057,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="42.1" xml:id="xom-f42-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="42.1" xml:id="xom-f42-s1" xml:base="../00-ximenez/xom-folio-42-side-1.xml">
                 <div type="col" n="42.1.1" xml:lang="quc">
                  <p>
                 <lb n="1"/>catoh chiquivach ta xticar cut v 
@@ -10160,7 +10160,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="42.2" xml:id="xom-f42-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="42.2" xml:id="xom-f42-s2" xml:base="../00-ximenez/xom-folio-42-side-2.xml">
                 <div type="col" n="42.2.1" xml:lang="quc">
                  <p>
                 <lb n="1"/>qaech huta quih ta quevl chicut
@@ -10264,7 +10264,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="43.1" xml:id="xom-f43-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="43.1" xml:id="xom-f43-s1" xml:base="../00-ximenez/xom-folio-43-side-1.xml">
                 <div type="col" n="43.1.1" xml:lang="quc">
                  <p>
                 <lb n="1"/>lix coc chique xa quecuꜩucuh
@@ -10368,7 +10368,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="43.2" xml:id="xom-f43-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="43.2" xml:id="xom-f43-s2" xml:base="../00-ximenez/xom-folio-43-side-2.xml">
                 <div type="col" n="43.2.1" xml:lang="quc">
                  <p>
                 <lb n="1"/>conohel xecuchu quib xetaco
@@ -10473,7 +10473,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="44.1" xml:id="xom-f44-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="44.1" xml:id="xom-f44-s1" xml:base="../00-ximenez/xom-folio-44-side-1.xml">
                 <div type="col" n="44.1.1" xml:lang="quc">
                 	<lb n="1"/>naquila chiquiya chive tazec chi -
                 	<lb n="2"/>qui raih ivach qui tzih chiya ivib
@@ -10527,7 +10527,7 @@
                 <!-- SPANISH LINES GO HERE -->
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="44.2" xml:id="xom-f44-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="44.2" xml:id="xom-f44-s2" xml:base="../00-ximenez/xom-folio-44-side-2.xml">
                 <div type="col" n="44.2.1" xml:lang="quc">
                 <p>
                     <lb n="1"/>ta xeqhau chic chiquech ri xtah
@@ -10585,7 +10585,7 @@
                     <p>MISSING CONTENT</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="45.1" xml:id="xom-f45-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="45.1" xml:id="xom-f45-s1" xml:base="../00-ximenez/xom-folio-45-side-1.xml">
                 <div type="col" n="45.1.1" xml:lang="quc">
                 <p>
 <lb n="1"/>cot humah naipuch vonon zital
@@ -10642,7 +10642,7 @@
                 <p>MISSING CONTENT</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="45.2" xml:id="xom-f45-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="45.2" xml:id="xom-f45-s2" xml:base="../00-ximenez/xom-folio-45-side-2.xml">
                 <div type="col" n="45.2.1" xml:lang="quc">
                 <p>
 <lb n="1"/>iquibalam are e qo chuvi huyub
@@ -10701,7 +10701,7 @@
                 <p>MISSING CONTENT</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="46.1" xml:id="xom-f46-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="46.1" xml:id="xom-f46-s1" xml:base="../00-ximenez/xom-folio-46-side-1.xml">
                 <div type="col" n="46.1.1" xml:lang="quc">
                 <p>
 <lb n="1"/>qui i ach vach ruq cu ruq v cul qui
@@ -10758,7 +10758,7 @@
                 <p>MISSING CONTENT</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="46.2" xml:id="xom-f46-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="46.2" xml:id="xom-f46-s2" xml:base="../00-ximenez/xom-folio-46-side-2.xml">
                 <div type="col" n="46.2.1" xml:lang="quc">
                 <p>
 <lb n="1"/>cumal xenicvachix cut xe muc-
@@ -10817,7 +10817,7 @@
                 <p>MISSING CONTENT</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="47.1" xml:id="xom-f47-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="47.1" xml:id="xom-f47-s1" xml:base="../00-ximenez/xom-folio-47-side-1.xml">
                 <div type="col" n="47.1.1" xml:lang="quc">
                 <p>
 <lb n="1"/>vbac vvach xchiquilih chubuchu
@@ -10876,7 +10876,7 @@
                 <p>MISSING CONTENT</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="47.2" xml:id="xom-f47-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="47.2" xml:id="xom-f47-s2" xml:base="../00-ximenez/xom-folio-47-side-2.xml">
                 <div type="col" n="47.2.1" xml:lang="quc">
                 <p>
 <lb n="1"/>polou tah ta xcanah qui tzih chire
@@ -10933,7 +10933,7 @@
                 <p>MISSING CONTENT</p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="48.1" xml:id="xom-f48-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="48.1" xml:id="xom-f48-s1" xml:base="../00-ximenez/xom-folio-48-side-1.xml">
                 <div type="col" n="48.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                
@@ -11053,7 +11053,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="48.2" xml:id="xom-f48-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="48.2" xml:id="xom-f48-s2" xml:base="../00-ximenez/xom-folio-48-side-2.xml">
                 <div type="col" n="48.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                  <note place="margin-left" type="pagination">
@@ -11175,7 +11175,7 @@
                 
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="49.1" xml:id="xom-f49-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="49.1" xml:id="xom-f49-s1" xml:base="../00-ximenez/xom-folio-49-side-1.xml">
                 <div type="col" n="49.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                
@@ -11288,7 +11288,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="49.2" xml:id="xom-f49-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="49.2" xml:id="xom-f49-s2" xml:base="../00-ximenez/xom-folio-49-side-2.xml">
                 <div type="col" n="49.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <note place="margin-left" type="pagination">
@@ -11407,7 +11407,7 @@
                 
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="50.1" xml:id="xom-f50-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="50.1" xml:id="xom-f50-s1" xml:base="../00-ximenez/xom-folio-50-side-1.xml">
                 <div type="col" n="50.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 
@@ -11522,7 +11522,7 @@
                 
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="50.2" xml:id="xom-f50-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="50.2" xml:id="xom-f50-s2" xml:base="../00-ximenez/xom-folio-50-side-2.xml">
                 <div type="col" n="50.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <note place="margin-left" type="pagination">
@@ -11643,7 +11643,7 @@
                 
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="51.1" xml:id="xom-f51-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="51.1" xml:id="xom-f51-s1" xml:base="../00-ximenez/xom-folio-51-side-1.xml">
                 <div type="col" n="51.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p> 
@@ -11777,7 +11777,7 @@
                 
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="51.2" xml:id="xom-f51-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="51.2" xml:id="xom-f51-s2" xml:base="../00-ximenez/xom-folio-51-side-2.xml">
                 <div type="col" n="51.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <note place="margin-left" type="pagination"> 
@@ -11888,7 +11888,7 @@
                 </p>
                 </div>
 			</div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="52.1" xml:id="xom-f52-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="52.1" xml:id="xom-f52-s1" xml:base="../00-ximenez/xom-folio-52-side-1.xml">
                 <div type="col" n="52.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p>	
@@ -12000,7 +12000,7 @@
                 </p>	
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="52.2" xml:id="xom-f52-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="52.2" xml:id="xom-f52-s2" xml:base="../00-ximenez/xom-folio-52-side-2.xml">
                 <div type="col" n="52.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <note place="margin-left" type="pagination">
@@ -12112,7 +12112,7 @@
                </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="53.1" xml:id="xom-f53-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="53.1" xml:id="xom-f53-s1" xml:base="../00-ximenez/xom-folio-53-side-1.xml">
                 <div type="col" n="53.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p>
@@ -12224,7 +12224,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="53.2" xml:id="xom-f53-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="53.2" xml:id="xom-f53-s2" xml:base="../00-ximenez/xom-folio-53-side-2.xml">
                 <div type="col" n="53.2.1" xml:lang="quc">
                 <note place="margin-left" type="pagination"><num rend="large"><hi rend="handwriting;color:pencil">53</hi></num></note>
                 <p>
@@ -12337,7 +12337,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="54.1" xml:id="xom-f54-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="54.1" xml:id="xom-f54-s1" xml:base="../00-ximenez/xom-folio-54-side-1.xml">
                 <div type="col" n="54.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p>
@@ -12449,7 +12449,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="54.2" xml:id="xom-f54-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="54.2" xml:id="xom-f54-s2" xml:base="../00-ximenez/xom-folio-54-side-2.xml">
                 <div type="col" n="54.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <note place="margin-left" type="pagination">
@@ -12561,7 +12561,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="55.1" xml:id="xom-f55-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="55.1" xml:id="xom-f55-s1" xml:base="../00-ximenez/xom-folio-55-side-1.xml">
                 <div type="col" n="55.1.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <p>
@@ -12673,7 +12673,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="55.2" xml:id="xom-f55-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="55.2" xml:id="xom-f55-s2" xml:base="../00-ximenez/xom-folio-55-side-2.xml">
                 <div type="col" n="55.2.1" xml:lang="quc">
                 <!-- K'ICHE' LINES GO HERE -->
                 <note place="margin-left" type="pagination">
@@ -12785,7 +12785,7 @@
                 </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="56.1" xml:id="xom-f56-s1">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="56.1" xml:id="xom-f56-s1" xml:base="../00-ximenez/xom-folio-56-side-1.xml">
                 <div type="col" n="56.1.1" xml:lang="quc">
                 <p>
                 <lb n="1"/>bÿh vleabal rib ahauarem xa
@@ -13019,7 +13019,7 @@
                </p>
                 </div>
             </div>
-            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="56.2" xml:id="xom-f56-s2">
+            <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="56.2" xml:id="xom-f56-s2" xml:base="../00-ximenez/xom-folio-56-side-2.xml">
                 <div type="col" n="56.2.1" xml:lang="quc">
                 <p>
                 <note place="margin-left" type="pagination">
