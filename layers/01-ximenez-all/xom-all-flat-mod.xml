@@ -6165,44 +6165,34 @@
             </p>
         </div>
         <div xml:lang="spa">
+            <p>
                 <pb xml:id="xom-f01-s1"/>
-                <p>
-                    <lb n="1"/>
-                    <hi rend="large">ESTE ES EL PRINCIPIO DE LAS</hi>
-                    <note place="margin-right" type="pagination" anchored="true">
-                        <num rend="large">1</num>
-                    </note>
-                    <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
-                <lb n="3" rend="indent"/>
-                    <hi rend="large">A</hi>quí escribiremos y empezaremos las
+                    
+                <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
+                <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
+            </p>
+            <p>
+                <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
                 <lb n="4"/>antiguas historias, su principio, y comien -
                 <lb n="5"/>zo de todo lo <abbr>q'</abbr> fue hecho en el pueblo de
                 <lb n="6"/>el quiche, su pueblo de los indios quichees;
                 <lb n="7"/>y de aqui tomaremos su ser declarado, y
                 <lb n="8"/>manifestado, y su ser relatado, la esconde
                 <lb n="9"/>dura, y aclaradura, por el formador, y cri –
-                <lb n="10"/>ador <rs ana="ALOM">madre</rs>, y <rs ana="KAJOLOM">Padre</rs>
-                    <abbr>q’</abbr>así se llaman, <rs ana="JUNAJPU_WUCH">hun
+                <lb n="10"/>ador <rs ana="ALOM">madre</rs>, y <rs ana="KAJOLOM">Padre</rs> <abbr>q’</abbr>así se llaman, <rs ana="JUNAJPU_WUCH">hun
                 <lb n="11"/>ahpu vuch</rs>. <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>. <rs ana="SAQI_NIM_AQ_SIS">Zaquinima ꜩÿz</rs>
-                    <lb n="12"/>
-                    <rs ana="TEPEW_QUKUMATZ">tepeu. gucumaꜩ.</rs>
-                    <rs ana="CORAZÓN_DEL_LAGO">vguxcho</rs>. <rs ana="CORAZÓN_DEL_MAR">vguxpalo</rs>. (nom –
+                <lb n="12"/><rs ana="TEPEW_QUKUMATZ">tepeu. gucumaꜩ.</rs> <rs ana="CORAZÓN_DEL_LAGO">vguxcho</rs>. <rs ana="CORAZÓN_DEL_MAR">vguxpalo</rs>. (nom –
                 <lb n="13"/>bres , o atributos. <abbr>q’</abbr>significan; <rs ana="JUNAJPU_WUCH">vn tirador tacu –
-                <lb n="14"/>azín</rs>. <rs ana="JUNAJPU_UTIW">vn tirador coyote</rs>. <rs ana="SAQI_NIM_AQ_SIS">blanco pizote</rs>. <rs ana="TEPEW_QUKUMATZ"><abbr>S<hi rend="superscript">or.</hi>
-                        </abbr>
-                        <lb n="15"/>fuerte culebra</rs>. <rs ana="CORAZÓN_DEL_LAGO">corazon de la laguna</rs>. <rs ana="CORAZÓN_DEL_MAR">co –
+                <lb n="14"/>azín</rs>. <rs ana="JUNAJPU_UTIW">vn tirador coyote</rs>. <rs ana="SAQI_NIM_AQ_SIS">blanco pizote</rs>. <rs ana="TEPEW_QUKUMATZ"><abbr>S<hi rend="superscript">or.</hi></abbr>
+                <lb n="15"/>fuerte culebra</rs>. <rs ana="CORAZÓN_DEL_LAGO">corazon de la laguna</rs>. <rs ana="CORAZÓN_DEL_MAR">co –
                 <lb n="16"/>razon de el mar</rs>.) <rs ana="LOS_DE_LA_SUPERFICIE_PLANA">el de el verde cagete</rs>, <rs ana="LOS_DE_LA_BÓVEDA_AZUL">el
                 <lb n="17"/>de la verde hícara</rs> son llamados. y junta
                 <lb n="18"/>mente es dicho, y hablado de aquella <rs ana="IXMUKANE">abu –
-                <lb n="19"/>ela</rs>, y <rs ana="XPIYAKOK">abuelo</rs>
-                    <abbr>q’</abbr>sellamaban: <rs ana="XPIYAKOK">xpiyacoc</rs>, y
-                <lb n="20"/>
-                    <rs ana="IXMUKANE">xmucane</rs>. nombres propios. <rs ana="IXMUKANE">amparado –
-                <lb n="21"/>res</rs>, y <rs ana="XPIYAKOK">cubridores</rs>
-                    <rs ana="IXMUKANE">dos vezes abuela</rs>, y <rs ana="XPIYAKOK">dos
+                <lb n="19"/>ela</rs>, y <rs ana="XPIYAKOK">abuelo</rs> <abbr>q’</abbr>sellamaban: <rs ana="XPIYAKOK">xpiyacoc</rs>, y
+                <lb n="20"/><rs ana="IXMUKANE">xmucane</rs>. nombres propios. <rs ana="IXMUKANE">amparado –
+                <lb n="21"/>res</rs>, y <rs ana="XPIYAKOK">cubridores</rs> <rs ana="IXMUKANE">dos vezes abuela</rs>, y <rs ana="XPIYAKOK">dos
                 <lb n="22"/>vezes abuelo</rs> son dichos en las historias qui –
-                <lb n="23"/>chees. <abbr>q<hi rend="superscript">o</hi>
-                    </abbr> comunicaron. todo con los <abbr>q’</abbr>hizi–
+                <lb n="23"/>chees. <abbr>q<hi rend="superscript">o</hi></abbr> comunicaron. todo con los <abbr>q’</abbr>hizi–
                 <lb n="24"/>eron despues en el estado de la claridad
                 <lb n="25"/>y en la palabra de clarídad. Esto escri –
                 <lb n="26"/>uiremos ya en la ley de <rs ana="DIOS">Díos</rs>, en la cris –
@@ -6215,94 +6205,76 @@
                 <lb n="33"/>q’se escrivío antigua mente; síno <abbr>q’</abbr>es –
                 <lb n="34"/>ta escondido <abbr>alq’</abbr> lo míra, y <abbr>alq’</abbr> lo piensa.
                 <lb n="35"/>grande es su venida, y su ser enseñado.
-                <lb n="36"/>
-                    <abbr>q<hi rend="superscript">o</hi>
-                    </abbr> seacabo de formar todo el cielo, y la
+                <lb n="36"/><abbr>q<hi rend="superscript">o</hi></abbr> seacabo de formar todo el cielo, y la
                 <lb n="37"/>tierra, su ser cuadrado, su ser repartido
                 <lb n="38"/>en cuatro partes, su ser señalado, su ser
                 <lb n="39"/>amojonado con estacas, su ser medido a
                 <lb n="40"/>mecates, o cuerdas, y su ser estirada la
                 <lb n="41"/>cuerda en el zielo, y en la tierra; <abbr>q’</abbr>es di –
                 <lb n="42"/>cho de cuatro esquinas, y cuatro lados
-                <lb n="43"/>por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">criador</rs>. su <rs ana="TZAQOL"><abbr>M<hi rend="superscript">e.</hi>
-                        </abbr>
-                    </rs> y su <rs ana="BITOL"><abbr>P<hi rend="superscript">e.</hi>
-                        </abbr>
-                    </rs>
-                    <lb n="44"/>de la vida. y de la creazíon. <abbr>q<hi rend="superscript">e</hi>
-                    </abbr> da respira
+                <lb n="43"/>por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">criador</rs>. su <rs ana="TZAQOL"><abbr>M<hi rend="superscript">e.</hi></abbr></rs> y su <rs ana="BITOL"><abbr>P<hi rend="superscript">e.</hi></abbr></rs>
+                <lb n="44"/>de la vida. y de la creazíon. <abbr>q<hi rend="superscript">e</hi></abbr> da respira
                 <lb n="45"/>zion, y resuello, paridos, y cuídados, de
                 <lb n="46"/>la paz claridad de los híjos, pensador, y en –
-                </p>
+            
                 <pb xml:id="xom-f01-s2"/>
-                <p>
-                    <lb n="1"/>tendedor detodahermosur a q’ay en el zielo, ti-
-					<lb n="2"/>rra, lagunas y mar.
-					<lb n="3" rend="center"/>
-                    <hi rend="large">ESTE ES SV SER DICHO QVANDO</hi>
-                    <lb n="4" rend="center"/>estaba en suspenso, en calma, en silenzío, sin
-					<lb n="5" rend="center"/>moverse, sin cosa sino vazío el zielo.
-					</p>
-                <lb xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
-                <lb xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
-                <p>
-                    <lb n="6"/>
-                    <hi rend="large">I</hi> esta es la primera palabra, y eloquençía.
-					<lb n="7"/>aun no avía hombres, animals, pajaros, pes -
-					<lb n="8"/>cado, cangrejo, palo, piedra, hoyo, varran -
-					<lb n="9"/>ca, paja, ní monte; síno solo estaba el cíelo.
-					<lb n="10"/>no se manifestava la haz de la tierra; sino q’
-					<lb n="11"/>solo estaba el mar represado, y todo lo de el
-					<lb n="12"/>cielo; aun no avía cosa alguna junta, ní
-					<lb n="13"/>sonaba nada, ní cosa alguna se meneaba, ní
-					<lb n="14"/>cosa q’hízíera, <hi rend="underline">mal</hi>. í cosa q’hízíera, coꜩ. esto -
-					<lb n="15"/>es ruído, en el cielo. ní avía cosa q’ estuví -
-					<lb n="16"/>ese, ní q’estuviese parada empie; solo el
-					<lb n="17"/>agua represada, solo la mar sosegada, so
-					<lb n="18"/>lo ella represada, nícosa alguna avía q’es -
-					<lb n="19"/>tuviese; solo estaba en sílencio, y sosiego, en la
-					<lb n="20"/>obscuridad, y la noche; solo estaba el <rs ana="TZAQOL">críador</rs>
-                    <lb n="21"/>y <rs ana="BITOL">formador</rs>, <rs ana="TEPEW_QUKUMATZ"><abbr>S<hi rend="superscript">or.</hi>
-                        </abbr> culebra fuerte</rs>, <rs ana="ALOM">las madres</rs>, y
-					<lb n="22"/>
-                    <rs ana="KAJOLOM">
-                        <abbr>P<hi rend="superscript">es.</hi>
-                        </abbr>
-                    </rs> estan en el agua, en una claridad abierta
-					<lb n="23"/>y estaban cubiertos en plumas verdes, por
-					<lb n="24"/>eso se llama <rs ana="QUKUMATZ">gucumaꜩ</rs> grandes sabíos, y
-					<lb n="25"/>de grandes entendimientos su ser. y así por -
-					<lb n="26"/>eso esta el zielo, y ay tambien su <rs ana="UKUX_KAJ">corazon
-					<lb n="27"/>de el zielo</rs>, este es su nombre q’se le dize
-					<lb n="28"/>a aquel ídolo.
-					<lb n="29" rend="indent"/>Y entonzes vino aquí su palabra, víno
-					<lb n="30"/>con los <abbr>S<hi rend="superscript">es.</hi>
-                    </abbr>
-                    <rs ana="TEPEW_QUKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs -
-					<lb n="31"/>curidad, en la noche, y abló con <rs ana="TEPEW_QUKUMATZ">tepeu
-					<lb n="32"/>gucumaꜩ</rs>. y dixeron, <abbr>q<hi rend="superscript">o</hi>
-                    </abbr> consultaron, y
-					<lb n="33"/>
-                    <abbr>q<hi rend="superscript">o</hi>
-                    </abbr> pensaron, se juntaron, hízíeron con -
-					<lb n="34"/>sejo, <abbr>q<hi rend="superscript">o</hi>
-                    </abbr> se declararon, y pensaron vnos
-					<lb n="35"/>a otros. y en entonzes parezíeron las críatu -
-					<lb n="36"/>ras, <abbr>q<hi rend="superscript">o</hi>
-                    </abbr> consultaron la hechura, y crea
-					<lb n="37"/>zíon, de los palos, mecates, y la hechura
-					<lb n="38"/>de la vida, y de la creazíon, en la obscu
-					<lb n="39"/>ridad, y tinieblas, por <rs ana="UKUX_KAJ">el corazon de el
-					<lb n="40"/>zielo, q’se llama huracan</rs>. (esto es de
-					<lb n="41"/>un píe nombre propío). el primero se
-					<lb n="42"/>llama: <rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs>. (nombre pro
-					<lb n="43"/>prio q’dize: <rs ana="KAQUILJA_JUN_RAQAN">rayo de vna píerna</rs>.) el
-					<lb n="44"/>Segundo: <rs ana="CHIPI_KAQULJA">chípa caculha</rs>. (nombre pro -
-					<lb n="45"/>prio q’dize <rs ana="CHIPI_KAQULJA">el mas pequeño de los rayos</rs>)
-					<!-- should these parenthetical translations be marked up -->
-                </p>
+                
+                <lb n="1"/>tendedor detodahermosur a q’ay en el zielo, ti-
+                <lb n="2"/>rra, lagunas y mar.
+            </p>
+            <p>
+                <lb n="3" rend="center"/><hi rend="large">ESTE ES SV SER DICHO QVANDO</hi>
+                <lb n="4" rend="center"/>estaba en suspenso, en calma, en silenzío, sin
+                <lb n="5" rend="center"/>moverse, sin cosa sino vazío el zielo.
+                <lb />
+            </p>
+            <p>
+                <lb n="6"/><hi rend="large">I</hi> esta es la primera palabra, y eloquençía.
+                <lb n="7"/>aun no avía hombres, animals, pajaros, pes -
+                <lb n="8"/>cado, cangrejo, palo, piedra, hoyo, varran -
+                <lb n="9"/>ca, paja, ní monte; síno solo estaba el cíelo.
+                <lb n="10"/>no se manifestava la haz de la tierra; sino q’
+                <lb n="11"/>solo estaba el mar represado, y todo lo de el
+                <lb n="12"/>cielo; aun no avía cosa alguna junta, ní
+                <lb n="13"/>sonaba nada, ní cosa alguna se meneaba, ní
+                <lb n="14"/>cosa q’hízíera, <hi rend="underline">mal</hi>. í cosa q’hízíera, coꜩ. esto -
+                <lb n="15"/>es ruído, en el cielo. ní avía cosa q’ estuví -
+                <lb n="16"/>ese, ní q’estuviese parada empie; solo el
+                <lb n="17"/>agua represada, solo la mar sosegada, so
+                <lb n="18"/>lo ella represada, nícosa alguna avía q’es -
+                <lb n="19"/>tuviese; solo estaba en sílencio, y sosiego, en la
+                <lb n="20"/>obscuridad, y la noche; solo estaba el <rs ana="TZAQOL">críador</rs>
+                <lb n="21"/>y <rs ana="BITOL">formador</rs>, <rs ana="TEPEW_QUKUMATZ"><abbr>S<hi rend="superscript">or.</hi></abbr> culebra fuerte</rs>, <rs ana="ALOM">las madres</rs>, y
+                <lb n="22"/><rs ana="KAJOLOM"><abbr>P<hi rend="superscript">es.</hi></abbr></rs> estan en el agua, en una claridad abierta
+                <lb n="23"/>y estaban cubiertos en plumas verdes, por
+                <lb n="24"/>eso se llama <rs ana="QUKUMATZ">gucumaꜩ</rs> grandes sabíos, y
+                <lb n="25"/>de grandes entendimientos su ser. y así por -
+                <lb n="26"/>eso esta el zielo, y ay tambien su <rs ana="UKUX_KAJ">corazon
+                <lb n="27"/>de el zielo</rs>, este es su nombre q’se le dize
+                <lb n="28"/>a aquel ídolo.
+            </p>
+            <p>
+                <lb n="29" rend="indent"/><hi>Y</hi> entonzes vino aquí su palabra, víno
+                <lb n="30"/>con los <abbr>S<hi rend="superscript">es.</hi></abbr><rs ana="TEPEW_QUKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs -
+                <lb n="31"/>curidad, en la noche, y abló con <rs ana="TEPEW_QUKUMATZ">tepeu
+                <lb n="32"/>gucumaꜩ</rs>. y dixeron, <abbr>q<hi rend="superscript">o</hi></abbr> consultaron, y
+				<lb n="33"/><abbr>q<hi rend="superscript">o</hi></abbr> pensaron, se juntaron, hízíeron con -
+                <lb n="34"/>sejo, <abbr>q<hi rend="superscript">o</hi></abbr> se declararon, y pensaron vnos
+                <lb n="35"/>a otros. y en entonzes parezíeron las críatu -
+				<lb n="36"/>ras, <abbr>q<hi rend="superscript">o</hi></abbr> consultaron la hechura, y crea
+                <lb n="37"/>zíon, de los palos, mecates, y la hechura
+                <lb n="38"/>de la vida, y de la creazíon, en la obscu
+                <lb n="39"/>ridad, y tinieblas, por <rs ana="UKUX_KAJ">el corazon de el
+                <lb n="40"/>zielo, q’se llama huracan</rs>. (esto es de
+                <lb n="41"/>un píe nombre propío). el primero se
+                <lb n="42"/>llama: <rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs>. (nombre pro
+                <lb n="43"/>prio q’dize: <rs ana="KAQUILJA_JUN_RAQAN">rayo de vna píerna</rs>.) el
+                <lb n="44"/>Segundo: <rs ana="CHIPI_KAQULJA">chípa caculha</rs>. (nombre pro -
+                <lb n="45"/>prio q’dize <rs ana="CHIPI_KAQULJA">el mas pequeño de los rayos</rs>)
+				<!-- should these parenthetical translations be marked up -->
+                <!-- STOPPED -->
                 <pb xml:id="xom-f02-s1"/>
-                <p>
+                
                     <lb n="1"/>y el tercero: <rs ana="RAXA_KAQULJA">raxa caculha</rs>. (nombre proprío
                 	<note place="margin-right" type="pagination" anchored="true"><num rend="large">2</num>
                     </note>
