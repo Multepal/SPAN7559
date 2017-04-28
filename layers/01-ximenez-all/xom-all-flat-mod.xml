@@ -61,8 +61,8 @@
                     <lb /><rs ana="DIOS">Díos</rs>
                 </note>
                 <p>
-                    <lb n="1"/><hi rend="large">ARE V XE OHER</hi>
-                    <lb n="2" rend="indent"/>Ꜩih varal Quiche vbi.
+                    <lb n="1"/><hi rend="very-large">ARE V XE OHER</hi>
+                    <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
                 </p>
                 <p>
                     <lb n="3" rend="indent"/><hi rend="large">V</hi>aral xchicaꜩibah vi xchica –
@@ -99,11 +99,7 @@
                     <lb n="32"/>eval vvach ilol re, bizol re,
                     <lb n="33"/>nim vpeoxic, vtzihoxic puch,
                     <lb n="34"/>ta chiquiz ꜩuk ronohel cah
-                	<note place="margin-left" anchored="true">
-                	   <num rend="large">3.</num>
-                       <lb />prover.
-                       <lb />Cap. 8.
-                    </note>
+                	<note place="margin-left" anchored="true"><num rend="large">3.</num><lb />prover.<lb />Cap. 8.</note>
                     <lb n="35"/>vleu, vcah ꜩucuxic, vcah
                     <lb n="36"/>xucutaxic retaxic, vcah
                     <lb n="37"/>cheexic, vmeh camaxic, vyuc –
@@ -5879,313 +5875,274 @@
                 <lb n="41" rend="indent"/><rs ana="BALAM_KITZE"><hi rend="large">B</hi>alam quitze</rs> vxe nabal <rs ana="KAWEQ">cavi
                 <lb n="42" rend="hanging"/>quib</rs>
             </p>
-            <!-- STOPPED -->
             <p>
                 <lb n="43"/><hi rend="large">Cocauib</hi> vcale chic <rs ana="BALAM_KITZE">balam quitze</rs>
+            </p>
+            <p>
                 <lb n="44"/><hi rend="large">B</hi>alam conache xtiquiban ahpopol
                 <lb n="45" rend="hanging"/>roxle curi 
-<lb n="46"/>
-                    <hi rend="large">C</hi>otuha ztayub vcahle
-<lb n="47"/>
-                    <hi rend="large">C</hi>ucumatz cotuha vxe naval ahau
-                </p>
+            </p>
+            <p>
+                <lb n="46"/><hi rend="large">C</hi>otuha ztayub vcahle
+            </p>
+            <p>
+                <lb n="47"/><hi rend="large">C</hi>ucumatz cotuha vxe naval ahau
+            
                 <pb xml:id="xom-f55-s2"/>
+            
                 <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" place="margin-left" type="pagination" anchored="true">
-                    <num rend="large">
-                        <hi rend="handwriting;color:pencil">55
-                		</hi>
-                    </num>
+                    <num rend="large"><hi rend="handwriting;color:pencil">55</hi></num>
                 </note>
-                <p>
-                    <lb n="1"/>role xqohe vi
-<lb n="2"/>
-                    <hi rend="large">T</hi>epepul ztayul chic vvac taz.
-<lb n="3"/>
-                    <hi rend="large">Q</hi>uicab cauizimah vvc hal aha
-<lb n="4"/>uarem naval chivi
-<lb n="5"/>
-                    <hi rend="large">T</hi>epepul xtayub v vahxac le
-<lb n="6"/>
-                    <hi rend="large">T</hi>ecum tepepul vbeleh le
-<lb n="7"/>
-                    <rs ana="WAJXAQIB_KAM">
-                        <hi rend="large">V</hi>ahxaqui caam</rs>
-                    <rs ana="KIKAB">quicab</rs> cut vla
-<lb n="8"/>hule ahavab
-<lb n="9"/>
-                    <hi rend="large">V</hi>ucub noh cauatepech chic vhu –
-<lb n="10"/>lahu taz ahauab
-<lb n="11"/>
-                    <rs ana="OXIB_KEJ">
-                        <hi rend="large">O</hi>xib quieh</rs>
-                    <rs ana="BELEJEB_TZI">beleheb tzi</rs> vcabla –
-<lb n="12"/>hule ahauab. arecut que aha
-<lb n="13"/>uaric taxul <rs ana="DONADIU">Donadiu</rs> xehitza –
-<lb n="14"/>xic rumal castillan vinac
-<lb n="15"/>
-                    <rs ana="TEKUM_TRECEAVA">
-                        <hi rend="large">T</hi>ecum</rs>
-                    <rs ana="TEPEPUL_TRECEAVA">tepepul</rs> xepatanihic chu –
-<lb n="16"/>uach castillan vinac are xe
-<lb n="17"/>qaholan eanoc roxlahu lea
-<lb n="18"/>hauab
-<lb n="19"/>
-                    <rs ana="DON_JUAN_DE_ROJAS">
-                        <hi rend="large">D</hi>on Ju<hi rend="superscript">o.</hi> de Rojas</rs>
-                    <rs ana="DON_JUAN_CORTÉS">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
-                    <lb n="20"/>cablahu le ahauab eqahola –
-<lb n="21"/>xel rumal tecum tepepul
-<lb n="22"/>
-                    <hi rend="large">A</hi>recut vleel vtazel ahauarem
-<lb n="23"/>ri ahau ahpop ahpop camba chu –
-<lb n="24"/>vach caviquib quiche are chi xchi –
-<lb n="25"/>cabÿh chic re chinamit. Va chicute
-<lb n="26"/>nimha rech huhun chiahauab chi –
-<lb n="27"/>rihahpop ahpopcamha are vbi –
-<lb n="28"/>naam ri beleheb <rs ana="SAQIK">chinamit</rs>
-                    <rs ana="KAWEQ">chica –
-<lb n="29"/>uiquib</rs> beleheb vnimha va tac
-<lb n="30"/>vbi e rahaual huhun chi nimha.
-<lb n="31"/>
-                    <hi rend="large">A</hi>hau ahpop hun vnimha cuhavbi
-<lb n="32"/>nimha
-<lb n="33"/>
-                    <hi rend="large">A</hi>hau ahpopcamha tziquinahavbi
-<lb n="34"/>vnimha
-<lb n="35"/>
-                    <rs ana="NIM_CHOKOJ_KAWEQ">
-                        <hi rend="large">N</hi>im chocoh cavec</rs> hun vnimha ah–
-<lb n="36"/>
-                    <hi rend="large">A</hi>hau ahtohil hun vnimha.
-<lb n="37"/>
-                    <hi rend="large">A</hi>hau ah cucumatz hun vnimha
-<lb n="38"/>
-                    <hi rend="large">P</hi>opolvinac chitui hun vnimha
-<lb n="39"/>
-                    <rs ana="LOLMET_KEJNAY">
-                        <hi rend="large">L</hi>olmet queh nai</rs> hun vnimha
-<lb n="40"/>
-                    <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">
-                        <hi rend="large">P</hi>opolvinac pahom tzalatz</rs> xcuxe –
-<lb n="41"/>ba hun vnimha.
-<lb n="42"/>
-                    <rs ana="YAKI_TEPEW">
-                        <hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
-<lb n="43"/>
-                    <hi rend="large">A</hi>re curi bele heb <rs ana="SAQIK">chinamit</rs> chi –
-<lb n="44"/>cavi quib tzatz ral vqahol ahilatal
-<lb n="45"/>chirih beleheb chinim ha
-<lb n="46"/>
-                    <hi rend="large">V</hi>acute rech <rs ana="NIJAIB">nihaibab</rs> beleheb
-<lb n="47"/>chivi chinimha are nabe xchica –
-                </p>
+                <lb n="1" rend="hanging" />role xqohe vi
+            </p>
+            <p>
+                <lb n="2"/><hi rend="large">T</hi>epepul ztayul chic vvac taz.
+            </p>
+            <p>
+                <lb n="3"/><hi rend="large">Q</hi>uicab cauizimah vvc hal aha
+                <lb n="4" rend="hanging" />uarem naval chivi
+            </p>
+            <p>
+                <lb n="5"/><hi rend="large">T</hi>epepul xtayub v vahxac le
+            </p>
+            <p>
+                <lb n="6"/><hi rend="large">T</hi>ecum tepepul vbeleh le
+            </p>
+            <p>
+                <lb n="7"/><rs ana="WAJXAQIB_KAM"><hi rend="large">V</hi>ahxaqui caam</rs> <rs ana="KIKAB">quicab</rs> cut vla
+                <lb n="8" rend="hanging" />hule ahavab
+            </p>
+            <p>
+                <lb n="9"/><hi rend="large">V</hi>ucub noh cauatepech chic vhu –
+                <lb n="10"/>lahu taz ahauab
+            </p>
+            <p>                
+                <lb n="11"/><rs ana="OXIB_KEJ"><hi rend="large">O</hi>xib quieh</rs><rs ana="BELEJEB_TZI">beleheb tzi</rs> vcabla –
+                <lb n="12" rend="hanging" />hule ahauab. arecut que aha
+                <lb n="13" rend="hanging" />uaric taxul <rs ana="DONADIU">Donadiu</rs> xehitza –
+                <lb n="14" rend="hanging" />xic rumal castillan vinac
+            </p>
+            <p>
+                <lb n="15"/><rs ana="TEKUM_TRECEAVA"><hi rend="large">T</hi>ecum</rs> <rs ana="TEPEPUL_TRECEAVA">tepepul</rs> xepatanihic chu –
+                <lb n="16" rend="hanging" />uach castillan vinac are xe
+                <lb n="17" rend="hanging" />qaholan eanoc roxlahu lea
+                <lb n="18" rend="hanging" />hauab
+            </p>
+            <p>
+                <lb n="19"/><rs ana="DON_JUAN_DE_ROJAS"><hi rend="large">D</hi>on Ju<hi rend="superscript">o.</hi> de Rojas</rs> <rs ana="DON_JUAN_CORTÉS">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
+                <lb n="20"/>cablahu le ahauab eqahola –
+                <lb n="21"/>xel rumal tecum tepepul
+            </p>
+            <p>
+                <lb n="22"/><hi rend="large">A</hi>recut vleel vtazel ahauarem
+                <lb n="23"/>ri ahau ahpop ahpop camba chu –
+                <lb n="24"/>vach caviquib quiche are chi xchi –
+                <lb n="25"/>cabÿh chic re chinamit. Va chicute
+                <lb n="26"/>nimha rech huhun chiahauab chi –
+                <lb n="27"/>rihahpop ahpopcamha are vbi –
+                <lb n="28"/>naam ri beleheb <rs ana="SAQIK">chinamit</rs> <rs ana="KAWEQ">chica –
+                <lb n="29"/>uiquib</rs> beleheb vnimha va tac
+                <lb n="30"/>vbi e rahaual huhun chi nimha.
+            </p>
+            <p>
+                <lb n="31"/><hi rend="large">A</hi>hau ahpop hun vnimha cuhavbi
+                <lb n="32" rend="hanging" />nimha
+            </p>
+            <p>
+                <lb n="33"/><hi rend="large">A</hi>hau ahpopcamha tziquinahavbi
+                <lb n="34" rend="hanging" />vnimha
+            </p>
+            <p>
+                <lb n="35"/><rs ana="NIM_CHOKOJ_KAWEQ"><hi rend="large">N</hi>im chocoh cavec</rs> hun vnimha ah–
+            </p>
+            <p>
+                <lb n="36"/><hi rend="large">A</hi>hau ahtohil hun vnimha.
+            </p>
+            <p>
+                <lb n="37"/><hi rend="large">A</hi>hau ah cucumatz hun vnimha
+            </p>
+            <p>
+                <lb n="38"/><hi rend="large">P</hi>opolvinac chitui hun vnimha
+            </p>
+            <p>
+                <lb n="39"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet queh nai</rs> hun vnimha
+            </p>
+            <p>
+                <lb n="40"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ"><hi rend="large">P</hi>opolvinac pahom tzalatz</rs> xcuxe –
+                <lb n="41" rend="hanging" />ba hun vnimha.
+            </p>
+            <p>
+                <lb n="42"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
+            </p>
+            <p>
+                <lb n="43" rend="indent" /><hi rend="large">A</hi>re curi bele heb <rs ana="SAQIK">chinamit</rs> chi –
+                <lb n="44"/>cavi quib tzatz ral vqahol ahilatal
+                <lb n="45"/>chirih beleheb chinim ha
+            </p>
+            <p>
+                <lb n="46"/><hi rend="large">V</hi>acute rech <rs ana="NIJAIB">nihaibab</rs> beleheb
+                <lb n="47"/>chivi chinimha are nabe xchica –
+                
                 <pb xml:id="xom-f56-s1"/>
-                <p>
-                    <lb n="1"/>bÿh vleabal rib ahauarem xa
+                
+                <lb n="1"/>bÿh vleabal rib ahauarem xa
                 <lb n="2"/>hun vxe x<add place="above" instant="false" status="unremarkable">ch</add>ticar  chuvach vxe
                 <lb n="3"/>quih vxe zac chivinac
-                <lb n="4"/>
-                    <rs ana="BALAM_AQAB ">
-                        <hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca 
-                <lb n="5" rend="indent"/>hauixel.
-                <lb n="6"/>
-                    <rs ana="KOAKUL">
-                        <hi rend="large">C</hi>oacul</rs>
-                    <rs ana="KOAKUTEK">coacutac</rs> vcale 
-                <lb n="7"/>
-                    <rs ana="KOCHAJUJ">
-                        <hi rend="large">C</hi>ochahuh</rs>
-                    <rs ana="KOTZIBAJA">coꜩibaha</rs> roxle
-                <lb n="8"/>
-                    <rs ana="BELEJEB_KEJ">
-                        <hi rend="large">B</hi>eleheb quih</rs> vcah le chic
-                <lb n="9"/>
-                    <rs ana="KOTUJA">
-                        <hi rend="large">C</hi>otuha</rs> ro le ahau
-                <lb n="10"/>
-                    <rs ana="BATZA">
-                        <hi rend="large">B</hi>aꜩa</rs> chicut v vacle chic
-                <lb n="11"/>
-                    <rs ana="ISTAYUL_NIJAIB">
-                        <hi rend="large">Z</hi>tayul</rs> chicut v vcle ahau
-                <lb n="12"/>
-                    <rs ana="KOTUJA_OCTAVO">
-                        <hi rend="large">C</hi>otuha chivi</rs> v vahxac taz aha
+            </p>
+            <p>
+                <lb n="4"/><rs ana="BALAM_AQAB "><hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca 
+                <lb n="5" rend="hanging"/>hauixel.
+            </p>
+            <p>
+                <lb n="6"/><rs ana="KOAKUL"><hi rend="large">C</hi>oacul</rs><rs ana="KOAKUTEK">coacutac</rs> vcale 
+            </p>
+            <p>
+                <lb n="7"/><rs ana="KOCHAJUJ"><hi rend="large">C</hi>ochahuh</rs><rs ana="KOTZIBAJA">coꜩibaha</rs> roxle
+            </p>
+            <p>
+                <lb n="8"/><rs ana="BELEJEB_KEJ"><hi rend="large">B</hi>eleheb quih</rs> vcah le chic
+            </p>
+            <p>
+                <lb n="9"/><rs ana="KOTUJA"><hi rend="large">C</hi>otuha</rs> ro le ahau
+            </p>
+            <p>
+                <lb n="10"/><rs ana="BATZA"><hi rend="large">B</hi>aꜩa</rs> chicut v vacle chic
+            </p>
+            <p>
+                <lb n="11"/><rs ana="ISTAYUL_NIJAIB"><hi rend="large">Z</hi>tayul</rs> chicut v vcle ahau
+            </p>
+            <p>
+                <lb n="12"/><rs ana="KOTUJA_OCTAVO"><hi rend="large">C</hi>otuha chivi</rs> v vahxac taz aha
                 <lb n="13" rend="indent"/>uarem.
-                <lb n="14"/>
-                    <rs ana="BELEJEB_KEJ_NOVENO">
-                        <hi rend="large">B</hi>eleheb quih</rs> vbeleh taz
-                <lb n="15"/>
-                    <rs ana="KEEMA">
-                        <hi rend="large">Q</hi>uema chuqhax</rs> chic vlahu le
-                <lb n="16"/>
-                    <rs ana="AJAW_KOTUJA_UNDÉCIMO">
-                        <hi rend="large">A</hi>hau cotuha</rs> vhulahu le.
-                <lb n="17"/>
-                    <rs ana="DON_CRISTÓBAL">
-                        <hi rend="large">D</hi>on christoual chuchaxic</rs> xa
+            </p>
+            <p>
+                <lb n="14"/><rs ana="BELEJEB_KEJ_NOVENO"><hi rend="large">B</hi>eleheb quih</rs> vbeleh taz
+            </p>
+            <p>
+                <lb n="15"/><rs ana="KEEMA"><hi rend="large">Q</hi>uema chuqhax</rs> chic vlahu le
+            </p>
+            <p>
+                <lb n="16"/><rs ana="AJAW_KOTUJA_UNDÉCIMO"><hi rend="large">A</hi>hau cotuha</rs> vhulahu le.
+            </p>
+            <p>
+                <lb n="17"/><rs ana="DON_CRISTÓBAL"><hi rend="large">D</hi>on christoual chuchaxic</rs> xa
                 <lb n="18" rend="indent"/>hauaric chuvach caxtilan vi-
                 <lb n="19" rend="indent"/>nac
-                <lb n="20"/>
-                    <rs ana="DON_PEDRO_DE_ROBLES">
-                        <hi rend="large">z
-                <choice>
-                	<abbr>D</abbr>
-                                <expan instant="false">Don</expan>
-                            </choice>
-                        </hi>. Pedro de robles</rs> ahau ꜫalel
+            </p>
+            <p>
+                <lb n="20"/><rs ana="DON_PEDRO_DE_ROBLES"><hi rend="large">z<choice><abbr>D</abbr><expan instant="false">Don</expan></choice></hi>. Pedro de robles</rs> ahau ꜫalel
                 <lb n="21"/>vacamic.
-                <lb n="22" rend="indent"/>
-                    <hi rend="large">A</hi>re curi chi ronobel ahavab
-                <lb n="23"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>1</num>
-                        </hi>
-                    </note>
-                    <rs ana="AJAW_QALEL">
-                        <hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva –
+            </p>
+            <p>
+                <lb n="22" rend="indent"/><hi rend="large">A</hi>re curi chi ronobel ahavab
+                <lb />elenac chirih ri ahau εalel are
+                <lb />chic xchicabÿh rahaual huhun
+                <lb />chinim ha.
+            </p>
+            <p>
+                <lb n="23"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>1</num></hi></note><rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva –
                 <lb n="24" rend="indent"/>ch <rs ana="NIJAIB">nihaibab</rs> hun vnim ha.
-                <lb n="25"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>2</num>
-                        </hi>
-                    </note>
-                    <rs ana="AJAW_AJTZIK_WINAQ">
-                        <hi rend="large">A</hi>hau ah ꜩic vinac</rs> hun vnim ha
-                <lb n="26"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>3</num>
-                        </hi>
-                    </note>
-                    <rs ana="QALEL_KAMJA">
-                        <hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
-                <lb n="27"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>4</num>
-                        </hi>
-                    </note>
-                    <rs ana="NIMA_KAMJA">
-                        <hi rend="large">N</hi>ima camha</rs> hun vnim ha.
-                <lb n="28"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>5</num>
-                        </hi>
-                    </note>
-                    <rs ana="UCHUCH_KAMJA">
-                        <hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
-                <lb n="29"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>6</num>
-                        </hi>
-                    </note>
-                    <rs ana="NIMA_KAMJA">
-                        <hi rend="large">N</hi>ima camha</rs> hun vnim ha.
-                <lb n="30"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>7</num>
-                        </hi>
-                    </note>
-                    <rs ana="NIM_CHOKOJ_NIJAIB">
-                        <hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
-                <lb n="31"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>8</num>
-                        </hi>
-                    </note>
-                    <rs ana="AJAW_AWILIX">
-                        <hi rend="large">A</hi>hau auilix</rs> hun vnim ha.
-                <lb n="32"/>
-                    <note place="margin-left" anchored="true">
-                        <hi rend="handwriting;color:pencil">
-                            <num>9</num>
-                        </hi>
-                    </note>
-                    <rs ana="YAKOLATAM">
-                        <hi rend="large">Y</hi>acolatam</rs> hun vnim ha.
-                <lb n="33" rend="indent"/>
-                    <hi rend="large">A</hi>cut nim ha ri chuvach <rs ana="NIJAIB">ni –
+            </p>
+            <p>
+                <lb n="25"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>2</num></hi></note><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩic vinac</rs> hun vnim ha
+            </p>
+            <p>            
+                <lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="QALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
+            </p>
+            <p>            
+                <lb n="27"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>4</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
+            </p>
+            <p>            
+                <lb n="28"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>5</num></hi></note><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
+            </p>
+            <p>            
+                <lb n="29"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>6</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
+            </p>
+            <p>            
+                <lb n="30"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>7</num></hi></note><rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
+            </p>
+            <p>            
+                <lb n="31"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>8</num></hi></note><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auilix</rs> hun vnim ha.
+            </p>
+            <p>            
+                <lb n="32"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>9</num></hi></note><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs> hun vnim ha.
+            </p>
+            <p>            
+                <lb n="33" rend="indent"/><hi rend="large">A</hi>recut nim ha ri chuvach <rs ana="NIJAIB">ni –
                 <lb n="34"/>haibab</rs> are vbinaam vi beleheb
                 <lb n="35"/>chinamit chi <rs ana="NIJAIB">nihaibab</rs> chuqha-
                 <lb n="36"/>xic. quiia tac cut vchinamital hu –
                 <lb n="37"/>hun chique ahauab are vnabe
                 <lb n="38"/>ri mi xcabÿ quibi.
-                <lb n="39" rend="indent"/>
-                    <hi rend="large">A</hi>re chicut rech <rs ana="AJAW_KICHE">ahau qui che</rs>
-                    <lb n="40"/>va vmam vcahau
-                <lb n="41"/>
-                    <rs ana="MAJUKUTAJ_HOMBRE">Mahucutah</rs> nabe vinac<del instant="false" status="unremarkable"><hi rend="overstrike">cu</hi>
-                    </del>
-                    <lb n="42"/>
-                    <rs ana="KOAJAW">Coahau</rs> vbi vcale ahau
-                <lb n="43"/>
-                    <rs ana="QAQ_LAQAM">Caelacan</rs>
-                    <lb n="44"/>
-                    <rs ana="KOKOSOM">Cocozom</rs>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                </p>
+            </p>
+            <p>            
+                <lb n="39" rend="indent"/><hi rend="large">A</hi>re chicut rech <rs ana="AJAW_KICHE">ahau qui che</rs>
+                <lb n="40"/>va vmam vcahau
+            </p>
+            <p>            
+                <lb n="41"/><rs ana="MAJUKUTAJ_HOMBRE">Mahucutah</rs> nabe vinac<del instant="false" status="unremarkable"><hi rend="overstrike">cu</hi></del><lb n="42"/><rs ana="KOAJAW">Coahau</rs> vbi vcale ahau
+            </p>
+            <p>            
+                <lb n="43"/><rs ana="QAQ_LAQAM">Caelacan</rs>
+            </p>
+            <p>            
+                <lb n="44"/><rs ana="KOKOSOM">Cocozom</rs>
+            </p>
+            <p>            
+
                 <pb xml:id="xom-f56-s2"/>
-                <p>
-                    <note place="margin-left" type="pagination" anchored="true">
-                        <num rend="large">
-                            <hi rend="handwriting;color:pencil">56
-                			</hi>
-                        </num>
-                    </note>
-                    <lb n="1"/>
-                    <rs ana="KOMAJKUN">Comahcun</rs>
-                    <lb n="2"/>
-                    <rs ana="WUQUB_AJ">Vucubah</rs>
-                    <lb n="3"/>
-                    <rs ana="KOKAMEL">Cocamel</rs>
-                    <lb n="4"/>
-                    <rs ana="KOYABAKOJ">Coyabacoh</rs>
-                    <lb n="5"/>
-                    <rs ana="WINAQ_BALAM">Vinac bam</rs>
-                    <lb n="6" rend="indent"/>
-                    <hi rend="large">A</hi>recut ahauab ri chuvach
-                <lb n="7"/>
-                    <rs ana="AJAW_KICHE">ahau quiche</rs> are vleel vtazel
+                
+                <note place="margin-left" type="pagination" anchored="true"><num rend="large"><hi rend="handwriting;color:pencil">56</hi></num></note>
+                <lb n="1"/><rs ana="KOMAJKUN">Comahcun</rs>
+            </p>
+            <p>            
+                <lb n="2"/><rs ana="WUQUB_AJ">Vucubah</rs>
+            </p>
+            <p>            
+                <lb n="3"/><rs ana="KOKAMEL">Cocamel</rs>
+            </p>
+            <p>            
+                <lb n="4"/><rs ana="KOYABAKOJ">Coyabacoh</rs>
+            </p>
+            <p>            
+                <lb n="5"/><rs ana="WINAQ_BALAM">Vinac bam</rs>
+            </p>
+            <p>            
+                <lb n="6" rend="indent"/><hi rend="large">A</hi>recut ahauab ri chuvach
+                <lb n="7"/><rs ana="AJAW_KICHE">ahau quiche</rs> are vleel vtazel
                 <lb n="8"/>puch arecut vbi ahauab va
                 <lb n="9"/>chupan nimha xacahib vnim
                 <lb n="10"/>ha.
-                <lb n="11"/>
-                    <rs ana="AJAW_AJTZIK_WINAQ">
-                        <hi rend="large">A</hi>h ꜩic vinac ahau</rs> vbi nabeahau
+            </p>
+            <p>            
+                <lb n="11"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩic vinac ahau</rs> vbi nabeahau
                 <lb n="12" rend="indent"/>hun vnim ha
-                <lb n="13"/>
-                    <rs ana="AJAW_LOLMET">
-                        <hi rend="large">L</hi>olmet ahau</rs> ucabahau hun
+            </p>
+            <p>            
+                <lb n="13"/><rs ana="AJAW_LOLMET"><hi rend="large">L</hi>olmet ahau</rs> ucabahau hun
                 <lb n="14" rend="indent"/>vnimha
-                <lb n="15"/>
-                    <rs ana="AJAW_NIM_CHOKOJ">
-                        <hi rend="large">N</hi>im chocoh</rs> ahau roxahau hun
+            </p>
+            <p>            
+                <lb n="15"/><rs ana="AJAW_NIM_CHOKOJ"><hi rend="large">N</hi>im chocoh</rs> ahau roxahau hun
                 <lb n="16" rend="indent"/>unimha. 
-                <lb n="17"/>
-                    <rs ana="AJAW_JAQAWITZ">
-                        <hi rend="large">H</hi>acaviꜩ</rs> cut vcah ahau hun
+            </p>
+            <p>            
+                <lb n="17"/><rs ana="AJAW_JAQAWITZ"><hi rend="large">H</hi>acaviꜩ</rs> cut vcah ahau hun
                 <lb n="18" rend="indent"/>vnim ha chicahibcut nimha
                 <lb n="19" rend="indent"/>chuvach <rs ana="AJAW_KICHE">ahau quiche</rs>
-                    <lb n="20" rend="indent"/>
-                    <hi rend="large">A</hi>re curi e oxib chinim chocoh
+            </p>
+            <p>            
+                <lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chinim chocoh
                 <lb n="21"/>queheri e cahauixel rumal ro –
                 <lb n="22"/>nohel <rs ana="AJAW_KICHE">ahavab quiche</rs> xahun
                 <lb n="23"/>chiqui cuch vi quib e oxib chic –
                 <lb n="24"/>chocohib. e alanel, e vchuch ꜩih
-                <lb n="25"/>evcahau ꜩih nim zcaquin vqo-
+                <lb n="25"/>evcahau ꜩih nim zcaquin vqo -
                 <lb n="26"/>heic eoxib chichocohib
-                <lb n="27" rend="indent"/>
-                    <hi rend="large">N</hi>im chocohcut chuvach <rs ana="NIJAIB">nihaib</rs>
-                    <lb n="28"/>vcab curi. <rs ana="AJAW_NIM_CHOKOJ">nimchocoh ahau</rs> chuva –
+            </p>
+            <p>            
+                <lb n="27" rend="indent"/><hi rend="large">N</hi>im chocohcut chuvach <rs ana="NIJAIB">nihaib</rs>
+                <lb n="28"/>vcab curi. <rs ana="AJAW_NIM_CHOKOJ">nimchocoh ahau</rs> chuva –
                 <lb n="29"/>ch <rs ana="AJAW_KICHE">ahau quiche</rs> rox nim chocoh
                 <lb n="30"/>chi oxibcut ri chocohib huhun
                 <lb n="31"/>chivach chinamit. xere cut v
@@ -6193,27 +6150,21 @@
                 <lb n="33"/>chi ilbalre, qonabe oher cu –
                 <lb n="34"/>mal ahauab zachinac chic. xere
                 <lb n="35"/>curi mixuꜩinic chiconohel qui –
-                <lb n="36"/>che
-                <rs ana="SANTA_CRUZ">
-                <choice>
-                	<abbr type="superscript">Sta.</abbr>
-                            <expan instant="false">Santa</expan>
-                        </choice>
-                	Cruz</rs> vbi.
+                <lb n="36"/>che <rs ana="SANTA_CRUZ"><choice><abbr type="superscript">Sta.</abbr><expan instant="false">Santa</expan></choice>Cruz</rs> vbi.
                 <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                    <lb/>
-                </p>
-            </div>
-            <div xml:lang="spa">
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+            </p>
+        </div>
+        <div xml:lang="spa">
                 <pb xml:id="xom-f01-s1"/>
                 <p>
                     <lb n="1"/>
