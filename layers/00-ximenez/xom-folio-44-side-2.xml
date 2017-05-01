@@ -40,56 +40,160 @@
         <body>
             <div type="page" n="44.2" xml:id="xom-f44-s2">
                 <div type="col" n="44.2.1" xml:lang="quc">
-<lb n="1" />ta xeqhau chic chiquech ri xtah</lb>
-<lb n="2" />xpuch quibi re e caib capohib</lb>
-<lb n="3" />vtz chibec retal catzihivvq chi-</lb>
-<lb n="4" />uoyobeh na chiya apanoc chi-</lb>
-<lb n="5" />quech ahauab xevqhax cut ca-</lb>
-<lb n="6" />te puch qui naohinic chic 6760ri ah</lb>
-<lb n="7" />quixb, ahcahb xevqhax ri balam</lb>
-<lb n="8" />quitze, balam acab, mahucutah,</lb>
-<lb n="9" />iqui balam quixzibanoc oxib</lb>
-<lb n="10" />cul chitzibah retal iqoheic cho-</lb>
-<lb n="11" />pon cuq amac chibe cuq re e caib</lb>
-<lb n="12" />capohib 6770quechahonic chi ya vbic</lb>
-<lb n="13" />chique xevqhax cut balam qui-</lb>
-<lb n="14" />tze, balam acab, mahucutah.</lb>
-<lb n="15" />     Cate cut xezibanic coxichal na-</lb>
-<lb n="16" />be xtziban ri balam quitze. balam</lb>
-<lb n="17" />vvachibal xuxic xutzibah chu-</lb>
-<lb n="18" />vach cul. 6780are curi chi balam acab,</lb>
-<lb n="19" />cot chic vvachibal xutzibah chu-</lb>
-<lb n="20" />vach cul. ta xtziban chicuri ma-</lb>
-<lb n="21" />hucutah humah vonon humah zi-</lb>
-<lb n="22" />tal vvachibal v tzib xutzibah</lb>
-<lb n="23" />chuvach cul. xutzin cut qui tzib</lb>
-<lb n="24" />coxichal oxbuzah xquitzibah</lb>
-<lb n="25" />6790cate cut ta xebe quiia cul ri</lb>
-<lb n="26" />xtah xpuch quibi xeqha curi</lb>
-<lb n="27" />balam quitze, balam acab, ma-</lb>
-<lb n="28" />hucutah vae retal itzih quix</lb>
-<lb n="29" />oponic chiquivach ahauab qui-</lb>
-<lb n="30" />tzih xqhau ri tohil chiquech quix</lb>
-<lb n="31" />qha 6800vae curetal xcacam vloc</lb>
-<lb n="32" />qui xqha chique chi qui cuuh cu</lb>
-<lb n="33" />ri cal chiya chique xevqhax</lb>
-<lb n="34" />cut ri capohib ta xquipixabah</lb>
-<lb n="35" />vbic. ta xebe cut xcucaah vbi</lb>
-<lb n="36" />ri tziban cul ta xeopon cut hu-</lb>
-<lb n="37" />zucu xequicot ri ahauab ta</lb>
-<lb n="38" />xil 6810qui vach xequel vca qui-</lb>
-<lb n="39" />tzonoxic ri capohib. ma xivil v</lb>
-<lb n="40" />vach ri tohil xevqhaxic xquil</lb>
-<lb n="41" />bala xeqha curi xtah xpuch</lb>
-<lb n="42" />vtz bala na qui pa retal xicam</lb>
-<lb n="43" />vloc ma qui tzih xeqhau ri a-</lb>
-<lb n="44" />hauab queheri bari retal qui</lb>
-<lb n="45" />macunic 6820xquina ri ahauab. ta</lb>
-<lb n="46" />xquiritah curi tziban cul cumal</lb>
-<lb n="47" />capohib. humah balam, humah</lb>
+<lb n="1" />ta xeqhau chic chiquech ri xtah
+<lb n="2" />xpuch quibi re e caib capohib
+<lb n="3" />vtz chibec retal catzihivvq chi-
+<lb n="4" />uoyobeh na chiya apanoc chi-
+<lb n="5" />quech ahauab xevqhax cut ca-
+<lb n="6" />te puch qui naohinic chic 0ri ah
+<lb n="7" />quixb, ahcahb xevqhax ri balam
+<lb n="8" />quitze, balam acab, mahucutah,
+<lb n="9" />iqui balam quixzibanoc oxib
+<lb n="10" />cul chitzibah retal iqoheic cho-
+<lb n="11" />pon cuq amac chibe cuq re e caib
+<lb n="12" />capohib quechahonic chi ya vbic
+<lb n="13" />chique xevqhax cut balam qui-
+<lb n="14" />tze, balam acab, mahucutah.
+<lb n="15" />     Cate cut xezibanic coxichal na-
+<lb n="16" />be xtziban ri balam quitze. balam
+<lb n="17" />vvachibal xuxic xutzibah chu-
+<lb n="18" />vach cul. are curi chi balam acab,
+<lb n="19" />cot chic vvachibal xutzibah chu-
+<lb n="20" />vach cul. ta xtziban chicuri ma-
+<lb n="21" />hucutah humah vonon humah zi-
+<lb n="22" />tal vvachibal v tzib xutzibah
+<lb n="23" />chuvach cul. xutzin cut qui tzib
+<lb n="24" />coxichal oxbuzah xquitzibah
+<lb n="25" />cate cut ta xebe quiia cul ri
+<lb n="26" />xtah xpuch quibi xeqha curi
+<lb n="27" />balam quitze, balam acab, ma-
+<lb n="28" />hucutah vae retal itzih quix
+<lb n="29" />oponic chiquivach ahauab qui-
+<lb n="30" />tzih xqhau ri tohil chiquech quix
+<lb n="31" />qha vae curetal xcacam vloc
+<lb n="32" />qui xqha chique chi qui cuuh cu
+<lb n="33" />ri cal chiya chique xevqhax
+<lb n="34" />cut ri capohib ta xquipixabah
+<lb n="35" />vbic. ta xebe cut xcucaah vbi
+<lb n="36" />ri tziban cul ta xeopon cut hu-
+<lb n="37" />zucu xequicot ri ahauab ta
+<lb n="38" />xil qui vach xequel vca qui-
+<lb n="39" />tzonoxic ri capohib. ma xivil v
+<lb n="40" />vach ri tohil xevqhaxic xquil
+<lb n="41" />bala xeqha curi xtah xpuch
+<lb n="42" />vtz bala na qui pa retal xicam
+<lb n="43" />vloc ma qui tzih xeqhau ri a-
+<lb n="44" />hauab queheri bari retal qui
+<lb n="45" />macunic xquina ri ahauab. ta
+<lb n="46" />xquiritah curi tziban cul cumal
+<lb n="47" />capohib. humah balam, humah
                 </div>
                 <div type="col" n="44.2.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                
+<lb n="1" />y díxeron otra ves a xtah y xpuch
+<lb n="2" />
+		<choice>
+                    <abbr>q’</abbr>
+                 	<expan>que</expan>
+                    </choice> así se llamaban las donçellas: esta
+<lb n="3" />bíen, íraseñal de nuestra palabra
+<lb n="4" />con vosotras, aguardad vn poco se
+<lb n="5" />dara 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> lleuen a los SSes. y luego con
+<lb n="6" />sultaron los prínçípales y se les díxo a
+<lb n="7" />balamquítze, balamacab, mahucutah
+<lb n="8" />y íquíbalam. píntad en los tres paños
+<lb n="9" />laseñal de vuestro ser 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> vaya ante
+<lb n="10" />los SSes. en los pueblos, 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>lo lleuen las dos
+<lb n="11" />donçellas 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>lauan. dadselo les fue
+<lb n="12" />dícho a balamquítze, balamacab, mahu –
+<lb n="13" />cutah, y íquíbalam.
+<lb n="14" />y luego píntaron los tres, y el prímero pin –
+<lb n="15" />to balamquítze, la ímagen de vn
+<lb n="16" />tígre, 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> la pinto en el paño. y balam –
+<lb n="17" />acab, pinto su imagen 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> era vna ag –
+<lb n="18" />uíla, y la pinto en el paño. y píntando
+<lb n="19" />mahucutah, pinto todo tabanos, y abís –
+<lb n="20" />pas por todas partes lleno de auíspas
+<lb n="21" />su píntura en el paño. y acabaron—
+<lb n="22" />sus pínturas los tres en tres doblezes
+<lb n="23" />píntaron. y luego fueron a dar los
+<lb n="24" />paños xtah y xpuch. 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> así se llama –
+<lb n="25" />ban. y les díxeron balamquítze, ba –
+<lb n="26" />lamacab, y mahucutah. esta es la
+<lb n="27" />señal de vuestra palabra, y verdad
+<lb n="28" />andad lleualdo ante los SSes. y de
+<lb n="29" />çildes 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> çiertamente hablo el tohíl
+<lb n="30" />a nosotras, y esta es la señal 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice>trae
+<lb n="31" />mos, esto les díreís a ellos. y daldes
+<lb n="32" />las tílmas 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> las vístan. esto les fue
+<lb n="33" />dícho alas donçellas quando fueron
+<lb n="34" />despedidas. y luego se fueron y lle –
+<lb n="35" />uaron los paños píntados. y luego
+<lb n="36" />
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> llegaron luego se alegraron los
+<lb n="37" />SSes quando las víeron, y lleuaban
+<lb n="38" />pendíentes desus manos su petíçíon,
+<lb n="39" />las donçellas. por ventura vísteís
+<lb n="40" />al tohíl se les fue dicho. y díxeron lo ví –
+<lb n="41" />mos. esta bien díxeron ellos. y 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> se—
+<lb n="42" />ñal tragísteís? es así verdad? y pen –
+<lb n="43" />saban los señores 
+<choice>
+                    		<abbr>q’</abbr>
+                    		<expan>que</expan>
+                    		</choice> era señal deauer
+<lb n="44" />pecado. y tendíeron entonçes los pa –
+<lb n="45" />ños píntados las donçellas. y por todas
+<lb n="46" />partes erantígres, portodas partes ag –
+
                 </div>
             </div>
         </body>
