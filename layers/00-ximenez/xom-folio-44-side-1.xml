@@ -40,6 +40,7 @@
         <body>
             <div type="page" n="44.1" xml:id="xom-f44-s1">
                 <div type="col" n="44.1.1" xml:lang="quc">
+                <p>
                 	<lb n="1" />naquila chiquiya chive tazec chi -
                 	<lb n="2" />qui raih ivach qui tzih chiya ivib
                 	<lb n="3" />chi quech. vve cut ta maui chiya
@@ -50,46 +51,50 @@
 					<lb n="8" />ta xepixabax ri capohib e caib
 					<lb n="9" />are qui bi va xtah vbi hun ca -
 					<lb n="10" />poh. xpuch chicut vbi hun chic
-					<lb n="11" />6690epu caib xtah xpuch qui bi
+					<lb n="11" />epu caib xtah xpuch qui bi
 					<lb n="12" />xetac vbic chiya chi ratinibal
 					<lb n="13" />tohil aulix hacavitz. are qui
 					<lb n="14" />naoh ronohel amac rÿ.
-					<lb n="15" />Cate puch xebec xecauuxic qui-
+					</p>
+					
+					<p>
+					<lb n="15" rend="indent">Cate puch xebec xecauuxic qui-
 					<lb n="16" />bec chila chatin vi tohil quicari-
 					<lb n="17" />loon curi qui chahon ta xebec. que
 					<lb n="18" />quicot chicuri ahauab cumal ri
 					<lb n="19" />e caib qui mial xquitac vbic. ta
-					<lb n="20" />xeopon cut chiya <num>6710</num>cate xquiti-
+					<lb n="20" />xeopon cut chiya cate xquiti-
 					<lb n="21" />quiba chahonic xquitzonoba quib
 					<lb n="22" />qui cabichal e chacachaxinac
 					<lb n="23" />chuvach tac abah, ta xe culun
 					<lb n="24" />curi tohil aulix hacavitz. xeopon
 					<lb n="25" />chila chuchi ya, xa cu zcaquin
 					<lb n="26" />xrocoibeh qui vach ri e caib ca-
-					<lb n="27" />pohib quechahonic <num>6720</num>nare curi
+					<lb n="27" />pohib quechahonic nare curi
 					<lb n="28" />capohib xa huzu xequixbic
 					<lb n="29" />ta xeopon ri tohil macuhabi
 					<lb n="30" />xbe qui raibal ri tohil chirech
 					<lb n="31" />ri e caib capohib ta xetzonox
 					<lb n="32" />cut apa quixpe vi. xevqhaxic
 					<lb n="33" />chirech, ri e caib capohib xev-
-					<lb n="34" />qhaxic <num>6730</num>naquipa quivah quixul
+					<lb n="34" />qhaxic naquipa quivah quixul
 					<lb n="35" />varal chu chi vi ca a xevqhax
 					<lb n="36" />cut ohba tacon vloc cumal
 					<lb n="37" />ahauab ta xohpetic chibe ivila
 					<lb n="38" />cuivach ri tohil quixqhau cuq
 					<lb n="39" />xeqha ahauab chique quehe
-					<lb n="40" />cut chipe vi retal <num>6740</num>quitzih vve
+					<lb n="40" />cut chipe vi retal quitzih vve
 					<lb n="41" />chivil qui vach xohohvqhaxic
 					<lb n="42" />xeqha curi e caib capohib ta xqui-
 					<lb n="43" />zucuba qui taquiquil areta cu
 					<lb n="44" />xcah ri amac xehox ta ri capo-
 					<lb n="45" />hib rumal qui naual tohil xe
-					<lb n="46" />qha curi tohil <num>6750</num>aulix hacavitz
-         
+					<lb n="46" />qha curi tohil aulix hacavitz
+					</p>
                 </div>
                 <div type="col" n="44.1.2" xml:lang="spa">
                 <!-- SPANISH LINES GO HERE -->
+                <p>
                 	<lb n="1" />y síquíeren habi cohabitar con vosotras
                 	<lb n="2" />daos a ellos; y mírad 
                 	<choice>
@@ -114,6 +119,10 @@
                     		<abbr>q’</abbr>
                     		<expan>que</expan>
                     		</choice> díscurríeron los pueblos.
+                    <lb />
+                    <lb />
+                 </p>
+                 <p>
 					<lb n="13" />y luego se fueron a componer, y a
 					<lb n="14" />aderezar, y çíertamente 
 					<choice>
@@ -172,7 +181,11 @@
                     		</choice> fornicasen las don
 					<lb n="40" />çellas con los naguales de tohíl díxe –
 					<lb n="41" />ron tohíl, auílix, hacauítz.
-					            
+					<lb />
+                    <lb />
+                    <lb />
+                    <lb />
+                 </p>           
 
 					
 					
