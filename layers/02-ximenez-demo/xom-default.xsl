@@ -27,10 +27,16 @@
                 <script src="default.js" type="text/javascript"></script>
             </head>
             <body>
+            <div id="page-header">
+                <h1>El Popol Wuh</h1>
+            </div>
+            <div id="page-content">
             <xsl:apply-templates select="//tei:text//tei:body"/>
-            <xsl:variable name="file" select="topics.xml" />
             <div class="topics">
             <xsl:apply-templates select="document('topics.xml')/result/*" />
+            </div>
+            </div>
+            <div id="page-footer">
             </div>
             </body>
         </html>
@@ -56,7 +62,7 @@
         </xsl:variable>
         <p>
             <xsl:attribute name="data-num">
-                <xsl:value-of select="$pnum" />
+                <xsl:value-of select="$pnum" /> 
             </xsl:attribute>
             <span class="pnum">¶ <xsl:value-of select="$pnum" /></span>
             <xsl:apply-templates />
@@ -64,16 +70,15 @@
     </xsl:template>
 
     <xsl:template match="tei:pb">
-        <span class="pb">
-            <xsl:value-of select="@xml:id" />
+        <span class="pb">>
+            <xsl:value-of select="substring-after(@n,'xom-')" />
         </span>
     </xsl:template>
+
     <xsl:template match="tei:note">
-        <!--
         <span class="note">
             <xsl:apply-templates />
         </span>
-        -->
     </xsl:template>
 
     <xsl:template match="tei:rs">
@@ -83,9 +88,7 @@
                 <xsl:value-of select="$ana" />
             </xsl:attribute>
             <xsl:attribute name="href">
-                <xsl:text>javascript:load_note('</xsl:text>
-                <xsl:value-of select="$ana" />
-                <xsl:text>');</xsl:text>
+                <xsl:text>javascript:load_note('</xsl:text><xsl:value-of select="$ana" /><xsl:text>');</xsl:text>
             </xsl:attribute>
             <xsl:apply-templates />
         </a>
@@ -108,14 +111,10 @@
             <xsl:attribute name="id">
                 <xsl:value-of select="ana/text()"/>
             </xsl:attribute>
-            <h3>
-                <xsl:value-of select="name" />
-                (<xsl:value-of select="typo" />)
-            </h3>
+            <h3><xsl:value-of select="name" /> (<xsl:value-of select="typo" />)</h3>
             <xsl:copy-of select="imagen/*" />
             <xsl:copy-of select="contenido/*" />
         </div>
-    </xsl:template>
-    
+    </xsl:template>    
 
 </xsl:stylesheet>

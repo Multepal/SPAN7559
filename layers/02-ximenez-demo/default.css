@@ -1,6 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Allerta');
+             
+
+
+#page-header {
+    padding: 1rem;  
+    background: lightgray;
+}
+#page-header h1 {
+    font-family: Allerta;
+}
+
 div.page {
     margin-left:1in;
 }
+
 div.quc {
     width: 4.5in;
     float: left;
@@ -9,6 +22,7 @@ div.quc {
     overflow: auto;
     height: 8in;
 }
+
 div.spa {
     width: 4.5in;
     float: left;
@@ -17,19 +31,21 @@ div.spa {
     overflow: auto;
     height: 8in;
 }
+
 div.topics {
     width: 4.5in;
     float: left;
     padding: 1rem;
     font-size:12pt;
     overflow: auto;
-    height: 8in;
-    
+    height: 8in;    
 }
+
 .note {
     float:right;
     color:gray;
 }
+
 .rs {
     color:red;
     font-weight:bold;
@@ -43,7 +59,7 @@ div.topics {
 }
 
 p {
-    font-family: serif;   
+    font-family: Baskerville, serif;   
 }
 
 .pnum {
@@ -54,9 +70,14 @@ p {
 }
 
 .item {
-    /*display:none;*/
+    /* display:none; */
     border-top: 1px solid gray;
     padding: .5rem 0;
+}
+
+.item p {   
+    font-family: sans-serif;
+    font-size: 10.5pt;
 }
 
 .item img {

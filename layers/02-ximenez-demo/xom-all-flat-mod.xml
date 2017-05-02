@@ -55,7 +55,7 @@
         <body>
             <div xml:lang="quc">
                 <p>
-                    <pb xml:id="xom-f01-s1"/>
+                    <pb n="xom-f01-s1"/>
                     <note place="margin-left" type="chapter-heading" anchored="true">
                         cap.
                         <lb />1.del serde<!--Could have a cross frollowied by 'sexde' --> 
@@ -113,7 +113,7 @@
                     <lb n="45"/>quil al, zaquil qahol, ah<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>biz, ahnaoh chirech ronohel
                 
-                    <pb xml:id="xom-f01-s2" />
+                    <pb n="xom-f01-s2" />
                 
                     <lb n="1"/>ato qol vi cah vleu cho palo
                     <lb />
@@ -169,7 +169,7 @@
 					<lb n="45"/>queεumal, chi aεabal, rumal
 					<lb n="46"/>ri <rs ana="UKUX_KAJ">vqux cah huracan</rs> vbi,
 
-					<pb xml:id="xom-f02-s1"/>
+					<pb n="xom-f02-s1"/>
 
                     <lb n="1"/><rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
                     <lb n="2"/>cut <rs ana="CHIPI_KAQULJA">chipa caculha</rs>, roxchic 
@@ -219,7 +219,7 @@
                     <lb n="46"/>vnaohixic ri ta xquinohih ta
                     <lb n="47"/>xquibizoh ruꜩinic vbana
 
-                    <pb xml:id="xom-f02-s2"/>
+                    <pb n="xom-f02-s2"/>
 
                     <lb n="1"/>tahic cumal.
                 </p>
@@ -273,7 +273,7 @@
                     <lb n="45"/>caculha</rs>, <rs ana="UKUX_KAJ">vqux cah</rs>, vquxvle<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>uh, <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bitol</rs>, <rs ana="ALOM">alom</rs> <rs ana="KAJOLOM">qaholõ</rs>
 
-                    <pb xml:id="xom-f03-s1"/>
+                    <pb n="xom-f03-s1"/>
 
                     <lb n="1"/>quixqhaoc cohiziquih, cohiqui<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>hila, xevqhaxic. macu xuꜩinic
@@ -324,7 +324,7 @@
                     <lb n="46"/>chuvach vleuh. mi xcatiho
                     <lb n="47"/>chirech rinabe ca ꜩac, ca
 
-                    <pb xml:id="xom-f03-s2"/>
+                    <pb n="xom-f03-s2"/>
 
                     <lb n="1"/>bit maui mi xuꜩinic ca quihilo<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>xic, ca calaixic puch cumal, que<pc type="line-end-hyphen"> -</pc>
@@ -377,7 +377,7 @@
                     <lb n="46"/>ne</rs> chatah ta chavaxoc, ta zaqui<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>roc ca ziquixic, ca toquexic ca
 
-                    <pb xml:id="xom-f04-s1"/>
+                    <pb n="xom-f04-s1"/>
                     
                     <lb n="1"/>nabaxic rumal vinac ꜩac, vinac
                     <lb n="2"/>bit, vinac poy, vinac anom cha
@@ -426,7 +426,7 @@
                     <lb n="45"/>habi qui qux ma pu habi qui<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>naoh maui natal cah ꜩac
                     <lb n="47"/>cah bit xaloc xebinic, xecha<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f04-s2"/>
+                    <pb n="xom-f04-s2"/>
 
                     <note><num>4</num></note>
                     <lb n="1"/>canic maui xquinatah chic ri v<pc type="line-end-hyphen"> -</pc>
@@ -479,7 +479,7 @@
                     <lb n="45"/>chuti chicop nima chicop xcut
                     <lb n="46"/>qui vach rumal che abah. x<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>qhauic ronohel qui quebal<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f05-s1"/>
+                    <pb n="xom-f05-s1"/>
 
                     <lb n="1"/>quixot, qui lac, qui boh, qui ꜩi
                     <lb n="2"/>quieaa, haruh pala ronohel
@@ -489,7 +489,7 @@
                         </del>
                     </note>
                     <lb n="3"/>xcutu qui vach cax xiban
-                    <lb n="4"/>chique, xohitio ixchi cut x–
+                    <lb n="4"/>chique, xohitio ixchi cut x<pc type="line-end-hyphen"> -</pc>
                     <lb n="5"/>quixcati chic xqhari qui ꜩi
                     <lb n="6"/>cac chiquech. re cu ri ꜫaa
                     <lb n="7"/>xohcoconic iuumal hu ta
@@ -515,7 +515,7 @@
                     <lb n="27"/>xixnau ta cut chiuih ta cut
                     <lb n="28"/>xohzach vi, vacamic cut x<pc type="line-end-hyphen"> -</pc>
                     <lb n="29"/>chitih cabac qo pa ca chi x<pc type="line-end-hyphen"> -</pc>
-                    <lb n="30"/>quixcatio xeqha ri ꜩi chi–
+                    <lb n="30"/>quixcatio xeqha ri ꜩi chi<pc type="line-end-hyphen"> -</pc>
                     <lb n="31"/>que ta xcut qui vach. are
                     <lb n="32"/>chicuri qui xot, qui boh x<pc type="line-end-hyphen"> -</pc>
                     <lb n="33"/>chau chic chique: cax, va xi
@@ -534,7 +534,7 @@
                     <lb n="46"/>vloc, querah acan chuvi
                     <lb n="47"/>che queqhaquix vloc ruma che
                     
-                    <pb xml:id="xom-f05-s2"/>
+                    <pb n="xom-f05-s2"/>
                 
                     <lb n="1"/>querah oc pahul xa chiyuch
                     <lb n="2"/>hul chi qui vach; que he cut
@@ -561,14 +561,14 @@
                     <lb n="20"/>curi: xaui xere vzaquetal
                     <lb n="21"/>vinac rÿ, xbutic queheri
                     <lb n="22"/>naual vinac vqoheic in
-                    <lb n="23"/>nim quiqohe chic chuvi vi–
+                    <lb n="23"/>nim quiqohe chic chuvi vi<pc type="line-end-hyphen"> -</pc>
                     <!-- Big C is actually and correctional overwrite -->
                     <lb n="24"/>nac ꜩaC vinac bit in vquih
                     <lb n="25"/>in pu vzac in naipu riquil
                     <lb n="26"/>ta chuxoc, nim nu zaquil in
                     <lb n="27"/>binibal, in pu chacabal ru<pc type="line-end-hyphen"> -</pc>
                     <lb n="28"/>mal vinac. rumal puvac
-                    <lb n="29"/>vbac nuvach xa catilto–
+                    <lb n="29"/>vbac nuvach xa catilto<pc type="line-end-hyphen"> -</pc>
                     <lb n="30"/>tic chi yamanic raxa cuval 
                     <lb n="31"/>naypu ve raxcauacoh chi
                     <lb n="32"/>abah queheri v va cah are
@@ -588,7 +588,7 @@
                     <lb n="45"/>xere cut tocol vi v vach ri 
                     <lb n="46"/>chicube vi mana ronohelta
                     
-                    <pb xml:id="xom-f06-s1"/>
+                    <pb n="xom-f06-s1"/>
                 
                     <lb n="1"/>vxecah copon vi vvach. maha
                     <lb n="2"/>cut qui quiloc v vach quih, ic
@@ -625,27 +625,27 @@
                     <lb n="31"/>ronohel vinac. maui are
                     <lb n="32"/>chivinaquir vi εaεal ri xa
                     <lb n="33"/>puvac ta chuxoc xeqha ri
-                    <lb n="34"/>qaholab huhun chi vb qui-
-                    <lb n="35"/>telen qui cabichal are cu-
-                    <lb n="36"/>ri vvcub caquix e caib v qa-
-                    <lb n="37"/>hol are nabe al ri zipac-
-                    <lb n="38"/>na, vcab al chicut ri cab-
+                    <lb n="34"/>qaholab huhun chi vb qui<pc type="line-end-hyphen"> -</pc>
+                    <lb n="35"/>telen qui cabichal are cu<pc type="line-end-hyphen"> -</pc>
+                    <lb n="36"/>ri vvcub caquix e caib v qa<pc type="line-end-hyphen"> -</pc>
+                    <lb n="37"/>hol are nabe al ri zipac<pc type="line-end-hyphen"> -</pc>
+                    <lb n="38"/>na, vcab al chicut ri cab<pc type="line-end-hyphen"> -</pc>
                     <lb n="39"/>racan chimalmat cut vbi
-                    <lb n="40"/>qui chuch rixoquil ri v-
-                    <lb n="41"/>vcub caquix are curi zi-
+                    <lb n="40"/>qui chuch rixoquil ri v<pc type="line-end-hyphen"> -</pc>
+                    <lb n="41"/>vcub caquix are curi zi<pc type="line-end-hyphen"> -</pc>
                     <lb n="42"/>pacna are chirechaah ri
                     <lb n="43"/>nimac huiub. ri <rs ana="VOLCAN_DE_FUEGO" type="toponym">chicac</rs> <rs type="toponym" ana="VOLCAN_DE_ACATENANGO">hun
                     <lb n="44"/>ahpu</rs> <rs ana="PEKUL" type="toponym">pe cul</rs> <rs ana="YA_XKANUL" type="toponym">ya xcanul</rs> <rs ana="MAKAMOB" type="toponym">ma-
                     <lb n="45"/>camob</rs> huliznab chuchaxic
-                    <lb n="46"/>vbi huiub xqolic ta chi za-
-                    <lb n="47"/>quiric xa hun aεab chi vi-                    
+                    <lb n="46"/>vbi huiub xqolic ta chi za<pc type="line-end-hyphen"> -</pc>
+                    <lb n="47"/>quiric xa hun aεab chi vi<pc type="line-end-hyphen"> -</pc>                 
                     
-                    <pb xml:id="xom-f06-s2"/>
+                    <pb n="xom-f06-s2"/>
                 
                     <!-- The number 6 in the margin is in a different hand and ink (pencil?) -->
                     <lb n="1"/>naquiric rumal ri zipacna
                     <note place="left-margin" anchored="true"><num rend="large">6</num></note>
-                    <lb n="2"/>are ri chicuri cabracan chi–
+                    <lb n="2"/>are ri chicuri cabracan chi<pc type="line-end-hyphen"> -</pc>
                     <lb n="3"/>zilab huiub rumal chi ne
                     <lb n="4"/>bouic chuti huiub, nima
                     <lb n="5"/>huyub rumal, xaui quehe
@@ -694,7 +694,7 @@
                     <lb n="46"/>cupix vla veab rihun hu
                     <lb n="47"/>nahpu rumal ri vvcub ca
                     
-                    <pb xml:id="xom-f07-s1"/>
+                    <pb n="xom-f07-s1"/>
                 
                     <lb n="1"/>quix, huzuc xtzac vloc, xme<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>ho vloc, tzam vteleb ta xutzo<pc type="line-end-hyphen"> -</pc>
@@ -725,7 +725,7 @@
                     <lb n="26"/>cut chirech hun mama qui<pc type="line-end-hyphen"> -</pc>
                     <lb n="27"/>tzih zac chic rizmal vi chi
                     <lb n="28"/>mama, hun cu atit quitzih
-                    <lb n="29"/>quemel atit chic, xa quelu–
+                    <lb n="29"/>quemel atit chic, xa quelu<pc type="line-end-hyphen"> -</pc>
                     <lb n="30"/>cuquila chic chirihitac vi<pc type="line-end-hyphen"> -</pc>
                     <lb n="31"/>nac. zaqui nim ac vbi ma<pc type="line-end-hyphen"> -</pc>
                     <lb n="32"/>ma zaqui nima tziz cut vbi 
@@ -744,7 +744,7 @@
                     <lb n="45"/>vvcub caquix, xavi oh qoh 
                     <lb n="46"/>yavic inaoh, xeqha ri e ca<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>ib qaholab; vtz bala xeqha<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f07-s2"/>
+                    <pb n="xom-f07-s2"/>
                 
                     <lb n="1"/>cut. cate cut ta xebec tzamal
                     <note place="margin-left" anchored="true"><num rend="large">7</num></note>
@@ -780,7 +780,7 @@
                     <lb n="31"/>xouic hutaquih maui choqui<pc type="line-end-hyphen"> -</pc>
                     <lb n="32"/>tahic, mahabi nu varam rum<pc type="line-end-hyphen"> -</pc>
                     <lb n="33"/>al ruq vbac nu vach xa xi<pc type="line-end-hyphen"> -</pc>
-                    <lb n="34"/>quivbah e caib qaxtoq ta xti- 
+                    <lb n="34"/>quivbah e caib qaxtoq ta xti<pc type="line-end-hyphen"> -</pc> 
                     <lb n="35"/>caric, maui quinechahic rumal 
                     <lb n="36"/>quehe ta cut chitocobah vi nu 
                     <lb n="37"/>vach, xa cachuiub vehe chic 
@@ -795,7 +795,7 @@
                     <lb n="46"/>ixim vtzbala chivelezah chi 
                     <lb n="47"/>too vloc xqha cut ta xel curi
                     
-                    <pb xml:id="xom-f08-s1"/>
+                    <pb n="xom-f08-s1"/>
                 
                     <lb n="1"/>re vvcub caquix. xa zaqui ixim
                     <lb n="2"/>vquexel re xoquic, xa chi cu 
@@ -819,7 +819,7 @@
                     <lb n="20"/>nabeh varal chuvach vleu.
                     <lb n="21"/><del rend="strikethrough" instant="false" status="unremarkable">hu pah chic xziquinic ta xcaha<pc type="line-end-hyphen"> -</pc>
                     <lb n="22"/>panoc ri che ocu mi xutzinic
-                    <lb n="23"/>qui vtz mi xcabano chire mix- 
+                    <lb n="23"/>qui vtz mi xcabano chire mix<pc type="line-end-hyphen"> -</pc> 
                     <lb n="24"/>ca mic, atalabe chita quen chu 
                     <lb n="25"/>bano, chuchacuh ta chuxoc v 
                     <lb n="26"/>nabe la xucoh vla rib cuq chi<pc type="line-end-hyphen"> -</pc>
@@ -847,7 +847,7 @@
                     <lb n="46"/>che racan qui cabal, omuch 
                     <lb n="47"/>chubinic, ta xquicat cut hun
                     
-                    <pb xml:id="xom-f08-s2"/>
+                    <pb n="xom-f08-s2"/>
                 
                     <lb n="1"/>nimache v vapalil qui cabal ca<pc type="line-end-hyphen"> -</pc>
                     <note place="margin-left" anchored="true"><num rend="large">8</num></note>
@@ -880,7 +880,7 @@
                     <lb n="28"/>chicam vi pa hul, xeqha cut 
                     <lb n="29"/>omuch qaholab, ta xquicot cut
                     <lb n="30"/>hun nima hul naht xcahic ta 
-                    <lb n="31"/>xquitac cut ri zipacna, oh ca– 
+                    <lb n="31"/>xquitac cut ri zipacna, oh ca<pc type="line-end-hyphen"> -</pc>
                     <lb n="32"/>nih chavech chibeta a coto chic 
                     <lb n="33"/>vleuh maui cacaxico, xucha
                     <lb n="34"/><del type="scribble" instant="false" status="unremarkable">x</del>ic. vtzbala xqhacut catecut 
@@ -898,7 +898,7 @@
                     <lb n="46"/>quinanucoto ve xquixnuzi<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>quih acanoc ta chutzinoc, v
                     
-                    <pb xml:id="xom-f09-s1"/>
+                    <pb n="xom-f09-s1"/>
             
                     <lb n="1"/>cototahic xcha vloc zipacna
                     <lb n="2"/>chiri pahul, macu are cucot 
@@ -949,7 +949,7 @@
                     <lb n="46"/>pacna chiri pa hul, ta xqui<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>bih qaholab ri ca chucabi
                     
-                    <pb xml:id="xom-f09-s2"/>
+                    <pb n="xom-f09-s2"/>
                 
                     <note place="margin-left" anchored="true"><num>9</num></note>
                     <lb n="1"/>puch, ta xtubuquih zanic quebi<pc type="line-end-hyphen"> -</pc>
@@ -1000,7 +1000,7 @@
                     <lb n="44"/>chirechaah hu ta quih pa
                     <lb n="45"/>quih chivacatic ta chutzu<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>cuh recha. chacab cut chi<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f10-s1"/>
+                    <pb n="xom-f10-s1"/>
                 
                     <lb n="1"/>recah huyub cate cut vhal<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>vachixic hun nima tap cumal
@@ -1050,7 +1050,7 @@
                     <lb n="46"/>zipacna. xelahic xoc na
                     <lb n="47"/>chiquivach qaholab lama
                     
-                    <pb xml:id="xom-f10-s2"/>
+                    <pb n="xom-f10-s2"/>
                 
                     <note place="margin-left" anchored="true"><num>10</num></note>
                     <lb n="1"/>quicu xchachaplo taxaque<pc type="line-end-hyphen"> -</pc>
@@ -1102,7 +1102,7 @@
                     <lb n="45"/>rracan vbi in yohol huiub xqha.
                     <lb n="46"/>xaui cu xere hun ahpu xbalan<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>que xchacou re cabrracan, xqha<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f11-s1"/>
+                    <pb n="xom-f11-s1"/>
                 
                     <lb n="1"/>rihuracan, chipi caculha, raxa 
                     <lb n="2"/>caculha, ta xqhauic chiquech ri 
@@ -1151,7 +1151,7 @@
                     <lb n="45"/>tzih xivilo ri huiub quibÿh a
                     <lb n="46"/>pa qovi xchivilna xchin vvlih 
                     <lb n="47"/>cahoc apa xivil vi. chila ba qo<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f11-s2"/>
+                    <pb n="xom-f11-s2"/>
                 
                     <note place="margin-left" anchored="true"><num>11</num></note>
                     <lb n="1"/>vi chi relebal quih xeqha cut hun
@@ -1202,7 +1202,7 @@
                     <lb n="46"/>curi cabracan xa tubul chic racan 
                     <lb n="47"/>vcab, mabi chicouin chic rumal ri
                     
-                    <pb xml:id="xom-f12-s1"/>
+                    <pb n="xom-f12-s1"/>
                 
                     <lb n="1"/>vleu xcul chirih q,iquin xu<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>tio macu habi chic naquila xub<pc type="line-end-hyphen"> -</pc>
@@ -1255,7 +1255,7 @@
                     <lb n="45"/>quil chiquivach ri hun batz, hun
                     <lb n="46"/>chouen, hunhunahpu, cah çu <add place="above" instant="false" status="unremarkable">v qahol</add>
                     <lb n="47"/>eahbix, e a<del rend="scribble" instant="false" status="unremarkable">h</del>pu <del rend="scribble" instant="false" status="unremarkable">a</del>htzibenai pu ah<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f12-s2"/>
+                    <pb n="xom-f12-s2"/>
                 
                     <lb n="1"/>cot, eahxit, e ah puvac xevxic
                 	<note place="margin-left" anchored="true"><num rend="large">12</num></note>
@@ -1302,11 +1302,11 @@
                     <lb n="42"/>ahau, chamia bac, chamia holom
                     <lb n="43"/>rahchami xibalba xa bac, qui cha<pc type="line-end-hyphen"> -</pc>
                     <lb n="44"/>mÿ are cut cahchamÿal ri chiba<pc type="line-end-hyphen"> -</pc>
-                    <lb n="45"/>quir vinac. qui tzih chi bac chi ho–
+                    <lb n="45"/>quir vinac. qui tzih chi bac chi ho<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>lom chic ta chicamic, zÿah bac xu
-                    <lb n="47"/>pan chicamouic, are vpatan vi cha–
+                    <lb n="47"/>pan chicamouic, are vpatan vi cha<pc type="line-end-hyphen"> -</pc>
                 
-                    <pb xml:id="xom-f13-s1"/>
+                    <pb n="xom-f13-s1"/>
                 
                     <lb n="1"/>mÿa bac chamÿaholom quibi. are
                     <lb n="2"/>chicuri ahau ahalmez, ahaltocob
@@ -1357,7 +1357,8 @@
                     <lb n="45"/>ta cut quepe vi queqha aha<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>uab chiquicam cu vloc ri qui
                     <lb n="47"/>choconizan, qui bate, qui pa ch<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f13-s2"/>
+                    
+                    <pb n="xom-f13-s2"/>
                 
                     <note place="margin-right" type="pagination" anchored="true"><num rend="large">13</num></note>
                     <lb n="1"/>cab chipe naipuch riqui quiqque
@@ -1373,7 +1374,7 @@
                     <lb n="11"/>rih qo v xic, are chi naipuch ri
                     <lb n="12"/>holom tucur xa vtuquel vholom
                     <lb n="13"/>mahabi racan xa v xic qolic
-                    <lb n="14"/>e cahib ri zamahel rahpop achi –'
+                    <lb n="14"/>e cahib ri zamahel rahpop achi<pc type="line-end-hyphen"> -</pc>
                     <lb n="15"/>hab quecalem ta xepe cut chila
                     <lb n="16"/>chi xibalba libah chi xevlic e
                     <lb n="17"/>cu tacal chuvi hom quechaah cut
@@ -1383,7 +1384,7 @@
                     <lb n="21"/>hom ta xquizac cut quitzih xavi
                     <lb n="22"/>xere vcholic vtzih hun came, v<pc type="line-end-hyphen"> -</pc>
                     <lb n="23"/>vcub came ahal puh, ahal cana
-                    <lb n="24"/>chamia bac, chamia holom, xi-
+                    <lb n="24"/>chamia bac, chamia holom, xi<pc type="line-end-hyphen"> -</pc>
                     <lb n="25"/>quiripat, cuchumaquic, ahal<pc type="line-end-hyphen"> -</pc>
                     <lb n="26"/>mez, ahal tocob, xic patan qui<pc type="line-end-hyphen"> -</pc>
                     <lb n="27"/>bi conohel ahauab xtzac qui<pc type="line-end-hyphen"> -</pc>
@@ -1391,7 +1392,7 @@
                     <lb n="29"/>qha ahau hun came, vvcub ca<pc type="line-end-hyphen"> -</pc>
                     <lb n="30"/>me? quitzih bala queqha ohna
                     <lb n="31"/>cu achbilai ive. chicam vloc ri
-                    <lb n="32"/>ronohel quetzabal queqha aha–
+                    <lb n="32"/>ronohel quetzabal queqha aha<pc type="line-end-hyphen"> -</pc>
                     <lb n="33"/>uab, vtz bala cohiuoiobeh na
                     <lb n="34"/>ohna capixabah canna ca chuch
                     <lb n="35"/>xeqha cut xebe cut chicochoch
@@ -1408,7 +1409,7 @@
                     <lb n="46"/>siban oc, quixcoton oc, chi mecoh
                     <lb n="47"/>cochoch chimecoh puch vqux
                 	
-                    <pb xml:id="xom-f14-s1"/>
+                    <pb n="xom-f14-s1"/>
                 
                     <lb n="1"/>ivatit. xevqhax cut <rs ana="JUN_BATZ">hun baꜩ</rs>
                     <lb n="2"/><rs ana="HUN_CHOWEN">hun choven</rs> ta xepixabaxic quz<pc type="line-end-hyphen"> -</pc>
@@ -1460,7 +1461,7 @@
                     <lb n="46"/>came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> vꜩbala mi x
                     <lb n="47"/>ixulic chuvec chicaza v vach
                 	
-                    <pb xml:id="xom-f14-s2"/>
+                    <pb n="xom-f14-s2"/>
                     <!-- This page is interesting because it has clear paragraph
                     distinctions in the Spanish column, but not in the K'iche', 
                     which is the reverse of the usual situation -->
@@ -1514,11 +1515,11 @@
                     <lb n="46"/>tzatz curi vtihobal xibalba quia
                     <lb n="47"/>molah chi tihobal arevnabe ri
                 	
-                    <pb xml:id="xom-f15-s1"/>
+                    <pb n="xom-f15-s1"/>
                 
                     <lb n="1"/>queeuma ha vtuquel queeum
                     <lb n="2"/>vpam, vcab chi cut <rs ana="CASA_DE_HIELO" type="toponym">xuxulim ha</rs>
-                    <lb n="3"/>vbi tzatz chi teu vpam zac xuru-
+                    <lb n="3"/>vbi tzatz chi teu vpam zac xuru<pc type="line-end-hyphen"> -</pc>
                     <lb n="4"/>xuh, zac caracoh chi xurulah teu
                     <lb n="5"/>choc vloc chupam, rox chi cut <rs ana="CASA_DE_JAGUARES" type="toponym">ba–
                     <lb n="6"/>lami ha</rs> vbi vtuquel balam qo chu<pc type="line-end-hyphen"> -</pc>
@@ -1564,7 +1565,7 @@
                     <lb n="46"/>vach. macu calah qo chivi ri v
                     <lb n="47"/>holom hunhunahpu xahunam 
                 	
-                    <pb xml:id="xom-f15-s2"/>
+                    <pb n="xom-f15-s2"/>
                 
                 	<note place="margin-right" type="pagination" anchored="true"><num rend="large">15</num></note>
                     <lb n="1"/>chic vvach ruq vvach zima carilo
@@ -1627,7 +1628,7 @@
                     <lb n="46"/>cab capoh ta xril cut v pu cab
                     <lb n="47"/>huzuc xunicoh macuhabi vchub
                 	
-                    <pb xml:id="xom-f16-s1"/>
+                    <pb n="xom-f16-s1"/>
                 
                     <lb n="1"/>bac pucab xaretal mi xnuya cha<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>ue ri nu chub nu caxah. are ri nu
@@ -1679,7 +1680,7 @@
                     <lb n="46"/>pa ahchoce ri aval co chapam
                     <lb n="47"/>at nu meal? xqha cut mahabi
                     
-                    <pb xml:id="xom-f16-s2"/>
+                    <pb n="xom-f16-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -1703,7 +1704,7 @@
                     <lb n="15"/>pucbal chah quequeta cut maui
                     <lb n="16"/>qui puz ix zamahel xqhari capoh
                     <lb n="17"/>a xqhauic. naquipa xchicacoh
-                    <lb n="18"/>v quexel ri iqux mi xbÿx vloc ru–
+                    <lb n="18"/>v quexel ri iqux mi xbÿx vloc ru<pc type="line-end-hyphen"> -</pc>
                     <lb n="19"/>mal acahau chicam vloc ri vqux
                     <lb n="20"/>xchiquiꜩololeh ahauab, xchiqui
                     <lb n="21"/>ꜩaquixtah x<del rend="overstrike" instant="false" status="unremarkable">c</del>hi quihunam va<pc type="line-end-hyphen"> -</pc>
@@ -1734,7 +1735,7 @@
                     <lb n="46"/>pazel ta xcop cut ri che rumal
                     <lb n="47"/>capoh. chuh ƐaƐche chuqhaxic.
                     
-                    <pb xml:id="xom-f17-s1"/>
+                    <pb n="xom-f17-s1"/>
                 
                     <lb n="1"/>are curi quic xubinaah rumal quic
                     <lb n="2"/>holomax chuchaxic. chila cut quix
@@ -1787,7 +1788,7 @@
                     <lb n="46"/>poh rumal atit. xere la quiꜩih
                     <lb n="47"/>vi chi in alibla xqo nare inqovi
                        
-                    <pb xml:id="xom-f17-s2"/>
+                    <pb n="xom-f17-s2"/>
                     
                     <!-- STOPPED HERE -->
                     
@@ -1845,7 +1846,7 @@
                     <lb n="46"/>mi xquiz acam vloc ricabix chibe
                     <lb n="47"/>na vila xqha ri atit taxbe puch
                     
-                    <pb xml:id="xom-f18-s1"/>
+                    <pb n="xom-f18-s1"/>
                 
                     <lb n="1"/>xberilari a bix xavixere qovi ri
                     <lb n="2"/>huvi abix xavi cuxere calah vco<pc type="line-end-hyphen"> -</pc>
@@ -1898,7 +1899,7 @@
                     <lb n="45"/>xa chiquih xcah vi v yoc qui qux
                     <lb n="46"/>maui banoh xepoizaxic cumal
                     <lb n="47"/>ri<rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> a xacu<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f18-s2"/>
+                    <pb n="xom-f18-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -1961,7 +1962,7 @@
                     <lb n="46"/>quin e maui quecah vloc. xahix
                     <lb n="47"/>cazah vloc xeqha cut chire caꜩ
                 
-                    <pb xml:id="xom-f19-s1"/>
+                    <pb n="xom-f19-s1"/>
                 
                     <lb n="1"/>vꜩbala xeqha cut. cate puch xeaca<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>nic chui che xnimar cut riche xzi<pc type="line-end-hyphen"> -</pc>
@@ -2014,7 +2015,7 @@
                     <!-- can't close tag on Hunahpu because the folio ends -->
                     <lb n="47"/>zu pa bix ta xubinaah ri <rs ana="JUNAJPU">hun
                 
-                    <pb xml:id="xom-f19-s2"/>
+                    <pb n="xom-f19-s2"/>
 
                     <lb n="1"/>ahpu</rs> coy vbi zu ta xeoc cu vloc ri
                     <note place="margin-left" type="pagination" anchored="true">
@@ -2067,7 +2068,7 @@
                     <lb n="46"/>ta chuxoc mi xeqobic mi pu xebi<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>nahic <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>
                 
-                    <pb xml:id="xom-f20-s1"/>
+                    <pb n="xom-f20-s1"/>
                 
                     <lb n="1"/>quevqhaxic xeqha ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xba<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>lanque</rs> xeziquix cut rumal ri ahzu
@@ -2121,7 +2122,7 @@
                     <lb n="46"/>chavil ri catit chipetic iaol ca va
                     <lb n="47"/>huzu catoquic tapetoc catecut
                     
-                    <pb xml:id="xom-f20-s2"/>
+                    <pb n="xom-f20-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">20</hi></num>
@@ -2169,14 +2170,14 @@
                     <lb n="39"/>naquirilo cohmichouic ixcatit
                     <lb n="40"/>nima quim chic nima quechelah 
                     <lb n="41"/>chi puch ri cabix ta xohopon mi<pc type="line-end-hyphen"> -</pc>
-                    <lb n="42"/>er ixcatit xeqha cut chire–
+                    <lb n="42"/>er ixcatit xeqha cut chire<pc type="line-end-hyphen"> -</pc>
                     <lb n="43"/>catit chire pu qui chuch xcohbe 
                     <lb n="44"/>cut xchicavarah rumal mavi 
                     <lb n="45"/>vꜩ caban chique xeqha catecut 
                     <lb n="46"/>xebaꜩonic. cate cut qui bic chic pa 
                     <lb n="47"/>quicatohche chiri cut xe maꜩehe
                 
-                    <pb xml:id="xom-f21-s1"/>
+                    <pb n="xom-f21-s1"/>
                 
                     <lb n="1"/>vi e mucumuxinacchic chiritaxe
                     <lb n="2"/>cuchu cu quib ronohel chicop xa
@@ -2199,7 +2200,7 @@
                     <lb n="19"/>catat chicut qui qux rumal ri ma
                     <lb n="20"/>habi xquichapo. xpe curi hun chic 
                     <lb n="21"/>vxambe chic caꜩoꜩotic taxpe<pc type="line-end-hyphen"> -</pc>
-                    <lb n="22"/>tic cate cut xquicateh xquize–
+                    <lb n="22"/>tic cate cut xquicateh xquize<pc type="line-end-hyphen"> -</pc>
                     <lb n="23"/>cut pacatricho cate puch xqui<pc type="line-end-hyphen"> -</pc>
                     <lb n="24"/>chapo, xquiyoteh puch chirih vvi
                     <lb n="25"/>xrah quibio xquiporoh vhe chuvi
@@ -2226,7 +2227,7 @@
                     <lb n="46"/>are xcam vi icahau maquiꜩih 
                     <lb n="47"/>auetaam, xeqhacuri qaholab
                 
-                    <pb xml:id="xom-f21-s2"/>
+                    <pb n="xom-f21-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -2245,7 +2246,7 @@
                     <lb n="9"/><rs ana="XBALAMKE">xbalanque</rs>. vꜩbala ixqaholab
                     <lb n="10"/>naquila cu quinvvchah vve
                     <lb n="11"/>quirilri ivatit xghacut maui 
-                    <lb n="12"/>chiꜩac aqux oh qolic cohnohi —
+                    <lb n="12"/>chiꜩac aqux oh qolic cohnohi<pc type="line-end-hyphen"> -</pc>
                     <lb n="13"/>nic goruqhaxic ricatit, xahu
                     <lb n="14"/>zu cacaya acanoc xiquin ha ta 
                     <lb n="15"/>cuho co apanoc huzu cat opon
@@ -2260,7 +2261,7 @@
                     <lb n="22" rend="indent"/><hi rend="large">M</hi>acu calah richo cucaam
                     <lb n="23"/>taxeoponic hunriyacalic xoc
                     <lb n="24"/>paha, huncu xoc xiquinha libah 
-                    <lb n="25"/>chi xuya acanoc richo ta xqui- 
+                    <lb n="25"/>chi xuya acanoc richo ta xqui<pc type="line-end-hyphen"> -</pc>
                     <lb n="26"/>ꜩonoh cut quiva chire catit xa
                     <lb n="27"/>chicutu cati cacaraihri cutum ic ix
                     <lb n="28"/>catit xeqha cut. cate cut xcut qui
@@ -2286,7 +2287,7 @@
                     <lb n="46"/>chaquih chi xeqhachic chire qui
                     <lb n="47"/>chuch ta xquitac vbic. catecut xu
                 
-                    <pb xml:id="xom-f22-s1"/>
+                    <pb n="xom-f22-s1"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">22</hi></num>
@@ -2343,7 +2344,7 @@
                     <lb n="46"/>gux ri atit naqui xchiuvchah
                     <lb n="47"/>qui taquic ri vÿ, mavi quiꜩih ri
                 
-                    <pb xml:id="xom-f22-s2"/>
+                    <pb n="xom-f22-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -2400,7 +2401,7 @@
                     <lb n="46"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> quechaahic
                     <lb n="47"/>taxopon cut ri vac taxoc curi vac
                 
-                    <pb xml:id="xom-f23-s1"/>
+                    <pb n="xom-f23-s1"/>
                 
                     <!-- Nicole, please check all of these ana tags. There seem to be some problems with pajaro, vbaca, etc.-->
                     <lb n="1"/><rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs> co
@@ -2452,7 +2453,7 @@
                     <lb n="46"/>cape chi <rs ana="XIBALBA">xibalba</rs> vzamahel 
                     <lb n="47"/><rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcubcame</rs> <rs ana="WUQUB_KAKIX">vvcu<pc type="line-end-hyphen"> -</pc>
                     <lb n="48"/>bix</rs> quevlic varal cohchaah<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f23-s2"/>
+                    <pb n="xom-f23-s2"/>
                 
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">23</hi></num>
@@ -2507,7 +2508,7 @@
                     <lb n="46"/>tzubahvi vqui que l vinac pa<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>be xuqhaxic ri xan vtzbala.
 
-                    <pb xml:id="xom-f24-s1"/>
+                    <pb n="xom-f24-s1"/>
                 
                     <note  place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">24</hi></num>
@@ -2565,7 +2566,7 @@
                     <lb n="46"/>conohel chiquibil quib xqui
                     <lb n="47"/>cut <rs ana="pájaro">vvach</rs> xquibÿh qui bi
 
-                    <pb xml:id="xom-f24-s2"/>
+                    <pb n="xom-f24-s2"/>
                 
                     <note  place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">24</hi></num>
@@ -2618,7 +2619,7 @@
                     <lb n="46"/>xoponic vtzbala xeqha cut ma
                     <lb n="47"/>cu xquitzih richah xa eaeahv
                 
-                    <pb xml:id="xom-f25-s1"/>
+                    <pb n="xom-f25-s1"/>
                 
                     <note  place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">25</hi></num>
@@ -2671,7 +2672,7 @@
                     <lb n="46"/>xacohbec xeqha qaholab chi<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>que. are tacu xahauax chi que
 
-                    <pb xml:id="xom-f25-s2"/>
+                    <pb n="xom-f25-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">25</hi></num>
@@ -2724,7 +2725,7 @@
                     <lb n="46"/>chichiri pachaim ha chacab ta
                     <lb n="47"/>xquiziquih ronoh el zanic. chai
                 
-                    <pb xml:id="xom-f26-s1"/>
+                    <pb n="xom-f26-s1"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -2778,7 +2779,7 @@
                     <lb n="45"/>lab xahuna cabil xquichap
                     <lb n="46"/>zanic ta quiya pazel.que he
                     <lb n="47"/>cut xezac cahe riconohel xi<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f26-s2"/>
+                    <pb n="xom-f26-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -2837,7 +2838,7 @@
                     <lb n="46"/>teviri mix xquia quib are qui<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>baquil ri caxuxic xeqha ri
 
-                    <pb xml:id="xom-f27-s1"/>
+                    <pb n="xom-f27-s1"/>
                 
                     <lb n="1"/>varanel conohel qui quiqux chi–
                     <lb n="2"/>re macuxecamic xavi xere vtz
@@ -2891,7 +2892,7 @@
                     <lb n="46"/>zilobic rihupacha
                     <lb n="47"/>maxaon mi xbec hunahpu
 
-                    <pb xml:id="xom-f27-s2"/>
+                    <pb n="xom-f27-s2"/>
                 
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -2945,7 +2946,7 @@
                     <lb n="45"/>tzinic ta xutiquiba vqohic ma
                     <lb n="46"/>vtz cha chux cut hunahpu he vtz
                     <lb n="47"/>xqhacut xavi xare chvbaqui<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f28-s1"/>
+                    <pb n="xom-f28-s1"/>
                 
                     <lb n="1"/>tila vholom quehe ri quitzih v
                     <lb n="2"/>holom xuxic. cate cut ta xqui<pc type="line-end-hyphen"> -</pc>
@@ -2997,7 +2998,7 @@
                     <lb n="45"/>co. xeqha quicolem chicut
                     <lb n="46"/>ta xeul <rs ana="XIBALBA">xibalba</rs> na qui pa ri
                 
-                    <pb xml:id="xom-f28-s2"/>
+                    <pb n="xom-f28-s2"/>
                 
                     <note  place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">28</hi></num>
@@ -3051,7 +3052,7 @@
                     <lb n="45"/>van v ve maba vtz xavi xere
                     <lb n="46"/>chic chiqaztah quivach quix
                     <lb n="47"/>qha vveba are vtz xachica xe<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f29-s1"/>
+                    <pb n="xom-f29-s1"/>
     
                     <lb n="1"/>queba chuvi che ta queqha chic
                     <lb n="2"/>chive. xax ma vtz vi xavi xere
@@ -3101,7 +3102,7 @@
                     <lb n="48"/>xcanahvi quitzih xavi xare
                     <lb n="49"/>xtzonox rixbe vi qui ba quil 
                 
-                    <pb xml:id="xom-f29-s2"/>
+                    <pb n="xom-f29-s2"/>
                 
                     <note  place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">29</hi></num>
@@ -3158,7 +3159,7 @@
                     <lb n="47"/>pon cut cuq ri xahol ta xqhav
                     <lb n="48"/>cut quitzih ahauab chique
                 
-                    <pb xml:id="xom-f30-s1"/>
+                    <pb n="xom-f30-s1"/>
                 
                     <lb n="1"/>mabachicah rumal ri quitzih
                     <lb n="2"/>cohxobic maxa mavi cohquix<pc type="line-end-hyphen"> -</pc>
@@ -3210,7 +3211,7 @@
                     <lb n="46"/>cut ta xquitiquiba cut quibix
                     <lb n="47"/>qui xahoh ta xulcut ronohel
                 
-                    <pb xml:id="xom-f30-s2"/>
+                    <pb n="xom-f30-s2"/>
                 
                     <note  place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">30</hi></num>
@@ -3262,7 +3263,7 @@
                     <lb n="45"/>curi ronohel rahaual xibal<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>ba chicay xacu hun chi caxa<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>houilabic ri xbalanque cava<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f31-s1"/>
+                    <pb n="xom-f31-s1"/>
                 
                     <lb n="1"/>lihoc xqhacut libah chicut xqaz<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>tah vvach. nim quequicotic. xavi
@@ -3314,7 +3315,7 @@
                     <lb n="47"/>cut quechacatahic rahaual
                     <lb n="48"/>xibalba, xamaihabal xa pu
                 
-                    <pb xml:id="xom-f31-s2"/>
+                    <pb n="xom-f31-s2"/>
                 
                     <note  place="margin-left" type="pagination" anchored="true">
                         <num rend="large"><hi rend="handwriting;color:pencil">31</hi></num>
@@ -3368,7 +3369,7 @@
                     <lb n="45"/>nac oher quitzih mana cabavil1
                     <lb n="46"/>quibi oher xavi xibal oher itzel
                     <lb n="47"/>quivach e ahtza ahtucur, e tac<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f32-s1"/>
+                    <pb n="xom-f32-s1"/>
                 
                     <lb n="1"/>chinel chimac chilabal; enaipu 
                     <lb n="2"/>ah muculic qux, e quecail za<pc type="line-end-hyphen"> -</pc>
@@ -3419,7 +3420,7 @@
                     <lb n="45"/>ronohel vchi vꜩam vbac vvach
                     <lb n="46"/>xuric nabe vbi xacu zcaquin
                     <lb n="47"/>chic xchatahvi xere maui xu<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f32-s2"/>
+                    <pb n="xom-f32-s2"/>
                 
                     <note  rend="margin-left" anchored="true">
                         <num rend="large">32</num>
@@ -3478,7 +3479,7 @@
                     <lb n="46"/>cha. yac, vtiu, quel, hoh ecahib
                     <lb n="47"/>chi chicop xbÿn vꜩihel ꜫanahal
                 
-                    <pb xml:id="xom-f33-s1"/>
+                    <pb n="xom-f33-s1"/>
                 
                     <lb n="1"/>zaquihal chique chila quepe vi
                     <lb n="2"/>pan paxil xcut vbeel paxil are
@@ -3532,7 +3533,7 @@
                     <lb n="46"/>xevinac vachin cut evinac
                     <lb n="47"/>xevxic xeqhavic, xe ꜩihon
                 
-                    <pb xml:id="xom-f33-s2"/>
+                    <pb n="xom-f33-s2"/>
                 
                     <note  rend="margin-left" anchored="true">
                         <num rend="large">33</num>
@@ -3587,7 +3588,7 @@
                     <lb n="46"/>mavi vꜩ ri mixquibÿh caꜩac ca
                     <lb n="47"/>bit mixquetamah ronohel nim
                 
-                    <pb xml:id="xom-f34-s1"/>
+                    <pb n="xom-f34-s1"/>
                 
                     <lb n="1"/>chutin queqha.
                 </p>
@@ -3642,7 +3643,7 @@
                     <lb n="47"/>colvinac chutiamac nima a mac are
                     <!--there's also a 23. at the bottom left, not sure how to mark-->
                 
-                    <pb xml:id="xom-f34-s2"/>
+                    <pb n="xom-f34-s2"/>
                     
                     <note  rend="margin-left" anchored="true">
                         <num rend="large">34</num>
@@ -3695,7 +3696,7 @@
                     <lb n="46"/>bal vinac, cay vxi quin, qoleyuxe<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>cah. qocut huyubal vinac mavi ilo
                 
-                    <pb xml:id="xom-f35-s1"/>
+                    <pb n="xom-f35-s1"/>
                 
                     <lb n="1"/>vvach mahabi rochoch xachuti hu<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>yub nima huyub quebec queheri e
@@ -3744,7 +3745,7 @@
                     <lb n="45"/>yobexic quih e quÿ chic rono<pc type="line-end-hyphen"> -</pc>
                     <lb n="46"/>hel amac ruq ya qui vinac ah
                     <lb n="47"/>quix ahcab xaho oh caꜩu cuhoh<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f35-s2"/>
+                    <pb n="xom-f35-s2"/>
                 
                     <note  rend="margin-left" anchored="true">
                         <num rend="large">35</num>
@@ -3803,7 +3804,7 @@
                     <lb n="46"/>ronohel amac rabinaleb, ca<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>echequeleb, ahq,iquina ha, ruq
 
-                    <pb xml:id="xom-f36-s1"/>
+                    <pb n="xom-f36-s1"/>
                 
                     <lb n="1"/>yaquivinac vbi vacamic. chiri
                     <lb n="2"/>cut xhalcatih v qhabal ri a<pc type="line-end-hyphen"> -</pc>
@@ -3854,7 +3855,7 @@
                     <lb n="45"/>tzih cohvtzinic rumal tu xe
                     <lb n="46"/>qhacut chire tohil vtz mixbi<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>zonic xqha tohil. cate ta xre<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f36-s2"/>
+                    <pb n="xom-f36-s2"/>
                 
                     <lb n="1"/>lezah eae xubac uloc chupan v xa<pc type="line-end-hyphen"> -</pc>
                     <lb n="2"/>hab cate cut xequicot ri Balam
@@ -3904,7 +3905,7 @@
                     <lb n="46"/>libah chicut xuzach rib chi<pc type="line-end-hyphen"> -</pc>
                     <lb n="47"/>qui vach, maui xmainic ta xe
 
-                    <pb xml:id="xom-f37-s1"/>
+                    <pb n="xom-f37-s1"/>
                 
                     <lb n="1"/>vl chicut ri amac quevtzin chic
                     <lb n="2"/>ruvl chicut ri amac quevtzin chic
@@ -3956,7 +3957,7 @@
                     <lb n="46"/>iqui balam ta xquibih cut vtzih
                     <lb n="47"/>tohil vtzbala chi tunic vtz puch
                     <lb n="48"/>chicacaluh xe qha cut taxqui<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f37-s2"/>
+                    <pb n="xom-f37-s2"/>
                 
                     <lb n="1"/>chocobeh xquiculuba puch u tzih to
                     <lb n="2"/>hil maui xquiquiyalah chic vtz
@@ -4005,7 +4006,7 @@
                     <lb n="45"/>quih maui are cochoch va xa
                     <lb n="46"/>ho chiquil na coh tique vi xqha
                     <lb n="47"/>curi tohil quitzih chi qhauic chi<pc type="line-end-hyphen"> -</pc>
-                    <pb xml:id="xom-f38-s1"/>
+                    <pb n="xom-f38-s1"/>
                 
                     <lb n="1"/>quech balam quitze, balam
                     <lb n="2"/>acab, mahucutah iqui balam
@@ -4059,7 +4060,7 @@
                     <lb n="46"/>na xe poponvi xa chicoyobehna
                     <lb n="47"/>vzaquiric chiquila vachih relic
                 
-                    <pb xml:id="xom-f38-s2"/>
+                    <pb n="xom-f38-s2"/>
                 
                     <lb n="1"/>vlachumil are nabe chuvach quih
                 <lb n="2"/>ta chalaxoc chila xohpe vi xa xoh
@@ -4111,7 +4112,7 @@
                 <lb n="46"/>va ohqo vi ivumal ixahquixb
                 <lb n="47"/>ah cahb huhuntacut cohiyavi
 
-                <pb xml:id="xom-f39-s1"/>
+                <pb n="xom-f39-s1"/>
                 
                 <lb n="1"/>xeqhacut ta xeqhauic. vtz ba<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>la xa coh bocotahic catzucuh tac
@@ -4161,7 +4162,7 @@
                 <lb n="46"/>naleb eaechequeleb ah q,i<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>quinaha ronohel chuti amac
                 
-                <pb xml:id="xom-f39-s2"/>
+                <pb n="xom-f39-s2"/>
                 
                 <lb n="1"/>nima amac xa hun xtacatob vi
                 <lb n="2"/>xa pa hun zaquiric vi xa hun xco–
@@ -4210,7 +4211,7 @@
                 <lb n="45"/>camic. arecut xeahauax vi
                 <lb n="46"/>xe zaquir vi camam cacahauva
                 <lb n="47"/>chi cabÿh chic vzaquiric vva<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f40-s1"/>
+                <pb n="xom-f40-s1"/>
                 
                 <lb n="1"/>chinic puch quih, ic, qhumil
             </p>
@@ -4264,7 +4265,7 @@
                 <lb n="46"/>vach vleu rumal ri quih queheri
                 <lb n="47"/>hun chivinac riquih taxucut
                 
-                <pb xml:id="xom-f40-s2"/>
+                <pb n="xom-f40-s2"/>
                 
                 <lb n="1"/>rib catan vvach are xchaquih
                 <lb n="2"/>vi vvach vleu maha chela vla
@@ -4314,7 +4315,7 @@
                 <lb n="47"/>acaroc xohzachic chi <rs ana="TULAN">tulan</rs>
                 <lb n="48"/>xoh paxin vi quib xecacanah
                 
-                <pb xml:id="xom-f41-s1"/>
+                <pb n="xom-f41-s1"/>
                 
                 <lb n="1"/>chic caꜩ cachac avi mixquil vi quih
                 <lb n="2"/>avion e qovi ta mi xzaquiric xe<pc type="line-end-hyphen"> -</pc>
@@ -4363,7 +4364,7 @@
                 <lb n="45"/>recut xchicabÿh chic qui alubic
                 <lb n="46"/>quibaya tahic puch chiri chuvi
                 <lb n="47"/>huyub xahun xeqohe vi quica<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f41-s2"/>
+                <pb n="xom-f41-s2"/>
                 
                 <lb n="1"/>hichah <rs ana="BALAM_KITZE">balam quiꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>,
                 <lb n="2"/><rs ana="MAJUKUTAJ">mahucutah</rs>, <rs ana="IKIBALAM">iqui balam</rs> quibi c<del instant="false" status="unremarkable"><unclear instant="false"/></del><add place="above" instant="false" status="unremarkable">oc</add>
@@ -4415,7 +4416,7 @@
                 <lb n="46"/><rs ana="JAQAWITZ">hacaviꜩ</rs> caholal vach chiquiva<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>chibeh ta queilic ta chopon puch
                 
-                <pb xml:id="xom-f42-s1"/>
+                <pb n="xom-f42-s1"/>
                 
                 <lb n="1"/>catoh chiquivach ta xticar cut v 
                 <lb n="2"/>ꜩucuxic ri ral tac q,iquin ral
@@ -4464,7 +4465,7 @@
                 <lb n="45"/>roquibal balam chicoquebeh ta
                 <lb n="46"/>chi quil curi vinac xahun xaca<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>ib chubinic chicah quimaih chi<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f42-s2"/>
+                <pb n="xom-f42-s2"/>
                 
                 <lb n="1"/>qaech huta quih ta quevl chicut
                 <lb n="2"/>chiri chicochoch ruq quixoquil
@@ -4517,7 +4518,7 @@
                 <lb n="45"/>vi chi qui cut quib. ꜩatꜩ chi amac
                 <lb n="46"/>xquelecah cauna cut xuna
                 <lb n="47"/>virib amac vve are ri <rs ana="TOJIL">tohil</rs> au<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f43-s1"/>
+                <pb n="xom-f43-s1"/>
                 
                 <lb n="1"/>lix coc chique xa quecuꜩucuh
                 <lb n="2"/>ri ahquixb ahcahb. tal a qo vi
@@ -4569,7 +4570,7 @@
                 <lb n="46"/>toc pu quib conohel mahabi hu
                 <lb n="47"/>chob cachob tachic xcanah chique
                 
-                <pb xml:id="xom-f43-s2"/>
+                <pb n="xom-f43-s2"/>
                 
                 <lb n="1"/>conohel xecuchu quib xetaco
                 <lb n="2"/>pu quib taxcam qui naoh xeqha
@@ -4619,7 +4620,7 @@
                 <lb n="46"/>mial ahauab quixqha cu chi<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>que chipe cu retal ivvmal ta
                 
-                <pb xml:id="xom-f44-s1"/>
+                <pb n="xom-f44-s1"/>
                 
                 <lb n="1" />naquila chiquiya chive tazec chi<pc type="line-end-hyphen"> -</pc>
                 <lb n="2" />qui raih ivach qui tzih chiya ivib
@@ -4670,7 +4671,7 @@
                 <lb n="45" />hib rumal qui naual tohil xe
                 <lb n="46" />qha curi tohil aulix hacavitz
 
-                <pb xml:id="xom-f44-s2"/>
+                <pb n="xom-f44-s2"/>
                 
                 <lb n="1"/>ta xeqhau chic chiquech ri xtah
                 <lb n="2"/>xpuch quibi re e caib capohib
@@ -4722,7 +4723,7 @@
                 <lb n="46"/>xquiritah curi tziban cul cumal
                 <lb n="47"/>capohib. humah balam, humah
                     
-                <pb xml:id="xom-f45-s1"/>
+                <pb n="xom-f45-s1"/>
                 
                 <lb n="1"/>cot humah naipuch vonon zital
                 <lb n="2"/>v tzibal v pam cul chiyulinic vvach
@@ -4772,7 +4773,7 @@
                 <lb n="46"/>mizanel arecut e qo ri balam
                 <lb n="47"/>quitze balam acab mahucutah
 
-                <pb xml:id="xom-f45-s2"/>
+                <pb n="xom-f45-s2"/>
                 
                 <lb n="1"/>iquibalam are e qo chuvi huyub
                 <lb n="2"/>hacavitz vbi huyub eqovi xqo-
@@ -4824,7 +4825,7 @@
                 <lb n="46"/>mal queche vinac 6970cate puch
                 <lb n="47"/>xeqastahic huzu xquichapala
 
-                <pb xml:id="xom-f46-s1"/>
+                <pb n="xom-f46-s1"/>
                 
                 <lb n="1"/>qui i ach vach ruq cu ruq v cul qui
                 <lb n="2"/>chami mahabi chi puvac chi cul ruq
@@ -4874,7 +4875,7 @@
                 <lb n="46"/>pih vi ri vonon zital chupan
                 <lb n="47"/>cocob are culelabal rech amac
 
-                <pb xml:id="xom-f46-s2"/>
+                <pb n="xom-f46-s2"/>
                 
                 <lb n="1"/>cumal xenicvachix cut xe muc-
                 <lb n="2"/>cheex puch xnicox qui tinamit
@@ -4926,7 +4927,7 @@
                 <lb n="46"/>xchibe quimaha ronohel qo vi
                 <lb n="47"/>vonon 7130zital. tacatoh chutio ma-
 
-                <pb xml:id="xom-f47-s1"/>
+                <pb n="xom-f47-s1"/>
                 
                 <lb n="1"/>vbac vvach xchiquilih chubuchu
                 <lb n="2"/>he tac chicop chirih ri huhun chivi-
@@ -4978,7 +4979,7 @@
                 <lb n="46"/>ta xepixabic chirech qui qahol 7210ma
                 <lb n="47"/>na eta iab mapu quehilovic que-
 
-                <pb xml:id="xom-f47-s2"/>
+                <pb n="xom-f47-s2"/>
                 
                 <lb n="1"/>polou tah ta xcanah qui tzih chire
                 <lb n="2"/>qui qahol are quibi qui qahol va
@@ -5028,7 +5029,7 @@
                 <lb n="46"/>cut qui pixabic ri ta xezach
                 <lb n="47"/>cut chiri 7300chuvi huyub hacavitz     
 
-                <pb xml:id="xom-f48-s1"/>
+                <pb n="xom-f48-s1"/>
                 
                 <lb n="1"/>mana xemuctah rumal quixoquil
                 <lb n="2"/>calcual maui calah qui zachic taxe 
@@ -5078,7 +5079,7 @@
                 <lb n="45"/>chila relebal quih. chila x epe<pc type="line-end-hyphen"> -</pc>
                 <lb n="46"/>vicacahau xeqha taxquicam 
                 <lb n="47"/>quibe eoxib chi qaholaxel co<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f48-s2"/>
+                <pb n="xom-f48-s2"/>
 
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large"><hi rend="handwriting;color:pencil">48</hi></num>
@@ -5134,7 +5135,7 @@
                 <lb n="45"/>chiri chic xquicam vi cahaua<pc type="line-end-hyphen"> -</pc>
                 <lb n="46"/>rem amac xequicotic e <rs ana="RABINALEB">rabi<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>naleb</rs>, e <rs ana="KAQCHIKELEB">eaechequeleb</rs>, ahq,i<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f49-s1"/>
+                <pb n="xom-f49-s1"/>
                 
                 <lb n="1"/><rs ana="AJTZIKINAJA">quinaha</rs> xe<add place="above" instant="false" status="unremarkable">ar</add>tal xcutun chiqui<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>vach ri vnimal ahauarem nim
@@ -5185,7 +5186,7 @@
                 <lb n="46"/>naxucam quivach rixeico
                 <lb n="47"/>vi hetac vivloc caxcolrail
                 
-                <pb xml:id="xom-f49-s2"/>
+                <pb n="xom-f49-s2"/>
                 
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large"><hi rend="handwriting;color:pencil">49</hi></num>
@@ -5244,7 +5245,7 @@
                 <lb n="46"/>moxvachibal chirihahau <rs ana="KOTUJA">co<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>tuha</rs> xaciquih xcah vi ma
                 
-                <pb xml:id="xom-f50-s1"/>
+                <pb n="xom-f50-s1"/>
                 
                 <lb n="1"/>nabe xcam tari ahau rumal
                 <lb n="2"/><rs ana="ILOKAB">ilocab</rs> quehe cut vxenahic yuhuh
@@ -5294,7 +5295,7 @@
                 <lb n="46"/>bi cumal chiricut chicucah vi
                 <lb n="47"/>cuquiya chiripuch chiquiveeh
                 
-                <pb xml:id="xom-f50-s2"/>
+                <pb n="xom-f50-s2"/>
                 
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large"><hi rend="handwriting;color:pencil">50</hi></num>
@@ -5352,7 +5353,7 @@
                 <lb n="47"/>tinamit <rs ana="QUMARAQ_AJ">cumarcaah</rs> xutzirizaxic
                 
                 <!-- STOPPED -->
-                <pb xml:id="xom-f51-s1"/>
+                <pb n="xom-f51-s1"/>
                 
                 <lb n="1"/>rumal <abbr>S<hi rend="superscript">or</hi></abbr>. obispo ri <add place="above" instant="false" status="unremarkable">+</add>ca xtole can
                 <note place="margin-left" anchored="true">+tinamit</note>
@@ -5416,7 +5417,7 @@
             </p>
             <p>
 
-                <pb xml:id="xom-f51-s2"/>
+                <pb n="xom-f51-s2"/>
 
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large"><hi rend="handwriting;color:pencil">51</hi></num>
@@ -5468,7 +5469,7 @@
                 <lb n="45"/>lam v vachibal chuxic huvvc
                 <lb n="46"/>chic chiremeic chiquiquel vtu<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>quel remanic quic chuxic qui<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f52-s1"/>
+                <pb n="xom-f52-s1"/>
                 
                 <lb n="1"/>tzih chi naual ahau vqoheic xibi<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>xib chuvach rumal ronohel aha<pc type="line-end-hyphen"> -</pc>
@@ -5519,7 +5520,7 @@
                 <lb n="45"/>vtinamit <rs ana="RABINALEB">rabinaleb</rs> eaeche<pc type="line-end-hyphen"> -</pc>
                 <lb n="46"/>queleb <rs ana="SAQULEWAB">zaculeuab</rs> xuleic, x<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>pacaic ronohelamac, ca xto<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f52-s2"/>
+                <pb n="xom-f52-s2"/>
 
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large">
@@ -5577,7 +5578,7 @@
                 <lb n="46"/>hel vach ruq ealelatzih vinac
                 <lb n="47"/>ta xbeiheic ri vchi qha, vchi cam
 				
-                <pb xml:id="xom-f53-s1"/>
+                <pb n="xom-f53-s1"/>
                 
                 <lb n="1"/>chuqhaxic taxpaxin rib vmamvca<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>hau ri ronohel queche vinac qo
@@ -5627,7 +5628,7 @@
                 <lb n="46"/>xavi cu quehe xubano <rs ana="TAMUB">tamub</rs>, i
                 <lb n="47"/>locab hunam vach ox chob chi
                 
-                <pb xml:id="xom-f53-s2"/>
+                <pb n="xom-f53-s2"/>
                 
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large">
@@ -5689,7 +5690,7 @@
                 <lb n="46"/>nabe chuvach ri <rs ana="TOJIL">tohil</rs> cate cut tachu<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>quihila chic ahpop ahpop camha                    
                 
-                <pb xml:id="xom-f54-s1"/>
+                <pb n="xom-f54-s1"/>
                 
                 <lb n="1"/>cate chul quiya qui cuc quipatan
                 <lb n="2"/>chuvach ahau. are ahau chic arechi<pc type="line-end-hyphen"> -</pc>
@@ -5741,7 +5742,7 @@
                 <lb n="46"/>racan</rs>, <rs ana="UKUX_KAJ_UKUX_ULEW">at vquxcah vleu</rs>, at ya<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>olrech eanal raxal atpuyaol     
                 
-                <pb xml:id="xom-f54-s2"/>
+                <pb n="xom-f54-s2"/>
                 
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large">
@@ -5797,7 +5798,7 @@
                 <lb n="46"/>quecool quexata qui vain v
                 <lb n="47"/>caha xquibano. mapu xaloc tah     
                 
-                <pb xml:id="xom-f55-s1"/>
+                <pb n="xom-f55-s1"/>
                 
                 <lb n="1"/>xquitzubu xqueleeahcahauarem
                 <lb n="2"/>quieaeal qui tepeval manai pu
@@ -5859,7 +5860,7 @@
             <p>
                 <lb n="47"/><hi rend="large">C</hi>ucumatz cotuha vxe naval ahau
             
-                <pb xml:id="xom-f55-s2"/>
+                <pb n="xom-f55-s2"/>
             
                 <note  place="margin-left" type="pagination" anchored="true">
                     <num rend="large"><hi rend="handwriting;color:pencil">55</hi></num>
@@ -5953,7 +5954,7 @@
             <p>
                 <lb n="46"/><hi rend="large">V</hi>acute rech <rs ana="NIJAIB">nihaibab</rs> beleheb
                 <lb n="47"/>chivi chinimha are nabe xchica<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f56-s1"/>
+                <pb n="xom-f56-s1"/>
                 
                 <lb n="1"/>bÿh vleabal rib ahauarem xa
                 <lb n="2"/>hun vxe x<add place="above" instant="false" status="unremarkable">ch</add>ticar  chuvach vxe
@@ -6060,7 +6061,7 @@
             </p>
             <p>            
 
-                <pb xml:id="xom-f56-s2"/>
+                <pb n="xom-f56-s2"/>
                 
                 <note place="margin-left" type="pagination" anchored="true"><num rend="large"><hi rend="handwriting;color:pencil">56</hi></num></note>
                 <lb n="1"/><rs ana="KOMAJKUN">Comahcun</rs>
@@ -6136,7 +6137,7 @@
         </div>
         <div xml:lang="spa">
             <p>
-                <pb xml:id="xom-f01-s1"/>
+                <pb n="xom-f01-s1"/>
                     
                 <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
                 <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
@@ -6186,7 +6187,7 @@
                 <lb n="44"/>de la vida. y de la creazíon. <abbr>q<hi rend="superscript">e</hi></abbr> da respira
                 <lb n="45"/>zion, y resuello, paridos, y cuídados, de
                 <lb n="46"/>la paz claridad de los híjos, pensador, y en<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f01-s2"/>
+                <pb n="xom-f01-s2"/>
                 
                 <lb n="1"/>tendedor detodahermosur a q’ay en el zielo, ti-
                 <lb n="2"/>rra, lagunas y mar.
@@ -6242,7 +6243,7 @@
                 <lb n="45"/>prio q’dize <rs ana="CHIPI_KAQULJA">el mas pequeño de los rayos</rs>)
 				<!-- should these parenthetical translations be marked up -->
 
-                <pb xml:id="xom-f02-s1"/>
+                <pb n="xom-f02-s1"/>
                 
                 <lb n="1"/>y el tercero: <rs ana="RAXA_KAQULJA">raxa caculha</rs>. (nombre proprío
                 <note place="margin-right" type="pagination" anchored="true"><num rend="large">2</num></note>
@@ -6294,7 +6295,7 @@
                 <lb />
             </p>
             <p>
-                <pb xml:id="xom-f02-s2"/>
+                <pb n="xom-f02-s2"/>
                 
                 <lb/>
                 <lb n="1"/><hi rend="large">Y</hi> despues discurrieron los animales de el mon
@@ -6345,7 +6346,7 @@
                 <lb />
                 <lb />
             
-                <pb xml:id="xom-f03-s1"/>
+                <pb n="xom-f03-s1"/>
 
                 <lb n="1"/>cadnos, saludadnos seles fue dicho. y no pu <note place="margin-right" type="pagination" anchored="true"><num rend="large">3</num></note>
                 <lb n="2"/>dieron hablar como los hombres; síno <abbr>q’</abbr>chí<pc type="line-end-hyphen"> -</pc>
@@ -6397,7 +6398,7 @@
                 <lb />
                 <lb />
                 
-                <pb xml:id="xom-f03-s2"/>
+                <pb n="xom-f03-s2"/>
                     
                 <lb n="1"/>no se pudo componer <abbr>q’</abbr>nos alabaran, y nos
             	<lb n="2"/>aclararan, y así probemos suser hecho vo
@@ -6452,7 +6453,7 @@
             	<lb n="41"/>coc</rs>, y <rs ana="IXMUKANE">xmucane</rs>, como se podra sem<pc type="line-end-hyphen"> -</pc>
             	<lb n="42"/>brar y aclarar, nuestro ser ínvocado,
             	
-                <pb xml:id="xom-f04-s1"/>
+                <pb n="xom-f04-s1"/>
                 
                 <lb n="1"/>nuestro ser adorado, nuestro ser acordado por <note place="margin-right" type="pagination" anchored="true">4</note>
                 <lb n="2"/>el hombre formado, y edificado. y por el hombre
@@ -6506,7 +6507,7 @@
                 <lb/>
                 <lb/>
                 
-                <pb xml:id="xom-f04-s2"/>
+                <pb n="xom-f04-s2"/>
 
                 <lb n="1"/>ron más de <rs ana="UKUX_KAJ">el corazon de el zíelo</rs>, y así díeron
                 <lb n="2"/>de hozicos, empero esto fue solo probar, aparar<pc type="line-end-hyphen"> -</pc>
@@ -6553,7 +6554,7 @@
                 <lb n="37"/>cos y grandes, y los palos, y las píedras, y les<pc type="line-end-hyphen"> -</pc>
                 <lb n="38"/>dieron en rostro, y afrentaron, y todos habla<pc type="line-end-hyphen"> -</pc>
                 <lb n="39"/>ron, las píedras, comales, platos<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f05-s1"/>
+                <pb n="xom-f05-s1"/>
 
                 <lb n="1"/>caxetes, ollas, perros, y tínajas. todos quan<pc type="line-end-hyphen"> -</pc>
                 <note place="margin-right" anchored="true"><del cert="low" instant="false" status="unremarkable"><num rend="large">5</num></del></note>
@@ -6605,7 +6606,7 @@
                 <lb />
                 <lb />
 
-                <pb xml:id="xom-f05-s2"/>
+                <pb n="xom-f05-s2"/>
                 
                 <lb n="1"/>y queriendo meterse en los hoyos, y se les
                 <lb n="2"/>zerraban. y así fueron destruídos, y aníquí<pc type="line-end-hyphen"> -</pc>
@@ -6648,7 +6649,7 @@
                 <lb n="31"/>sus ríquezas, y su plata; y solo alcanzaba
                 <lb n="32"/>su vista a aquel lugar donde estaba, y
                     
-                <pb xml:id="xom-f06-s1"/>
+                <pb n="xom-f06-s1"/>
                 
                 <lb n="1"/>no alcanzaba su vista a todo el mundo. yaun<note place="margin" anchored="true"><num rend="large">6</num></note>
                 <lb n="2"/>todavía no se auía vísto la cara al sol, a la
@@ -6694,7 +6695,7 @@
                 <lb n="38"/>ahpu</rs><rs ana="PEKUL" type="toponym">pecul</rs> <rs ana="YA_XKANUL" type="toponym">yaxcanul</rs> <rs ana="MAKAMOB" type="toponym">macamob</rs> huliznab
                 <lb n="39"/><abbr>porq’</abbr> en vna noche zípacna hazía vn
                     
-                <pb xml:id="xom-f06-s2"/>
+                <pb n="xom-f06-s2"/>
                 
                 <lb n="1"/>monte, y su hermano cabrracan (esto es
                 <lb n="2"/>de dos pies) meneaba, y hazía temblar, los
@@ -6743,7 +6744,7 @@
                 <lb n="36"/>tonzes vvcub caquíx le cogío el brazo
                 <lb n="37"/><del type="scribble" instant="false" status="unremarkable">y</del> <del type="strike-through" instant="false" status="unremarkable">avvcu</del> ahunahpu, y selo arranco, y se
                    
-                <pb xml:id="xom-f07-s1"/>
+                <pb n="xom-f07-s1"/>
                 
                 <lb n="1"/>learranco el brazo de la punta deel hombro <note place="margin-right" anchored="true"><num rend="large">7</num></note>
                 <lb n="2"/>y entonzes hun ahpu solto a vvcubcaquíx
@@ -6793,7 +6794,7 @@
                 <lb />
                 <lb />
               
-                <pb xml:id="xom-f07-s2"/>
+                <pb n="xom-f07-s2"/>
                 
                 <lb n="1"/>dixeron los viejos y entonzes se fueron ala
                 <lb n="2"/>esquina dela casa de vvcubcaquix, el
@@ -6843,7 +6844,7 @@
                 <lb />
                 <lb />
 
-                <pb xml:id="xom-f08-s1"/>
+                <pb n="xom-f08-s1"/>
                 
                 <lb n="1"/>tes a vvcub caquíx, y solo maís blanco fue lo q’ le <note place="margin-right" anchored="true"><num rend="large">8</num></note>
                 <lb n="2"/>pusieron en lugar dedientes; y estaban relum<pc type="line-end-hyphen"> -</pc>
@@ -6893,7 +6894,7 @@
                 <lb n="30"/>do vn palo para pílar de su casa, cuatrozien 
                 <lb n="31"/>tos de montín, y cortaron, un gran palo p<sup>a</sup>
                 
-                <pb xml:id="xom-f08-s2"/>
+                <pb n="xom-f08-s2"/>
                 
                 <lb n="1"/>madre de su casa de paxa, y qo vío esto zipac<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>na fue donde estaba los cuatrozíentos mucha<pc type="line-end-hyphen"> -</pc>
@@ -6943,7 +6944,7 @@
                 <lb />
                 <lb />
                 
-                <pb xml:id="xom-f09-s1"/>
+                <pb n="xom-f09-s1"/>
                 
                 <lb n="1"/>hoyo dixo alla abaxo zípacna, en el hoyo; em – <note place="margin-right" anchored="true"><num>9</num></note>
                 <lb n="2"/>pero no cababa el asíento de el hoyo, pa. su entierro; 
@@ -6990,7 +6991,7 @@
                 <lb />
                 <lb />
 
-                <pb xml:id="xom-f09-s2"/>
+                <pb n="xom-f09-s2"/>
 
                 <lb n="1"/>segundo día salieron de monton las hormi<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>gas, y andaban, y abundaban y llegaron de 
@@ -7036,7 +7037,7 @@
                 <lb />
                 <lb />
 
-                <pb xml:id="xom-f10-s1"/>
+                <pb n="xom-f10-s1"/>
                 
                 <lb n="1"/>ba los zeros. entonzes hunahpu, y xbalanque <note place="margin-right" anchored="true"><num>10</num></note>
                 <lb n="2"/>hízíeron vna ímagen de cangrejo, y devna
@@ -7083,7 +7084,7 @@
                 <lb />
                 <lb />
 
-                <pb xml:id="xom-f10-s2"/>
+                <pb n="xom-f10-s2"/>
                 
                 <lb n="1"/>coger? no nos hagas bolber de valde porq’ no<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>sotros loquisimos coger y no pudimos porq’ estan<pc type="line-end-hyphen"> -</pc>
@@ -7132,7 +7133,7 @@
                 <lb n="34"/>q’destruigo los zerros. y así mesmo hunahpu, y
                 <lb n="35"/>xbalanque vensieron al cabrracan. y
                     
-                <pb xml:id="xom-f11-s1"/>
+                <pb n="xom-f11-s1"/>
                 
                 <lb n="1"/>huracan, chipicaculha, y raxa caculha di – <note place="margin-right" anchored="true"><num>11</num></note>
                 <lb n="2"/>xeron qo hablaron a hunahpu, y xbalanq’
@@ -7182,7 +7183,7 @@
                 <lb />
                 <lb />
                 
-                <pb xml:id="xom-f11-s2"/>
+                <pb n="xom-f11-s2"/>
                 
                 <lb n="1"/>esta donde el sol naze. estabíen dixo 
                 <lb n="2"/>cabrracan ea tomad el camino. no no 
@@ -7231,7 +7232,7 @@
                 <lb n="45"/>sus manos y pies, por aquella tierra q’le
                 <lb />
                 
-                <pb xml:id="xom-f12-s1"/>
+                <pb n="xom-f12-s1"/>
                 
                 <lb n="1"/>untaron alpaxaro q’comío y ya copudo <note place="margin-right" type="pagination" anchored="true"><num rend="large">12</num></note>
                 <lb n="2"/>hazer cosa alguna alos montes nipudo
@@ -7287,7 +7288,7 @@
                 <lb n="40"/>mucha su sabiduría a quí es la tíerra, y e<pc type="line-end-hyphen"> -</pc>
                 <lb n="41"/>ra muy Buena su costumbre, y enseñaron asus
                 <lb n="42"/>hijos hun batz y hun chouen el hun hunahpu a to<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f12-s2"/>
+                <pb n="xom-f12-s2"/>
                 
                 <lb n="1"/>car encalabazo, a cantar, apintar, aenta<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>llar, alabrar piedras preciosas, aplateros
@@ -7336,7 +7337,7 @@
                 <lb n="45"/>(vara de calauera) estos eran alguaziles
                 <lb n="46"/>de el ínfíerno, q’solo eran huesos sus uaras
                 <lb n="47"/>y era su alguazilazgo enflaquezer alos hom<pc type="line-end-hyphen"> -</pc>
-                <pb xml:id="xom-f13-s1"/>
+                <pb n="xom-f13-s1"/>
 
                 <lb n="1"/>bres, y q’sumamente hechos huesos, y calaveras
                 <lb n="2"/>muríesen, y solo tuvíese la varríga pegada
@@ -7389,7 +7390,7 @@
                 <lb n="41"/>tos de su juego, lapala, el argolla, y q’
                 <lb />
 
-                <pb xml:id="xom-f13-s2"/>
+                <pb n="xom-f13-s2"/>
                 
                 <lb n="1"/>traigan tambien el vle, o pelota dezildes q’lo
                 <lb n="2"/>dízen los SSes así les fue dicho alos mensage<pc type="line-end-hyphen"> -</pc>
@@ -7439,7 +7440,7 @@
                 <lb n="46"/>is aquí, calentad nuestra casa, y ca<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>lentad el corazon de vuesstra abuela.
 
-                <pb xml:id="xom-f14-s1"/>
+                <pb n="xom-f14-s1"/>
                 
                 <lb n="1"/>y auísando esto estaba muy tierno el co<corr> -</corr> <note place="margin-right" type="pagination" anchored="true"><num rend="large">14</num></note>
                 <lb n="2"/>razon de su madre <rs ana="IXMUKANE">xmucane</rs> y lloraba
@@ -7540,7 +7541,7 @@
                     <rs ana="WUQUB_KAME">vvcub came</rs> les díxeron esta bíen, ya
                 		<lb n="46"/>venísteís mañana aderezad la argo—
                 	</p>
-                <pb xml:id="xom-f14-s2"/>
+                <pb n="xom-f14-s2"/>
                 <p>
                     <lb n="1"/>lla, lapala, y lo demas. agora veníd y
                 		<lb n="2"/>sentaos en nuestro vanco; y el banco
@@ -7590,7 +7591,7 @@
                 		<lb n="45"/>elocote, y el tabaco q’les díeron. muchos
                 		<lb n="46"/>eran los castigos q’tenían los de elinfíerno,
                 	</p>
-                <pb xml:id="xom-f15-s1"/>
+                <pb n="xom-f15-s1"/>
                 <p>
                     <lb n="1"/>y muchas díferenzias de castígos. el prímero
                 			<note place="margin-right" type="pagination" anchored="true"><num rend="large">15</num>
@@ -7642,7 +7643,7 @@
                 		<lb n="46"/>dondo, y luego no sepudo saber donde
                 		<lb n="47"/>estaba la cabeza de hun hun ahpu, síno
                 	</p>
-                <pb xml:id="xom-f15-s2"/>
+                <pb n="xom-f15-s2"/>
                 <p>
                     <lb n="1"/>q’se auía todo hecho, vna mesma cosa con
                 		<lb n="2"/>las hícaras yasí les parezía ala vista a
@@ -7692,7 +7693,7 @@
                 		<lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f16-s1"/>
+                <pb n="xom-f16-s1"/>
                 <p>
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large">
@@ -7830,7 +7831,7 @@
                         <expan instant="false">Señor</expan>
                     </choice>
                 </p>
-                <pb xml:id="xom-f16-s2"/>
+                <pb n="xom-f16-s2"/>
                 <p>
                     <lb n="1"/>Pe aun no he conozídovaron. estabíen
                     <lb n="2"/>dixo el cíertamente tu eres forníca<pc type="line-end-hyphen"> -</pc>
@@ -7942,7 +7943,7 @@
                     <rs ana="IXKIK">donzella</rs> yeste palo se llama grana
                     <lb n="47"/>palo Colorado, y se llamo sangre, y por<pc type="line-end-hyphen"> -</pc>
                     </p>
-                <pb xml:id="xom-f17-s1"/>
+                <pb n="xom-f17-s1"/>
                 <p>
                     <note place="margin-left" type="pagination" anchored="true">
                         <num rend="large">
@@ -8070,7 +8071,7 @@
                         <expan instant="false">que</expan>
                     </choice>soy <rs ana="IXKIK">su nuera</rs>, y soy de <rs ana="JUN_JUNAJPU">hun hunahpu</rs>
                 </p>
-                <pb xml:id="xom-f17-s2"/>
+                <pb n="xom-f17-s2"/>
                 <p>
                     <lb n="1"/>y esto 
                 	<choice>
@@ -8203,7 +8204,7 @@
                 <lb/>
                 </p>
                 <p></p>
-                <pb xml:id="xom-f18-s1"/>
+                <pb n="xom-f18-s1"/>
                 <p>
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large">
@@ -8304,7 +8305,7 @@
                <lb n="44"/>fueron ofendídos por <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xba<pc type="line-end-hyphen"> -</pc>
                <lb n="45"/>lanque</rs>, y solo se entretenían en tírar
                </p>
-                <pb xml:id="xom-f18-s2"/>
+                <pb n="xom-f18-s2"/>
                 <p>
                     <lb n="1"/>con cerbatana todos los días, y no eran
                 <lb n="2"/>amados, desu <rs ana="IXMUKANE">abuela</rs>, y de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y
@@ -8398,7 +8399,7 @@
                 <lb n="46"/>estros paxaros. no caen, andad vajaldos
                 <lb n="47"/>aca les díxeron a<rs ana="HERMANOS_ARTESANOS">sus hermanos</rs>
                 </p>
-                <pb xml:id="xom-f19-s1"/>
+                <pb n="xom-f19-s1"/>
                 <p>
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large">
@@ -8502,7 +8503,7 @@
                 <lb n="44"/>utas, y sus atambores, y asentaron a <rs ana="IXMUKANE">la ví<pc type="line-end-hyphen"> -</pc>
                 <lb n="45"/>eja</rs> consigo, y quando tocaron, y canta<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f19-s2"/>
+                <pb n="xom-f19-s2"/>
                 <p>
                     <lb n="1"/>
                     <rs ana="JUNAJPU">hun ahpu</rs> coy (vn tírador míco) y tocando
@@ -8602,7 +8603,7 @@
                     <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f20-s1"/>
+                <pb n="xom-f20-s1"/>
                 <p>
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large">
@@ -8719,7 +8720,7 @@
                 <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f20-s2"/>
+                <pb n="xom-f20-s2"/>
                 <p>
                     <lb n="1"/>al punto tomaremos nuestro azadon, y ha<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>cha. esta bíen, dixo la paloma. y luego solo
@@ -8826,7 +8827,7 @@
                 <lb n="46"/>roza suya, y luego se ocultaron, y estu 
                 <lb/>
                 </p>
-                <pb xml:id="xom-f21-s1"/>
+                <pb n="xom-f21-s1"/>
                 <p>
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large">
@@ -8953,7 +8954,7 @@
                         <expan instant="false">que</expan>
                     </choice>por estos muríeron vues<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f21-s2"/>
+                <pb n="xom-f21-s2"/>
                 <p>
                     <lb n="1"/>tros padres. y díxeron <rs ana="DOS_MUCHACHOS">los muchachos</rs>: de çíer
                 <lb n="2"/>to lo sabeís vos? y sealegraron mucho quando
@@ -9067,7 +9068,7 @@
                     </choice>auerlo, y 
                 <lb n="46"/>la embíaron. y luego corto el raton, royendo
                 </p>
-                <pb xml:id="xom-f22-s1"/>
+                <pb n="xom-f22-s1"/>
                 <p>
                     <lb n="1"/>de a do pendía el vle, la pala, y el bate. y cayo
                 <lb n="2"/>y arrebatandolo ellos lo fueron a esconder
@@ -9193,7 +9194,7 @@
                         <expan instant="false">que</expan>
                     </choice>dire tocante asu llamada, deuer<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f22-s2"/>
+                <pb n="xom-f22-s2"/>
                 <p>
                     <lb n="1"/>así víníeron los mensageros antígua men<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>te quando víníeron por sus Padres, dí<pc type="line-end-hyphen"> -</pc>
@@ -9290,7 +9291,7 @@
                         </choice>
                     </rs> pelote<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f23-s1"/>
+                <pb n="xom-f23-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">23
@@ -9407,7 +9408,7 @@
                     </choice>vengan aca dícen jugaremos a la
 <lb n="46"/>pelota
 </p>
-                <pb xml:id="xom-f23-s2"/>
+                <pb n="xom-f23-s2"/>
                 <p>
                     <lb n="1"/>y que vengan los ínstrumentos de el jue<pc type="line-end-hyphen"> -</pc>
 <lb n="2"/>go, el vle, el bate, la pala, y el cuero, 
@@ -9507,7 +9508,7 @@
 <lb n="44"/>y deti sera el chupar la sangre de los hon
 <lb n="45"/>bres, y su comída. enlos camínos. esto le fue
 </p>
-                <pb xml:id="xom-f24-s1"/>
+                <pb n="xom-f24-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">24</hi>
@@ -9693,7 +9694,7 @@
                     <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f24-s2"/>
+                <pb n="xom-f24-s2"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">24
@@ -9791,7 +9792,7 @@
                         <expan instant="false">que</expan>
                     </choice> fue
                     </p>
-                <pb xml:id="xom-f25-s1"/>
+                <pb n="xom-f25-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">25
@@ -9860,7 +9861,7 @@
 <lb n="45"/>bos</rs> a . y esto lo que <rs ana="HERO_TWINS">rían</rs> de
 <lb n="46"/>
                 </p>
-                <pb xml:id="xom-f25-s2"/>
+                <pb n="xom-f25-s2"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">25
@@ -9941,7 +9942,7 @@
 <lb n="46"/>las nauajas a que lla noche. y entonzes
 <lb n="47"/>llamaron a todas las hormígas, y de
 </p>
-                <pb xml:id="xom-f26-s1"/>
+                <pb n="xom-f26-s1"/>
                 <p>
                     <lb n="1"/>çían, hormígas de nauajas, hormígas de
 <lb n="2"/>el muslo, venid. veníd todas. andad to<pc type="line-end-hyphen"> -</pc>
@@ -10022,7 +10023,7 @@
 <lb n="46"/>las flores, y las pusieron en las hícaras
 <lb n="47"/>y así se espantaron todos los deelínfí<pc type="line-end-hyphen"> -</pc>
 </p>
-                <pb xml:id="xom-f26-s2"/>
+                <pb n="xom-f26-s2"/>
                 <p>
                     <lb n="1"/>erno, y tenían los rostros pálidos por
 <lb n="2"/>las flores, y llamaron luego a los <choice><abbr>q’</abbr>
@@ -10105,7 +10106,7 @@
 <lb n="44"/>que comen, esto deçían los guardas
 <lb/>
                 </p>
-                <pb xml:id="xom-f27-s1"/>
+                <pb n="xom-f27-s1"/>
                 <p>
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large">
@@ -10192,7 +10193,7 @@
                     <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f27-s2"/>
+                <pb n="xom-f27-s2"/>
                 <p>
                     <lb n="1"/>como ha sído esto, y ya nose mouía, sí<pc type="line-end-hyphen"> -</pc>
 <lb n="2"/>no <choice><abbr>q’</abbr>
@@ -10254,7 +10255,7 @@
 <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f28-s1"/>
+                <pb n="xom-f28-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">28
@@ -10315,7 +10316,7 @@
                     <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f28-s2"/>
+                <pb n="xom-f28-s2"/>
                 <p>
                     <lb n="1"/>ron <abbr>q’</abbr>esto <abbr>q’</abbr>hemos visto? y luego empe<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>zaron a jugar la pelota, ambos a dos
@@ -10381,7 +10382,7 @@
                 <lb n="45"/>taran otravez. y sí díxeren, sí sera bu<pc type="line-end-hyphen"> -</pc>
                 <lb n="46"/>eno <abbr>q’</abbr>los colguemos enpalos, así mes<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f29-s1"/>
+                <pb n="xom-f29-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">29
@@ -10443,7 +10444,7 @@
                 <lb n="47"/>en dexaron su palabra, y así mes<pc type="line-end-hyphen"> -</pc>
                 <lb n="48"/>mofue preguntado por donde fue<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f29-s2"/>
+                <pb n="xom-f29-s2"/>
                 <p>
                     <lb n="1"/>sus guesos, y luego los molíeron, y los
                 <lb n="2"/>hízíeron harína, y los fueron a arro<pc type="line-end-hyphen"> -</pc>
@@ -10492,7 +10493,7 @@
                 <lb n="46"/>ron con los q’baílaban, y les díxo el
                 <lb n="47"/>mensage de los señores a elllos.
                 </p>
-                <pb xml:id="xom-f30-s1"/>
+                <pb n="xom-f30-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">30
@@ -10550,7 +10551,7 @@
                 <lb n="45"/>empezaron su canto, y su baíle, y luego
                 <lb n="46"/>víníeron a ver todos los de el ínfí<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f30-s2"/>
+                <pb n="xom-f30-s2"/>
                 <p>
                     <lb n="1"/>erno se juntaron a díuertírse, y to<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>do lo baílaron, la comadreja, el pu<pc type="line-end-hyphen"> -</pc>
@@ -10600,7 +10601,7 @@
                     <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f31-s1"/>
+                <pb n="xom-f31-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">31
@@ -10655,7 +10656,7 @@
                     <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f31-s2"/>
+                <pb n="xom-f31-s2"/>
                 <p>
                     <lb n="1"/>se trocaban, y mudaban quando ha<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>çían esto. y luego díxeron sus nombres
@@ -10706,7 +10707,7 @@
                 <lb n="46"/>les, las caras de estos enemígos, teco<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>lotes, y eran engaña dores, eínçítado<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f32-s1"/>
+                <pb n="xom-f32-s1"/>
                 <note  rend="margin-right" anchored="true">
                     <num rend="large">32</num>
                 </note>
@@ -10762,7 +10763,7 @@
                     <lb n="46"/>nombre, y su voca, y narizes, los ojos, y ha
                     <lb n="47"/>llo primero su nombre, y poco fue lo q’ hablo.
                     </p>
-                <pb xml:id="xom-f32-s2"/>
+                <pb n="xom-f32-s2"/>
                 <p>
                     <lb n="1"/>y so<del rend="scribble" instant="false" status="unremarkable">l</del>o nosedíxo el nombre hunalpuíl
                 <lb n="2"/>su voca, y solo esto fue díco. y así en
@@ -10818,7 +10819,7 @@
                 <lb n="46"/>geron la comida. el gato de monte, el lobo,
                 <lb n="47"/>el chocoy. y el cueruo. estos quarto animales
                 </p>
-                <pb xml:id="xom-f33-s1"/>
+                <pb n="xom-f33-s1"/>
                 <note  rend="margin-right" anchored="true">
                     <num rend="large">33</num>
                 </note>
@@ -10872,7 +10873,7 @@
                 <lb n="45"/>fueron hombres q’hablaron, y parla<pc type="line-end-hyphen"> -</pc>
                 <lb n="46"/>ron,
                 </p>
-                <pb xml:id="xom-f33-s2"/>
+                <pb n="xom-f33-s2"/>
                 <p>
                     <lb n="1"/>víeron, y oyeron, anduuíeron, y pal
                 <lb n="2"/>paron. eran Buenos hombres, y her<pc type="line-end-hyphen"> -</pc>
@@ -10924,7 +10925,7 @@
                 <lb n="47"/>adores, no esta bíen esto q’díxeron nues<pc type="line-end-hyphen"> -</pc>
                 <lb n="48"/>tras críaturas, q’díçen saber quanto ay
                 </p>
-                <pb xml:id="xom-f34-s1"/>
+                <pb n="xom-f34-s1"/>
                 <note  rend="margin-right" anchored="true">
                     <num rend="large">34</num>
                 </note>
@@ -10986,7 +10987,7 @@
                 <lb n="46"/>nombres de las mugeres, q’ fueron hechas
                 <lb n="47"/>Señoras. y estos fueron los q’ multíplícaron
                 </p>
-                <pb xml:id="xom-f34-s2"/>
+                <pb n="xom-f34-s2"/>
                 <p>
                     <lb n="1"/>todos los pueblos, chicos y grandes, y estos
                 <lb n="2"/>son el orígen de nosotros los quiches, y mu<pc type="line-end-hyphen"> -</pc>
@@ -11036,7 +11037,7 @@
                 <lb n="46"/>çura, los hombres blancos, y negra y hu<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>uo muchas lenguas, y de dos orejas, y ay
                 </p>
-                <pb xml:id="xom-f35-s1"/>
+                <pb n="xom-f35-s1"/>
                 <note  rend="margin-right" anchored="true">
                     <num rend="large">35</num>
                 </note>
@@ -11089,7 +11090,7 @@
                 <lb n="48"/>vamos díxeron a buscar, y vamos a 
                 <lb n="49"/>ya <!--i don't see this??-->
                 </p>
-                <pb xml:id="xom-f35-s2"/>
+                <pb n="xom-f35-s2"/>
                 <p>
                     <lb n="1"/>ver si ay señal de hallar esto q’ deçímos
                 <lb n=""/>y no q’nos estamos aquí, no tenemos quí<pc type="line-end-hyphen"> -</pc>
@@ -11146,7 +11147,7 @@
                 <lb n="46"/>pueblos, los de rabínal, los cacchíque<pc type="line-end-hyphen"> -</pc>
                 <lb n="47"/>les, los de q,íquínaha, condos de yu<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f36-s1"/>
+                <pb n="xom-f36-s1"/>
                 <p>
                     <lb n="1"/>quí, q’ agora se llaman así. y allí se les
 <lb n="2"/>mudo el language a los pueblos, y ha<pc type="line-end-hyphen"> -</pc>
@@ -11195,7 +11196,7 @@
 <lb n="45"/>díxeron al tohíl. esta bíen díxo el. no
 <lb n="46"/>os aflíxaís. y luego sacoel fuego, dan<pc type="line-end-hyphen"> -</pc>
 </p>
-                <pb xml:id="xom-f36-s2"/>
+                <pb n="xom-f36-s2"/>
                 <p>
                     <lb n="1"/>do bueltas en su çapato. y luego se a
 <lb n="1"/>legraron balamquitze, balam acab.
@@ -11244,7 +11245,7 @@
 <lb n="44"/>pareçío de ante ellos. y luego llega<pc type="line-end-hyphen"> -</pc>
 <lb n="45"/>ron los pueblos sín detençíon, q’pe<pc type="line-end-hyphen"> -</pc>
 </p>
-                <pb xml:id="xom-f37-s1"/>
+                <pb n="xom-f37-s1"/>
                 <p>
                     <lb n="1"/>reçían de frío, y por el mucho graní<pc type="line-end-hyphen"> -</pc>
 <lb n="2"/>zo, y de la garua continua, no era tole<pc type="line-end-hyphen"> -</pc>
@@ -11292,7 +11293,7 @@
 <lb n="43"/>xeron ellos se juntara, y lo obede<pc type="line-end-hyphen"> -</pc>
 <lb n="44"/>çeremos, díxeron qo . respondíe<pc type="line-end-hyphen"> -</pc>
 </p>
-                <pb xml:id="xom-f37-s2"/>
+                <pb n="xom-f37-s2"/>
                 <p>
                     <lb n="1"/>ron a lo q’ deçía el tohíl. y nose detu<pc type="line-end-hyphen"> -</pc>
 <lb n="2"/>uíeron, síno q’díxeron esta bíen lue<pc type="line-end-hyphen"> -</pc>
@@ -11342,7 +11343,7 @@
 <lb n="46"/>mos a ver donde nos hemos de plan<pc type="line-end-hyphen"> -</pc>
 <lb n="47"/>tar. porq’ de verdad hablaba el to<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f38-s1"/>
+                <pb n="xom-f38-s1"/>
                 <p>
                     <lb n="1"/>híl, a balam quítze, balam acab, ma<pc type="line-end-hyphen"> -</pc>
 <lb n="2"/>hucutah, y íquíbalam ea dadgra<pc type="line-end-hyphen"> -</pc>
@@ -11392,7 +11393,7 @@
 <lb n="46"/>q’amaneçiese, y vían el salír de
 <lb n="47"/>el luzero, q’este es el q’víene prí<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f38-s2"/>
+                <pb n="xom-f38-s2"/>
                 <p>
                     <lb n="1"/>mero ante el sol qo. naçíere. de<pc type="line-end-hyphen"> -</pc>
 <lb n="2"/>alla venímos, síno q’ nos repartí<pc type="line-end-hyphen"> -</pc>
@@ -11442,7 +11443,7 @@
 <lb n="46"/>donde agora nos teneís, vosotros los res<pc type="line-end-hyphen"> -</pc>
 <lb n="47"/>petados, y ponednos desparçídos,
                 </p>
-                <pb xml:id="xom-f39-s1"/>
+                <pb n="xom-f39-s1"/>
                 <p>
                     <lb n="1"/>esto díxo qo. hablo. estabien díxeron
 <lb n="2"/>ellos, seremos arrancados de aquí, y
@@ -11492,7 +11493,7 @@
 <lb n="46"/>leros, los eaechíqueles, los de, tzíquí<pc type="line-end-hyphen"> -</pc>
 <lb n="47"/>naha, todos los pueblos chícos, y grandes.
                 </p>
-                <pb xml:id="xom-f39-s2"/>
+                <pb n="xom-f39-s2"/>
                 <p>
                     <lb n="1"/>y en vno se pararon, a aguardar
 <lb n="2"/>el amaceçer,y lasalída de el luze<pc type="line-end-hyphen"> -</pc>
@@ -11542,7 +11543,7 @@
 <lb n="46"/>estros abuelos, y padres, y quando
 <lb n="47"/>aclaro, y se vío la cara al sol, ala
                 </p>
-                <pb xml:id="xom-f40-s1"/>
+                <pb n="xom-f40-s1"/>
                 <p>
                     <lb n="1"/>luna, y a las estrellas.
                 <lb n="2"/>y este fue el esclarezer, y manífes<pc type="line-end-hyphen"> -</pc>
@@ -11595,7 +11596,7 @@
                 <lb n="46"/>y luego se seco la tíerra por el sol y era
                 <lb n="47"/>así como vn hombre el sol quando
                 </p>
-                <pb xml:id="xom-f40-s2"/>
+                <pb n="xom-f40-s2"/>
                 <p>
                     <lb n="1"/>se manifesto, y ardía, y este seco to<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>da la haz de la tíerra, y antes <abbr>q’</abbr>el sol
@@ -11645,7 +11646,7 @@
                 <lb n="44"/>perdímos, en <rs ana="TULAN">tulanzu</rs> nos despar<pc type="line-end-hyphen"> -</pc>
                 <lb n="45"/>címos, y se quedaron alla nuestos
                 </p>
-                <pb xml:id="xom-f41-s1"/>
+                <pb n="xom-f41-s1"/>
                 <p>
                     <lb n="1"/>paríentes, y hermanos. a<abbr>q’</abbr> ya vímos al
                 <lb n="2"/>sol,y <abbr>q’</abbr> a<abbr>q’</abbr> ya nos amaneçío? díxeron a
@@ -11698,7 +11699,7 @@
                 <lb n="46"/>la detençíon, y tardanza, sobre el çerro
                 <lb n="47"/>donde estuuíeron juntos en vno todos
                 </p>
-                <pb xml:id="xom-f41-s2"/>
+                <pb n="xom-f41-s2"/>
                 <p>
                     <lb n="1"/>quarto <rs ana="BALAM_KITZE">balam quíꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>
                     <lb n="2"/>
@@ -11752,7 +11753,7 @@
                 <lb n="46"/>su sangre, ante nosotros, y abrazadlo <abbr>q’</abbr>es
                 <lb n="46"/>de ellos, díxo el <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílíx</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs>.
                 </p>
-                <pb xml:id="xom-f42-s1"/>
+                <pb n="xom-f42-s1"/>
                 <p>
                     <lb n="1"/>y se asemejaban a mançebos, <abbr type="superscription">qo</abbr> salí<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>eron, y quando lleuaban la ofrenda ante
@@ -11805,7 +11806,7 @@
                 <lb n="45"/>quando ven la gente, y víendo vno
                 <lb n="46"/>o dos los quíeren destruír denosotros.
                 </p>
-                <pb xml:id="xom-f42-s2"/>
+                <pb n="xom-f42-s2"/>
                 <p>
                     <lb n="1"/>y todos los días venían con sus muge<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>res a sus habitaçíones, y solo traían
@@ -11863,7 +11864,7 @@
                 <lb n="45"/>echaron deuer los pueblos. y deçían
                 <lb n="46"/>sí sera el <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílíx</rs>, el <abbr>q’</abbr>entra aquí
                 </p>
-                <pb xml:id="xom-f43-s1"/>
+                <pb n="xom-f43-s1"/>
                 <p>
                     <lb n="1"/>y busca solo alos capítanes. donde esta
                 <lb n="2"/>ran sus casas? seguíremos las písadas
@@ -11917,7 +11918,7 @@
                 <lb n="41"/>dos, y conuocados, y ní vna, ní dos delas
                 <lb n="42"/>tríbus se quedo, síno <abbr>q’</abbr>todos se jun<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f43-s2"/>
+                <pb n="xom-f43-s2"/>
                 <p>
                     <lb n="1"/>taron, y se llamaron, y entonçes con<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>sultaron, y díxeron preguntandose
@@ -11973,22 +11974,22 @@
                     <lb n="46"/>
                     <lb n="47"/>
                 </p>
-                <pb xml:id="xom-f44-s1"/>
-                <pb xml:id="xom-f44-s2"/>
+                <pb n="xom-f44-s1"/>
+                <pb n="xom-f44-s2"/>
                 <p>MISSING CONTENT</p>
-                <pb xml:id="xom-f45-s1"/>
+                <pb n="xom-f45-s1"/>
                 <p>MISSING CONTENT</p>
-                <pb xml:id="xom-f45-s2"/>
+                <pb n="xom-f45-s2"/>
                 <p>MISSING CONTENT</p>
-                <pb xml:id="xom-f46-s1"/>
+                <pb n="xom-f46-s1"/>
                 <p>MISSING CONTENT</p>
-                <pb xml:id="xom-f46-s2"/>
+                <pb n="xom-f46-s2"/>
                 <p>MISSING CONTENT</p>
-                <pb xml:id="xom-f47-s1"/>
+                <pb n="xom-f47-s1"/>
                 <p>MISSING CONTENT</p>
-                <pb xml:id="xom-f47-s2"/>
+                <pb n="xom-f47-s2"/>
                 <p>MISSING CONTENT</p>
-                <pb xml:id="xom-f48-s1"/>
+                <pb n="xom-f48-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">48
@@ -12048,7 +12049,7 @@
                 <lb n="46"/>fueron vamos al oríente de <abbr>do</abbr> víníeron 
                 <lb n="47"/>nuestros <abbr>P<hi rend="superscript">es</hi></abbr> ytomaron su camíno los tres híjos 
                 </p>
-                <pb xml:id="xom-f48-s2"/>
+                <pb n="xom-f48-s2"/>
                 <p>
                     <lb n="1"/>
                     <rs ana="KOKAIB">qocaíb</rs>, sellamaba elvno, híjode <rs ana="BALAM_KITZE">balamquí<pc type="line-end-hyphen"> -</pc>
@@ -12107,7 +12108,7 @@
                 <lb n="44"/>alegraron los de <rs ana="RABINALEB">Rabinal</rs>, <rs ana="KAQCHIKELEB">eaechíque
                 <lb n="45"/>les</rs>, y los de <rs ana="AJTZIKINAJA">q’íquínaha.</rs>
                 </p>
-                <pb xml:id="xom-f49-s1"/>
+                <pb n="xom-f49-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">49
@@ -12164,7 +12165,7 @@
                 <lb n="45"/>llos montes <abbr>qo</abbr> pasaron, y muchos tra<pc type="line-end-hyphen"> -</pc>
                 <lb n="46"/>baxos pasaron
                 </p>
-                <pb xml:id="xom-f49-s2"/>
+                <pb n="xom-f49-s2"/>
                 <p>
                     <lb n="1"/>porq’ muy lexos hallaron su pueblo
                 <lb n="2"/>eran abuelos, y padres y este es el
@@ -12219,7 +12220,7 @@
                 <lb n="42"/>
                     <abbr>q’</abbr>sobre ellos víno <abbr>q'</abbr> pensaban ma
                 </p>
-                <pb xml:id="xom-f50-s1"/>
+                <pb n="xom-f50-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">50
@@ -12277,7 +12278,7 @@
                 <lb n="46"/>por ellos y allí bebían sus bebídas
                 <lb n="47"/>y allí comían sus<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f50-s2"/>
+                <pb n="xom-f50-s2"/>
                 <p>
                     <lb n="1"/>comida, <abbr>q’</abbr>era precío de las captiuas
                 <lb n="2"/>híjas, y solo era por hoganza desus
@@ -12335,7 +12336,7 @@
                     <rs ana="QUMARAQ_AJ">cumarcaah</rs>
                     <abbr>q’</abbr>fue bendeçído por el
                 </p>
-                <pb xml:id="xom-f51-s1"/>
+                <pb n="xom-f51-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">51
@@ -12443,7 +12444,7 @@
                         <expan instant="false">Señores</expan>
                     </choice>
                 </p>
-                <pb xml:id="xom-f51-s2"/>
+                <pb n="xom-f51-s2"/>
                 <p>
                     <lb n="1"/>y así se ajusttaron los veínte, y quatro<pc type="line-end-hyphen"> -</pc>
                 <lb n="2"/>
@@ -12529,7 +12530,7 @@
                     <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f52-s1"/>
+                <pb n="xom-f52-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">52
@@ -12587,7 +12588,7 @@
                 	<lb n="44"/>yfueron vençídos todos los pueblos
                 	<lb/>
                 </p>
-                <pb xml:id="xom-f52-s2"/>
+                <pb n="xom-f52-s2"/>
                 <p>
                     <lb n="1"/>y llegaron muy lexos los soldados
 <lb n="2"/>de <rs ana="KIKAB">quícab</rs>. y vna, o dos parçíalída
@@ -12637,7 +12638,7 @@
 <lb n="45"/>ros, yarqueros
 <lb/>
                 </p>
-                <pb xml:id="xom-f53-s1"/>
+                <pb n="xom-f53-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">53
@@ -12693,7 +12694,7 @@
 <lb/>
                     <lb/>
                 </p>
-                <pb xml:id="xom-f53-s2"/>
+                <pb n="xom-f53-s2"/>
                 <p>
                     <lb n="1"/>de el quiche, quando nombraron los
 <lb n="2"/>capítanes, y caudillos de los vasallos,
@@ -12748,7 +12749,7 @@
 <lb n="45"/>rarontodos los <abbr>SS<hi rend="superscript">es.</hi></abbr> y todos lospueblos. y
 <lb n="46"/>prímero era lleuada la ofrenda, y luego
                 </p>
-                <pb xml:id="xom-f54-s1"/>
+                <pb n="xom-f54-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">54
@@ -12806,7 +12807,7 @@
                     <rs ana="UKUX_KAJ_UKUX_ULEW">corazón de el çíelo, y tíerra</rs>, tu dador de
 <lb n="44"/>nuestra gloría, y tu tambíen dador de—
                 </p>
-                <pb xml:id="xom-f54-s2"/>
+                <pb n="xom-f54-s2"/>
                 <p>
                     <lb n="1"/>nuestros híjos, e híjas, muebe, y buelbe ha
 <lb n="2"/>çía aca tu gloría, y dad <abbr>q’</abbr>víuan, y se
@@ -12859,7 +12860,7 @@
 <lb n="46"/>dor. y solo trataban de comer, y beber.
 <lb n="47"/>y no en valde, los sugetaron, y arreba<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f55-s1"/>
+                <pb n="xom-f55-s1"/>
                 <note  place="margin-right" type="pagination" anchored="true">
                     <num rend="large">
                         <hi rend="handwriting;color:pencil">55
@@ -12921,7 +12922,7 @@
 <lb n="44"/>
                     <hi rend="large">C</hi>ucumatz cotuha el prímero de los portento<pc type="line-end-hyphen"> -</pc>
                 </p>
-                <pb xml:id="xom-f55-s2"/>
+                <pb n="xom-f55-s2"/>
                 <p>
                     <lb n="1"/>sos. quínta generaçíon
 <lb n="2"/>
@@ -13006,7 +13007,7 @@
 <lb n="45"/>y aquí se ponen los de <rs ana="NIJAIB">níhaíbab</rs>, <abbr>q’</abbr>tenían
 <lb n="46"/>nueue casas y prímero díremos lade
                 </p>
-                <pb xml:id="xom-f56-s1"/>
+                <pb n="xom-f56-s1"/>
                 <p>
                     <note place="margin-right" type="pagination" anchored="true">
                         <num rend="large">
@@ -13210,7 +13211,7 @@
                     <lb n="45"/>
                     <rs ana="KOKOSOM">Cocozom</rs> . <num>4</num> .
                </p>
-                <pb xml:id="xom-f56-s2"/>
+                <pb n="xom-f56-s2"/>
                 <p>
                     <lb n="1"/>
                     <rs ana="KOMAJKUN">comah cun</rs>. <num>5</num>
