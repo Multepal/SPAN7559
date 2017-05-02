@@ -2,7 +2,6 @@
 <xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:xi="http://www.w3.org/2003/XInclude"
     exclude-result-prefixes="tei">
     <xsl:output
         method="html"
@@ -31,9 +30,7 @@
             <xsl:apply-templates select="//tei:text//tei:body"/>
             <xsl:variable name="file" select="topics.xml" />
             <div class="topics">
-            <xsl:variable name="file" select="./topics.xml" />
-            <xsl:copy-of select="document($file)/*" />
-            <xi:include href="topics.xml" />
+            <xsl:apply-templates select="document('topics.xml')/result/*" />
             </div>
             </body>
         </html>
@@ -80,12 +77,18 @@
     </xsl:template>
 
     <xsl:template match="tei:rs">
-        <span class="rs">
+        <xsl:variable name="ana" select="@ana" />
+        <a class="rs">
             <xsl:attribute name="data-ana">
-                <xsl:value-of select="@ana" />
+                <xsl:value-of select="$ana" />
+            </xsl:attribute>
+            <xsl:attribute name="href">
+                <xsl:text>javascript:load_note('</xsl:text>
+                <xsl:value-of select="$ana" />
+                <xsl:text>');</xsl:text>
             </xsl:attribute>
             <xsl:apply-templates />
-        </span>
+        </a>
     </xsl:template>
 
     <xsl:template match="tei:corr">
@@ -99,5 +102,20 @@
     <xsl:template match="tei:lb">
         <!-- REMOVE -->
     </xsl:template>
+    
+    <xsl:template match="item">
+        <div class="item">
+            <xsl:attribute name="id">
+                <xsl:value-of select="ana/text()"/>
+            </xsl:attribute>
+            <h3>
+                <xsl:value-of select="name" />
+                (<xsl:value-of select="typo" />)
+            </h3>
+            <xsl:copy-of select="imagen/*" />
+            <xsl:copy-of select="contenido/*" />
+        </div>
+    </xsl:template>
+    
 
 </xsl:stylesheet>

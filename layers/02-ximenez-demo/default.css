@@ -13,9 +13,18 @@ div.spa {
     width: 4.5in;
     float: left;
     padding: 1rem;
-    font-size:14pt;
+    font-size:14pt;            
     overflow: auto;
     height: 8in;
+}
+div.topics {
+    width: 4.5in;
+    float: left;
+    padding: 1rem;
+    font-size:12pt;
+    overflow: auto;
+    height: 8in;
+    
 }
 .note {
     float:right;
@@ -42,4 +51,15 @@ p {
     font-size: 12pt;
     color:gray;
     margin-right: 1rem;
+}
+
+.item {
+    /*display:none;*/
+    border-top: 1px solid gray;
+    padding: .5rem 0;
+}
+
+.item img {
+    float:left;
+    margin-right: .5rem;    
 }
