@@ -92,9 +92,16 @@
 <lb n="42" />cut <rs ana="CHAMIYABAQ">xquipuquih</rs> baca chi quiva –
 <lb n="43" />ch chicop cate cut que pa –
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="44" />caquic ch<del rend="overstrike">irichuvi</del> baca micu
 =======
 <lb n="44" />caquic ch <del rend="overstrike">irichuvi</del> baca micu
+>>>>>>> master
+=======
+<lb n="44" />caquic ch <del rend="overstrike">irichuvi</del> baca micu
+=======
+<lb n="44" />caquic ch<del rend="overstrike">irichuvi</del> baca micu
+>>>>>>> amb8fk
 >>>>>>> master
 <lb n="45" />xevtzinic mi xutih qui qux ca –
 <lb n="46" />teviri mix xquia quib are qui –
@@ -113,22 +120,25 @@
 <p>                
 <lb n="1" />erno, y tenían los rostros pálidos por
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="2" />las flores, y llamaron luego a los <choice>
 =======
 <lb n="2" />las flores, y llamaron luego a los 
 <choice>
+>>>>>>> master
+=======
+<lb n="2" />las flores, y llamaron luego a los 
+<choice>
+=======
+<lb n="2" />las flores, y llamaron luego a los <choice>
+>>>>>>> amb8fk
 >>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>gu
 <lb n="3" />ardaban las flores, y les díxeron: por –
 <<<<<<< HEAD
-<lb n="4" /><choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>aueís dado hurtadas nuestras flo –
-<lb n="5" />res <choice><abbr>q’</choice></abbr>
-<expan>que</expan>aquí vemos? no lo hemos sentído
+<<<<<<< HEAD
 =======
 <lb n="4" />
 <choice>
@@ -140,6 +150,29 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>aquí vemos? no lo hemos sentído
+=======
+>>>>>>> master
+<lb n="4" /><choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>aueís dado hurtadas nuestras flo –
+<lb n="5" />res <choice><abbr>q’</choice></abbr>
+<expan>que</expan>aquí vemos? no lo hemos sentído
+<<<<<<< HEAD
+=======
+<lb n="4" />
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>aueís dado hurtadas nuestras flo –
+<lb n="5" />res 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>aquí vemos? no lo hemos sentído
+>>>>>>> master
+=======
+>>>>>>> amb8fk
 >>>>>>> master
 <lb n="6" /><abbr type ="superscript">Sor.</choice></abbr> díxeron, y nuestras colas mírad
 <lb n="7" />como estan; y luego les <rs ana="WOK">rasgaron</rs> las
@@ -154,10 +187,18 @@
 <lb n="15" />y juntamente jugaban, y luego
 <lb n="16" />pararon de jugar ala pelota se
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="17" />auísaron, y çítaron vnos a otros <choice>
 =======
 <lb n="17" />auísaron, y çítaron vnos a otros 
 <choice>
+>>>>>>> master
+=======
+<lb n="17" />auísaron, y çítaron vnos a otros 
+<choice>
+=======
+<lb n="17" />auísaron, y çítaron vnos a otros <choice>
+>>>>>>> amb8fk
 >>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -167,29 +208,54 @@
 <lb n="20" />quando dexaron el juego.
 <lb n="21" />y entraron en la casa de el frío, no era sufrí –
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="22" />ble el frío, <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice> en ella auía, y el yelo <choice>
 =======
+=======
+>>>>>>> master
 <lb n="22" />ble el frío, 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice> en ella auía, y el yelo 
 				<choice>
+<<<<<<< HEAD
+>>>>>>> master
+=======
+=======
+<lb n="22" />ble el frío, <choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> en ella auía, y el yelo <choice>
+>>>>>>> amb8fk
 >>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>auía
 <lb n="23" />en ella, en la casa de el frío, y luego se
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<lb n="24" />agoto el frío por  <rs ana="HERO_TWINS">los gémelos divinos</rs>, y no
+<lb n="25" />muríeron, síno 
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> vivos amaneçíeron
+<lb n="26" />y esto era lo 
+<choice>
+=======
+>>>>>>> master
 <lb n="24" />agoto el frío por  <rs ana="HERO_TWINS">los <rs ana="mançebos">los gémelos divinos</rs></rs>, y no
 <lb n="25" />muríeron, síno <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice> vivos amaneçíeron
 <lb n="26" />y esto era lo <choice>
+<<<<<<< HEAD
 =======
 <lb n="24" />agoto el frío por  <rs ana="HERO_TWINS">los gémelos divinos</rs>, y no
 <lb n="25" />muríeron, síno 
@@ -200,35 +266,62 @@
 <lb n="26" />y esto era lo 
 <choice>
 >>>>>>> master
+=======
+>>>>>>> amb8fk
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice> rían los de el ínfíer –
 <lb n="27" />no, verles morír, y que allí muríesen.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <lb n="28" />y no fue así, síno <choice>
 =======
 <lb n="28" />y no fue así, síno 
 <choice>
 >>>>>>> master
+=======
+<lb n="28" />y no fue así, síno 
+<choice>
+=======
+<lb n="28" />y no fue así, síno <choice>
+>>>>>>> amb8fk
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>buenos estaban
 <lb n="29" />quando amaneçío, y estaban atentos
+<<<<<<< HEAD
 <<<<<<< HEAD
 <lb n="30" />los <choice>
 =======
 <lb n="30" />los 
 <choice>
 >>>>>>> master
+=======
+<lb n="30" />los 
+<choice>
+=======
+<lb n="30" />los <choice>
+>>>>>>> amb8fk
+>>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>les víníeron a llamar, y fueronse
 <lb n="31" />los guardas, y díxo el Sor de el ínfí –
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="32" />erno, <choice>
 =======
 <lb n="32" />erno, 
 <choice>
+>>>>>>> master
+=======
+<lb n="32" />erno, 
+<choice>
+=======
+<lb n="32" />erno, <choice>
+>>>>>>> amb8fk
 >>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -239,20 +332,36 @@
 <note rend="margin-left">del cert="high"><num rend>
 <lb n="36" />y luego entraron en la casa de los tí –
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="37" />gres, no eran constables los <choice>
 =======
 <lb n="37" />gres, no eran constables los 
 <choice>
+>>>>>>> master
+=======
+<lb n="37" />gres, no eran constables los 
+<choice>
+=======
+<lb n="37" />gres, no eran constables los <choice>
+>>>>>>> amb8fk
 >>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>auía en
 <lb n="38" />la casa. no nos mordaís, les díxeron ay
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="39" /><<choice>
 =======
 <lb n="39" />
 <choice>
+>>>>>>> master
+=======
+<lb n="39" />
+<choice>
+=======
+<lb n="39" /><<choice>
+>>>>>>> amb8fk
 >>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>

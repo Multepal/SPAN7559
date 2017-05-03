@@ -68,6 +68,7 @@
 <lb n="25" />tiouic qha chic ta xti chic vbeleh
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="26" />culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
 <lb n="27" />xcha ahalcana chire naquila
 <lb n="28" />mi xitiouic xcha chic ta xti chic
@@ -86,6 +87,24 @@
 <lb n="28" />mi xitiouic xcha chic ta xti chic
 <lb n="29" />lahuh cubulel ahi naqui qha
 <lb n="30" />mia holom xqha chamia baca na
+=======
+<<<<<<< HEAD
+<lb n="26" />culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
+<lb n="27" />xcha ahalcana chire naquila
+<lb n="28" />mi xitiouic xcha chic ta xti chic
+<lb n="29" />lahuh cubulel ahi naqui qha
+<lb n="30" />mia holom xqha <rs ana="CHAMIYABAQ">chamia baca</rs> na
+>>>>>>> master
+=======
+<lb n="26" />culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs> 
+<lb n="27" />xcha ahalcana chire naquila
+<lb n="28" />mi xitiouic xcha chic ta xti chic
+<lb n="29" />lahuh cubulel ahi naqui qha
+<lb n="30" />mia holom xqha chamia baca na
+>>>>>>> master
+<<<<<<< HEAD
+=======
+>>>>>>> amb8fk
 >>>>>>> master
 <lb n="31" />quila mi xitiouic xqha chic ta xti
 <lb n="32" />chic vhulah culel ahi xqha chic
@@ -140,14 +159,28 @@
 			<expan>que</expan>
 				</choice>era vn hombre
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+>>>>>>> master
+=======
+=======
+>>>>>>> master
+>>>>>>> amb8fk
 >>>>>>> master
 <lb n="4" />hecho de trapos, y compuesto, y le mordío prí –
 <lb n="5" />mero, y no hablo, y luego mordío al Segundo
 <lb n="6" />y tampoco hablo. mordío al terçero, 
 <choice>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>: hun
+<lb n="7" />came, y díxo aquí, que xandose. dixo qdo fue
+=======
+>>>>>>> master
 <<<<<<< HEAD
 	<abbr>q’</abbr>
 	<expan>que</expan>
@@ -307,26 +340,38 @@
 	<abbr type="superscription">qdo</abbr>
 	<expan>cuando</expan>
 	</choice>fue
+<<<<<<< HEAD
 =======
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>: hun
 <lb n="7" />came, y díxo aquí, que xandose. dixo qdo fue
 >>>>>>> master
+=======
+>>>>>>> amb8fk
+>>>>>>> master
 <lb n="8" />pícado. 
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				</choice>es eso <rs ana="JUN_KAME">hun came</rs>, le díxo el quarto
 =======
 				</choice>es eso hun came, le díxo el quarto
+>>>>>>> master
+=======
+				</choice>es eso hun came, le díxo el quarto
+=======
+				</choice>es eso <rs ana="JUN_KAME">hun came</rs>, le díxo el quarto
+>>>>>>> amb8fk
 >>>>>>> master
 				<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>
 <lb n="9" />estaba sentado, quíente mordío? nose
+<<<<<<< HEAD
 <<<<<<< HEAD
 <lb n="10" /><choice>
 		<abbr>q’</abbr>
@@ -348,15 +393,44 @@
 			<expan>que</expan>
 				</choice>es esp vucub came 
 >>>>>>> master
+=======
+<lb n="10" />
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>me ha mordído. mordío alotro, y díxo ay
+<lb n="11" />
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es esp vucub came 
+=======
+<lb n="10" /><choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>me ha mordído. mordío alotro, y díxo ay
+<lb n="11" /><choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es eso <rs ana="WUQUB_KAME">vucub came</rs> 
+>>>>>>> amb8fk
+>>>>>>> master
 				<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>te ha mordído le
 <lb n="12" />díxo el quínto. ayay. díxo
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="13" />y le díxo <rs ana="WUQUB_KAME">vucub came</rs> 
 =======
 <lb n="13" />y le díxo vucub came 
+>>>>>>> master
+=======
+<lb n="13" />y le díxo vucub came 
+=======
+<lb n="13" />y le díxo <rs ana="WUQUB_KAME">vucub came</rs> 
+>>>>>>> amb8fk
 >>>>>>> master
 <choice>
 		<abbr>q’</abbr>
@@ -367,11 +441,20 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				</choice>es eso, <rs ana="KUCHUMA_KIK">cu –
 <lb n="15" />chu maquíc</rs> 
 =======
 				</choice>es eso, cu –
 <lb n="15" />chu maquíc 
+>>>>>>> master
+=======
+				</choice>es eso, cu –
+<lb n="15" />chu maquíc 
+=======
+				</choice>es eso, <rs ana="KUCHUMA_KIK">cu –
+<lb n="15" />chu maquíc</rs> 
+>>>>>>> amb8fk
 >>>>>>> master
 <choice>
 		<abbr>q’</abbr>
@@ -396,14 +479,25 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				</choice>te ha mordído <rs ana="AJAL_PUJ">ahalpuh</rs>? dixo <rs ana="KUCHUMA_KIK">cu –
 <lb n="19" />chu maquí<hi rend="large">C</hi></rs>. y quando mordío al octauo
 <lb n="20" /><choice>
 =======
+=======
+>>>>>>> master
 				</choice>te ha mordído ahalpuh? dixo cu –
 <lb n="19" />chu maquíC. y quando mordío al octauo
 <lb n="20" />
 <choice>
+<<<<<<< HEAD
+>>>>>>> master
+=======
+=======
+				</choice>te ha mordído <rs ana="AJAL_PUJ">ahalpuh</rs>? dixo <rs ana="KUCHUMA_KIK">cu –
+<lb n="19" />chu maquí<hi rend="large">C</hi></rs>. y quando mordío al octauo
+<lb n="20" /><choice>
+>>>>>>> amb8fk
 >>>>>>> master
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -412,11 +506,20 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				</choice>es eso <rs ana="AJAL_QANA">ahal
 <lb n="21" />cana</rs> 
 =======
 				</choice>es eso ahal
 <lb n="21" />cana 
+>>>>>>> master
+=======
+				</choice>es eso ahal
+<lb n="21" />cana 
+=======
+				</choice>es eso <rs ana="AJAL_QANA">ahal
+<lb n="21" />cana</rs> 
+>>>>>>> amb8fk
 >>>>>>> master
 <choice>
 		<abbr>q’</abbr>
@@ -446,11 +549,20 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				</choice>te mordío <rs ana="CHAMIYAJOLOM">cha –
 <lb n="26" />mía holom</rs>? y mordíendo al vndeçí –
 =======
 				</choice>te mordío cha –
 <lb n="26" />mía holom? y mordíendo al vndeçí –
+>>>>>>> master
+=======
+				</choice>te mordío cha –
+<lb n="26" />mía holom? y mordíendo al vndeçí –
+=======
+				</choice>te mordío <rs ana="CHAMIYAJOLOM">cha –
+<lb n="26" />mía holom</rs>? y mordíendo al vndeçí –
+>>>>>>> amb8fk
 >>>>>>> master
 <lb n="27" />mo, 
 <choice>
@@ -482,9 +594,16 @@
 			<expan>que</expan>
 				</choice>te
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="32" />mordío <rs ana="KIK_RE">quíc xíc</rs>. le díjo <rs ana="PATAN">patan</rs>. y mor
 =======
 <lb n="32" />mordío quíc xíc. le díjo <rs ana="PATAN">patan</rs>. y mor
+>>>>>>> master
+=======
+<lb n="32" />mordío quíc xíc. le díjo <rs ana="PATAN">patan</rs>. y mor
+=======
+<lb n="32" />mordío <rs ana="KIK_RE">quíc xíc</rs>. le díjo <rs ana="PATAN">patan</rs>. y mor
+>>>>>>> amb8fk
 >>>>>>> master
 <lb n="33" />díendo al quarto deçímo 
 <choice>
@@ -492,17 +611,30 @@
 			<expan>que</expan>
 				</choice>dixo ay
 <<<<<<< HEAD
+<<<<<<< HEAD
 <lb n="34" />le díxo a <rs ana="KIK_RIXKAQ">quíc ríx ƐaƐ</rs>, <rs ana="KIK_RE">quíc re</rs>. 
 =======
 <lb n="34" />le díxo a quíc ríx eae, quíc re. 
+>>>>>>> master
+=======
+<lb n="34" />le díxo a quíc ríx eae, quíc re. 
+=======
+<lb n="34" />le díxo a <rs ana="KIK_RIXKAQ">quíc ríx ƐaƐ</rs>, <rs ana="KIK_RE">quíc re</rs>. 
+>>>>>>> amb8fk
 >>>>>>> master
 <choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice> te mor
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+>>>>>>> master
+=======
+=======
+>>>>>>> master
+>>>>>>> amb8fk
 >>>>>>> master
 <lb n="35" />dío.? y así todos díxeron sus nombres
 <lb n="36" />y todos se manífestaron entre sí mes –
