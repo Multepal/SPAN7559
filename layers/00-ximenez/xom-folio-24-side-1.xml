@@ -56,7 +56,7 @@
 <lb n="13" />xqha chi roo culel. ahi ahi xqha
 <lb n="14" />na xiquiripat, xqha <rs ana="WUQUB_KAME">vvcub came</rs>
 <lb n="15" />chire naquila mi xitiouic xcha chic
-<lb n="16" />xtiic <rs ana="pájaro">vvacac</rs> culel ahi, na qui
+<lb n="16" />xtiic vvac<rs ana="pájaro">ac culel ahi, na qui
 <lb n="17" />cuchumaquic xqha xiquiripat chi –
 <lb n="18" />re naquila mi xitiouic xqha chic
 <lb n="19" />ta xti vvc culel ahi xqha chic. na
@@ -66,19 +66,11 @@
 <lb n="23" />xqha chic. naqui ahalcana xqha
 <lb n="24" />chi ahalpuh chire, naquila mixi –
 <lb n="25" />tiouic qha chic ta xti chic vbeleh
-<<<<<<< HEAD
 <lb n="26" />culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs>
 <lb n="27" />xcha ahalcana chire naquila
 <lb n="28" />mi xitiouic xcha chic ta xti chic
 <lb n="29" />lahuh cubulel ahi naqui qha
 <lb n="30" />mia holom xqha <rs ana="CHAMIYABAQ">chamia baca</rs> na
-=======
-<lb n="26" />culel ahi. xqha naqui <rs ana="CHAMIYABAQ">chamiabaca</rs> 
-<lb n="27" />xcha ahalcana chire naquila
-<lb n="28" />mi xitiouic xcha chic ta xti chic
-<lb n="29" />lahuh cubulel ahi naqui qha
-<lb n="30" />mia holom xqha chamia baca na
->>>>>>> master
 <lb n="31" />quila mi xitiouic xqha chic ta xti
 <lb n="32" />chic vhulah culel ahi xqha chic
 <lb n="33" />naqui qha chic chamiaholom chi –
@@ -109,7 +101,6 @@
 </note>               
 <p>                
 <lb n="1" />dícho al xan. estabíen díxo el xan. y lue –
-<<<<<<< HEAD
 <lb n="2" />go tomo <rs ana="CAMINO_NEGRO">el camíno negro</rs>, y fuederecho al –
 <lb n="3" />prímero 
 <choice>
@@ -120,23 +111,10 @@
 		<abbr>q’</abbr>
 		<expan>que</expan>
 		</choice>era vn hombre
-=======
-<lb n="2" />go tomo el camíno negro, y fuederecho al –
-<lb n="3" />prímero 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> estaba sentado, 
-				<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>era vn hombre
->>>>>>> master
 <lb n="4" />hecho de trapos, y compuesto, y le mordío prí –
 <lb n="5" />mero, y no hablo, y luego mordío al Segundo
 <lb n="6" />y tampoco hablo. mordío al terçero, 
 <choice>
-<<<<<<< HEAD
 	<abbr>q’</abbr>
 	<expan>que</expan>
 	</choice>era: <rs ana="JUN_KAME">hun
@@ -286,6 +264,7 @@
 	<abbr>q’</abbr>
 	<expan>que</expan>
 	</choice>te mor
+<<<<<<< HEAD
 =======
 		<abbr>q’</abbr>
 			<expan>que</expan>
@@ -432,6 +411,8 @@
 			<expan>que</expan>
 				</choice> te mor
 >>>>>>> master
+=======
+>>>>>>> parent of 3e5d6da... Merge branch 'master' into amb8fk
 <lb n="35" />dío.? y así todos díxeron sus nombres
 <lb n="36" />y todos se manífestaron entre sí mes –
 <lb n="37" />mos, díçíendo sus nombres.

@@ -52,7 +52,7 @@
 <lb n="2" />re macuxecamic xavi xere vtz
 <lb n="3" /><rs ana="pájaro">quivach</rs>xeel vloc pabalami ha
 <lb n="4" />naquipa quichi e vinaquil apa
-<lb n="5" />qui xepe vi xeqha ri  co –
+<lb n="5" />qui xepe vi <rs ana="XIBALBA">xeqha</rs> ri  co –
 <lb n="6" />nohel
 <lb n="7" />Cate chic xeoc chupam eae
 <lb n="8" />hun ha chieae, xa vtu que l eae v
@@ -62,7 +62,7 @@
 <lb n="12" />reta cahauaxic huzuc ta que –
 <lb n="13" />camic chupan ri, que icou vi ma–
 <lb n="14" />ui que he xavi 
-<lb n="15" />cazach quiqux rumal.
+<lb n="15" /><rs ana="XIBALBA">cazach quiqux</rs> rumal.
 <lb n="16" />Xecoh chic chupan zotzin ha
 <lb n="17" />vtu que l zotz chupam chiha
 <lb n="18" />hun ha chi camazotz nimac chi –
@@ -90,10 +90,10 @@
 <lb n="40" />carah ril vloc vzaquiric ca –
 <lb n="41" />te puch ta xcupix vholom
 <lb n="42" />rumal cama zotz cupul chi
-<lb n="43" />canoc vnimal ri hu
-<lb n="44" />chalic ma mixzaquiric xqha –
-<lb n="45" />ri que mahabi chic chi –
-<lb n="46" />zilobic rihupacha
+<lb n="43" />canoc vnimal ri  <rs ana="JUN_JUNAJPU">hu
+<lb n="44" />chalic</rs> ma mixzaquiric <rs ana="XBALAMKE">xqha –
+<lb n="45" />ri</rs> <expan>que</expan> mahabi chic chi –
+<lb n="46" />zilobic ri<rs ana="JUN_JUNAJPU">hupacha</rs>
 <lb n="47" />maxaon mi xbec hunahpu
 
 
@@ -107,57 +107,40 @@
 </num>
 </note>                
 <p>                 
-<lb n="32" />todos, y estaban alegres de a que lla, mas
+<lb n="32" />todos, y estaban alegres de a<expan>que</expan>lla, mas
 <lb n="32" />no murieron. y así mesmo salíeron bu –
 <lb n="32" />enos de la casa de los tígres. y díxeron
-<lb n="32" />los de el ínfíerno: <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> genero de hombres
+<lb n="32" />los de el ínfíerno: <choice><abbr>q’</choice></abbr>
+<expan>que</expan> genero de hombres
 <lb n="32" />soys, de adonde venístís?
 <note rend="margin-left">del cert="high"><num rend>
 <lb n="32" />yluego los metíeron en una casa de
 <lb n="32" />fuego, donde solo auía fuego, y no fu –
-<lb n="32" />eron abrasados por el fuego, síno <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>her –
+<lb n="32" />eron abrasados por el fuego, síno <choice><abbr>q’</choice></abbr>
+<expan>que</expan>her –
 <lb n="32" />mosos, y Buenos quando amaneçío, y
-<lb n="32" />esto que rían <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>allí luego muríesen
+<lb n="32" />esto <expan>que</expan>rían <choice><abbr>q’</choice></abbr>
+<expan>que</expan>allí luego muríesen
 <lb n="32" />dentro de el fuego; pero lo sobrepu –
 <lb n="32" />jaron así mesmo. y con esto estaban
 <lb n="32" />desesperados los de el ínfíerno
 <note rend="margin-left">del cert="high"><num rend>
 <lb n="32" />y luego otra vez en la casa de los mu –
-<lb n="32" />rçíelagos, <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>
-que no auía mas <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>murçíe –
+<lb n="32" />rçíelagos, <choice><abbr>q’</choice></abbr>
+<expan>que</expan>no auía mas <choice><abbr>q’</choice></abbr>
+<expan>que</expan>murçíe –
 <lb n="32" />lagos dentro, vna casa de murçíe –
 <lb n="32" />lagos tomadores grandes brutos, así
 <lb n="32" />como chaquítzan, era su matanza.
-<lb n="32" /><choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>luego pereçían los <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>llegan asu pre
+<lb n="32" /><choice><abbr>q’</choice></abbr>
+<expan>que</expan>luego pereçían los <choice><abbr>q’</choice></abbr>
+<expan>que</expan>llegan asu pre
 <lb n="32" />sençía. y allí estuvíeron dentro; pe –
 <lb n="32" />ro durmíeron dentro desus çerua –
 <lb n="32" />tanas, y no fueron mordídos por los
 <lb n="32" />muerçíelagos, y allí se estuuíeron por
-<lb n="32" />vn grande murçíelago, <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>vino de
+<lb n="32" />vn grande murçíelago, <choice><abbr>q’</choice></abbr>
+<expan>que</expan>vino de
 <lb n="32" />el çíelo, y se manifesto quando fue
 <lb n="32" />hecho por el y tomaron consejo, toda
 <lb n="32" />la noche estaban rebolenado, y de
@@ -165,28 +148,20 @@ que no auía mas <choice>
 <lb n="32" />díçíendo toda la noche. y parando
 <lb n="32" />todos, ya ní vno de los murçíelagos
 <lb n="32" />se mouía, estauan pegados ala pun
-<lb n="32" />ta de la zeruatana y díxo <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>
+<lb n="32" />ta de la zeruatana y <rs ana="XBALAMKE">díxo</rs> <choice><abbr>q’</choice></abbr>
+<expan>que</expan>
 <lb n="32" />a . ya aura quízas amane—
-<lb n="32" />çído, veamos, y que ríendo ver sa
+<lb n="32" />çído, veamos, y <expan>que</expan>ríendo ver sa
 <lb n="32" />co la cabeza <rs ana="WOK">ala</rs> a dela çerua –
-<lb n="32" />tana, que ría ver sí auía amane—
+<lb n="32" />tana, <expan>que</expan>ría ver sí auía amane—
 <lb n="32" />çído, y luego fue cortada la cabe –
-<lb n="32" />za por el qamazotz. que dando solo
-<lb n="32" />el cuerpo de díxo el otro
-<lb n="32" /><choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>ay a amanecido dixo <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>
-<lb n="32" />pero nose meneaba hunahpu. <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>
+<lb n="32" />za por el qamazotz. <expan>que</expan>dando solo
+<lb n="32" />el cuerpo de . 464. díxo el otro
+<lb n="32" /><choice><abbr>q’</choice></abbr>
+<expan>que</expan>ay a amanecido <rs ana="XBALAMKE">dixo</rs> <choice><abbr>q’</choice></abbr>
+<expan>que</expan>
+<lb n="32" />pero nose meneaba hunahpu. <choice><abbr>q’</choice></abbr>
+<expan>que</expan>
 <lb n="32" />hasído esto díxo sí seacaído hun
 <lb n="32" />ahpu
 <note rend="margin-left">del cert="high"><num rend>
