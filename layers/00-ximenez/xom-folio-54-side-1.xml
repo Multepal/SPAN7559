@@ -47,9 +47,9 @@
 <lb n="3" />puch qui tzucun quicoon ahpop ah –
 <lb n="4" />pop camha xcazan quitinamit eni –
 <lb n="5" />ma ahauab enaual tac vinac na
-<lb n="6" />ual ahau ri cucumatz cotuha, na
-<lb n="7" />ual ahau ri cucumatz cotuha na –1
-<lb n="8" />ual ahau curi quicab, cauizimah
+<lb n="6" />ual ahau <rs ana="QUKUMATZ_PERSONA">ri cucumatz</rs> <rs ana="KOTUJA">cotuha</rs>, na
+<lb n="7" />ual ahau <rs ana="QUKUMATZ_PERSONA">ri cucumatz</rs> <rs ana="KOTUJA">cotuha</rs> na –1
+<lb n="8" />ual ahau curi <rs ana="KIKAB">quicab</rs>, <rs ana="KAWISIMAJ">cauizimah</rs>
 <lb n="9" />quetaam vve labal chibanic calah
 <lb n="10" />chiquivach ronohel chiquilo vve
 <lb n="11" />camic vve vaih, vve qhaoh chiba –
@@ -65,7 +65,7 @@
 <lb n="21" />cahbic quecatonic. o xlahu vi –
 <lb n="22" />nac chic quimevahibal o xlahu –
 <lb n="23" />chicut quecahbic quecatonic chu –
-<lb n="24" />vach tohil chuvach pu qui cabauil
+<lb n="24" />vach <rs ana="TOJIL">tohil</rs> chuvach pu qui cabauil
 <lb n="25" />xa tulul, xa ahache, xa quinom,
 <lb n="26" />chiquiloo are mahabi va chiquive –
 <lb n="27" />eh vve cut vclahuh vinac quecah –
@@ -86,8 +86,8 @@
 <lb n="42" />chicah vacute quitzonobal chu –
 <lb n="43" />vach qui cabauil taquetzononic
 <lb n="44" />are cut roqueh qui quxva
-<lb n="45" rend="indent"/><hi rend="large">A</hi>carroc atoob vquih, athu –
-<lb n="46" />racan, at vquxcah vleu, at ya –
+<lb n="45" rend="indent"/><hi rend="large">A</hi>carroc atoob vquih, <rs ana="UKUX_KAJ">athu –
+<lb n="46" />racan</rs>, <rs ana="UKUX_KAJ_UKUX_ULEW">at vquxcah vleu</rs>, at ya –
 <lb n="47" />olrech eanal raxal atpuyaol     
                 </p>
                 </div>
@@ -104,8 +104,8 @@
 <lb n="2" />y a este <abbr>S<hi rend="superscript">or.</hi></abbr> le sustentaban, y alímentabá
 <lb n="3" />los prínçípales, <abbr>q’</abbr>ganaron los pueblos. y
 <lb n="4" />eran grandes <abbr>SS<hi rend="superscript">es.</hi></abbr> y adeuínos, y naua –
-<lb n="5" />el Rey cucumatz. y cotuha. y tam –
-<lb n="6" />bíen nauales el quícab, y el cauízímah
+<lb n="5" />el <rs ana="QUKUMATZ_PERSONA">Rey cucumatz</rs>. y <rs ana="KOTUJA">cotuha</rs>. y tam –
+<lb n="6" />bíen nauales el <rs ana="KIKAB">quícab</rs>, y el <rs ana="KAWISIMAJ">cauízímah</rs>
 <lb n="7" />y sabían si auía Guerra, y les estaba pa –
 <lb n="8" />tente, y todo lo veían, osí auía mortan –
 <lb n="9" />dad, o hambre, o pleíto, y todo losabí –
@@ -121,7 +121,7 @@
 <lb n="19" />oraçíon postrados, y quemaban copal
 <lb n="20" />y treçe hombres ayunaban, y otros
 <lb n="21" />treçe estaban en oraçíon, y quema –
-<lb n="22" />ban copal ante el ídolo tohíl. y solo
+<lb n="22" />ban copal ante el ídolo <rs ana="TOJIL">tohíl</rs>. y solo
 <lb n="23" />zapotes, matasanos, y jocotes, era lo <abbr>q’</abbr>
 <lb n="24" />comían. y no comían tortillas, ora fuesen
 <lb n="25" />díeçysíete los hombres <abbr>q’</abbr>estaban oran –
@@ -144,8 +144,8 @@
 <lb/>
 <lb/>
 <lb/>
-<lb n="42" />O tu hermosura de su día; tu huracan, tu
-<lb n="43" />corazón de el çíelo, y tíerra, tu dador de
+<lb n="42" />O tu hermosura de su día; tu <rs ana="UKUX_KAJ">huracan</rs>, tu
+<lb n="43" /><rs ana="UKUX_KAJ_UKUX_ULEW">corazón de el çíelo, y tíerra</rs>, tu dador de
 <lb n="44" />nuestra gloría, y tu tambíen dador de—
                 </p>
                 </div>

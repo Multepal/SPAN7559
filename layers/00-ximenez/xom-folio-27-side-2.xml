@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi que l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -50,13 +50,13 @@
 <p>                 
 <lb n="1" />hupacha mi xabano mahabi
 <lb n="2" />chic chizilabic xaquichico –
-<lb n="3" />zoz chic cate cut rs ana="XBALAMKE">xuquixbih</rs>
+<lb n="3" />zoz chic cate cut <rs ana="XBALAMKE">xuquixbih</rs>
 <lb n="4" />que araroc mixcaya
 <lb n="5" />yan xcha cut chila cut xbe
 <lb n="6" />colana vi vholom chuvi hom
 <lb n="7" />xavi vtzih hun came vvcub
 <lb n="8" />came que quicot curi xibal –
-<lb n="9" />ba conohel rumal rs ana="JUN_JUNAJPU">vholom</rs>
+<lb n="9" />ba conohel rumal vholom
 <lb n="10" />cate cut ta xutac
 <lb n="11" />chicop ronohel ziz, ae. rono –
 <lb n="12" />hel chuti chicop, nima chicop
@@ -76,7 +76,7 @@
 <lb n="26" />ca v xambe canahoc ri tziz coc
 <lb n="27" />xbe vcama cubalcatih chutzam
 <lb n="28" />capetic are cut xoc <rs ana="pájaro">halvac</rs> hi –
-<lb n="29" />bal vholom hunahpu <rs ana="CHAMIYABAQ">libahchi</rs>
+<lb n="29" />bal vholom hunahpu libahchi
 <lb n="30" />xcotox vbaca v <rs ana="pájaro">vac</rs> tzatz chi ahna –
 <lb n="31" />oh chicah xpevi arev quxcah
 <lb n="32" />huracan xulcoloc xuluculoc chi –
@@ -108,12 +108,26 @@
 </note>                
 <p>                 
 <lb n="1" />como ha sído esto, y ya nose mouía, sí –
-<lb n="2" />no <choice><abbr>q’</choice></abbr>
-<expan>que</expan> se estaba acostado, y luego se
-<lb n="3" />espanto el <rs ana="XBALAMKE"><expan>que</expan>. ay ay desdí –
+<<<<<<< HEAD
+<lb n="2" />no 
+<choice>
+=======
+<lb n="2" />no <choice>
+>>>>>>> origin/amb8fk
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> se estaba acostado, y luego se
+<lb n="3" />espanto el que ay ay desdí –
 <lb n="4" />chado, esto díxo. y luego fueron apo –
-<lb n="5" />ner la cabeza al cementerío, <choice><abbr>q’</choice></abbr>
-<expan>que</expan>así
+<<<<<<< HEAD
+<lb n="5" />ner la cabeza al cementerío, 
+<choice>
+=======
+<lb n="5" />ner la cabeza al cementerío, <choice>
+>>>>>>> origin/amb8fk
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>así
 <lb n="6" />lo auía ordenado el hun came. y v –
 <lb n="7" />ucub came. y alegrandose todos los
 <lb n="8" />de el ínfierno por la cabeza de hun
@@ -122,8 +136,8 @@
 <lb n="11" />chícos , y grandes ala noche, y ala
 <lb n="12" />mañana les díxo os he llamado pa
 <lb n="13" />señalaros vuestra comída acada
-<lb n="14" />vno, esto les díxo <rs ana="XBALAMKE"><expan>que</expan> tomad
-<lb n="15" />vuestra comída. y díxeron <rs ana="HERO_TWINS"> es –
+<lb n="14" />vno, esto les díxo que tomad
+<lb n="15" />vuestra comída. y díxeron es –
 <lb n="16" />ta bíen y entonces se fueron a tomar
 <lb n="17" />cada vno posesíon de sucomída qdo
 <lb n="18" />todos se fueron amanífestar vnos
@@ -131,31 +145,54 @@
 <lb n="20" />da, otros yeruas, otros píedras, otros
 <lb n="21" />tíerra díferentes fueron las co mídas
 <lb n="22" />delos animals grandes, y chícos. y
-<lb n="23" />alo vltímo víno. y a vno <choice><abbr>q’</choice></abbr>
-<expan>que</expan>era tortu –
-<lb n="24" />ga <choice><abbr>q’</choice></abbr>
-<expan>que</expan> venía dando bueltas atomar
+<<<<<<< HEAD
+<lb n="23" />alo vltímo víno. y a vno 
+<choice>
+=======
+<lb n="23" />alo vltímo víno. y a vno <choice>
+>>>>>>> origin/amb8fk
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>era tortu –
+<lb n="24" />ga <choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice> venía dando bueltas atomar
 <lb n="25" />sucomída, y este se puso en lugar
-<lb n="26" />de la cabeza de <rs ana="JUN_JUNAJPU">, y luego
+<lb n="26" />de la cabeza de , y luego
 <lb n="27" />le labraron los ojos, y muchíssímos
 <lb n="28" />sabíos víníeron de el çíelo, víno
-<lb n="29" />el corazon de el çíelo<rs ana="UKUX_KAJ">, y víno huracan.
+<lb n="29" />el corazon de el çíelo, y víno huracan.
 <lb n="30" />ala casa de los murçíelagos víníe –
 <lb n="31" />ron, no así nomas se acabo su cara
 <lb n="33" />estubo muy Buena, y salío muy her –
 <lb n="34" />mosa, y así mesmo hablo. y quando
-<lb n="35" /><expan>que</expan>ría ya amanezer, <choice><abbr>q’</choice></abbr>
-<expan>que</expan>seaclaraba
+<<<<<<< HEAD
+<lb n="35" />que ría ya amanezer, 
+<choice>
+=======
+<lb n="35" />que ría ya amanezer, <choice>
+>>>>>>> origin/amb8fk
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>seaclaraba
 <lb n="36" />el çíelo, le fue dícho al çopílote, otra. –
 <lb n="37" />uez señala, y lobsureze, y díxo el
 <lb n="38" />víejo estabíen, y luego se obscureçío
 <lb n="39" />quarto uezes señalo el víejo zopílo –
-<lb n="40" />te, y así dícen agora <choice><abbr>q’</choice></abbr>
-<expan>que</expan>raya el zo –
+<<<<<<< HEAD
+<lb n="40" />te, y así dícen agora 
+<choice>
+=======
+<lb n="40" />te, y así dícen agora <choice>
+>>>>>>> origin/amb8fk
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>raya el zo –
 <lb n="41" />pílote quando quíere amanezer.
 <lb n="42" />y así estaua fresco quando se empezo
 <lb n="43" />ahazer, síestara bueno díxeron quan
-<lb n="44" />do sea hecho el <rs ana="JUN_JUNAJPU">, y díxo bíen
+<lb n="44" />do sea hecho el , y díxo bíen
 <lb n="45" />estara, y así mesmo sera gueso su ca –
 <lb n="46" />beza, y fuehecho como sífuera su
 <note rend="margin-left">del cert="high"><num rend>

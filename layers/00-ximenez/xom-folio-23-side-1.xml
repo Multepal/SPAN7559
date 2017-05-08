@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi quel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -40,25 +40,24 @@
         <body>
             <div type="page" n="23.1" xml:id="xom-f23-s1">
                 <div type="col" n="23.1.1" xml:lang="quc">
-<note place="margin-left" type="pagination">
-<num rend="large">
-<hi rend=handwriting;color:pencil">23
-</hi>
-</num>
-</note>
-<p>              
-<lb n="1" /><rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs>co
+                <p>
+<<<<<<< HEAD
+
+=======
+<!-- Nicole, please check all of these ana tags. There seem to be some problems with pajaro, vbaca, etc.-->
+>>>>>>> origin/amb8fk
+<lb n="1" /><rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs> co
 <lb n="2" />naquipa ri choquic petaca vvb xe
 <lb n="3" />qha.
-<lb n="4" />Catepuch xquivvbah ri <rs ana="pájaro">vac</rs> qui –
+<lb n="4" <rend="indent"/><hi rend="large">/>C</hi>atepuch xquivvbah ri <rs ana="pájaro">vac</rs> qui –
 <lb n="5" />cutacal <rs ana="CHAMIYABAQ">vbaca</rs> vvb <rs ana="CHAMIYABAQ">chu baca</rs> <rs ana="pájaro">vvach</rs>
-<lb n="6" />chizetet1 cut xcah vloc quitzih vi
+<lb n="6" />chizetet cut xcah vloc quitzih vi
 <lb n="7" />cut xbe qui chapa cate xquitzo
 <lb n="8" />noh hupa apetic xeqha chire
 <lb n="9" /><rs ana="pájaro">vac</rs> qoba nutzih chinupam chi –
-<lb n="10" />cunah tana <rs ana="CHAMIYABAQ">vbacanu </rs> <rs ana="pájaro">vach</rs> nabe
+<lb n="10" />cunah tana <rs ana="CHAMIYABAQ">vbacanu</rs> <rs ana="pájaro">vach</rs> nabe
 <lb n="11" />cate cut xchinbÿh xqhari <rs ana="pájaro">vac</rs>
-<lb n="12" />vtz bala xeqhacut cate x<expan>que</expan>lezah
+<lb n="12" />vtz bala xeqhacut cate xquelezah
 <lb n="13" />zcaquin rih quic ri chaah xquicoh
 <lb n="14" />chiv <rs ana="pájaro">vach</rs> ri <rs ana="pájaro">vac</rs> lotz quic xubi –
 <lb n="15" />naah cumal libah chicut xca –
@@ -72,100 +71,146 @@
 <lb n="23" />chax chicuri xpec qobanutzih
 <lb n="24" />chinupam xqha chicuri xpec
 <lb n="25" />catecut xutih xabic mahabixu –
-<lb n="26" />xauah xe que he chucah2 vchi
+<lb n="26" />xauah xe que he chuca<hi rend="superscript">x</hi><del rend="overstrike">g</del>h vchi
 <lb n="27" />chutiho xmaqo vi chuxauah ca –
-<lb n="28" />tecut xrah chaiic3 cumal qaho –
+<lb n="28" />tecut xrah chaii<unclear reason="illegible">'</unclear>c cumal qaho –
 <lb n="29" />lab at qaxtoq xuqhaxic ta xiic
 <lb n="30" />v varachac chiacan, xcahcu ba –
 <lb n="31" />quil v varachac chi acan xutih
-<lb n="32" />chicut xa que he chucha<del rend="overstrike">b4</del> vchi
+<lb n="32" />chicut xa que he chuch<del rend="overstrike">u</del><corr>a</corr>b vchi
 <lb n="33" />cate puch xquirech vchi ri xp –
 <lb n="34" />ec xrech cumal qaholab xqui –
 <lb n="35" />zucuh pu chi xa cu nacal ri uq
 <lb n="36" />chuvare xpec xapuchi qo vi
-<lb n="37" />mana xubico xa<expan>que</expan>he xabic
-<lb n="38" /><expan>que</expan>he cut xchacatah vi rixpec
+<lb n="37" />mana xubico xaquehe xabic
+<lb n="38" />quehe cut xchacatah vi rixpec
 <lb n="39" />maui calah <rs ana="pájaro">vvach</rs> recha xqui –
 <lb n="41" />yao ruq maui qhanic xa v
 <lb n="42" />chac cumatz xuxic. catzihonoc
 <lb n="43" />xuqhax chicut ri uq ta xubÿh
 <lb n="44" />cu vtzih caqha ri ivatit ixqa –
-<lb n="45" />holab he ataca xultacol<expan>que</expan>
-<lb n="46" />cape <rs ana="XIBALBA">chi</rs> vzamahel 
-<lb n="47" />hun came, vvcubcame vvcu –
-<lb n="48" />bix <expan>que</expan>vlic varal cohchaah –
+<lb n="45" />holab he ataca xultacolque
+<lb n="46" />cape chi <rs ana="XIBALBA">xibalba</rs> vzamahel 
+<lb n="47" /><rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcubcame</rs> <rs ana="WUQUB_KAKIX">vvcu –
+<lb n="48" />bix</rs> quevlic varal cohchaah –
              </p>  
                 </div>
-                <div type="col" n="23.1.2" xml:lang="spa">
+                
+<div type="col" n="23.1.2" xml:lang="spa">
 <note place="margin-right" type="pagination">
 <num rend="large">
-<hi rend=handwriting;color:pencil">23
+<hi rend="handwriting;color:pencil">23
 </hi>
 </num>
 </note>               
 <p>             
 <lb n="1" />andose, y enllagando el <rs ana="pájaro">vac</rs>, canto <rs ana="pájaro">vac</rs> go
 <lb n="2" /><rs ana="pájaro">vac</rs> go. dixo su canto. (esto áquí eata el
-<lb n="3" /><rs ana="pájaro">vac</rs> y díxeron: <choice><abbr>q’</choice></abbr>
-<expan>que</expan>canto es este? vengá las ceruatanas.
+<lb n="3" /><rs ana="pájaro">vac</rs> y díxeron: 
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>canto es este? vengá las ceruatanas.
 <lb n="4" />y luego tírandole con la zeruatana al <rs ana="pájaro">vac</rs>
-<lb n="5" />fue el vodo<expan>que</expan> derecho, y le dío en la níña
+<lb n="5" />fue el vodo que derecho, y le dío en la níña
 <lb n="6" />deel ojo, y dando bueltas cayo, y luego lo –
-<lb n="7" />cogíeron, y le preguntaron a<choice><abbr>q’</choice></abbr>
-<expan>que</expan> aueís ve –
+<lb n="7" />cogíeron, y le preguntaron a
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>aueís ve –
 <lb n="8" />nído aquí le díxeron al <rs ana="pájaro">vac</rs>. y dixo el a
 <lb n="9" />quí en mí víentre traígo vn mensage. cu –
 <lb n="10" />radme prímero mí ojo, y luego lo dire
-<lb n="11" />esta bíen <rs ana="HERO_TWINS">díxeron</rs>, y sacando vn poquí –
+<lb n="11" />esta bíen díxeron <rs ana="DOS_MUCHACHOS">ellos</rs>, y sacando vn poquí –
 <lb n="12" />to de el vle de la pelota, lo pusíeron en
 <lb n="13" />el ojo del <rs ana="pájaro">vac</rs>. y llamase lotzquíc, esto es
-<lb n="14" />vle de çíerta yerua) por<choice><abbr>q’</choice></abbr>
-<expan>que</expan> luego curo el
+<lb n="14" />vle de çíerta yerua) por
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>luego curo el
 <lb n="15" />ojo de el paxaro, y míro bíen despu –
-<lb n="16" />es <choice><abbr>q’</choice></abbr>
-<expan>que</expan> fue curado: y le dixeron ea dí lo<choice><abbr>q’</choice></abbr>
-<expan>que</expan>
+<lb n="16" />es 
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>fue curado: y le dixeron ea dí lo
+				<choice>
+				<abbr>q’</abbr>
+					<expan>que</expan>
+						</choice>
 <lb n="17" />traes, y luego bomíto vna gran culebra,
 <lb n="18" />y le díxeron ala culebra, ea dí luego, lo
-<lb n="19" /><choice><abbr>q’</choice></abbr>
-<expan>que</expan>traes, le fue dícho ala culebra, y dixo
+<lb n="19" />
+<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>traes, le fue dícho ala culebra, y dixo
 <lb n="20" />esta bíen, y luego bomíto el sapo. y le fue
-<lb n="21" />dícho <choice><abbr>q’</choice></abbr>
-<expan>que</expan> es tu mensage, dílo luego, y díxo
+<lb n="21" />dícho 
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es tu mensage, dílo luego, y díxo
 <lb n="22" />el aquí en mí víentre traígo el mensa –
 <lb n="13" />ge, y luego probro, a bomítar, y no vo –
-<lb n="24" />mito; sino <choice><abbr>q’</choice></abbr>
-<expan>que</expan> como baba se le puso <rs ana="WOK">la</rs> a.
+<lb n="24" />mito; sino 
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>como baba se le puso <rs ana="WOK">la</rs> a.
 <lb n="25" />y probaba, a bomítar, y no podia, y loquí –
 <lb n="26" />vsíeron aporrear, los muchachos, y le díxe –
 <lb n="27" />ron: soís un mentíroso engañador, y le
 <lb n="28" />díeron con el píe enlas nalgas, y probo –
-<lb n="29" />otra vez, y no mas <choice><abbr>q’</choice></abbr>
-<expan>que</expan>baba haçía en la vo –
+<lb n="29" />otra vez, y no mas 
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>baba haçía en la vo –
 <lb n="30" />ca. y entonçes los muchachos le abrí –
 <lb n="31" />eron <rs ana="WOK">la</rs> a, y se la rasgaron, y busca –
 <lb n="32" />ron en <rs ana="WOK">la</rs> a, y hallaron pegado al
-<lb n="33" />píojo en los díentes de el sapo, por<choice><abbr>q’</choice></abbr>
-<expan>que</expan> se –
-<lb n="34" />le<expan>que</expan>do en <rs ana="WOK">la</rs> a, y no lo trago, y así
-<lb n="35" />haze como <choice><abbr>q’</choice></abbr>
-<expan>que</expan>bomíta, y fue despreçíado
+<lb n="33" />píojo en los díentes de el sapo, por
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>se –
+<lb n="34" />le quedo en <rs ana="WOK">la</rs> a, y no lo trago, y así
+<lb n="35" />haze como 
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>bomíta, y fue despreçíado
 <lb n="36" />y Ganado, y no tíene comída señalada
-<lb n="37" />ní se la señalaron, y no corre, sino <choice><abbr>q’</choice></abbr>
-<expan>que</expan>es
+<lb n="37" />ní se la señalaron, y no corre, sino 
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>es
 <lb n="38" />carne delas culebras. eá habla le
 <lb n="39" />díxeron al píojo, y entonçes dío su
-<lb n="40" />mensage. diçe <rs ana="IXMUKANE">vuestra</rs>  mu –
-<lb n="41" />chachos, ó <rs ana="mançebos">los gémelos divinos</rs> ana amaldos
-<lb n="42" />por<choice><abbr>q’</choice></abbr>
-<expan>que</expan> víníeron mensageros de el ín –
-<lb n="43" />fíerno, de hun came, y vucubcame
-<lb n="44" /><choice><abbr>q’</choice></abbr>
-<expan>que</expan>vayan alla dentro de síete días
-<lb n="45" /><choice><abbr>q’</choice></abbr>
-<expan>que</expan>vengan aca dícen jugaremos a la
+<lb n="40" />mensage. diçe <rs ana="IXMUKANE">vuestra abuela</rs>  mu –
+<lb n="41" />chachos, ó <rs ana="DOS_MUCHACHOS">los gémelos divinos</rs> ana amaldos
+<lb n="42" />por
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>víníeron mensageros de el ín –
+<lb n="43" />fíerno</rs>, de <rs ana="JUN_KAME">hun came</rs>, y <rs ana="WUQUB_KAME">vucubcame</rs>
+<lb n="44" />
+	<choice>
+		<abbr>q’</abbr>
+			<expan>que</expan>
+				</choice>vayan alla dentro de síete días
+<lb n="45" />
+	<choice>
+		<abbr>q’</abbr>
+		<expan>que</expan>
+			</choice>vengan aca dícen jugaremos a la
 <lb n="46" />pelota
-                
+</p>
                 </div>
             </div>
         </body>
