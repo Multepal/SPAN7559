@@ -28,7 +28,7 @@
             </head>
             <body>
             <div id="page-header">
-                <h1>El Popol Wuh</h1>
+                <h1>El Popol Wuj</h1>
             </div>
             <div id="page-content">
             <xsl:apply-templates select="//tei:text//tei:body"/>
@@ -51,7 +51,7 @@
 
     <xsl:template match="tei:div[@xml:lang='spa']">
         <div class="spa" xml:lan="spa">
-            <b>Espanol</b>
+            <b>Español</b>
             <xsl:apply-templates />
         </div>
     </xsl:template>
