@@ -65,9 +65,9 @@
 <lb n="15" />be, paraxa hoc. mata habi quil
 <lb n="16" />qui tzap acuil avitzmal. vtztah
 <lb n="17" />qui qoheic tzucul ave cool ave
-<lb n="18" />chachi chavach at vqux cah at
-<lb n="19" />vqux vleu at pizom, eaeal at
-<lb n="20" />puchtohil aulix hacavitz pam
+<lb n="18" />chachi chavach at <rs ana="UKUX_KAJ">vqux cah</rs> at
+<lb n="19" /><rs ana="UKUX_ULEW">vqux vleu</rs> at pizom, eaeal at
+<lb n="20" />puchtohil <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">hacavitz</rs> pam
 <lb n="21" />cah v pam vleu. cah tzuc cahxu –
 <lb n="22" />cut. xa ta zac, xata amac vpam
 <lb n="23" />chachi chavach at cabauil. que
@@ -86,9 +86,9 @@
 <lb n="36" />mac ruq ronohel queche vinac
 <lb n="37" />xahun xel vi vxetzih vxepu –
 <lb n="38" />ch tzucuh cooh xavi vxe tzih. xa
-<lb n="39" />ui quehe cubano tamub ilocab
-<lb n="40" />ruq rabinaleb eaechequeleb, ah –
-<lb n="41" />q,iquinaha, tuhalaha, vchabaha
+<lb n="39" />ui quehe cubano <rs ana="TAMUB">tamub</rs> <rs ana="ILOKAB">ilocab</rs>
+<lb n="40" />ruq <rs ana="RABINALEB">rabinaleb</rs> <rs ana="KAQCHIKELEB">eaechequeleb</rs>, <rs ana="AJTZIKINAJA">ah –
+<lb n="41" />q,iquinaha</rs>, <rs ana="TUJAL_JA">tuhalaha</rs>, <rs ana="UCHABAJA">vchabaha</rs>
 <lb n="42" />xahun cheel vi ta xiquin chiri
 <lb n="43" />queche ta chuban rech ronohel
 <lb n="44" />mana xaqui quehe xeahauaric
@@ -118,9 +118,9 @@
 <lb n="16" />ínfortunío, nídesdraçia desus cauellos.
 <lb n="17" />ojala sean buenas sus costumbre de
 <lb n="18" />tus sustentados, y alímentados en tu pre –
-<lb n="19" />sençía, tu coraçon de el çíelo, tu corazon
-<lb n="20" />de la tierra, tu emboltorío de gloría, tu
-<lb n="21" />tohíl auílix, hacauítz víentre de el ci –
+<lb n="19" />sençía, <rs ana="UKUX_KAJ">tu coraçon de el çíelo</rs>, <rs ana="UKUX_ULEW">tu corazon
+<lb n="20" />de la tierra</rs>, tu emboltorío de gloría, tu
+<lb n="21" /><rs ana="TOJIL">tohíl</rs> <rs ana="AWILIX">auílix</rs>, <rs ana="JAQAWITZ">hacauítz</rs> víentre de el ci –
 <lb n="22" />elo, víentre de la tíerra, y quatro esquí –
 <lb n="23" />nas. solo aya paz en tu presençía tu ído –
 <lb n="24" />lo. así deçían los <abbr>SS<hi rend="superscript">es.</hi></abbr>quando ayu –
@@ -137,11 +137,11 @@
 <lb n="35" />se remudaban a lleuar asus hombres
 <lb n="36" />el pueblo; con todos los quiches. y vno
 <lb n="37" />fue el prínçípío de las tradíçíones, y 
-<lb n="38" />el prínçípío de los alimentados, y sus - <!-- I added this line manually from the facsimile, please correct the spelling -->
+<lb n="38" />el prínçípío de los alímentados, y sus - 
 <lb n="39" />tentados. y así mesmo haçían los del
-<lb n="40" />tamub, e ílocab, con los de rabínal,
-<lb n="41" />y eaechiqueles, y los de q,íquínaha,
-<lb n="42" />y de tuhala, y vchabaho, y vno era
+<lb n="40" /><rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>, con los de <rs ana="RABINALEB">rabínal</rs>,
+<lb n="41" />y <rs ana="KAQCHIKELEB">eaechiqueles</rs>, y los de <rs ana="AJTZIKINAJA">q,íquínaha</rs>,
+<lb n="42" />y de <rs ana="TUJAL_JA">tuhala</rs>, y <rs ana="UCHABAJA">vchabaho</rs>, y vno era
 <lb n="43" />el estílo de todos, en el quiche, y no así
 <lb n="44" />nomas reynaron y nose ímbídíaron
 <lb n="45" />los dones de su alímentador, y sus tenta –
