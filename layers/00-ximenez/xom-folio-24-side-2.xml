@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi que l, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -52,8 +52,8 @@
 <lb n="2" />are chibÿn vbi hun ri cubul chu –
 <lb n="3" />xucut mahabi hunoc xquizach v
 <lb n="4" />bi quiz quibÿh quibi conohel ta
-<lb n="5" />xeti rumal rizmal <rs ana="pájaro">vach</rs> 
-<lb n="6" />vchecxumich vbic mana qui –
+<lb n="5" />xeti rumal rizmal <rs ana="pájaro"></rs>vach 
+<lb n="6" /><rs ana="JUN_JUNAJPU">vchecxumich</rs> vbic mana qui –
 <lb n="7" />tzih xan ri xetiovic xbetao quibi
 <lb n="8" />conohel rumal xba –
 <lb n="9" />lan<expan>que</expan>. cate cut ta xebec ta xe
@@ -73,23 +73,18 @@
 <lb n="23" />nic ronohel xquiz cut <rs ana="pájaro">vvach</rs>
 <lb n="24" />xquibÿh vbi ronohel mahabi
 <lb n="25" />hun xquizach vbi are ta xaha –
-<lb n="26" />uax chi que ch mata xcanai vbi
+<lb n="26" />uax chi<expan>que</expan>ch mata xcanai vbi
 <lb n="27" />cumal quixcu vloc xevqhax cut
 <lb n="28" />xerah oc chuvi tem macu xcah
 <lb n="29" />maui are catem ri xa chohim a
-<lb n="30" />bah ri tem  <rs ana="XIBALBA">xeqhaxba</rs>
+<lb n="30" />bah ri tem  <rs ana="JUN_JUNAJPU">xeqhaxba</rs>
 <lb n="31" />lan que mavi xechacatahic vtz
 <lb n="32" />vbala. xabahix paha xevchaxic
 <lb n="33" />cate cut ta xeoc pa que eumaha
 <lb n="34" />maui xechacatahic chiri are
-<<<<<<< HEAD
-<lb n="35" />nabe vtihobal ri xeoc
-<lb n="36" />vi que chi cu vticaric quichaca
-=======
-<lb n="35" />nabe vtihobal</rs> ri xeoc
+<lb n="35" />nabe <rs ana="XIBALBA">vtihobal</rs> ri xeoc
 <lb n="36" />vi <expan>que</expan>chi cu vticaric quichaca
->>>>>>> origin/amb8fk
-<lb n="37" />tahic ta chic chiquiqux
+<lb n="37" />tahic ta <rs ana="XIBALBA">chic chiquiqux</rs>
 <lb n="38" />nabe xeoc pa que eumaha
 <lb n="39" />cate cut ta xbeyaoc quichah
 <lb n="40" />catilovic ta xoponic ruq huhun
@@ -104,117 +99,72 @@
 
                 </div>
                 <div type="col" n="24.2.2" xml:lang="spa">
-                
+
 <note place="margin-right" type="pagination">
 <num rend="large">
 <hi rend=handwriting;color:pencil">24
 </hi>
 </num>
-</note>               
-<p>                
+</note>
+<p>
 <lb n="1" />de cada vno. y se llamaba holoman, vno
-<lb n="2" />
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>estaba asentado en vn vanco. y nín –
-<lb n="3" />gun</rs> nombre de  perdío, síno 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> todos
+<lb n="2" /><choice><abbr>q’</choice></abbr>
+<expan>que</expan>estaba asentado en vn vanco. y <rs ana="HERO_TWINS">nín –
+<lb n="3" />gun</rs> nombre de  perdío, síno <choice><abbr>q’</choice></abbr>
+<expan>que</expan> todos
 <lb n="4" />díxeron sus nombres todos quando fueron
 <lb n="5" />mordidos por vn pelo de la cara de <rs ana="JUN_JUNAJPU">hun
 <lb n="6" />ahpu</rs>, y no era mosquito en realídad
-<lb n="7" />de verdad, el 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> fue a morderlos atodos
-<lb n="8" />y 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> fue a oyrlos nombres detodos por
-<lb n="9" />. y luego 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>llegaron alla á
+<lb n="7" />de verdad, el <choice><abbr>q’</choice></abbr>
+<expan>que</expan> fue a morderlos atodos
+<lb n="8" />y <choice><abbr>q’</choice></abbr>
+<expan>que</expan> fue a <rs ana="JUN_JUNAJPU">oyrlos</rs> nombres detodos por
+<lb n="9" />. y luego <choice><abbr>q’</choice></abbr>
+<expan>que</expan>llegaron alla á
 <lb n="10" />donde estaban los de el ínfíerno, les díxe –
-<lb n="11" />ron ea saludad aese <abbr type="superscription">Sor.</abbr> y no era <abbr type="superscription">Sor.</abbr>síno
+<lb n="11" />ron ea saludad aese <abbr type="superscription">Sor.</choice></abbr> y no era <abbr type="superscription">Sor.</choice></abbr>síno
 <lb n="12" />vna estatua para engalñarlos, y díxe
 <lb n="13" />ron ese solo es estatua. y saludandolos a
-<lb n="14" />los demas díxeron <abbr type="superscription">Sor.</abbr> came, <abbr type="superscription">Sor.</abbr> vucub
-<lb n="15" />came, <abbr type="superscription">Sor.</abbr>, <abbr type="superscription">Sor.</abbr> cuchumaquíc,
-<<<<<<< HEAD
-<lb n="16" /><abbr type="superscription">Sor.</abbr> <rs ana="AJAL_PUJ">ahal puh</rs>, 
-<abbr type="superscription">Sor.</choice></abbr> 
-<rs ana="AJAL_QANA">ahal cana</rs>, <abbr type="superscription">Sor.</choice></abbr> chamía
-<lb n="17" /><rs ana="CHAMIYABAQ">baca</rs>, <abbr type="superscription">Sor.</abbr> 
-<rs ana="CHAMIYAJOLOM">chamía holom</rs>, 
-<abbr type="superscription">Sor.</abbr> xíc, <abbr type="superscription">Sor.</abbr> 
-<rs ana="PATAN">pa –
-<lb n="18" />tan</rs>, <abbr type="superscription">Sor.</abbr> quíc re, <abbr type="superscription">Sor.</abbr> 
-quic rí eae. esto di –
-=======
+<lb n="14" />los demas díxeron Sor. came, Sor. vucub
+<lb n="15" />came, Sor., Sor. cuchumaquíc,
 <lb n="16" />Sor. <rs ana="AJAL_PUJ">ahal puh</rs>, <abbr type="superscription">Sor.</choice></abbr> <rs ana="AJAL_QANA">ahal cana</rs>, <abbr type="superscription">Sor.</choice></abbr> chamía
-<lb n="17" /><rs ana="CHAMIYABAQ">baca</rs>, <abbr type="superscription">Sor.</abbr> chamía holom<rs ana="CHAMIYAJOLOM">, <abbr type="superscription">Sor.</abbr> xíc, <abbr type="superscription">Sor.</abbr> pa –
-<lb n="18" />tan<rs ana="PATAN">, <abbr type="superscription">Sor.</abbr> quíc re, <abbr type="superscription">Sor.</abbr> quic rí eae. esto di –
->>>>>>> origin/amb8fk
+<lb n="17" /><rs ana="CHAMIYABAQ">baca</rs>, Sor. chamía holom<rs ana="CHAMIYAJOLOM">, Sor. xíc, Sor. pa –
+<lb n="18" />tan<rs ana="PATAN">, Sor. quíc re, Sor. quic rí eae. esto di –
 <lb n="19" />xeron quando llegaron a todos les ma –
 <lb n="20" />manífestaron sus caras, y díxeron sus
 <lb n="21" />nombres de todos, y de nonguno perdí –
 <lb n="22" />eron, ní olvídaron su nombre. y esto
-<lb n="23" />era lo 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> rían de  
-				<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> no supíesen
-<lb n="24" />sus nombres, ní fuesen hallados por
+<lb n="23" />era lo <choice><abbr>q’</choice></abbr>
+<expan>que</expan><expan>que</expan> <rs ana="HERO_TWINS">rían</rs> de  <choice><abbr>q’</choice></abbr>
+<expan>que</expan> no supíesen
+<lb n="24" />sus nombres, ní fuesen <rs ana="HERO_TWINS">hallados</rs> por
 <lb n="25" />. ea veníd les díxeron, y los quísí –
 <lb n="26" />eron sentar en vn asíento, pero no quí –
-<lb n="27" />síeron, no es este nuestro asíento por
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>
-<lb n="28" />es píedra ardíendo ese asíento díxe –
-<lb n="29" />ron, y que, y no pu –
+<lb n="27" />síeron, no es este nuestro asíento por<choice><abbr>q’</choice></abbr>
+<expan>que</expan>
+<lb n="28" />es píedra ardíendo ese asíento <rs ana="JUN_JUNAJPU">díxe –
+<lb n="29" />ron</rs>, y <expan>que</expan>, y no pu –
 <lb n="30" />díeron ser vençídos. esta bíen <rs ana="HERO_TWINS">díxeron</rs>
 <lb n="31" />, ea vayan a la casa les fue dícho, y
 <lb n="32" />luego entraron en vna casa obscura, y no
 <lb n="33" />fueron allí vencídos. y este era el primer
 <lb n="34" />castígo de el ínfíerno. allí entraron, y allí
-<lb n="35" /><rs ana="HERO_TWINS">pensaban</rs> los de el ínfíerno empezar a
+<lb n="35" />pensaban los de el ínfíerno <rs ana="HERO_TWINS"></rs>empezar a
 <lb n="36" />tríunfar de . allí entraron en la
 <lb n="37" />casa obscura., y luego les fueron a dar su
-<lb n="38" />ocote, 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>relumbraba, quando llegaron.
+<lb n="38" />ocote, <choice><abbr>q’</choice></abbr>
+<expan>que</expan>relumbraba, quando llegaron.
 <lb n="39" />y también a cada vno vn zígarro por los
 <lb n="40" />mensageros de huncame, y les díxeron
 <lb n="41" />este vuestro ocote, y estos zígarros, dízen
-<lb n="42" />los Señores ala mañana los aueís de bol –
+<lb n="42" />los <expan>Señores</expan> ala mañana los aueís de bol –
 <lb n="43" />ber, auíendo ardído toda la noche. esto
 <lb n="44" />díxeron los mensageros, quando lle –
 <lb n="45" />garon. esta bíen <rs ana="HERO_TWINS">díxeron</rs>, y no en
-<lb n="46" />cendíeron el ocote, síno
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>pusíeron otra
-<lb n="47" />cosa colorada en lugar de el ocote, 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> fue
+<lb n="46" />cendíeron el ocote, síno <choice><abbr>q’</choice></abbr>
+<expan>que</expan>pusíeron otra
+<lb n="47" />cosa colorada en lugar de el ocote, <choice><abbr>q’</choice></abbr>
+<expan>que</expan> fue
 
 
                 </div>

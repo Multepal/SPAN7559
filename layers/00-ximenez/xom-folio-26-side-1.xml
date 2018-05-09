@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi que l, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil,
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -19,8 +19,8 @@
                 </note>
             </notesStmt>
             <sourceDesc>
-                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 26, Side 1. 
-                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio 26, Side 1.
+                Based on the transcription provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at
                 https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
                 https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
             </sourceDesc>
@@ -40,21 +40,21 @@
         <body>
             <div type="page" n="26.1" xml:id="xom-f26-s1">
                 <div type="col" n="26.1.1" xml:lang="quc">
-                
+
 <note place="margin-left" type="pagination">
 <num rend="large">
 <hi rend=handwriting;color:pencil">26
 </hi>
 </num>
 </note>
-<p>                 
+<p>
 <lb n="1" />zanic che que nzanic quixpetoc, quix –
 <lb n="2" />oho ivonohel ohicama ronohel
 <lb n="3" /><rs ana="pájaro">vvach</rs> cotzih qui chacon ahauab
 <lb n="4" />vtzbala xeqha cut ta xebe curi
 <lb n="5" />zanic conohel e camol cotzih v
 <lb n="6" />ticon hun came, vvcub came mier
-<lb n="7" />oc cut chiquipixabah chahal qui
+<lb n="7" />oc cut <rs ana="XIBALBA">chiquipixabah</rs> chahal qui
 <lb n="8" />cotzih ri  laqui chivila ca
 <lb n="9" />cotzih miya chi elecaxic rumal
 <lb n="10" />ri mi xecachaco ri qaholab a
@@ -99,69 +99,34 @@
 
                 </div>
                 <div type="col" n="26.1.2" xml:lang="spa">
-                
+
 <note place="margin-right" type="pagination">
 <num rend="large">
 <hi rend=handwriting;color:pencil">26
 </hi>
 </num>
-</note>               
-<p>                
+</note>
+<p>
 <lb n="1" />çían, hormígas de nauajas, hormígas de
 <lb n="2" />el muslo, venid. veníd todas. andad to –
-<<<<<<< HEAD
-<lb n="3" />das, y traed todas las flores 
-<choice>
-=======
-<lb n="3" />das, y traed todas las flores <choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> hemos pro –
-<lb n="4" />metído a los Señores esta bíen díxeron
+<lb n="3" />das, y traed todas las flores <choice><abbr>q’</choice></abbr>
+<expan>que</expan> hemos pro –
+<lb n="4" />metído a los <expan>Señores</expan> esta bíen díxeron
 <lb n="5" />ellas, y fueron todas las hormígas a tra –
 <lb n="6" />er las flores de la guerta de hun came,
 <lb n="7" />y vucub came. y antes auían auísa –
-<<<<<<< HEAD
-<lb n="8" />do al
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> guardaba las flores de los deel
-<lb n="9" />ínfíerno no permítaís sacar flores por
-<choice>
-=======
-<lb n="8" />do al<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> guardaba las flores de los deel
-<lb n="9" />ínfíerno no permítaís sacar flores por<choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>
+<lb n="8" />do al<choice><abbr>q’</choice></abbr>
+<expan>que</expan> guardaba las flores de los deel
+<lb n="9" />ínfíerno no permítaís sacar flores por<choice><abbr>q’</choice></abbr>
+<expan>que</expan>
 <lb n="10" />hemos Ganado a los dos <rs ana="mançebos">los gémelos divinos</rs>, y de
-<<<<<<< HEAD
-<lb n="11" />adonde les pueden venír las flores 
-<choice>
-=======
-<lb n="11" />adonde les pueden venír las flores <choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>les
+<lb n="11" />adonde les pueden venír las flores <choice><abbr>q’</choice></abbr>
+<expan>que</expan>les
 <lb n="12" />hemos Ganado, no ay de adonde les
 <lb n="13" />vengan. velad toda la noche. esta bíen
 <lb n="14" />díxeron los guardas. y no síntíeron
-<<<<<<< HEAD
-<lb n="15" />los guardas de la guerta, síno 
-<choice>
-=======
-<lb n="15" />los guardas de la guerta, síno <choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> en val –
+<lb n="15" />los guardas de la guerta, síno <choice><abbr>q’</choice></abbr>
+<expan>que</expan> en val –
 <lb n="16" />de estaban dando grítos en las ramas
 <lb n="17" />de los arboles de laguerta. y de allí
 <lb n="18" />víno su modo de cantar, y abler, el vno
@@ -170,84 +135,35 @@
 <lb n="21" />puhuyu, y así se llamá, puhuyu los dos
 <lb n="22" />guardas de la guerta de hun came, y
 <lb n="23" />vucub came, y no sentían a las hor –
-<<<<<<< HEAD
-<lb n="24" />mígas 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>sacaban las flores 
-				<choice>
-=======
-<lb n="24" />mígas <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>sacaban las flores <choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>guarda –
+<lb n="24" />mígas <choice><abbr>q’</choice></abbr>
+<expan>que</expan>sacaban las flores <choice><abbr>q’</choice></abbr>
+<expan>que</expan>guarda –
 <lb n="25" />ban, y venían como dando bueltas, y
 <lb n="26" />meneandose con las flores de sobre
 <lb n="27" />los palos, y con los díentes alzaban las
-<<<<<<< HEAD
-<lb n="28" />
-<choice>
-=======
-<lb n="28" /><choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>estaban debaxo de los palos; y los
-<lb n="29" /><choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice> guardaban, estaban dando grítos
-<<<<<<< HEAD
-<lb n="30" />y no sentían los díentes 
-<choice>
-=======
-<lb n="30" />y no sentían los díentes <choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>les comían
+<lb n="28" /><choice><abbr>q’</choice></abbr>
+<expan>que</expan>estaban debaxo de los palos; y los
+<lb n="29" /><choice><abbr>q’</choice></abbr>
+<expan>que</expan> guardaban, estaban dando grítos
+<lb n="30" />y no sentían los díentes <choice><abbr>q’</choice></abbr>
+<expan>que</expan>les comían
 <lb n="31" />las alas, y las colas y así lleuaban las
-<<<<<<< HEAD
-<lb n="32" />flores 
-<choice>
-=======
-<lb n="32" />flores <choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>cogían con los díentes y muy
+<lb n="32" />flores <choice><abbr>q’</choice></abbr>
+<expan>que</expan>cogían con los díentes y muy
 <lb n="33" />en breve llenaron las quarto hícaras
 <lb n="34" />de flores, y estaban colmadas quan –
 <lb n="35" />do amanezío. y luego víníeron los
 <lb n="36" />mensageros, embíados, y díxeron, dí –
-<<<<<<< HEAD
-<lb n="37" />çe el Sor 
-<choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>luego vengan lo 
-				<choice>
-=======
-<lb n="37" />çe el Sor <choice>
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>luego vengan lo <choice>
->>>>>>> origin/amb8fk
-		<abbr>q’</abbr>
-			<expan>que</expan>
-				</choice>hemos
+<lb n="37" />çe el Sor <choice><abbr>q’</choice></abbr>
+<expan>que</expan>luego vengan lo <choice><abbr>q’</choice></abbr>
+<expan>que</expan>hemos
 <lb n="38" />Ganado. esta bíen <rs ana="HERO_TWINS">díxeron</rs>, y se
 <lb n="39" />fueron lleuando las quarto hícaras
 <lb n="40" />colmadas de flores, y llegaron
-<lb n="41" />ante el Sor y los Señores tomaron las
+<lb n="41" />ante el Sor y los <expan>Señores</expan> tomaron las
 <lb n="42" />flores, muy suaves. y así fueron ven
 <lb n="43" />çídos los de el ínfíerno. y solas hor –
-<lb n="44" />mígas <rs ana="HERO_TWINS">embíaron</rs> <rs ana="HERO_TWINS">los gémelos divinos</rs>
+<lb n="44" />mígas <rs ana="HERO_TWINS">embíaron</rs> <rs ana="HERO_TWINS">los <rs ana="mançebos">los gémelos divinos</rs></rs>
 <lb n="45" />y en una noche cortaron las hormigas
 <lb n="46" />las flores, y las pusieron en las hícaras
 <lb n="47" />y así se espantaron todos los deelínfí –

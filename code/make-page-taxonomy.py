@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env
 
 import glob, re
 #from lxml import etree

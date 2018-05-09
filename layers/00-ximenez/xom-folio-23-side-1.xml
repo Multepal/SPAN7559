@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchi quel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchi<expan>que</expan>l, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
             </titleStmt>
@@ -41,21 +41,17 @@
             <div type="page" n="23.1" xml:id="xom-f23-s1">
                 <div type="col" n="23.1.1" xml:lang="quc">
                 <p>
-<<<<<<< HEAD
-
-=======
 <!-- Nicole, please check all of these ana tags. There seem to be some problems with pajaro, vbaca, etc.-->
->>>>>>> origin/amb8fk
-<lb n="1" /><rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs> co
+<lb n="1" /><rs ana="pájaro">vac</rs> co, <rs ana="pájaro">vac</rs> co xqha roquibal <rs ana="pájaro">vac</rs>co
 <lb n="2" />naquipa ri choquic petaca vvb xe
 <lb n="3" />qha.
-<lb n="4" <rend="indent"/><hi rend="large">/>C</hi>atepuch xquivvbah ri <rs ana="pájaro">vac</rs> qui –
+<lb n="4" rend="indent"/><hi rend="large">/>C</hi>atepuch xquivvbah ri <rs ana="pájaro">vac</rs> qui –
 <lb n="5" />cutacal <rs ana="CHAMIYABAQ">vbaca</rs> vvb <rs ana="CHAMIYABAQ">chu baca</rs> <rs ana="pájaro">vvach</rs>
 <lb n="6" />chizetet cut xcah vloc quitzih vi
 <lb n="7" />cut xbe qui chapa cate xquitzo
 <lb n="8" />noh hupa apetic xeqha chire
 <lb n="9" /><rs ana="pájaro">vac</rs> qoba nutzih chinupam chi –
-<lb n="10" />cunah tana <rs ana="CHAMIYABAQ">vbacanu</rs> <rs ana="pájaro">vach</rs> nabe
+<lb n="10" />cunah tana <rs ana="CHAMIYABAQ">vbacanu </rs> <rs ana="pájaro">vach</rs> nabe
 <lb n="11" />cate cut xchinbÿh xqhari <rs ana="pájaro">vac</rs>
 <lb n="12" />vtz bala xeqhacut cate xquelezah
 <lb n="13" />zcaquin rih quic ri chaah xquicoh
@@ -136,6 +132,7 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>fue curado: y le dixeron ea dí lo
+				
 				<choice>
 				<abbr>q’</abbr>
 					<expan>que</expan>
@@ -143,7 +140,7 @@
 <lb n="17" />traes, y luego bomíto vna gran culebra,
 <lb n="18" />y le díxeron ala culebra, ea dí luego, lo
 <lb n="19" />
-<choice>
+	<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>traes, le fue dícho ala culebra, y dixo
@@ -160,6 +157,7 @@
 		<abbr>q’</abbr>
 			<expan>que</expan>
 				</choice>como baba se le puso <rs ana="WOK">la</rs> a.
+				<!-- Nicole, please check all of your find + replace. It looks like text has been deleted for wok and "la" ¿¿¿???. -->
 <lb n="25" />y probaba, a bomítar, y no podia, y loquí –
 <lb n="26" />vsíeron aporrear, los muchachos, y le díxe –
 <lb n="27" />ron: soís un mentíroso engañador, y le
@@ -197,7 +195,7 @@
 	<choice>
 		<abbr>q’</abbr>
 			<expan>que</expan>
-				</choice>víníeron mensageros de el ín –
+				</choice>víníeron mensageros de <rs ana="XIBALBA">el ín –
 <lb n="43" />fíerno</rs>, de <rs ana="JUN_KAME">hun came</rs>, y <rs ana="WUQUB_KAME">vucubcame</rs>
 <lb n="44" />
 	<choice>
